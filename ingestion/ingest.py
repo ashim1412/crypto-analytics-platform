@@ -68,10 +68,32 @@ def load_to_bronze(df: pd.DataFrame) -> None:
     print(f"[{datetime.now(timezone.utc)}] done — {row_count} total rows in bronze")
 
 
+GOLD_TABLES = [
+    "crypto_market_summary",
+    "crypto_volume_trends",
+    "crypto_price_movement",
+    "crypto_market_dominance",
+    "top_gainers_losers",
+]
+EXPORTS_DIR = "data/exports"
+
+
+def export_gold_tables() -> None:
+    os.makedirs(EXPORTS_DIR, exist_ok=True)
+    conn = duckdb.connect(DB_PATH)
+    for table in GOLD_TABLES:
+        df = conn.execute(f"SELECT * FROM main_gold.{table}").df()
+        out_path = os.path.join(EXPORTS_DIR, f"{table}.csv")
+        df.to_csv(out_path, index=False)
+        print(f"exported {table}.csv")
+    conn.close()
+
+
 def main():
     raw_data = fetch_market_data()
     df = prepare_dataframe(raw_data)
     load_to_bronze(df)
+    export_gold_tables()
 
 
 if __name__ == "__main__":
