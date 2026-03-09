@@ -1,0 +1,7 @@
+crypto_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/crypto_warehouse.duckdb"
+      threads: 1

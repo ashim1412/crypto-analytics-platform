@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_coin_markets
+    columns:
+      - name: coin_id
+        data_tests:
+          - not_null
+          - unique:
+              where: "snapshot_date = (SELECT MAX(snapshot_date) FROM main_silver.stg_coin_markets)"
+      - name: price_usd
+        data_tests:
+          - not_null
+      - name: market_cap_usd
+        data_tests:
+          - not_null
+      - name: market_rank
+        data_tests:
+          - not_null
+      - name: volume_24h_usd
+        data_tests:
+          - not_null
+
+  - name: crypto_market_summary
+    columns:
+      - name: coin_id
+        data_tests:
+          - not_null
+          - unique
+      - name: market_rank
+        data_tests:
+          - not_null
+      - name: price_usd
+        data_tests:
+          - not_null
