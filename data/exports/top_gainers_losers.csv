@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,34.25,13.07885,gainer,1,2026-03-09
-bittensor,Bittensor,tao,192.8,8.91079,gainer,2,2026-03-09
-zcash,Zcash,zec,214.55,8.09349,gainer,3,2026-03-09
-pi-network,Pi Network,pi,0.218046,6.85542,gainer,4,2026-03-09
-sui,Sui,sui,0.935608,6.17095,gainer,5,2026-03-09
-uniswap,Uniswap,uni,3.9,6.14351,gainer,6,2026-03-09
-bonk,Bonk,bonk,5.86e-06,5.11239,gainer,7,2026-03-09
-pepe,Pepe,pepe,3.32e-06,5.05425,gainer,8,2026-03-09
-avalanche-2,Avalanche,avax,9.26,4.53729,gainer,9,2026-03-09
-ethereum,Ethereum,eth,2017.39,4.23357,gainer,10,2026-03-09
-kite-2,Kite,kite,0.286968,-6.52134,loser,1,2026-03-09
-canton-network,Canton,cc,0.145354,-4.71485,loser,2,2026-03-09
-rain,Rain,rain,0.0086393,-2.73833,loser,3,2026-03-09
-official-trump,Official Trump,trump,2.92,-2.51229,loser,4,2026-03-09
-stable-2,​​Stable,stable,0.02926467,-2.1714,loser,5,2026-03-09
-xdce-crowd-sale,XDC Network,xdc,0.03194717,-1.8356,loser,6,2026-03-09
-a7a5,A7A5,a7a5,0.01239981,-1.5084,loser,7,2026-03-09
-htx-dao,HTX DAO,htx,1.59e-06,-1.5035,loser,8,2026-03-09
-tron,TRON,trx,0.285659,-1.2845,loser,9,2026-03-09
-pax-gold,PAX Gold,paxg,5104.4,-1.22146,loser,10,2026-03-09
+hyperliquid,Hyperliquid,hype,34.13,11.62363,gainer,1,2026-03-10
+zcash,Zcash,zec,222.89,11.55502,gainer,2,2026-03-10
+stable-2,​​Stable,stable,0.02855217,8.8372,gainer,3,2026-03-10
+morpho,Morpho,morpho,2.03,7.74264,gainer,4,2026-03-10
+sui,Sui,sui,0.952041,6.79715,gainer,5,2026-03-10
+bonk,Bonk,bonk,6e-06,6.61416,gainer,6,2026-03-10
+uniswap,Uniswap,uni,3.96,6.56027,gainer,7,2026-03-10
+kite-2,Kite,kite,0.296718,5.94414,gainer,8,2026-03-10
+sky,Sky,sky,0.076787,5.91096,gainer,9,2026-03-10
+avalanche-2,Avalanche,avax,9.45,5.90994,gainer,10,2026-03-10
+official-trump,Official Trump,trump,2.93,-1.94967,loser,1,2026-03-10
+memecore,MemeCore,m,1.49,-1.70712,loser,2,2026-03-10
+canton-network,Canton,cc,0.147651,-1.63693,loser,3,2026-03-10
+pi-network,Pi Network,pi,0.215165,-1.40143,loser,4,2026-03-10
+a7a5,A7A5,a7a5,0.01239828,-1.29384,loser,5,2026-03-10
+htx-dao,HTX DAO,htx,1.59e-06,-1.28807,loser,6,2026-03-10
+tron,TRON,trx,0.286073,-1.12282,loser,7,2026-03-10
+figure-heloc,Figure Heloc,figr_heloc,1.042,-0.71835,loser,8,2026-03-10
+usual-usd,Usual USD,usd0,0.993993,-0.44173,loser,9,2026-03-10
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.11,-0.08339,loser,10,2026-03-10

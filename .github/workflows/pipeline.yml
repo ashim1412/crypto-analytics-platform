@@ -41,6 +41,9 @@ jobs:
         working-directory: dbt_project
         run: dbt test
 
+      - name: Export Gold tables
+        run: python ingestion/export.py
+
       - name: Commit exports
         run: |
           git config user.name "github-actions[bot]"
