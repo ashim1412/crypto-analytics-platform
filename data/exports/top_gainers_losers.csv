@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.02936884,13.77316,gainer,1,2026-03-10
-hyperliquid,Hyperliquid,hype,34.07,9.98881,gainer,2,2026-03-10
-zcash,Zcash,zec,217.67,7.00665,gainer,3,2026-03-10
-sky,Sky,sky,0.076884,5.41618,gainer,4,2026-03-10
-kite-2,Kite,kite,0.301118,5.28402,gainer,5,2026-03-10
-jupiter-exchange-solana,Jupiter,jup,0.172758,4.70651,gainer,6,2026-03-10
-render-token,Render,render,1.44,4.24327,gainer,7,2026-03-10
-bitcoin,Bitcoin,btc,70053.0,3.78436,gainer,8,2026-03-10
-decred,Decred,dcr,29.59,3.7154,gainer,9,2026-03-10
-sui,Sui,sui,0.942912,3.44247,gainer,10,2026-03-10
-memecore,MemeCore,m,1.48,-4.41693,loser,1,2026-03-10
-official-trump,Official Trump,trump,2.9,-3.63501,loser,2,2026-03-10
-filecoin,Filecoin,fil,0.928152,-3.39203,loser,3,2026-03-10
-htx-dao,HTX DAO,htx,1.58e-06,-1.60172,loser,4,2026-03-10
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.096318,-0.99332,loser,5,2026-03-10
-monero,Monero,xmr,344.45,-0.91454,loser,6,2026-03-10
-tron,TRON,trx,0.286016,-0.89723,loser,7,2026-03-10
-bitcoin-cash,Bitcoin Cash,bch,444.76,-0.86446,loser,8,2026-03-10
-internet-computer,Internet Computer,icp,2.48,-0.81933,loser,9,2026-03-10
-figure-heloc,Figure Heloc,figr_heloc,1.042,-0.71835,loser,10,2026-03-10
+zcash,Zcash,zec,225.84,9.05547,gainer,1,2026-03-10
+hyperliquid,Hyperliquid,hype,34.71,8.92359,gainer,2,2026-03-10
+jupiter-exchange-solana,Jupiter,jup,0.174714,7.32144,gainer,3,2026-03-10
+render-token,Render,render,1.48,6.46196,gainer,4,2026-03-10
+hash-2,Provenance Blockchain,hash,0.01383965,6.43015,gainer,5,2026-03-10
+stellar,Stellar,xlm,0.159921,6.37646,gainer,6,2026-03-10
+shiba-inu,Shiba Inu,shib,5.72e-06,6.35655,gainer,7,2026-03-10
+stable-2,​​Stable,stable,0.02925746,6.15655,gainer,8,2026-03-10
+sui,Sui,sui,0.964637,5.92127,gainer,9,2026-03-10
+sky,Sky,sky,0.077611,5.30269,gainer,10,2026-03-10
+memecore,MemeCore,m,1.43,-6.57307,loser,1,2026-03-10
+midnight-3,Midnight,night,0.055468,-2.86627,loser,2,2026-03-10
+official-trump,Official Trump,trump,2.9,-2.53285,loser,3,2026-03-10
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.089,-2.52216,loser,4,2026-03-10
+filecoin,Filecoin,fil,0.929112,-1.7014,loser,5,2026-03-10
+a7a5,A7A5,a7a5,0.01254729,-0.75862,loser,6,2026-03-10
+htx-dao,HTX DAO,htx,1.58e-06,-0.72532,loser,7,2026-03-10
+figure-heloc,Figure Heloc,figr_heloc,1.042,-0.71835,loser,8,2026-03-10
+bitcoin-cash,Bitcoin Cash,bch,447.1,-0.69349,loser,9,2026-03-10
+the-open-network,Toncoin,ton,1.34,-0.52391,loser,10,2026-03-10
