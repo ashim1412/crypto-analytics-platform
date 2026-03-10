@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,225.84,9.05547,gainer,1,2026-03-10
-hyperliquid,Hyperliquid,hype,34.71,8.92359,gainer,2,2026-03-10
-jupiter-exchange-solana,Jupiter,jup,0.174714,7.32144,gainer,3,2026-03-10
-render-token,Render,render,1.48,6.46196,gainer,4,2026-03-10
-hash-2,Provenance Blockchain,hash,0.01383965,6.43015,gainer,5,2026-03-10
-stellar,Stellar,xlm,0.159921,6.37646,gainer,6,2026-03-10
-shiba-inu,Shiba Inu,shib,5.72e-06,6.35655,gainer,7,2026-03-10
-stable-2,​​Stable,stable,0.02925746,6.15655,gainer,8,2026-03-10
-sui,Sui,sui,0.964637,5.92127,gainer,9,2026-03-10
-sky,Sky,sky,0.077611,5.30269,gainer,10,2026-03-10
-memecore,MemeCore,m,1.43,-6.57307,loser,1,2026-03-10
-midnight-3,Midnight,night,0.055468,-2.86627,loser,2,2026-03-10
-official-trump,Official Trump,trump,2.9,-2.53285,loser,3,2026-03-10
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.089,-2.52216,loser,4,2026-03-10
-filecoin,Filecoin,fil,0.929112,-1.7014,loser,5,2026-03-10
-a7a5,A7A5,a7a5,0.01254729,-0.75862,loser,6,2026-03-10
-htx-dao,HTX DAO,htx,1.58e-06,-0.72532,loser,7,2026-03-10
-figure-heloc,Figure Heloc,figr_heloc,1.042,-0.71835,loser,8,2026-03-10
-bitcoin-cash,Bitcoin Cash,bch,447.1,-0.69349,loser,9,2026-03-10
-the-open-network,Toncoin,ton,1.34,-0.52391,loser,10,2026-03-10
+render-token,Render,render,1.51,8.90811,gainer,1,2026-03-10
+sky,Sky,sky,0.080782,7.58898,gainer,2,2026-03-10
+bittensor,Bittensor,tao,205.34,6.66777,gainer,3,2026-03-10
+stellar,Stellar,xlm,0.161104,6.54361,gainer,4,2026-03-10
+shiba-inu,Shiba Inu,shib,5.8e-06,6.50195,gainer,5,2026-03-10
+jupiter-exchange-solana,Jupiter,jup,0.17148,6.01553,gainer,6,2026-03-10
+aave,Aave,aave,112.29,5.79497,gainer,7,2026-03-10
+avalanche-2,Avalanche,avax,9.74,5.03516,gainer,8,2026-03-10
+hash-2,Provenance Blockchain,hash,0.01358736,4.76068,gainer,9,2026-03-10
+dogecoin,Dogecoin,doge,0.095834,4.72638,gainer,10,2026-03-10
+filecoin,Filecoin,fil,0.889068,-6.27246,loser,1,2026-03-10
+memecore,MemeCore,m,1.47,-4.79702,loser,2,2026-03-10
+midnight-3,Midnight,night,0.054895,-3.36607,loser,3,2026-03-10
+the-open-network,Toncoin,ton,1.32,-2.32714,loser,4,2026-03-10
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.089,-1.30776,loser,5,2026-03-10
+quant-network,Quant,qnt,62.51,-1.09824,loser,6,2026-03-10
+kite-2,Kite,kite,0.282269,-1.09792,loser,7,2026-03-10
+internet-computer,Internet Computer,icp,2.46,-0.99001,loser,8,2026-03-10
+bitcoin-cash,Bitcoin Cash,bch,446.65,-0.88983,loser,9,2026-03-10
+official-trump,Official Trump,trump,2.9,-0.81833,loser,10,2026-03-10
