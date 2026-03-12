@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-internet-computer,Internet Computer,icp,2.61,6.59336,gainer,1,2026-03-11
-hyperliquid,Hyperliquid,hype,36.18,6.30488,gainer,2,2026-03-11
-pi-network,Pi Network,pi,0.234594,4.19489,gainer,3,2026-03-11
-stable-2,​​Stable,stable,0.02952514,3.2655,gainer,4,2026-03-11
-hash-2,Provenance Blockchain,hash,0.0139937,2.9906,gainer,5,2026-03-11
-render-token,Render,render,1.55,2.92203,gainer,6,2026-03-11
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,2.74983,gainer,7,2026-03-11
-rain,Rain,rain,0.0090234,2.65979,gainer,8,2026-03-11
-arbitrum,Arbitrum,arb,0.101602,2.55952,gainer,9,2026-03-11
-bitcoin-cash,Bitcoin Cash,bch,457.5,2.52423,gainer,10,2026-03-11
-midnight-3,Midnight,night,0.050151,-8.54307,loser,1,2026-03-11
-kite-2,Kite,kite,0.262877,-6.854,loser,2,2026-03-11
-zcash,Zcash,zec,212.39,-4.71311,loser,3,2026-03-11
-decred,Decred,dcr,28.42,-3.70829,loser,4,2026-03-11
-bittensor,Bittensor,tao,199.21,-3.2099,loser,5,2026-03-11
-memecore,MemeCore,m,1.44,-2.95923,loser,6,2026-03-11
-jupiter-exchange-solana,Jupiter,jup,0.166468,-2.91739,loser,7,2026-03-11
-aptos,Aptos,apt,0.942908,-2.45696,loser,8,2026-03-11
-dogecoin,Dogecoin,doge,0.094207,-1.73385,loser,9,2026-03-11
-hedera-hashgraph,Hedera,hbar,0.094829,-1.62099,loser,10,2026-03-11
+internet-computer,Internet Computer,icp,2.6,8.12043,gainer,1,2026-03-12
+hyperliquid,Hyperliquid,hype,36.65,6.38086,gainer,2,2026-03-12
+canton-network,Canton,cc,0.154691,4.07099,gainer,3,2026-03-12
+render-token,Render,render,1.53,3.83373,gainer,4,2026-03-12
+bitcoin-cash,Bitcoin Cash,bch,457.98,2.56513,gainer,5,2026-03-12
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.098399,2.49547,gainer,6,2026-03-12
+polkadot,Polkadot,dot,1.52,2.42934,gainer,7,2026-03-12
+cosmos,Cosmos Hub,atom,1.84,2.3306,gainer,8,2026-03-12
+ethena,Ethena,ena,0.105469,2.2364,gainer,9,2026-03-12
+the-open-network,Toncoin,ton,1.34,2.06088,gainer,10,2026-03-12
+midnight-3,Midnight,night,0.0475042,-10.0677,loser,1,2026-03-12
+decred,Decred,dcr,27.68,-4.60768,loser,2,2026-03-12
+pi-network,Pi Network,pi,0.223222,-3.80261,loser,3,2026-03-12
+zcash,Zcash,zec,213.9,-2.82793,loser,4,2026-03-12
+okb,OKB,okb,95.28,-2.41976,loser,5,2026-03-12
+dogecoin,Dogecoin,doge,0.092812,-1.78155,loser,6,2026-03-12
+quant-network,Quant,qnt,62.42,-1.58318,loser,7,2026-03-12
+rain,Rain,rain,0.00886879,-1.54397,loser,8,2026-03-12
+pax-gold,PAX Gold,paxg,5151.61,-1.23513,loser,9,2026-03-12
+tether-gold,Tether Gold,xaut,5115.1,-1.18476,loser,10,2026-03-12
