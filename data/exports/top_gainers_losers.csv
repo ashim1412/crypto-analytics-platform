@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,4.18,46.61198,gainer,1,2026-03-13
-render-token,Render,render,1.85,15.73231,gainer,2,2026-03-13
-bittensor,Bittensor,tao,239.41,12.82052,gainer,3,2026-03-13
-midnight-3,Midnight,night,0.052846,12.18972,gainer,4,2026-03-13
-algorand,Algorand,algo,0.094482,8.91885,gainer,5,2026-03-13
-bonk,Bonk,bonk,6.5e-06,8.69909,gainer,6,2026-03-13
-pudgy-penguins,Pudgy Penguins,pengu,0.00770557,8.51457,gainer,7,2026-03-13
-ethena,Ethena,ena,0.113551,8.43455,gainer,8,2026-03-13
-pi-network,Pi Network,pi,0.27656,8.38879,gainer,9,2026-03-13
-pepe,Pepe,pepe,3.59e-06,7.58508,gainer,10,2026-03-13
-hash-2,Provenance Blockchain,hash,0.01317291,-3.58893,loser,1,2026-03-13
-canton-network,Canton,cc,0.145562,-2.94725,loser,2,2026-03-13
-a7a5,A7A5,a7a5,0.0122619,-2.60085,loser,3,2026-03-13
-morpho,Morpho,morpho,1.92,-2.11739,loser,4,2026-03-13
-figure-heloc,Figure Heloc,figr_heloc,1.008,-1.81948,loser,5,2026-03-13
-the-open-network,Toncoin,ton,1.31,-1.49567,loser,6,2026-03-13
-pax-gold,PAX Gold,paxg,5111.5,-1.11756,loser,7,2026-03-13
-tether-gold,Tether Gold,xaut,5079.08,-1.06523,loser,8,2026-03-13
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.65565,loser,9,2026-03-13
-hyperliquid,Hyperliquid,hype,37.24,-0.54718,loser,10,2026-03-13
+official-trump,Official Trump,trump,3.75,34.44396,gainer,1,2026-03-13
+render-token,Render,render,1.81,12.59627,gainer,2,2026-03-13
+bittensor,Bittensor,tao,231.29,8.87453,gainer,3,2026-03-13
+algorand,Algorand,algo,0.092739,6.11514,gainer,4,2026-03-13
+stable-2,​​Stable,stable,0.03073494,5.93424,gainer,5,2026-03-13
+midnight-3,Midnight,night,0.0496979,4.86933,gainer,6,2026-03-13
+arbitrum,Arbitrum,arb,0.103253,4.26637,gainer,7,2026-03-13
+ethena,Ethena,ena,0.109481,4.0233,gainer,8,2026-03-13
+virtual-protocol,Virtuals Protocol,virtual,0.733198,3.97204,gainer,9,2026-03-13
+ethereum-classic,Ethereum Classic,etc,8.5,3.4727,gainer,10,2026-03-13
+pi-network,Pi Network,pi,0.22858,-11.31621,loser,1,2026-03-13
+morpho,Morpho,morpho,1.87,-4.97853,loser,2,2026-03-13
+hash-2,Provenance Blockchain,hash,0.0131888,-3.78264,loser,3,2026-03-13
+rain,Rain,rain,0.00889731,-2.68197,loser,4,2026-03-13
+figure-heloc,Figure Heloc,figr_heloc,1.008,-2.33076,loser,5,2026-03-13
+hyperliquid,Hyperliquid,hype,36.66,-2.30084,loser,6,2026-03-13
+pump-fun,Pump.fun,pump,0.00204265,-2.17702,loser,7,2026-03-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.095998,-2.00591,loser,8,2026-03-13
+okb,OKB,okb,93.53,-1.57283,loser,9,2026-03-13
+polkadot,Polkadot,dot,1.47,-1.32266,loser,10,2026-03-13
