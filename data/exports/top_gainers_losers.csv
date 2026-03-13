@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.256921,9.57307,gainer,1,2026-03-12
-bittensor,Bittensor,tao,213.24,7.12666,gainer,2,2026-03-12
-hyperliquid,Hyperliquid,hype,37.47,3.6617,gainer,3,2026-03-12
-render-token,Render,render,1.6,3.62624,gainer,4,2026-03-12
-near,NEAR Protocol,near,1.34,3.26525,gainer,5,2026-03-12
-pump-fun,Pump.fun,pump,0.00208865,3.20423,gainer,6,2026-03-12
-mantle,Mantle,mnt,0.715455,2.27411,gainer,7,2026-03-12
-memecore,MemeCore,m,1.47,2.21974,gainer,8,2026-03-12
-xdce-crowd-sale,XDC Network,xdc,0.03284927,2.12371,gainer,9,2026-03-12
-a7a5,A7A5,a7a5,0.0124708,2.03164,gainer,10,2026-03-12
-official-trump,Official Trump,trump,2.79,-4.93362,loser,1,2026-03-12
-decred,Decred,dcr,27.03,-4.84384,loser,2,2026-03-12
-midnight-3,Midnight,night,0.0476747,-4.53278,loser,3,2026-03-12
-aptos,Aptos,apt,0.909334,-3.54054,loser,4,2026-03-12
-canton-network,Canton,cc,0.146623,-3.00981,loser,5,2026-03-12
-jupiter-exchange-solana,Jupiter,jup,0.162049,-2.67728,loser,6,2026-03-12
-polkadot,Polkadot,dot,1.5,-2.37985,loser,7,2026-03-12
-arbitrum,Arbitrum,arb,0.099264,-2.28607,loser,8,2026-03-12
-aave,Aave,aave,109.91,-2.08892,loser,9,2026-03-12
-filecoin,Filecoin,fil,0.867206,-2.07594,loser,10,2026-03-12
+pi-network,Pi Network,pi,0.293028,32.94419,gainer,1,2026-03-13
+render-token,Render,render,1.7,11.60844,gainer,2,2026-03-13
+bittensor,Bittensor,tao,221.07,9.41275,gainer,3,2026-03-13
+midnight-3,Midnight,night,0.051089,7.7801,gainer,4,2026-03-13
+near,NEAR Protocol,near,1.39,6.64244,gainer,5,2026-03-13
+algorand,Algorand,algo,0.091108,5.73226,gainer,6,2026-03-13
+pump-fun,Pump.fun,pump,0.00214636,5.42769,gainer,7,2026-03-13
+virtual-protocol,Virtuals Protocol,virtual,0.728512,5.1185,gainer,8,2026-03-13
+bonk,Bonk,bonk,6.24e-06,4.7811,gainer,9,2026-03-13
+mantle,Mantle,mnt,0.722882,4.38373,gainer,10,2026-03-13
+canton-network,Canton,cc,0.147873,-4.28563,loser,1,2026-03-13
+hash-2,Provenance Blockchain,hash,0.01358954,-2.98226,loser,2,2026-03-13
+aptos,Aptos,apt,0.920795,-2.41304,loser,3,2026-03-13
+the-open-network,Toncoin,ton,1.31,-2.07572,loser,4,2026-03-13
+figure-heloc,Figure Heloc,figr_heloc,1.008,-1.82868,loser,5,2026-03-13
+leo-token,LEO Token,leo,9.09,-0.84443,loser,6,2026-03-13
+pax-gold,PAX Gold,paxg,5121.68,-0.64185,loser,7,2026-03-13
+tether-gold,Tether Gold,xaut,5091.52,-0.56649,loser,8,2026-03-13
+bitget-token,Bitget Token,bgb,2.16,-0.45314,loser,9,2026-03-13
+htx-dao,HTX DAO,htx,1.6e-06,-0.40133,loser,10,2026-03-13
