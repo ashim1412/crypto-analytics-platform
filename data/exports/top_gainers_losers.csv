@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.291056,26.5583,gainer,1,2026-03-13
-render-token,Render,render,1.84,20.49807,gainer,2,2026-03-13
-official-trump,Official Trump,trump,3.29,15.61626,gainer,3,2026-03-13
-bittensor,Bittensor,tao,229.87,11.79542,gainer,4,2026-03-13
-midnight-3,Midnight,night,0.05337,11.33654,gainer,5,2026-03-13
-ethena,Ethena,ena,0.111108,7.12131,gainer,6,2026-03-13
-pump-fun,Pump.fun,pump,0.00213904,6.93986,gainer,7,2026-03-13
-sui,Sui,sui,1.033,6.72263,gainer,8,2026-03-13
-algorand,Algorand,algo,0.090655,5.99705,gainer,9,2026-03-13
-bonk,Bonk,bonk,6.21e-06,5.92167,gainer,10,2026-03-13
-hash-2,Provenance Blockchain,hash,0.01341912,-4.10445,loser,1,2026-03-13
-canton-network,Canton,cc,0.146932,-2.91888,loser,2,2026-03-13
-the-open-network,Toncoin,ton,1.31,-2.27018,loser,3,2026-03-13
-stable-2,​​Stable,stable,0.0286548,-2.15578,loser,4,2026-03-13
+official-trump,Official Trump,trump,4.18,46.61198,gainer,1,2026-03-13
+render-token,Render,render,1.85,15.73231,gainer,2,2026-03-13
+bittensor,Bittensor,tao,239.41,12.82052,gainer,3,2026-03-13
+midnight-3,Midnight,night,0.052846,12.18972,gainer,4,2026-03-13
+algorand,Algorand,algo,0.094482,8.91885,gainer,5,2026-03-13
+bonk,Bonk,bonk,6.5e-06,8.69909,gainer,6,2026-03-13
+pudgy-penguins,Pudgy Penguins,pengu,0.00770557,8.51457,gainer,7,2026-03-13
+ethena,Ethena,ena,0.113551,8.43455,gainer,8,2026-03-13
+pi-network,Pi Network,pi,0.27656,8.38879,gainer,9,2026-03-13
+pepe,Pepe,pepe,3.59e-06,7.58508,gainer,10,2026-03-13
+hash-2,Provenance Blockchain,hash,0.01317291,-3.58893,loser,1,2026-03-13
+canton-network,Canton,cc,0.145562,-2.94725,loser,2,2026-03-13
+a7a5,A7A5,a7a5,0.0122619,-2.60085,loser,3,2026-03-13
+morpho,Morpho,morpho,1.92,-2.11739,loser,4,2026-03-13
 figure-heloc,Figure Heloc,figr_heloc,1.008,-1.81948,loser,5,2026-03-13
-tether-gold,Tether Gold,xaut,5065.75,-1.17016,loser,6,2026-03-13
-pax-gold,PAX Gold,paxg,5096.45,-1.16094,loser,7,2026-03-13
-beldex,Beldex,bdx,0.080166,-1.10519,loser,8,2026-03-13
-htx-dao,HTX DAO,htx,1.6e-06,-0.5422,loser,9,2026-03-13
-xdce-crowd-sale,XDC Network,xdc,0.03289555,-0.48618,loser,10,2026-03-13
+the-open-network,Toncoin,ton,1.31,-1.49567,loser,6,2026-03-13
+pax-gold,PAX Gold,paxg,5111.5,-1.11756,loser,7,2026-03-13
+tether-gold,Tether Gold,xaut,5079.08,-1.06523,loser,8,2026-03-13
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.65565,loser,9,2026-03-13
+hyperliquid,Hyperliquid,hype,37.24,-0.54718,loser,10,2026-03-13
