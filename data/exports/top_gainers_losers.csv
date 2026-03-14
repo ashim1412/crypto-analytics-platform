@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-canton-network,Canton,cc,0.152518,4.60781,gainer,1,2026-03-14
-just,JUST,jst,0.055279,4.14267,gainer,2,2026-03-14
-mantle,Mantle,mnt,0.75577,4.10686,gainer,3,2026-03-14
-stable-2,​​Stable,stable,0.0296463,2.62888,gainer,4,2026-03-14
-hash-2,Provenance Blockchain,hash,0.0134728,2.62439,gainer,5,2026-03-14
-tron,TRON,trx,0.295673,2.40464,gainer,6,2026-03-14
-htx-dao,HTX DAO,htx,1.63e-06,1.82579,gainer,7,2026-03-14
-cosmos,Cosmos Hub,atom,1.88,1.41542,gainer,8,2026-03-14
-figure-heloc,Figure Heloc,figr_heloc,1.022,1.40297,gainer,9,2026-03-14
-quant-network,Quant,qnt,65.66,0.9916,gainer,10,2026-03-14
-pi-network,Pi Network,pi,0.205318,-25.82582,loser,1,2026-03-14
-sky,Sky,sky,0.076204,-9.14969,loser,2,2026-03-14
-pump-fun,Pump.fun,pump,0.00197083,-8.6785,loser,3,2026-03-14
-bonk,Bonk,bonk,6.03e-06,-7.60985,loser,4,2026-03-14
-midnight-3,Midnight,night,0.04903103,-7.54411,loser,5,2026-03-14
-pepe,Pepe,pepe,3.34e-06,-7.17717,loser,6,2026-03-14
-virtual-protocol,Virtuals Protocol,virtual,0.707203,-7.03342,loser,7,2026-03-14
-official-trump,Official Trump,trump,3.95,-6.67868,loser,8,2026-03-14
-hedera-hashgraph,Hedera,hbar,0.092674,-5.73407,loser,9,2026-03-14
-ethena,Ethena,ena,0.107163,-5.61718,loser,10,2026-03-14
+mantle,Mantle,mnt,0.776144,8.51393,gainer,1,2026-03-14
+official-trump,Official Trump,trump,4.03,7.11241,gainer,2,2026-03-14
+hyperliquid,Hyperliquid,hype,37.95,3.50556,gainer,3,2026-03-14
+quant-network,Quant,qnt,66.83,3.29543,gainer,4,2026-03-14
+bittensor,Bittensor,tao,238.56,3.14946,gainer,5,2026-03-14
+okb,OKB,okb,96.46,3.13719,gainer,6,2026-03-14
+midnight-3,Midnight,night,0.051173,2.95359,gainer,7,2026-03-14
+memecore,MemeCore,m,1.54,2.89725,gainer,8,2026-03-14
+htx-dao,HTX DAO,htx,1.63e-06,2.17627,gainer,9,2026-03-14
+tron,TRON,trx,0.297196,2.16957,gainer,10,2026-03-14
+pi-network,Pi Network,pi,0.199074,-13.02509,loser,1,2026-03-14
+sky,Sky,sky,0.072452,-9.8998,loser,2,2026-03-14
+hash-2,Provenance Blockchain,hash,0.01249009,-5.29913,loser,3,2026-03-14
+stable-2,​​Stable,stable,0.0291357,-5.19994,loser,4,2026-03-14
+xdce-crowd-sale,XDC Network,xdc,0.03170755,-4.64589,loser,5,2026-03-14
+polkadot,Polkadot,dot,1.43,-3.66869,loser,6,2026-03-14
+jupiter-exchange-solana,Jupiter,jup,0.159056,-3.65233,loser,7,2026-03-14
+hedera-hashgraph,Hedera,hbar,0.091992,-3.62275,loser,8,2026-03-14
+ethereum-classic,Ethereum Classic,etc,8.22,-3.29769,loser,9,2026-03-14
+pump-fun,Pump.fun,pump,0.00197794,-3.19364,loser,10,2026-03-14
