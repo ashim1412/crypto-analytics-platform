@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,4.02,24.20909,gainer,1,2026-03-14
-canton-network,Canton,cc,0.154135,4.81744,gainer,2,2026-03-14
-just,JUST,jst,0.055666,4.10319,gainer,3,2026-03-14
-monero,Monero,xmr,368.89,3.94897,gainer,4,2026-03-14
-bittensor,Bittensor,tao,239.2,3.68155,gainer,5,2026-03-14
-memecore,MemeCore,m,1.5,3.53377,gainer,6,2026-03-14
-algorand,Algorand,algo,0.093029,2.57571,gainer,7,2026-03-14
-htx-dao,HTX DAO,htx,1.63e-06,1.74178,gainer,8,2026-03-14
-tron,TRON,trx,0.294472,1.66789,gainer,9,2026-03-14
-figure-heloc,Figure Heloc,figr_heloc,1.022,1.40326,gainer,10,2026-03-14
-pi-network,Pi Network,pi,0.207148,-28.94257,loser,1,2026-03-14
-midnight-3,Midnight,night,0.04826275,-9.53265,loser,2,2026-03-14
-pump-fun,Pump.fun,pump,0.00198319,-7.28771,loser,3,2026-03-14
-morpho,Morpho,morpho,1.85,-6.02341,loser,4,2026-03-14
-polkadot,Polkadot,dot,1.43,-5.4939,loser,5,2026-03-14
-sui,Sui,sui,0.985901,-4.73193,loser,6,2026-03-14
-sky,Sky,sky,0.078464,-4.52989,loser,7,2026-03-14
-cardano,Cardano,ada,0.262605,-3.75448,loser,8,2026-03-14
-render-token,Render,render,1.76,-3.66802,loser,9,2026-03-14
-worldcoin-wld,Worldcoin,wld,0.35445,-3.51993,loser,10,2026-03-14
+canton-network,Canton,cc,0.152518,4.60781,gainer,1,2026-03-14
+just,JUST,jst,0.055279,4.14267,gainer,2,2026-03-14
+mantle,Mantle,mnt,0.75577,4.10686,gainer,3,2026-03-14
+stable-2,​​Stable,stable,0.0296463,2.62888,gainer,4,2026-03-14
+hash-2,Provenance Blockchain,hash,0.0134728,2.62439,gainer,5,2026-03-14
+tron,TRON,trx,0.295673,2.40464,gainer,6,2026-03-14
+htx-dao,HTX DAO,htx,1.63e-06,1.82579,gainer,7,2026-03-14
+cosmos,Cosmos Hub,atom,1.88,1.41542,gainer,8,2026-03-14
+figure-heloc,Figure Heloc,figr_heloc,1.022,1.40297,gainer,9,2026-03-14
+quant-network,Quant,qnt,65.66,0.9916,gainer,10,2026-03-14
+pi-network,Pi Network,pi,0.205318,-25.82582,loser,1,2026-03-14
+sky,Sky,sky,0.076204,-9.14969,loser,2,2026-03-14
+pump-fun,Pump.fun,pump,0.00197083,-8.6785,loser,3,2026-03-14
+bonk,Bonk,bonk,6.03e-06,-7.60985,loser,4,2026-03-14
+midnight-3,Midnight,night,0.04903103,-7.54411,loser,5,2026-03-14
+pepe,Pepe,pepe,3.34e-06,-7.17717,loser,6,2026-03-14
+virtual-protocol,Virtuals Protocol,virtual,0.707203,-7.03342,loser,7,2026-03-14
+official-trump,Official Trump,trump,3.95,-6.67868,loser,8,2026-03-14
+hedera-hashgraph,Hedera,hbar,0.092674,-5.73407,loser,9,2026-03-14
+ethena,Ethena,ena,0.107163,-5.61718,loser,10,2026-03-14
