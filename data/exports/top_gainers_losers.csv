@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,3.75,27.24508,gainer,1,2026-03-14
-bittensor,Bittensor,tao,234.67,6.48533,gainer,2,2026-03-14
-render-token,Render,render,1.77,4.1014,gainer,3,2026-03-14
-memecore,MemeCore,m,1.52,3.52269,gainer,4,2026-03-14
-canton-network,Canton,cc,0.151829,2.6936,gainer,5,2026-03-14
-algorand,Algorand,algo,0.093006,2.65225,gainer,6,2026-03-14
-stable-2,​​Stable,stable,0.02971409,2.15517,gainer,7,2026-03-14
-monero,Monero,xmr,360.67,1.49459,gainer,8,2026-03-14
-stellar,Stellar,xlm,0.164265,1.47482,gainer,9,2026-03-14
+official-trump,Official Trump,trump,4.02,24.20909,gainer,1,2026-03-14
+canton-network,Canton,cc,0.154135,4.81744,gainer,2,2026-03-14
+just,JUST,jst,0.055666,4.10319,gainer,3,2026-03-14
+monero,Monero,xmr,368.89,3.94897,gainer,4,2026-03-14
+bittensor,Bittensor,tao,239.2,3.68155,gainer,5,2026-03-14
+memecore,MemeCore,m,1.5,3.53377,gainer,6,2026-03-14
+algorand,Algorand,algo,0.093029,2.57571,gainer,7,2026-03-14
+htx-dao,HTX DAO,htx,1.63e-06,1.74178,gainer,8,2026-03-14
+tron,TRON,trx,0.294472,1.66789,gainer,9,2026-03-14
 figure-heloc,Figure Heloc,figr_heloc,1.022,1.40326,gainer,10,2026-03-14
-pi-network,Pi Network,pi,0.213599,-27.0148,loser,1,2026-03-14
-pump-fun,Pump.fun,pump,0.00198461,-7.1563,loser,2,2026-03-14
-morpho,Morpho,morpho,1.85,-7.01415,loser,3,2026-03-14
-polkadot,Polkadot,dot,1.45,-5.38643,loser,4,2026-03-14
-near,NEAR Protocol,near,1.32,-4.46792,loser,5,2026-03-14
-sky,Sky,sky,0.078869,-4.27358,loser,6,2026-03-14
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095104,-4.26002,loser,7,2026-03-14
-internet-computer,Internet Computer,icp,2.58,-3.5977,loser,8,2026-03-14
-zcash,Zcash,zec,206.24,-3.19862,loser,9,2026-03-14
-midnight-3,Midnight,night,0.04933028,-2.92982,loser,10,2026-03-14
+pi-network,Pi Network,pi,0.207148,-28.94257,loser,1,2026-03-14
+midnight-3,Midnight,night,0.04826275,-9.53265,loser,2,2026-03-14
+pump-fun,Pump.fun,pump,0.00198319,-7.28771,loser,3,2026-03-14
+morpho,Morpho,morpho,1.85,-6.02341,loser,4,2026-03-14
+polkadot,Polkadot,dot,1.43,-5.4939,loser,5,2026-03-14
+sui,Sui,sui,0.985901,-4.73193,loser,6,2026-03-14
+sky,Sky,sky,0.078464,-4.52989,loser,7,2026-03-14
+cardano,Cardano,ada,0.262605,-3.75448,loser,8,2026-03-14
+render-token,Render,render,1.76,-3.66802,loser,9,2026-03-14
+worldcoin-wld,Worldcoin,wld,0.35445,-3.51993,loser,10,2026-03-14
