@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bittensor,Bittensor,tao,265.7,12.84901,gainer,1,2026-03-15
-zcash,Zcash,zec,227.77,8.71091,gainer,2,2026-03-15
-river,River,river,24.02,8.70999,gainer,3,2026-03-15
-render-token,Render,render,1.85,4.46009,gainer,4,2026-03-15
-midnight-3,Midnight,night,0.05119,4.37965,gainer,5,2026-03-15
-hedera-hashgraph,Hedera,hbar,0.095926,3.5334,gainer,6,2026-03-15
-aster-2,Aster,aster,0.718919,3.31805,gainer,7,2026-03-15
-virtual-protocol,Virtuals Protocol,virtual,0.730261,3.27127,gainer,8,2026-03-15
-aave,Aave,aave,113.68,3.08273,gainer,9,2026-03-15
-near,NEAR Protocol,near,1.35,2.95712,gainer,10,2026-03-15
-hash-2,Provenance Blockchain,hash,0.01249639,-7.24726,loser,1,2026-03-15
-pi-network,Pi Network,pi,0.195053,-4.48723,loser,2,2026-03-15
-sky,Sky,sky,0.072926,-4.03644,loser,3,2026-03-15
-stable-2,​​Stable,stable,0.02857798,-3.62182,loser,4,2026-03-15
-memecore,MemeCore,m,1.46,-3.59503,loser,5,2026-03-15
-figure-heloc,Figure Heloc,figr_heloc,1.003,-1.91828,loser,6,2026-03-15
-the-open-network,Toncoin,ton,1.29,-1.1933,loser,7,2026-03-15
-morpho,Morpho,morpho,1.85,-1.13662,loser,8,2026-03-15
-monero,Monero,xmr,357.66,-1.06737,loser,9,2026-03-15
-cosmos,Cosmos Hub,atom,1.86,-0.6916,loser,10,2026-03-15
+bittensor,Bittensor,tao,284.35,19.19236,gainer,1,2026-03-15
+zcash,Zcash,zec,227.47,8.75078,gainer,2,2026-03-15
+pancakeswap-token,PancakeSwap,cake,1.48,6.14455,gainer,3,2026-03-15
+render-token,Render,render,1.87,4.508,gainer,4,2026-03-15
+hedera-hashgraph,Hedera,hbar,0.095848,4.19164,gainer,5,2026-03-15
+aave,Aave,aave,114.69,3.98471,gainer,6,2026-03-15
+virtual-protocol,Virtuals Protocol,virtual,0.734162,3.50458,gainer,7,2026-03-15
+kucoin-shares,KuCoin,kcs,8.28,3.19332,gainer,8,2026-03-15
+near,NEAR Protocol,near,1.34,3.1322,gainer,9,2026-03-15
+vechain,VeChain,vet,0.00730345,2.81442,gainer,10,2026-03-15
+memecore,MemeCore,m,1.48,-3.4128,loser,1,2026-03-15
+stable-2,​​Stable,stable,0.02821398,-3.15931,loser,2,2026-03-15
+pi-network,Pi Network,pi,0.193371,-2.83922,loser,3,2026-03-15
+midnight-3,Midnight,night,0.050135,-2.1684,loser,4,2026-03-15
+hyperliquid,Hyperliquid,hype,37.29,-1.80529,loser,5,2026-03-15
+pump-fun,Pump.fun,pump,0.00194836,-1.49754,loser,6,2026-03-15
+cosmos,Cosmos Hub,atom,1.85,-1.38471,loser,7,2026-03-15
+flare-networks,Flare,flr,0.00867567,-0.87127,loser,8,2026-03-15
+shiba-inu,Shiba Inu,shib,5.84e-06,-0.81089,loser,9,2026-03-15
+pax-gold,PAX Gold,paxg,4993.75,-0.63443,loser,10,2026-03-15
