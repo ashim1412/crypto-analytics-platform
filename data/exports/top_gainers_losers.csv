@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-mantle,Mantle,mnt,0.790584,10.75609,gainer,1,2026-03-15
-bittensor,Bittensor,tao,253.19,8.58289,gainer,2,2026-03-15
-official-trump,Official Trump,trump,4.03,6.93631,gainer,3,2026-03-15
-render-token,Render,render,1.88,5.68394,gainer,4,2026-03-15
-hyperliquid,Hyperliquid,hype,37.92,3.55848,gainer,5,2026-03-15
-quant-network,Quant,qnt,66.52,3.22293,gainer,6,2026-03-15
-internet-computer,Internet Computer,icp,2.67,2.92317,gainer,7,2026-03-15
-zcash,Zcash,zec,211.92,2.61484,gainer,8,2026-03-15
-kucoin-shares,KuCoin,kcs,8.16,2.2284,gainer,9,2026-03-15
-morpho,Morpho,morpho,1.89,2.09191,gainer,10,2026-03-15
-sky,Sky,sky,0.072562,-8.24777,loser,1,2026-03-15
-pi-network,Pi Network,pi,0.197816,-7.12636,loser,2,2026-03-15
-hash-2,Provenance Blockchain,hash,0.01249169,-6.30281,loser,3,2026-03-15
-just,JUST,jst,0.052885,-3.70355,loser,4,2026-03-15
-xdce-crowd-sale,XDC Network,xdc,0.03175304,-3.63782,loser,5,2026-03-15
-polkadot,Polkadot,dot,1.4,-3.42353,loser,6,2026-03-15
-algorand,Algorand,algo,0.09017,-3.09348,loser,7,2026-03-15
-stable-2,​​Stable,stable,0.02892934,-2.55066,loser,8,2026-03-15
-bonk,Bonk,bonk,5.98e-06,-2.40975,loser,9,2026-03-15
-ethereum-classic,Ethereum Classic,etc,8.22,-2.39379,loser,10,2026-03-15
+zcash,Zcash,zec,227.8,10.03401,gainer,1,2026-03-15
+mantle,Mantle,mnt,0.779381,10.0096,gainer,2,2026-03-15
+bittensor,Bittensor,tao,259.4,9.28799,gainer,3,2026-03-15
+midnight-3,Midnight,night,0.051068,4.97808,gainer,4,2026-03-15
+render-token,Render,render,1.82,3.87412,gainer,5,2026-03-15
+okb,OKB,okb,96.73,3.51329,gainer,6,2026-03-15
+aster-2,Aster,aster,0.715684,3.24937,gainer,7,2026-03-15
+quant-network,Quant,qnt,66.41,2.85904,gainer,8,2026-03-15
+kucoin-shares,KuCoin,kcs,8.23,2.82032,gainer,9,2026-03-15
+virtual-protocol,Virtuals Protocol,virtual,0.72832,2.59253,gainer,10,2026-03-15
+hash-2,Provenance Blockchain,hash,0.01249491,-6.36741,loser,1,2026-03-15
+pi-network,Pi Network,pi,0.197613,-4.92198,loser,2,2026-03-15
+sky,Sky,sky,0.075038,-4.12668,loser,3,2026-03-15
+algorand,Algorand,algo,0.089773,-2.85469,loser,4,2026-03-15
+xdce-crowd-sale,XDC Network,xdc,0.03176033,-2.74615,loser,5,2026-03-15
+official-trump,Official Trump,trump,3.94,-2.37027,loser,6,2026-03-15
+monero,Monero,xmr,357.42,-2.06602,loser,7,2026-03-15
+memecore,MemeCore,m,1.48,-1.9578,loser,8,2026-03-15
+figure-heloc,Figure Heloc,figr_heloc,1.003,-1.90952,loser,9,2026-03-15
+polkadot,Polkadot,dot,1.41,-1.52763,loser,10,2026-03-15
