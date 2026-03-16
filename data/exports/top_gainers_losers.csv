@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pepe,Pepe,pepe,3.88e-06,15.90548,gainer,1,2026-03-16
-polkadot,Polkadot,dot,1.58,11.45658,gainer,2,2026-03-16
-bonk,Bonk,bonk,6.62e-06,11.12932,gainer,3,2026-03-16
-cardano,Cardano,ada,0.290668,9.98956,gainer,4,2026-03-16
-pudgy-penguins,Pudgy Penguins,pengu,0.00793376,9.11856,gainer,5,2026-03-16
-ethereum-classic,Ethereum Classic,etc,8.98,9.003,gainer,6,2026-03-16
-ethena,Ethena,ena,0.116546,7.93723,gainer,7,2026-03-16
-aave,Aave,aave,119.56,7.55202,gainer,8,2026-03-16
-filecoin,Filecoin,fil,0.948012,7.52211,gainer,9,2026-03-16
-avalanche-2,Avalanche,avax,10.42,7.39348,gainer,10,2026-03-16
-sky,Sky,sky,0.071096,-5.02475,loser,1,2026-03-16
-stable-2,​​Stable,stable,0.02786825,-3.18029,loser,2,2026-03-16
-canton-network,Canton,cc,0.14991,-1.11541,loser,3,2026-03-16
-a7a5,A7A5,a7a5,0.01231436,-0.74188,loser,4,2026-03-16
-hash-2,Provenance Blockchain,hash,0.01242774,-0.53887,loser,5,2026-03-16
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.11,-0.43358,loser,6,2026-03-16
-midnight-3,Midnight,night,0.051397,-0.34416,loser,7,2026-03-16
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.3277,loser,8,2026-03-16
-usual-usd,Usual USD,usd0,0.998571,-0.18706,loser,9,2026-03-16
-usdtb,USDtb,usdtb,0.998605,-0.15665,loser,10,2026-03-16
+pepe,Pepe,pepe,4.01e-06,18.43795,gainer,1,2026-03-16
+pancakeswap-token,PancakeSwap,cake,1.51,15.29106,gainer,2,2026-03-16
+memecore,MemeCore,m,1.66,14.27836,gainer,3,2026-03-16
+fetch-ai,Artificial Superintelligence Alliance,fet,0.220578,11.45242,gainer,4,2026-03-16
+polkadot,Polkadot,dot,1.59,10.56552,gainer,5,2026-03-16
+mantle,Mantle,mnt,0.850042,9.53679,gainer,6,2026-03-16
+bittensor,Bittensor,tao,290.69,9.3259,gainer,7,2026-03-16
+kaspa,Kaspa,kas,0.03323957,9.20355,gainer,8,2026-03-16
+ethereum,Ethereum,eth,2287.45,8.31901,gainer,9,2026-03-16
+bonk,Bonk,bonk,6.51e-06,8.12496,gainer,10,2026-03-16
+official-trump,Official Trump,trump,3.88,-3.60224,loser,1,2026-03-16
+stable-2,​​Stable,stable,0.02792123,-2.48418,loser,2,2026-03-16
+sky,Sky,sky,0.072208,-1.05719,loser,3,2026-03-16
+leo-token,LEO Token,leo,9.01,-0.7348,loser,4,2026-03-16
+rain,Rain,rain,0.00903558,-0.64117,loser,5,2026-03-16
+hash-2,Provenance Blockchain,hash,0.01244221,-0.43555,loser,6,2026-03-16
+midnight-3,Midnight,night,0.050994,-0.33208,loser,7,2026-03-16
+htx-dao,HTX DAO,htx,1.64e-06,-0.16087,loser,8,2026-03-16
+canton-network,Canton,cc,0.151879,-0.14365,loser,9,2026-03-16
+usd1-wlfi,USD1,usd1,0.99882,-0.04469,loser,10,2026-03-16
