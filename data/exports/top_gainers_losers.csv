@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bittensor,Bittensor,tao,276.55,9.56971,gainer,1,2026-03-16
-zcash,Zcash,zec,230.22,8.49999,gainer,2,2026-03-16
-pancakeswap-token,PancakeSwap,cake,1.5,6.64868,gainer,3,2026-03-16
-aave,Aave,aave,116.35,5.37148,gainer,4,2026-03-16
-virtual-protocol,Virtuals Protocol,virtual,0.753133,5.32588,gainer,5,2026-03-16
-solana,Solana,sol,91.92,4.6726,gainer,6,2026-03-16
-pepe,Pepe,pepe,3.49e-06,4.54971,gainer,7,2026-03-16
-ethereum,Ethereum,eth,2170.84,4.03796,gainer,8,2026-03-16
-vechain,VeChain,vet,0.00739402,3.86712,gainer,9,2026-03-16
-uniswap,Uniswap,uni,4.06,3.39423,gainer,10,2026-03-16
-pump-fun,Pump.fun,pump,0.0019538,-2.60838,loser,1,2026-03-16
-stable-2,​​Stable,stable,0.02823837,-2.59119,loser,2,2026-03-16
-memecore,MemeCore,m,1.46,-2.5078,loser,3,2026-03-16
-hyperliquid,Hyperliquid,hype,37.48,-1.19561,loser,4,2026-03-16
-canton-network,Canton,cc,0.150403,-0.92046,loser,5,2026-03-16
-beldex,Beldex,bdx,0.080454,-0.77852,loser,6,2026-03-16
-midnight-3,Midnight,night,0.050118,-0.64354,loser,7,2026-03-16
-internet-computer,Internet Computer,icp,2.66,-0.3265,loser,8,2026-03-16
-pax-gold,PAX Gold,paxg,5009.55,-0.24439,loser,9,2026-03-16
-tether-gold,Tether Gold,xaut,4983.35,-0.13585,loser,10,2026-03-16
+pepe,Pepe,pepe,3.88e-06,15.90548,gainer,1,2026-03-16
+polkadot,Polkadot,dot,1.58,11.45658,gainer,2,2026-03-16
+bonk,Bonk,bonk,6.62e-06,11.12932,gainer,3,2026-03-16
+cardano,Cardano,ada,0.290668,9.98956,gainer,4,2026-03-16
+pudgy-penguins,Pudgy Penguins,pengu,0.00793376,9.11856,gainer,5,2026-03-16
+ethereum-classic,Ethereum Classic,etc,8.98,9.003,gainer,6,2026-03-16
+ethena,Ethena,ena,0.116546,7.93723,gainer,7,2026-03-16
+aave,Aave,aave,119.56,7.55202,gainer,8,2026-03-16
+filecoin,Filecoin,fil,0.948012,7.52211,gainer,9,2026-03-16
+avalanche-2,Avalanche,avax,10.42,7.39348,gainer,10,2026-03-16
+sky,Sky,sky,0.071096,-5.02475,loser,1,2026-03-16
+stable-2,​​Stable,stable,0.02786825,-3.18029,loser,2,2026-03-16
+canton-network,Canton,cc,0.14991,-1.11541,loser,3,2026-03-16
+a7a5,A7A5,a7a5,0.01231436,-0.74188,loser,4,2026-03-16
+hash-2,Provenance Blockchain,hash,0.01242774,-0.53887,loser,5,2026-03-16
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.11,-0.43358,loser,6,2026-03-16
+midnight-3,Midnight,night,0.051397,-0.34416,loser,7,2026-03-16
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.3277,loser,8,2026-03-16
+usual-usd,Usual USD,usd0,0.998571,-0.18706,loser,9,2026-03-16
+usdtb,USDtb,usdtb,0.998605,-0.15665,loser,10,2026-03-16
