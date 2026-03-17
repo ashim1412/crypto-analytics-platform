@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.753419,20.93482,gainer,1,2026-03-17
-zcash,Zcash,zec,267.57,15.9659,gainer,2,2026-03-17
-hash-2,Provenance Blockchain,hash,0.01383741,11.21351,gainer,3,2026-03-17
-kaspa,Kaspa,kas,0.03516596,5.8348,gainer,4,2026-03-17
-hyperliquid,Hyperliquid,hype,41.23,5.0764,gainer,5,2026-03-17
-sky,Sky,sky,0.075377,4.361,gainer,6,2026-03-17
-fetch-ai,Artificial Superintelligence Alliance,fet,0.229386,4.01977,gainer,7,2026-03-17
-near,NEAR Protocol,near,1.44,3.2776,gainer,8,2026-03-17
-memecore,MemeCore,m,1.71,2.7996,gainer,9,2026-03-17
-filecoin,Filecoin,fil,0.962908,2.74059,gainer,10,2026-03-17
-pepe,Pepe,pepe,3.67e-06,-8.35195,loser,1,2026-03-17
-morpho,Morpho,morpho,1.74,-8.34622,loser,2,2026-03-17
-pi-network,Pi Network,pi,0.180436,-7.93445,loser,3,2026-03-17
-bittensor,Bittensor,tao,275.06,-5.32281,loser,4,2026-03-17
-official-trump,Official Trump,trump,3.71,-4.17738,loser,5,2026-03-17
-jupiter-exchange-solana,Jupiter,jup,0.164209,-3.40608,loser,6,2026-03-17
-sui,Sui,sui,1.013,-3.40474,loser,7,2026-03-17
-okb,OKB,okb,95.08,-3.03044,loser,8,2026-03-17
-rain,Rain,rain,0.00879409,-2.74039,loser,9,2026-03-17
-uniswap,Uniswap,uni,3.97,-2.51551,loser,10,2026-03-17
+siren-2,Siren,siren,0.72171,56.33295,gainer,1,2026-03-17
+kaspa,Kaspa,kas,0.03686432,11.00547,gainer,2,2026-03-17
+memecore,MemeCore,m,1.78,7.3154,gainer,3,2026-03-17
+aster-2,Aster,aster,0.76285,4.90117,gainer,4,2026-03-17
+hash-2,Provenance Blockchain,hash,0.01292269,4.41001,gainer,5,2026-03-17
+zcash,Zcash,zec,276.56,4.04761,gainer,6,2026-03-17
+hyperliquid,Hyperliquid,hype,40.71,4.0313,gainer,7,2026-03-17
+xdce-crowd-sale,XDC Network,xdc,0.03425448,2.90475,gainer,8,2026-03-17
+tron,TRON,trx,0.304487,2.4975,gainer,9,2026-03-17
+quant-network,Quant,qnt,69.69,2.49104,gainer,10,2026-03-17
+pi-network,Pi Network,pi,0.179724,-8.30054,loser,1,2026-03-17
+pepe,Pepe,pepe,3.7e-06,-6.68303,loser,2,2026-03-17
+sky,Sky,sky,0.073482,-6.12602,loser,3,2026-03-17
+rain,Rain,rain,0.00870804,-4.93694,loser,4,2026-03-17
+official-trump,Official Trump,trump,3.69,-4.7637,loser,5,2026-03-17
+morpho,Morpho,morpho,1.81,-4.27825,loser,6,2026-03-17
+fetch-ai,Artificial Superintelligence Alliance,fet,0.232926,-3.81784,loser,7,2026-03-17
+uniswap,Uniswap,uni,4.01,-3.79704,loser,8,2026-03-17
+render-token,Render,render,1.81,-3.67004,loser,9,2026-03-17
+world-liberty-financial,World Liberty Financial,wlfi,0.103079,-3.66781,loser,10,2026-03-17
