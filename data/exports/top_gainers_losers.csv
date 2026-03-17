@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,275.45,19.95877,gainer,1,2026-03-17
-fetch-ai,Artificial Superintelligence Alliance,fet,0.232315,18.78457,gainer,2,2026-03-17
-pepe,Pepe,pepe,3.98e-06,14.0611,gainer,3,2026-03-17
-memecore,MemeCore,m,1.67,13.75463,gainer,4,2026-03-17
-polkadot,Polkadot,dot,1.62,12.8822,gainer,5,2026-03-17
-filecoin,Filecoin,fil,0.981098,9.80036,gainer,6,2026-03-17
-near,NEAR Protocol,near,1.48,9.567,gainer,7,2026-03-17
-worldcoin-wld,Worldcoin,wld,0.398618,9.06496,gainer,8,2026-03-17
-pump-fun,Pump.fun,pump,0.00213315,9.01319,gainer,9,2026-03-17
-mantle,Mantle,mnt,0.866405,8.71924,gainer,10,2026-03-17
-morpho,Morpho,morpho,1.81,-5.55368,loser,1,2026-03-17
-official-trump,Official Trump,trump,3.88,-3.98702,loser,2,2026-03-17
-rain,Rain,rain,0.00882332,-2.38097,loser,3,2026-03-17
-pi-network,Pi Network,pi,0.195133,-1.90203,loser,4,2026-03-17
-stable-2,​​Stable,stable,0.02774833,-1.45564,loser,5,2026-03-17
-tron,TRON,trx,0.295479,-0.85649,loser,6,2026-03-17
-tether-gold,Tether Gold,xaut,4962.34,-0.62039,loser,7,2026-03-17
-hash-2,Provenance Blockchain,hash,0.0124028,-0.62022,loser,8,2026-03-17
-pax-gold,PAX Gold,paxg,4989.87,-0.55782,loser,9,2026-03-17
-htx-dao,HTX DAO,htx,1.63e-06,-0.38595,loser,10,2026-03-17
+memecore,MemeCore,m,1.74,17.60767,gainer,1,2026-03-17
+siren-2,Siren,siren,0.730083,14.79217,gainer,2,2026-03-17
+fetch-ai,Artificial Superintelligence Alliance,fet,0.232335,13.74191,gainer,3,2026-03-17
+zcash,Zcash,zec,266.41,13.3106,gainer,4,2026-03-17
+hash-2,Provenance Blockchain,hash,0.01396197,12.33926,gainer,5,2026-03-17
+sky,Sky,sky,0.078844,10.69164,gainer,6,2026-03-17
+kaspa,Kaspa,kas,0.0354785,10.0445,gainer,7,2026-03-17
+hyperliquid,Hyperliquid,hype,41.29,7.50718,gainer,8,2026-03-17
+virtual-protocol,Virtuals Protocol,virtual,0.791383,4.42448,gainer,9,2026-03-17
+bittensor,Bittensor,tao,282.59,3.60855,gainer,10,2026-03-17
+pi-network,Pi Network,pi,0.182286,-10.1811,loser,1,2026-03-17
+official-trump,Official Trump,trump,3.72,-7.47574,loser,2,2026-03-17
+morpho,Morpho,morpho,1.8,-7.03567,loser,3,2026-03-17
+okb,OKB,okb,94.64,-3.55663,loser,4,2026-03-17
+sui,Sui,sui,1.029,-2.87659,loser,5,2026-03-17
+shiba-inu,Shiba Inu,shib,6.07e-06,-2.64597,loser,6,2026-03-17
+bonk,Bonk,bonk,6.41e-06,-2.62188,loser,7,2026-03-17
+cardano,Cardano,ada,0.284252,-2.10225,loser,8,2026-03-17
+rain,Rain,rain,0.00878642,-2.09379,loser,9,2026-03-17
+nexo,NEXO,nexo,0.911275,-1.74144,loser,10,2026-03-17
