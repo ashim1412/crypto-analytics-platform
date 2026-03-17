@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.74,17.60767,gainer,1,2026-03-17
-siren-2,Siren,siren,0.730083,14.79217,gainer,2,2026-03-17
-fetch-ai,Artificial Superintelligence Alliance,fet,0.232335,13.74191,gainer,3,2026-03-17
-zcash,Zcash,zec,266.41,13.3106,gainer,4,2026-03-17
-hash-2,Provenance Blockchain,hash,0.01396197,12.33926,gainer,5,2026-03-17
-sky,Sky,sky,0.078844,10.69164,gainer,6,2026-03-17
-kaspa,Kaspa,kas,0.0354785,10.0445,gainer,7,2026-03-17
-hyperliquid,Hyperliquid,hype,41.29,7.50718,gainer,8,2026-03-17
-virtual-protocol,Virtuals Protocol,virtual,0.791383,4.42448,gainer,9,2026-03-17
-bittensor,Bittensor,tao,282.59,3.60855,gainer,10,2026-03-17
-pi-network,Pi Network,pi,0.182286,-10.1811,loser,1,2026-03-17
-official-trump,Official Trump,trump,3.72,-7.47574,loser,2,2026-03-17
-morpho,Morpho,morpho,1.8,-7.03567,loser,3,2026-03-17
-okb,OKB,okb,94.64,-3.55663,loser,4,2026-03-17
-sui,Sui,sui,1.029,-2.87659,loser,5,2026-03-17
-shiba-inu,Shiba Inu,shib,6.07e-06,-2.64597,loser,6,2026-03-17
-bonk,Bonk,bonk,6.41e-06,-2.62188,loser,7,2026-03-17
-cardano,Cardano,ada,0.284252,-2.10225,loser,8,2026-03-17
-rain,Rain,rain,0.00878642,-2.09379,loser,9,2026-03-17
-nexo,NEXO,nexo,0.911275,-1.74144,loser,10,2026-03-17
+siren-2,Siren,siren,0.753419,20.93482,gainer,1,2026-03-17
+zcash,Zcash,zec,267.57,15.9659,gainer,2,2026-03-17
+hash-2,Provenance Blockchain,hash,0.01383741,11.21351,gainer,3,2026-03-17
+kaspa,Kaspa,kas,0.03516596,5.8348,gainer,4,2026-03-17
+hyperliquid,Hyperliquid,hype,41.23,5.0764,gainer,5,2026-03-17
+sky,Sky,sky,0.075377,4.361,gainer,6,2026-03-17
+fetch-ai,Artificial Superintelligence Alliance,fet,0.229386,4.01977,gainer,7,2026-03-17
+near,NEAR Protocol,near,1.44,3.2776,gainer,8,2026-03-17
+memecore,MemeCore,m,1.71,2.7996,gainer,9,2026-03-17
+filecoin,Filecoin,fil,0.962908,2.74059,gainer,10,2026-03-17
+pepe,Pepe,pepe,3.67e-06,-8.35195,loser,1,2026-03-17
+morpho,Morpho,morpho,1.74,-8.34622,loser,2,2026-03-17
+pi-network,Pi Network,pi,0.180436,-7.93445,loser,3,2026-03-17
+bittensor,Bittensor,tao,275.06,-5.32281,loser,4,2026-03-17
+official-trump,Official Trump,trump,3.71,-4.17738,loser,5,2026-03-17
+jupiter-exchange-solana,Jupiter,jup,0.164209,-3.40608,loser,6,2026-03-17
+sui,Sui,sui,1.013,-3.40474,loser,7,2026-03-17
+okb,OKB,okb,95.08,-3.03044,loser,8,2026-03-17
+rain,Rain,rain,0.00879409,-2.74039,loser,9,2026-03-17
+uniswap,Uniswap,uni,3.97,-2.51551,loser,10,2026-03-17
