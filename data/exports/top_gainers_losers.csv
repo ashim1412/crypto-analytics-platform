@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.743974,43.47609,gainer,1,2026-03-18
-memecore,MemeCore,m,1.92,14.94691,gainer,2,2026-03-18
-kaspa,Kaspa,kas,0.03700846,10.68502,gainer,3,2026-03-18
-tron,TRON,trx,0.308643,4.46731,gainer,4,2026-03-18
-hash-2,Provenance Blockchain,hash,0.01293084,4.30225,gainer,5,2026-03-18
-htx-dao,HTX DAO,htx,1.68e-06,2.77524,gainer,6,2026-03-18
-just,JUST,jst,0.056537,2.59817,gainer,7,2026-03-18
-hyperliquid,Hyperliquid,hype,41.21,2.07885,gainer,8,2026-03-18
-fetch-ai,Artificial Superintelligence Alliance,fet,0.237232,1.83391,gainer,9,2026-03-18
-quant-network,Quant,qnt,70.27,1.54954,gainer,10,2026-03-18
-pi-network,Pi Network,pi,0.172585,-11.53925,loser,1,2026-03-18
-pepe,Pepe,pepe,3.69e-06,-7.23331,loser,2,2026-03-18
-render-token,Render,render,1.81,-5.75409,loser,3,2026-03-18
-official-trump,Official Trump,trump,3.69,-4.79592,loser,4,2026-03-18
-sky,Sky,sky,0.073805,-4.49523,loser,5,2026-03-18
-world-liberty-financial,World Liberty Financial,wlfi,0.10184,-4.47775,loser,6,2026-03-18
-mantle,Mantle,mnt,0.830307,-4.23077,loser,7,2026-03-18
-uniswap,Uniswap,uni,3.97,-4.16379,loser,8,2026-03-18
-internet-computer,Internet Computer,icp,2.67,-3.71479,loser,9,2026-03-18
-virtual-protocol,Virtuals Protocol,virtual,0.783173,-3.53758,loser,10,2026-03-18
+siren-2,Siren,siren,0.823449,12.96647,gainer,1,2026-03-18
+memecore,MemeCore,m,1.88,7.70184,gainer,2,2026-03-18
+kaspa,Kaspa,kas,0.03817973,7.57784,gainer,3,2026-03-18
+bonk,Bonk,bonk,6.71e-06,4.76619,gainer,4,2026-03-18
+jupiter-exchange-solana,Jupiter,jup,0.172553,4.16759,gainer,5,2026-03-18
+zcash,Zcash,zec,277.48,4.03705,gainer,6,2026-03-18
+quant-network,Quant,qnt,70.7,2.86549,gainer,7,2026-03-18
+cosmos,Cosmos Hub,atom,1.99,2.79846,gainer,8,2026-03-18
+rain,Rain,rain,0.00900961,2.51449,gainer,9,2026-03-18
+polkadot,Polkadot,dot,1.63,2.38855,gainer,10,2026-03-18
+hash-2,Provenance Blockchain,hash,0.01247953,-10.62225,loser,1,2026-03-18
+sky,Sky,sky,0.073705,-6.49364,loser,2,2026-03-18
+pi-network,Pi Network,pi,0.174423,-4.59129,loser,3,2026-03-18
+stable-2,​​Stable,stable,0.02722849,-4.51054,loser,4,2026-03-18
+midnight-3,Midnight,night,0.04850928,-4.45133,loser,5,2026-03-18
+pepe,Pepe,pepe,3.68e-06,-3.19786,loser,6,2026-03-18
+render-token,Render,render,1.81,-3.07646,loser,7,2026-03-18
+canton-network,Canton,cc,0.150656,-2.97429,loser,8,2026-03-18
+fetch-ai,Artificial Superintelligence Alliance,fet,0.226613,-2.54618,loser,9,2026-03-18
+monero,Monero,xmr,367.84,-1.96024,loser,10,2026-03-18
