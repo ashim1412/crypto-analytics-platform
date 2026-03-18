@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.883895,16.75559,gainer,1,2026-03-18
-memecore,MemeCore,m,1.88,9.47766,gainer,2,2026-03-18
-kaspa,Kaspa,kas,0.0376635,7.07419,gainer,3,2026-03-18
-morpho,Morpho,morpho,1.82,4.32051,gainer,4,2026-03-18
-just,JUST,jst,0.058111,4.1228,gainer,5,2026-03-18
-rain,Rain,rain,0.00896434,1.94632,gainer,6,2026-03-18
-htx-dao,HTX DAO,htx,1.68e-06,1.23759,gainer,7,2026-03-18
-quant-network,Quant,qnt,69.77,1.11307,gainer,8,2026-03-18
-cosmos,Cosmos Hub,atom,1.95,0.55734,gainer,9,2026-03-18
-figure-heloc,Figure Heloc,figr_heloc,1.032,0.49407,gainer,10,2026-03-18
-hash-2,Provenance Blockchain,hash,0.01169687,-15.46926,loser,1,2026-03-18
-midnight-3,Midnight,night,0.0478275,-7.75334,loser,2,2026-03-18
-render-token,Render,render,1.75,-4.98123,loser,3,2026-03-18
-aster-2,Aster,aster,0.69817,-4.71632,loser,4,2026-03-18
-fetch-ai,Artificial Superintelligence Alliance,fet,0.218831,-4.64615,loser,5,2026-03-18
-official-trump,Official Trump,trump,3.55,-4.46185,loser,6,2026-03-18
-ethena,Ethena,ena,0.110372,-4.41341,loser,7,2026-03-18
-avalanche-2,Avalanche,avax,9.79,-4.40645,loser,8,2026-03-18
-stable-2,​​Stable,stable,0.02703565,-4.30106,loser,9,2026-03-18
-monero,Monero,xmr,356.31,-4.21506,loser,10,2026-03-18
+siren-2,Siren,siren,0.89759,23.78095,gainer,1,2026-03-18
+river,River,river,24.83,11.27722,gainer,2,2026-03-18
+hyperliquid,Hyperliquid,hype,42.91,5.78693,gainer,3,2026-03-18
+kaspa,Kaspa,kas,0.0385944,4.70748,gainer,4,2026-03-18
+just,JUST,jst,0.058078,4.34236,gainer,5,2026-03-18
+memecore,MemeCore,m,1.83,2.8722,gainer,6,2026-03-18
+rain,Rain,rain,0.00894066,2.45558,gainer,7,2026-03-18
+quant-network,Quant,qnt,70.45,1.14728,gainer,8,2026-03-18
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.16816,gainer,9,2026-03-18
+htx-dao,HTX DAO,htx,1.67e-06,0.11529,gainer,10,2026-03-18
+zcash,Zcash,zec,250.02,-9.54875,loser,1,2026-03-18
+uniswap,Uniswap,uni,3.66,-8.72206,loser,2,2026-03-18
+aster-2,Aster,aster,0.69766,-8.49736,loser,3,2026-03-18
+worldcoin-wld,Worldcoin,wld,0.365258,-7.78405,loser,4,2026-03-18
+ethena,Ethena,ena,0.108957,-6.80723,loser,5,2026-03-18
+chainlink,Chainlink,link,9.24,-6.59179,loser,6,2026-03-18
+pump-fun,Pump.fun,pump,0.00196177,-6.37384,loser,7,2026-03-18
+avalanche-2,Avalanche,avax,9.65,-6.32206,loser,8,2026-03-18
+mantle,Mantle,mnt,0.795123,-6.15279,loser,9,2026-03-18
+aave,Aave,aave,114.71,-6.10867,loser,10,2026-03-18
