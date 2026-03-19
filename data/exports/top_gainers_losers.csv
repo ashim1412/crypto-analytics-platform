@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.01443502,21.59863,gainer,1,2026-03-19
-river,River,river,27.14,9.7329,gainer,2,2026-03-19
-quant-network,Quant,qnt,76.38,8.97204,gainer,3,2026-03-19
-kaspa,Kaspa,kas,0.04037898,6.34508,gainer,4,2026-03-19
-just,JUST,jst,0.059329,2.05478,gainer,5,2026-03-19
-leo-token,LEO Token,leo,9.2,1.62118,gainer,6,2026-03-19
-stable-2,​​Stable,stable,0.02740403,1.13738,gainer,7,2026-03-19
-usual-usd,Usual USD,usd0,0.998499,0.17835,gainer,8,2026-03-19
-usdd,USDD,usdd,0.999894,0.07067,gainer,9,2026-03-19
-beldex,Beldex,bdx,0.079889,0.0299,gainer,10,2026-03-19
-mantle,Mantle,mnt,0.738488,-11.58769,loser,1,2026-03-19
-worldcoin-wld,Worldcoin,wld,0.338374,-9.5628,loser,2,2026-03-19
-bittensor,Bittensor,tao,246.95,-9.04419,loser,3,2026-03-19
-zcash,Zcash,zec,242.54,-8.8609,loser,4,2026-03-19
-pump-fun,Pump.fun,pump,0.00187126,-7.3163,loser,5,2026-03-19
-uniswap,Uniswap,uni,3.58,-7.03442,loser,6,2026-03-19
-ethena,Ethena,ena,0.103447,-6.94551,loser,7,2026-03-19
-morpho,Morpho,morpho,1.7,-6.35814,loser,8,2026-03-19
-siren-2,Siren,siren,0.837269,-6.28792,loser,9,2026-03-19
-layerzero,LayerZero,zro,2.07,-6.22403,loser,10,2026-03-19
+hash-2,Provenance Blockchain,hash,0.01444476,18.33839,gainer,1,2026-03-19
+stable-2,​​Stable,stable,0.0278408,6.01821,gainer,2,2026-03-19
+quant-network,Quant,qnt,74.1,5.16348,gainer,3,2026-03-19
+just,JUST,jst,0.059422,2.30363,gainer,4,2026-03-19
+leo-token,LEO Token,leo,9.18,1.22806,gainer,5,2026-03-19
+pi-network,Pi Network,pi,0.175887,1.2063,gainer,6,2026-03-19
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,0.56913,gainer,7,2026-03-19
+beldex,Beldex,bdx,0.080759,0.54843,gainer,8,2026-03-19
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.3829,gainer,9,2026-03-19
+bitcoin-cash,Bitcoin Cash,bch,455.72,0.37009,gainer,10,2026-03-19
+worldcoin-wld,Worldcoin,wld,0.327272,-10.39324,loser,1,2026-03-19
+siren-2,Siren,siren,0.806915,-9.75619,loser,2,2026-03-19
+bittensor,Bittensor,tao,247.99,-8.0532,loser,3,2026-03-19
+morpho,Morpho,morpho,1.66,-7.58196,loser,4,2026-03-19
+mantle,Mantle,mnt,0.736294,-7.39731,loser,5,2026-03-19
+midnight-3,Midnight,night,0.04404217,-7.39556,loser,6,2026-03-19
+zcash,Zcash,zec,231.94,-7.36743,loser,7,2026-03-19
+hyperliquid,Hyperliquid,hype,39.71,-7.169,loser,8,2026-03-19
+ethena,Ethena,ena,0.101594,-6.72095,loser,9,2026-03-19
+world-liberty-financial,World Liberty Financial,wlfi,0.092337,-6.27336,loser,10,2026-03-19
