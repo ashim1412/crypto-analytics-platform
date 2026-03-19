@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.956979,15.94988,gainer,1,2026-03-19
-hash-2,Provenance Blockchain,hash,0.01444129,15.53851,gainer,2,2026-03-19
-river,River,river,27.3,13.98955,gainer,3,2026-03-19
-quant-network,Quant,qnt,75.26,6.54576,gainer,4,2026-03-19
-just,JUST,jst,0.058125,3.83734,gainer,5,2026-03-19
-kaspa,Kaspa,kas,0.03892993,1.38109,gainer,6,2026-03-19
-leo-token,LEO Token,leo,9.18,1.23447,gainer,7,2026-03-19
-pi-network,Pi Network,pi,0.176026,0.96777,gainer,8,2026-03-19
-stable-2,​​Stable,stable,0.02749374,0.94579,gainer,9,2026-03-19
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.87589,gainer,10,2026-03-19
-worldcoin-wld,Worldcoin,wld,0.350923,-11.5392,loser,1,2026-03-19
-zcash,Zcash,zec,245.43,-11.5325,loser,2,2026-03-19
-layerzero,LayerZero,zro,2.1,-10.24048,loser,3,2026-03-19
-mantle,Mantle,mnt,0.764431,-9.85992,loser,4,2026-03-19
-pump-fun,Pump.fun,pump,0.00192923,-9.29964,loser,5,2026-03-19
-bonk,Bonk,bonk,6.1e-06,-9.28641,loser,6,2026-03-19
-ethena,Ethena,ena,0.105659,-9.27567,loser,7,2026-03-19
-aster-2,Aster,aster,0.684018,-8.23827,loser,8,2026-03-19
-uniswap,Uniswap,uni,3.65,-8.2298,loser,9,2026-03-19
-bittensor,Bittensor,tao,258.17,-7.37953,loser,10,2026-03-19
+hash-2,Provenance Blockchain,hash,0.01443502,21.59863,gainer,1,2026-03-19
+river,River,river,27.14,9.7329,gainer,2,2026-03-19
+quant-network,Quant,qnt,76.38,8.97204,gainer,3,2026-03-19
+kaspa,Kaspa,kas,0.04037898,6.34508,gainer,4,2026-03-19
+just,JUST,jst,0.059329,2.05478,gainer,5,2026-03-19
+leo-token,LEO Token,leo,9.2,1.62118,gainer,6,2026-03-19
+stable-2,​​Stable,stable,0.02740403,1.13738,gainer,7,2026-03-19
+usual-usd,Usual USD,usd0,0.998499,0.17835,gainer,8,2026-03-19
+usdd,USDD,usdd,0.999894,0.07067,gainer,9,2026-03-19
+beldex,Beldex,bdx,0.079889,0.0299,gainer,10,2026-03-19
+mantle,Mantle,mnt,0.738488,-11.58769,loser,1,2026-03-19
+worldcoin-wld,Worldcoin,wld,0.338374,-9.5628,loser,2,2026-03-19
+bittensor,Bittensor,tao,246.95,-9.04419,loser,3,2026-03-19
+zcash,Zcash,zec,242.54,-8.8609,loser,4,2026-03-19
+pump-fun,Pump.fun,pump,0.00187126,-7.3163,loser,5,2026-03-19
+uniswap,Uniswap,uni,3.58,-7.03442,loser,6,2026-03-19
+ethena,Ethena,ena,0.103447,-6.94551,loser,7,2026-03-19
+morpho,Morpho,morpho,1.7,-6.35814,loser,8,2026-03-19
+siren-2,Siren,siren,0.837269,-6.28792,loser,9,2026-03-19
+layerzero,LayerZero,zro,2.07,-6.22403,loser,10,2026-03-19
