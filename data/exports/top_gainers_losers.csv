@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,75.19,3.21315,gainer,1,2026-03-20
-bittensor,Bittensor,tao,279.9,3.0834,gainer,2,2026-03-20
-morpho,Morpho,morpho,1.77,2.43351,gainer,3,2026-03-20
-stable-2,​​Stable,stable,0.02772237,1.56325,gainer,4,2026-03-20
-pi-network,Pi Network,pi,0.178603,1.5252,gainer,5,2026-03-20
-shiba-inu,Shiba Inu,shib,5.87e-06,0.98776,gainer,6,2026-03-20
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,0.86044,gainer,7,2026-03-20
-bitcoin-cash,Bitcoin Cash,bch,458.15,0.60712,gainer,8,2026-03-20
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.47881,gainer,9,2026-03-20
-htx-dao,HTX DAO,htx,1.68e-06,0.07394,gainer,10,2026-03-20
-siren-2,Siren,siren,0.80283,-10.01647,loser,1,2026-03-20
-worldcoin-wld,Worldcoin,wld,0.333092,-9.29764,loser,2,2026-03-20
-midnight-3,Midnight,night,0.04382787,-7.01882,loser,3,2026-03-20
-pump-fun,Pump.fun,pump,0.00185223,-5.84087,loser,4,2026-03-20
-the-open-network,Toncoin,ton,1.22,-5.56144,loser,5,2026-03-20
-zcash,Zcash,zec,236.92,-5.21005,loser,6,2026-03-20
-cosmos,Cosmos Hub,atom,1.81,-4.71904,loser,7,2026-03-20
-official-trump,Official Trump,trump,3.36,-4.69883,loser,8,2026-03-20
-hash-2,Provenance Blockchain,hash,0.01372871,-4.68039,loser,9,2026-03-20
-memecore,MemeCore,m,1.82,-4.23615,loser,10,2026-03-20
+bittensor,Bittensor,tao,299.44,15.74518,gainer,1,2026-03-20
+fetch-ai,Artificial Superintelligence Alliance,fet,0.237977,8.4551,gainer,2,2026-03-20
+pi-network,Pi Network,pi,0.189534,7.74995,gainer,3,2026-03-20
+shiba-inu,Shiba Inu,shib,6.03e-06,4.4306,gainer,4,2026-03-20
+render-token,Render,render,1.77,3.72825,gainer,5,2026-03-20
+aptos,Aptos,apt,1.009,3.71044,gainer,6,2026-03-20
+quant-network,Quant,qnt,78.06,3.69244,gainer,7,2026-03-20
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.09851,2.56971,gainer,8,2026-03-20
+vechain,VeChain,vet,0.00737609,2.10998,gainer,9,2026-03-20
+algorand,Algorand,algo,0.09138,1.61146,gainer,10,2026-03-20
+memecore,MemeCore,m,1.68,-10.72881,loser,1,2026-03-20
+worldcoin-wld,Worldcoin,wld,0.331874,-5.35597,loser,2,2026-03-20
+siren-2,Siren,siren,0.912152,-5.12726,loser,3,2026-03-20
+hyperliquid,Hyperliquid,hype,39.4,-4.94844,loser,4,2026-03-20
+world-liberty-financial,World Liberty Financial,wlfi,0.092155,-4.63551,loser,5,2026-03-20
+hash-2,Provenance Blockchain,hash,0.01379418,-4.4723,loser,6,2026-03-20
+zcash,Zcash,zec,235.46,-3.82478,loser,7,2026-03-20
+midnight-3,Midnight,night,0.044114,-3.39329,loser,8,2026-03-20
+the-open-network,Toncoin,ton,1.23,-3.38851,loser,9,2026-03-20
+okb,OKB,okb,88.91,-3.22214,loser,10,2026-03-20
