@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-river,River,river,25.66,15.54766,gainer,1,2026-03-21
-world-liberty-financial,World Liberty Financial,wlfi,0.095344,5.8597,gainer,2,2026-03-21
-pi-network,Pi Network,pi,0.200561,5.45595,gainer,3,2026-03-21
-canton-network,Canton,cc,0.147506,3.23331,gainer,4,2026-03-21
-sky,Sky,sky,0.073695,2.16044,gainer,5,2026-03-21
-the-open-network,Toncoin,ton,1.27,1.89558,gainer,6,2026-03-21
-morpho,Morpho,morpho,1.8,1.75508,gainer,7,2026-03-21
-kucoin-shares,KuCoin,kcs,8.16,1.56554,gainer,8,2026-03-21
-cosmos,Cosmos Hub,atom,1.84,1.36104,gainer,9,2026-03-21
-tron,TRON,trx,0.31007,1.17371,gainer,10,2026-03-21
-bittensor,Bittensor,tao,269.7,-4.27807,loser,1,2026-03-21
-tether-gold,Tether Gold,xaut,4492.39,-3.99693,loser,2,2026-03-21
-pax-gold,PAX Gold,paxg,4506.89,-3.90642,loser,3,2026-03-21
-quant-network,Quant,qnt,78.21,-3.69618,loser,4,2026-03-21
-midnight-3,Midnight,night,0.04368406,-3.21382,loser,5,2026-03-21
-layerzero,LayerZero,zro,2.01,-3.04254,loser,6,2026-03-21
-ethena,Ethena,ena,0.101102,-2.90433,loser,7,2026-03-21
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.096128,-2.76609,loser,8,2026-03-21
-worldcoin-wld,Worldcoin,wld,0.313807,-2.62276,loser,9,2026-03-21
-polkadot,Polkadot,dot,1.49,-2.38213,loser,10,2026-03-21
+river,River,river,25.49,15.87858,gainer,1,2026-03-21
+filecoin,Filecoin,fil,0.95482,5.14804,gainer,2,2026-03-21
+siren-2,Siren,siren,0.953561,4.96056,gainer,3,2026-03-21
+xdce-crowd-sale,XDC Network,xdc,0.03295384,4.65723,gainer,4,2026-03-21
+sky,Sky,sky,0.075535,4.00233,gainer,5,2026-03-21
+morpho,Morpho,morpho,1.79,3.90055,gainer,6,2026-03-21
+hyperliquid,Hyperliquid,hype,40.27,3.11758,gainer,7,2026-03-21
+pi-network,Pi Network,pi,0.197257,2.60252,gainer,8,2026-03-21
+gatechain-token,Gate,gt,6.86,1.91715,gainer,9,2026-03-21
+canton-network,Canton,cc,0.145503,1.24777,gainer,10,2026-03-21
+worldcoin-wld,Worldcoin,wld,0.317744,-5.89765,loser,1,2026-03-21
+hash-2,Provenance Blockchain,hash,0.01334228,-3.07574,loser,2,2026-03-21
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.096041,-2.85505,loser,3,2026-03-21
+kaspa,Kaspa,kas,0.03681274,-2.28703,loser,4,2026-03-21
+midnight-3,Midnight,night,0.04360098,-2.07485,loser,5,2026-03-21
+shiba-inu,Shiba Inu,shib,5.97e-06,-1.98804,loser,6,2026-03-21
+memecore,MemeCore,m,1.65,-1.92317,loser,7,2026-03-21
+vechain,VeChain,vet,0.00719431,-1.79448,loser,8,2026-03-21
+tether-gold,Tether Gold,xaut,4495.5,-1.66775,loser,9,2026-03-21
+pax-gold,PAX Gold,paxg,4509.32,-1.33565,loser,10,2026-03-21
