@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.913757,14.97856,gainer,1,2026-03-21
-pi-network,Pi Network,pi,0.192132,7.70978,gainer,2,2026-03-21
-quant-network,Quant,qnt,79.41,5.97219,gainer,3,2026-03-21
-aptos,Aptos,apt,0.987907,3.62178,gainer,4,2026-03-21
-sky,Sky,sky,0.073744,3.41023,gainer,5,2026-03-21
-bitcoin-cash,Bitcoin Cash,bch,472.64,3.22626,gainer,6,2026-03-21
-fetch-ai,Artificial Superintelligence Alliance,fet,0.223237,3.01304,gainer,7,2026-03-21
-monero,Monero,xmr,348.89,2.84042,gainer,8,2026-03-21
-figure-heloc,Figure Heloc,figr_heloc,1.029,2.72365,gainer,9,2026-03-21
-kucoin-shares,KuCoin,kcs,8.16,2.59447,gainer,10,2026-03-21
-memecore,MemeCore,m,1.65,-9.70576,loser,1,2026-03-21
-stable-2,​​Stable,stable,0.02568564,-7.30153,loser,2,2026-03-21
-tether-gold,Tether Gold,xaut,4503.32,-3.33425,loser,3,2026-03-21
-pax-gold,PAX Gold,paxg,4515.05,-3.22646,loser,4,2026-03-21
-worldcoin-wld,Worldcoin,wld,0.32122,-3.20551,loser,5,2026-03-21
-near,NEAR Protocol,near,1.32,-2.05483,loser,6,2026-03-21
-bittensor,Bittensor,tao,274.05,-1.28396,loser,7,2026-03-21
-layerzero,LayerZero,zro,2.04,-1.25135,loser,8,2026-03-21
-cardano,Cardano,ada,0.266246,-1.18937,loser,9,2026-03-21
-hyperliquid,Hyperliquid,hype,39.45,-1.18513,loser,10,2026-03-21
+pi-network,Pi Network,pi,0.200959,6.23389,gainer,1,2026-03-21
+canton-network,Canton,cc,0.148008,3.59064,gainer,2,2026-03-21
+sky,Sky,sky,0.073824,3.58743,gainer,3,2026-03-21
+monero,Monero,xmr,348.59,3.00134,gainer,4,2026-03-21
+the-open-network,Toncoin,ton,1.26,2.84174,gainer,5,2026-03-21
+world-liberty-financial,World Liberty Financial,wlfi,0.094606,2.52759,gainer,6,2026-03-21
+xdce-crowd-sale,XDC Network,xdc,0.0325817,2.35996,gainer,7,2026-03-21
+kucoin-shares,KuCoin,kcs,8.18,2.24856,gainer,8,2026-03-21
+bitcoin-cash,Bitcoin Cash,bch,471.6,2.17904,gainer,9,2026-03-21
+tron,TRON,trx,0.310399,2.1687,gainer,10,2026-03-21
+bittensor,Bittensor,tao,272.24,-9.00178,loser,1,2026-03-21
+hash-2,Provenance Blockchain,hash,0.01278205,-7.33055,loser,2,2026-03-21
+stable-2,​​Stable,stable,0.02549552,-6.22793,loser,3,2026-03-21
+render-token,Render,render,1.7,-4.87217,loser,4,2026-03-21
+tether-gold,Tether Gold,xaut,4499.14,-3.87651,loser,5,2026-03-21
+pax-gold,PAX Gold,paxg,4512.46,-3.76135,loser,6,2026-03-21
+worldcoin-wld,Worldcoin,wld,0.32222,-3.09224,loser,7,2026-03-21
+ethena,Ethena,ena,0.102581,-3.07428,loser,8,2026-03-21
+fetch-ai,Artificial Superintelligence Alliance,fet,0.23121,-3.05387,loser,9,2026-03-21
+near,NEAR Protocol,near,1.32,-2.89691,loser,10,2026-03-21
