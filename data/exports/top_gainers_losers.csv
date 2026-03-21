@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.902823,12.41843,gainer,1,2026-03-20
-bittensor,Bittensor,tao,271.2,9.22858,gainer,2,2026-03-20
-pi-network,Pi Network,pi,0.191026,8.73199,gainer,3,2026-03-20
-shiba-inu,Shiba Inu,shib,6.06e-06,6.89568,gainer,4,2026-03-20
-fetch-ai,Artificial Superintelligence Alliance,fet,0.220887,6.60413,gainer,5,2026-03-20
-aptos,Aptos,apt,0.996931,6.05111,gainer,6,2026-03-20
-quant-network,Quant,qnt,77.08,3.98609,gainer,7,2026-03-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.098106,3.55309,gainer,8,2026-03-20
-morpho,Morpho,morpho,1.72,3.51514,gainer,9,2026-03-20
-render-token,Render,render,1.7,3.02897,gainer,10,2026-03-20
-stable-2,​​Stable,stable,0.02571549,-7.68254,loser,1,2026-03-20
-memecore,MemeCore,m,1.69,-7.26062,loser,2,2026-03-20
-hash-2,Provenance Blockchain,hash,0.01376684,-4.72832,loser,3,2026-03-20
-layerzero,LayerZero,zro,2.01,-3.52806,loser,4,2026-03-20
-figure-heloc,Figure Heloc,figr_heloc,1.001,-2.54918,loser,5,2026-03-20
-hyperliquid,Hyperliquid,hype,38.87,-2.09747,loser,6,2026-03-20
-xdce-crowd-sale,XDC Network,xdc,0.031396,-1.47292,loser,7,2026-03-20
-aave,Aave,aave,110.07,-1.28082,loser,8,2026-03-20
-tether-gold,Tether Gold,xaut,4557.84,-1.21393,loser,9,2026-03-20
-pax-gold,PAX Gold,paxg,4569.54,-0.99273,loser,10,2026-03-20
+siren-2,Siren,siren,0.913757,14.97856,gainer,1,2026-03-21
+pi-network,Pi Network,pi,0.192132,7.70978,gainer,2,2026-03-21
+quant-network,Quant,qnt,79.41,5.97219,gainer,3,2026-03-21
+aptos,Aptos,apt,0.987907,3.62178,gainer,4,2026-03-21
+sky,Sky,sky,0.073744,3.41023,gainer,5,2026-03-21
+bitcoin-cash,Bitcoin Cash,bch,472.64,3.22626,gainer,6,2026-03-21
+fetch-ai,Artificial Superintelligence Alliance,fet,0.223237,3.01304,gainer,7,2026-03-21
+monero,Monero,xmr,348.89,2.84042,gainer,8,2026-03-21
+figure-heloc,Figure Heloc,figr_heloc,1.029,2.72365,gainer,9,2026-03-21
+kucoin-shares,KuCoin,kcs,8.16,2.59447,gainer,10,2026-03-21
+memecore,MemeCore,m,1.65,-9.70576,loser,1,2026-03-21
+stable-2,​​Stable,stable,0.02568564,-7.30153,loser,2,2026-03-21
+tether-gold,Tether Gold,xaut,4503.32,-3.33425,loser,3,2026-03-21
+pax-gold,PAX Gold,paxg,4515.05,-3.22646,loser,4,2026-03-21
+worldcoin-wld,Worldcoin,wld,0.32122,-3.20551,loser,5,2026-03-21
+near,NEAR Protocol,near,1.32,-2.05483,loser,6,2026-03-21
+bittensor,Bittensor,tao,274.05,-1.28396,loser,7,2026-03-21
+layerzero,LayerZero,zro,2.04,-1.25135,loser,8,2026-03-21
+cardano,Cardano,ada,0.266246,-1.18937,loser,9,2026-03-21
+hyperliquid,Hyperliquid,hype,39.45,-1.18513,loser,10,2026-03-21
