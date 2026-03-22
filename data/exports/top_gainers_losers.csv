@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.18,29.23865,gainer,1,2026-03-22
-hash-2,Provenance Blockchain,hash,0.01418834,11.00172,gainer,2,2026-03-22
-river,River,river,25.68,5.34441,gainer,3,2026-03-22
-just,JUST,jst,0.060271,3.79122,gainer,4,2026-03-22
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,2.70248,gainer,5,2026-03-22
-world-liberty-financial,World Liberty Financial,wlfi,0.096005,1.36126,gainer,6,2026-03-22
-bittensor,Bittensor,tao,275.36,1.04635,gainer,7,2026-03-22
-beldex,Beldex,bdx,0.08033,0.38631,gainer,8,2026-03-22
-leo-token,LEO Token,leo,9.24,0.22305,gainer,9,2026-03-22
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.13917,gainer,10,2026-03-22
-rain,Rain,rain,0.0080976,-7.33813,loser,1,2026-03-22
-zcash,Zcash,zec,218.6,-6.18259,loser,2,2026-03-22
-pi-network,Pi Network,pi,0.189151,-5.75528,loser,3,2026-03-22
-layerzero,LayerZero,zro,1.96,-5.26026,loser,4,2026-03-22
-okb,OKB,okb,84.83,-5.00283,loser,5,2026-03-22
-quant-network,Quant,qnt,74.94,-4.99264,loser,6,2026-03-22
-arbitrum,Arbitrum,arb,0.095789,-4.31894,loser,7,2026-03-22
-jupiter-exchange-solana,Jupiter,jup,0.154021,-4.21122,loser,8,2026-03-22
-avalanche-2,Avalanche,avax,9.24,-4.01457,loser,9,2026-03-22
-xdce-crowd-sale,XDC Network,xdc,0.03118104,-3.9644,loser,10,2026-03-22
+siren-2,Siren,siren,1.86,104.17642,gainer,1,2026-03-22
+hash-2,Provenance Blockchain,hash,0.01432905,6.58332,gainer,2,2026-03-22
+river,River,river,27.03,5.21927,gainer,3,2026-03-22
+just,JUST,jst,0.061247,2.77017,gainer,4,2026-03-22
+memecore,MemeCore,m,1.67,2.36806,gainer,5,2026-03-22
+world-liberty-financial,World Liberty Financial,wlfi,0.097091,1.9714,gainer,6,2026-03-22
+bittensor,Bittensor,tao,271.65,0.62402,gainer,7,2026-03-22
+tron,TRON,trx,0.311774,0.5279,gainer,8,2026-03-22
+htx-dao,HTX DAO,htx,1.7e-06,0.23676,gainer,9,2026-03-22
+usdtb,USDtb,usdtb,1.001,0.1424,gainer,10,2026-03-22
+zcash,Zcash,zec,218.08,-6.72226,loser,1,2026-03-22
+aptos,Aptos,apt,0.937531,-6.44984,loser,2,2026-03-22
+arbitrum,Arbitrum,arb,0.093873,-5.65543,loser,3,2026-03-22
+morpho,Morpho,morpho,1.7,-5.2074,loser,4,2026-03-22
+pi-network,Pi Network,pi,0.190461,-5.20019,loser,5,2026-03-22
+jupiter-exchange-solana,Jupiter,jup,0.151289,-5.13675,loser,6,2026-03-22
+official-trump,Official Trump,trump,3.19,-4.79209,loser,7,2026-03-22
+pump-fun,Pump.fun,pump,0.00178462,-4.69196,loser,8,2026-03-22
+xdce-crowd-sale,XDC Network,xdc,0.03086963,-4.65417,loser,9,2026-03-22
+hyperliquid,Hyperliquid,hype,38.21,-4.45985,loser,10,2026-03-22
