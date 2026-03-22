@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.86,104.17642,gainer,1,2026-03-22
-hash-2,Provenance Blockchain,hash,0.01432905,6.58332,gainer,2,2026-03-22
-river,River,river,27.03,5.21927,gainer,3,2026-03-22
-just,JUST,jst,0.061247,2.77017,gainer,4,2026-03-22
-memecore,MemeCore,m,1.67,2.36806,gainer,5,2026-03-22
-world-liberty-financial,World Liberty Financial,wlfi,0.097091,1.9714,gainer,6,2026-03-22
-bittensor,Bittensor,tao,271.65,0.62402,gainer,7,2026-03-22
-tron,TRON,trx,0.311774,0.5279,gainer,8,2026-03-22
-htx-dao,HTX DAO,htx,1.7e-06,0.23676,gainer,9,2026-03-22
-usdtb,USDtb,usdtb,1.001,0.1424,gainer,10,2026-03-22
-zcash,Zcash,zec,218.08,-6.72226,loser,1,2026-03-22
-aptos,Aptos,apt,0.937531,-6.44984,loser,2,2026-03-22
-arbitrum,Arbitrum,arb,0.093873,-5.65543,loser,3,2026-03-22
-morpho,Morpho,morpho,1.7,-5.2074,loser,4,2026-03-22
-pi-network,Pi Network,pi,0.190461,-5.20019,loser,5,2026-03-22
-jupiter-exchange-solana,Jupiter,jup,0.151289,-5.13675,loser,6,2026-03-22
-official-trump,Official Trump,trump,3.19,-4.79209,loser,7,2026-03-22
-pump-fun,Pump.fun,pump,0.00178462,-4.69196,loser,8,2026-03-22
-xdce-crowd-sale,XDC Network,xdc,0.03086963,-4.65417,loser,9,2026-03-22
-hyperliquid,Hyperliquid,hype,38.21,-4.45985,loser,10,2026-03-22
+siren-2,Siren,siren,2.53,164.78431,gainer,1,2026-03-22
+river,River,river,29.13,14.27163,gainer,2,2026-03-22
+world-liberty-financial,World Liberty Financial,wlfi,0.09778,2.58041,gainer,3,2026-03-22
+memecore,MemeCore,m,1.69,2.54186,gainer,4,2026-03-22
+monero,Monero,xmr,357.7,2.32257,gainer,5,2026-03-22
+tron,TRON,trx,0.317939,2.32255,gainer,6,2026-03-22
+just,JUST,jst,0.061344,2.02977,gainer,7,2026-03-22
+htx-dao,HTX DAO,htx,1.73e-06,1.79399,gainer,8,2026-03-22
+stable-2,​​Stable,stable,0.02577508,1.18501,gainer,9,2026-03-22
+rain,Rain,rain,0.00871172,0.54001,gainer,10,2026-03-22
+filecoin,Filecoin,fil,0.872762,-8.58864,loser,1,2026-03-22
+aptos,Aptos,apt,0.92398,-7.82683,loser,2,2026-03-22
+arbitrum,Arbitrum,arb,0.092652,-7.32891,loser,3,2026-03-22
+quant-network,Quant,qnt,72.01,-7.11468,loser,4,2026-03-22
+internet-computer,Internet Computer,icp,2.38,-5.52362,loser,5,2026-03-22
+xdce-crowd-sale,XDC Network,xdc,0.03113668,-5.51669,loser,6,2026-03-22
+zcash,Zcash,zec,220.02,-5.34583,loser,7,2026-03-22
+morpho,Morpho,morpho,1.7,-5.26527,loser,8,2026-03-22
+hyperliquid,Hyperliquid,hype,38.15,-5.12041,loser,9,2026-03-22
+stellar,Stellar,xlm,0.157414,-4.90344,loser,10,2026-03-22
