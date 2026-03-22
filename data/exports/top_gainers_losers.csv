@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-river,River,river,25.45,15.65431,gainer,1,2026-03-22
-just,JUST,jst,0.060542,3.42499,gainer,2,2026-03-22
-siren-2,Siren,siren,0.937246,2.88973,gainer,3,2026-03-22
-world-liberty-financial,World Liberty Financial,wlfi,0.095951,2.88309,gainer,4,2026-03-22
-sky,Sky,sky,0.075415,2.35619,gainer,5,2026-03-22
-hash-2,Provenance Blockchain,hash,0.01375037,1.36823,gainer,6,2026-03-22
-the-open-network,Toncoin,ton,1.26,1.25269,gainer,7,2026-03-22
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.898,gainer,8,2026-03-22
-tron,TRON,trx,0.311084,0.80639,gainer,9,2026-03-22
-xdce-crowd-sale,XDC Network,xdc,0.03182777,0.63285,gainer,10,2026-03-22
-zcash,Zcash,zec,222.25,-5.76854,loser,1,2026-03-22
-kaspa,Kaspa,kas,0.03609616,-5.58194,loser,2,2026-03-22
-aster-2,Aster,aster,0.654676,-5.17148,loser,3,2026-03-22
-rain,Rain,rain,0.008297,-5.00289,loser,4,2026-03-22
-quant-network,Quant,qnt,76.25,-4.18918,loser,5,2026-03-22
-okb,OKB,okb,85.24,-4.18056,loser,6,2026-03-22
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094307,-3.85049,loser,7,2026-03-22
-arbitrum,Arbitrum,arb,0.096316,-3.71745,loser,8,2026-03-22
-layerzero,LayerZero,zro,1.97,-3.65192,loser,9,2026-03-22
-sui,Sui,sui,0.934641,-3.62602,loser,10,2026-03-22
+siren-2,Siren,siren,1.18,29.23865,gainer,1,2026-03-22
+hash-2,Provenance Blockchain,hash,0.01418834,11.00172,gainer,2,2026-03-22
+river,River,river,25.68,5.34441,gainer,3,2026-03-22
+just,JUST,jst,0.060271,3.79122,gainer,4,2026-03-22
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,2.70248,gainer,5,2026-03-22
+world-liberty-financial,World Liberty Financial,wlfi,0.096005,1.36126,gainer,6,2026-03-22
+bittensor,Bittensor,tao,275.36,1.04635,gainer,7,2026-03-22
+beldex,Beldex,bdx,0.08033,0.38631,gainer,8,2026-03-22
+leo-token,LEO Token,leo,9.24,0.22305,gainer,9,2026-03-22
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.13917,gainer,10,2026-03-22
+rain,Rain,rain,0.0080976,-7.33813,loser,1,2026-03-22
+zcash,Zcash,zec,218.6,-6.18259,loser,2,2026-03-22
+pi-network,Pi Network,pi,0.189151,-5.75528,loser,3,2026-03-22
+layerzero,LayerZero,zro,1.96,-5.26026,loser,4,2026-03-22
+okb,OKB,okb,84.83,-5.00283,loser,5,2026-03-22
+quant-network,Quant,qnt,74.94,-4.99264,loser,6,2026-03-22
+arbitrum,Arbitrum,arb,0.095789,-4.31894,loser,7,2026-03-22
+jupiter-exchange-solana,Jupiter,jup,0.154021,-4.21122,loser,8,2026-03-22
+avalanche-2,Avalanche,avax,9.24,-4.01457,loser,9,2026-03-22
+xdce-crowd-sale,XDC Network,xdc,0.03118104,-3.9644,loser,10,2026-03-22
