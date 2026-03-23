@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,2.44,17.90694,gainer,1,2026-03-23
-midnight-3,Midnight,night,0.04787785,12.5956,gainer,2,2026-03-23
-shiba-inu,Shiba Inu,shib,6.04e-06,4.24234,gainer,3,2026-03-23
-the-open-network,Toncoin,ton,1.3,3.79951,gainer,4,2026-03-23
-bittensor,Bittensor,tao,282.33,3.60262,gainer,5,2026-03-23
-monero,Monero,xmr,359.64,3.49647,gainer,6,2026-03-23
-avalanche-2,Avalanche,avax,9.43,3.2628,gainer,7,2026-03-23
-layerzero,LayerZero,zro,2.01,3.09381,gainer,8,2026-03-23
-bonk,Bonk,bonk,5.93e-06,3.02871,gainer,9,2026-03-23
-jupiter-exchange-solana,Jupiter,jup,0.15647,2.97756,gainer,10,2026-03-23
-bitget-token,Bitget Token,bgb,1.99,-5.94348,loser,1,2026-03-23
-stable-2,​​Stable,stable,0.02436477,-5.68314,loser,2,2026-03-23
-quant-network,Quant,qnt,71.43,-5.21056,loser,3,2026-03-23
-hash-2,Provenance Blockchain,hash,0.01361336,-4.99463,loser,4,2026-03-23
-kaspa,Kaspa,kas,0.03520544,-4.49381,loser,5,2026-03-23
-mantle,Mantle,mnt,0.703822,-3.95354,loser,6,2026-03-23
-sky,Sky,sky,0.070125,-3.92645,loser,7,2026-03-23
-ethena,Ethena,ena,0.095476,-2.81267,loser,8,2026-03-23
-tether-gold,Tether Gold,xaut,4396.97,-1.81021,loser,9,2026-03-23
-pax-gold,PAX Gold,paxg,4410.86,-1.31459,loser,10,2026-03-23
+midnight-3,Midnight,night,0.0474108,10.23459,gainer,1,2026-03-23
+aptos,Aptos,apt,1.003,8.59059,gainer,2,2026-03-23
+bittensor,Bittensor,tao,287.49,7.52449,gainer,3,2026-03-23
+shiba-inu,Shiba Inu,shib,6.09e-06,6.3783,gainer,4,2026-03-23
+pepe,Pepe,pepe,3.49e-06,6.34627,gainer,5,2026-03-23
+filecoin,Filecoin,fil,0.923191,6.20801,gainer,6,2026-03-23
+layerzero,LayerZero,zro,2.08,6.14245,gainer,7,2026-03-23
+zcash,Zcash,zec,231.24,5.31991,gainer,8,2026-03-23
+worldcoin-wld,Worldcoin,wld,0.325523,5.16171,gainer,9,2026-03-23
+solana,Solana,sol,91.39,4.87892,gainer,10,2026-03-23
+siren-2,Siren,siren,2.33,-24.48321,loser,1,2026-03-23
+tron,TRON,trx,0.303909,-4.41495,loser,2,2026-03-23
+kaspa,Kaspa,kas,0.03537363,-3.69763,loser,3,2026-03-23
+hash-2,Provenance Blockchain,hash,0.01322668,-3.40583,loser,4,2026-03-23
+ethena,Ethena,ena,0.093317,-3.37811,loser,5,2026-03-23
+htx-dao,HTX DAO,htx,1.69e-06,-2.31403,loser,6,2026-03-23
+mantle,Mantle,mnt,0.705461,-1.95789,loser,7,2026-03-23
+tether-gold,Tether Gold,xaut,4434.92,-1.20779,loser,8,2026-03-23
+pax-gold,PAX Gold,paxg,4442.82,-1.13402,loser,9,2026-03-23
+cosmos,Cosmos Hub,atom,1.77,-0.93455,loser,10,2026-03-23
