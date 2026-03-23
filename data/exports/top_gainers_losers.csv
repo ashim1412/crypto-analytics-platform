@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,2.39,154.66283,gainer,1,2026-03-23
-river,River,river,30.21,18.65366,gainer,2,2026-03-23
-monero,Monero,xmr,360.06,5.65098,gainer,3,2026-03-23
-rain,Rain,rain,0.00855726,3.15946,gainer,4,2026-03-23
-world-liberty-financial,World Liberty Financial,wlfi,0.098341,2.52635,gainer,5,2026-03-23
-aster-2,Aster,aster,0.668044,2.27371,gainer,6,2026-03-23
-memecore,MemeCore,m,1.68,1.86172,gainer,7,2026-03-23
-bitcoin-cash,Bitcoin Cash,bch,466.6,1.72609,gainer,8,2026-03-23
-leo-token,LEO Token,leo,9.29,0.67511,gainer,9,2026-03-23
-kaspa,Kaspa,kas,0.03623732,0.46016,gainer,10,2026-03-23
-quant-network,Quant,qnt,70.84,-7.07432,loser,1,2026-03-23
-sky,Sky,sky,0.070793,-6.23053,loser,2,2026-03-23
-bitget-token,Bitget Token,bgb,2.01,-5.08975,loser,3,2026-03-23
-morpho,Morpho,morpho,1.67,-4.7127,loser,4,2026-03-23
-hyperliquid,Hyperliquid,hype,37.7,-4.25618,loser,5,2026-03-23
-xdce-crowd-sale,XDC Network,xdc,0.03048116,-4.18186,loser,6,2026-03-23
-mantle,Mantle,mnt,0.70859,-4.0914,loser,7,2026-03-23
-aptos,Aptos,apt,0.940497,-3.85359,loser,8,2026-03-23
-internet-computer,Internet Computer,icp,2.35,-3.7406,loser,9,2026-03-23
-filecoin,Filecoin,fil,0.852188,-3.7172,loser,10,2026-03-23
+siren-2,Siren,siren,2.7,102.40817,gainer,1,2026-03-23
+memecore,MemeCore,m,1.79,8.02333,gainer,2,2026-03-23
+rain,Rain,rain,0.00842927,5.4214,gainer,3,2026-03-23
+monero,Monero,xmr,356.97,4.09623,gainer,4,2026-03-23
+just,JUST,jst,0.062298,2.63936,gainer,5,2026-03-23
+midnight-3,Midnight,night,0.04427589,2.57513,gainer,6,2026-03-23
+canton-network,Canton,cc,0.146486,1.68997,gainer,7,2026-03-23
+layerzero,LayerZero,zro,1.98,1.53774,gainer,8,2026-03-23
+pi-network,Pi Network,pi,0.191199,1.18252,gainer,9,2026-03-23
+jupiter-exchange-solana,Jupiter,jup,0.155368,0.84775,gainer,10,2026-03-23
+sky,Sky,sky,0.06663,-9.11321,loser,1,2026-03-23
+quant-network,Quant,qnt,69.37,-7.71906,loser,2,2026-03-23
+mantle,Mantle,mnt,0.691445,-6.37892,loser,3,2026-03-23
+pax-gold,PAX Gold,paxg,4236.74,-6.02991,loser,4,2026-03-23
+tether-gold,Tether Gold,xaut,4241.18,-5.59824,loser,5,2026-03-23
+bitget-token,Bitget Token,bgb,2.0,-5.50519,loser,6,2026-03-23
+aptos,Aptos,apt,0.922775,-4.61628,loser,7,2026-03-23
+filecoin,Filecoin,fil,0.847098,-4.01116,loser,8,2026-03-23
+sui,Sui,sui,0.901685,-3.64122,loser,9,2026-03-23
+ethena,Ethena,ena,0.095567,-3.56704,loser,10,2026-03-23
