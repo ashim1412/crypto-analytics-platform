@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,2.53,164.78431,gainer,1,2026-03-22
-river,River,river,29.13,14.27163,gainer,2,2026-03-22
-world-liberty-financial,World Liberty Financial,wlfi,0.09778,2.58041,gainer,3,2026-03-22
-memecore,MemeCore,m,1.69,2.54186,gainer,4,2026-03-22
-monero,Monero,xmr,357.7,2.32257,gainer,5,2026-03-22
-tron,TRON,trx,0.317939,2.32255,gainer,6,2026-03-22
-just,JUST,jst,0.061344,2.02977,gainer,7,2026-03-22
-htx-dao,HTX DAO,htx,1.73e-06,1.79399,gainer,8,2026-03-22
-stable-2,​​Stable,stable,0.02577508,1.18501,gainer,9,2026-03-22
-rain,Rain,rain,0.00871172,0.54001,gainer,10,2026-03-22
-filecoin,Filecoin,fil,0.872762,-8.58864,loser,1,2026-03-22
-aptos,Aptos,apt,0.92398,-7.82683,loser,2,2026-03-22
-arbitrum,Arbitrum,arb,0.092652,-7.32891,loser,3,2026-03-22
-quant-network,Quant,qnt,72.01,-7.11468,loser,4,2026-03-22
-internet-computer,Internet Computer,icp,2.38,-5.52362,loser,5,2026-03-22
-xdce-crowd-sale,XDC Network,xdc,0.03113668,-5.51669,loser,6,2026-03-22
-zcash,Zcash,zec,220.02,-5.34583,loser,7,2026-03-22
-morpho,Morpho,morpho,1.7,-5.26527,loser,8,2026-03-22
-hyperliquid,Hyperliquid,hype,38.15,-5.12041,loser,9,2026-03-22
-stellar,Stellar,xlm,0.157414,-4.90344,loser,10,2026-03-22
+siren-2,Siren,siren,2.39,154.66283,gainer,1,2026-03-23
+river,River,river,30.21,18.65366,gainer,2,2026-03-23
+monero,Monero,xmr,360.06,5.65098,gainer,3,2026-03-23
+rain,Rain,rain,0.00855726,3.15946,gainer,4,2026-03-23
+world-liberty-financial,World Liberty Financial,wlfi,0.098341,2.52635,gainer,5,2026-03-23
+aster-2,Aster,aster,0.668044,2.27371,gainer,6,2026-03-23
+memecore,MemeCore,m,1.68,1.86172,gainer,7,2026-03-23
+bitcoin-cash,Bitcoin Cash,bch,466.6,1.72609,gainer,8,2026-03-23
+leo-token,LEO Token,leo,9.29,0.67511,gainer,9,2026-03-23
+kaspa,Kaspa,kas,0.03623732,0.46016,gainer,10,2026-03-23
+quant-network,Quant,qnt,70.84,-7.07432,loser,1,2026-03-23
+sky,Sky,sky,0.070793,-6.23053,loser,2,2026-03-23
+bitget-token,Bitget Token,bgb,2.01,-5.08975,loser,3,2026-03-23
+morpho,Morpho,morpho,1.67,-4.7127,loser,4,2026-03-23
+hyperliquid,Hyperliquid,hype,37.7,-4.25618,loser,5,2026-03-23
+xdce-crowd-sale,XDC Network,xdc,0.03048116,-4.18186,loser,6,2026-03-23
+mantle,Mantle,mnt,0.70859,-4.0914,loser,7,2026-03-23
+aptos,Aptos,apt,0.940497,-3.85359,loser,8,2026-03-23
+internet-computer,Internet Computer,icp,2.35,-3.7406,loser,9,2026-03-23
+filecoin,Filecoin,fil,0.852188,-3.7172,loser,10,2026-03-23
