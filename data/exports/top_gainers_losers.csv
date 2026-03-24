@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,2.21,14.45609,gainer,1,2026-03-24
-bittensor,Bittensor,tao,299.33,12.92612,gainer,2,2026-03-24
-a7a5,A7A5,a7a5,0.01347099,12.65492,gainer,3,2026-03-24
-aptos,Aptos,apt,1.054,11.87502,gainer,4,2026-03-24
-fetch-ai,Artificial Superintelligence Alliance,fet,0.230665,10.92773,gainer,5,2026-03-24
-midnight-3,Midnight,night,0.04700036,10.67108,gainer,6,2026-03-24
-filecoin,Filecoin,fil,0.919264,8.0107,gainer,7,2026-03-24
-render-token,Render,render,1.71,6.67157,gainer,8,2026-03-24
-siren-2,Siren,siren,2.43,6.1475,gainer,9,2026-03-24
-zcash,Zcash,zec,230.75,5.92293,gainer,10,2026-03-24
-hash-2,Provenance Blockchain,hash,0.01312071,-4.90534,loser,1,2026-03-24
-kaspa,Kaspa,kas,0.03490101,-3.67046,loser,2,2026-03-24
-ethena,Ethena,ena,0.092823,-3.57652,loser,3,2026-03-24
-monero,Monero,xmr,352.17,-2.04689,loser,4,2026-03-24
-pi-network,Pi Network,pi,0.188576,-2.00928,loser,5,2026-03-24
-htx-dao,HTX DAO,htx,1.7e-06,-1.03716,loser,6,2026-03-24
-aster-2,Aster,aster,0.660097,-1.0268,loser,7,2026-03-24
-quant-network,Quant,qnt,70.7,-0.5029,loser,8,2026-03-24
-tron,TRON,trx,0.308476,-0.41753,loser,9,2026-03-24
-mantle,Mantle,mnt,0.704957,-0.30635,loser,10,2026-03-24
+bittensor,Bittensor,tao,308.16,14.58647,gainer,1,2026-03-24
+aptos,Aptos,apt,1.047,13.4264,gainer,2,2026-03-24
+fetch-ai,Artificial Superintelligence Alliance,fet,0.227135,11.27084,gainer,3,2026-03-24
+filecoin,Filecoin,fil,0.938083,10.66849,gainer,4,2026-03-24
+hash-2,Provenance Blockchain,hash,0.0149642,8.7883,gainer,5,2026-03-24
+world-liberty-financial,World Liberty Financial,wlfi,0.105026,8.0985,gainer,6,2026-03-24
+render-token,Render,render,1.74,7.75159,gainer,7,2026-03-24
+sky,Sky,sky,0.071123,7.19617,gainer,8,2026-03-24
+layerzero,LayerZero,zro,2.12,7.14795,gainer,9,2026-03-24
+stable-2,​​Stable,stable,0.02707401,7.03448,gainer,10,2026-03-24
+siren-2,Siren,siren,1.008,-62.59148,loser,1,2026-03-24
+memecore,MemeCore,m,1.71,-4.24742,loser,2,2026-03-24
+ethena,Ethena,ena,0.092653,-2.92446,loser,3,2026-03-24
+monero,Monero,xmr,348.5,-2.35899,loser,4,2026-03-24
+aster-2,Aster,aster,0.647421,-1.89772,loser,5,2026-03-24
+pi-network,Pi Network,pi,0.188294,-1.51911,loser,6,2026-03-24
+jupiter-exchange-solana,Jupiter,jup,0.153301,-1.46693,loser,7,2026-03-24
+kaspa,Kaspa,kas,0.03475884,-1.40492,loser,8,2026-03-24
+just,JUST,jst,0.061798,-0.64537,loser,9,2026-03-24
+polkadot,Polkadot,dot,1.41,-0.24566,loser,10,2026-03-24
