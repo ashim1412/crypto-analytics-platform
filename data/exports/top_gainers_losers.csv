@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bittensor,Bittensor,tao,308.16,14.58647,gainer,1,2026-03-24
-aptos,Aptos,apt,1.047,13.4264,gainer,2,2026-03-24
-fetch-ai,Artificial Superintelligence Alliance,fet,0.227135,11.27084,gainer,3,2026-03-24
-filecoin,Filecoin,fil,0.938083,10.66849,gainer,4,2026-03-24
-hash-2,Provenance Blockchain,hash,0.0149642,8.7883,gainer,5,2026-03-24
-world-liberty-financial,World Liberty Financial,wlfi,0.105026,8.0985,gainer,6,2026-03-24
-render-token,Render,render,1.74,7.75159,gainer,7,2026-03-24
-sky,Sky,sky,0.071123,7.19617,gainer,8,2026-03-24
-layerzero,LayerZero,zro,2.12,7.14795,gainer,9,2026-03-24
-stable-2,​​Stable,stable,0.02707401,7.03448,gainer,10,2026-03-24
-siren-2,Siren,siren,1.008,-62.59148,loser,1,2026-03-24
-memecore,MemeCore,m,1.71,-4.24742,loser,2,2026-03-24
-ethena,Ethena,ena,0.092653,-2.92446,loser,3,2026-03-24
-monero,Monero,xmr,348.5,-2.35899,loser,4,2026-03-24
-aster-2,Aster,aster,0.647421,-1.89772,loser,5,2026-03-24
-pi-network,Pi Network,pi,0.188294,-1.51911,loser,6,2026-03-24
-jupiter-exchange-solana,Jupiter,jup,0.153301,-1.46693,loser,7,2026-03-24
-kaspa,Kaspa,kas,0.03475884,-1.40492,loser,8,2026-03-24
-just,JUST,jst,0.061798,-0.64537,loser,9,2026-03-24
-polkadot,Polkadot,dot,1.41,-0.24566,loser,10,2026-03-24
+aptos,Aptos,apt,1.051,11.36057,gainer,1,2026-03-24
+bittensor,Bittensor,tao,311.01,9.61519,gainer,2,2026-03-24
+layerzero,LayerZero,zro,2.16,7.01042,gainer,3,2026-03-24
+world-liberty-financial,World Liberty Financial,wlfi,0.104462,6.39471,gainer,4,2026-03-24
+fetch-ai,Artificial Superintelligence Alliance,fet,0.230421,5.96524,gainer,5,2026-03-24
+stable-2,​​Stable,stable,0.02567113,5.0743,gainer,6,2026-03-24
+render-token,Render,render,1.74,4.67364,gainer,7,2026-03-24
+kaspa,Kaspa,kas,0.03688732,4.47405,gainer,8,2026-03-24
+quant-network,Quant,qnt,74.78,4.0834,gainer,9,2026-03-24
+bitget-token,Bitget Token,bgb,2.05,2.89262,gainer,10,2026-03-24
+siren-2,Siren,siren,1.003,-59.11484,loser,1,2026-03-24
+river,River,river,25.13,-7.33581,loser,2,2026-03-24
+just,JUST,jst,0.059088,-5.92222,loser,3,2026-03-24
+polkadot,Polkadot,dot,1.39,-5.19315,loser,4,2026-03-24
+monero,Monero,xmr,341.87,-4.92106,loser,5,2026-03-24
+cosmos,Cosmos Hub,atom,1.79,-2.07845,loser,6,2026-03-24
+canton-network,Canton,cc,0.144228,-1.94508,loser,7,2026-03-24
+pump-fun,Pump.fun,pump,0.00178439,-1.64076,loser,8,2026-03-24
+jupiter-exchange-solana,Jupiter,jup,0.154543,-1.51689,loser,9,2026-03-24
+bitcoin-cash,Bitcoin Cash,bch,473.32,-1.32126,loser,10,2026-03-24
