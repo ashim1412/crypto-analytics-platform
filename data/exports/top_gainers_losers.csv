@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.0474108,10.23459,gainer,1,2026-03-23
-aptos,Aptos,apt,1.003,8.59059,gainer,2,2026-03-23
-bittensor,Bittensor,tao,287.49,7.52449,gainer,3,2026-03-23
-shiba-inu,Shiba Inu,shib,6.09e-06,6.3783,gainer,4,2026-03-23
-pepe,Pepe,pepe,3.49e-06,6.34627,gainer,5,2026-03-23
-filecoin,Filecoin,fil,0.923191,6.20801,gainer,6,2026-03-23
-layerzero,LayerZero,zro,2.08,6.14245,gainer,7,2026-03-23
-zcash,Zcash,zec,231.24,5.31991,gainer,8,2026-03-23
-worldcoin-wld,Worldcoin,wld,0.325523,5.16171,gainer,9,2026-03-23
-solana,Solana,sol,91.39,4.87892,gainer,10,2026-03-23
-siren-2,Siren,siren,2.33,-24.48321,loser,1,2026-03-23
-tron,TRON,trx,0.303909,-4.41495,loser,2,2026-03-23
-kaspa,Kaspa,kas,0.03537363,-3.69763,loser,3,2026-03-23
-hash-2,Provenance Blockchain,hash,0.01322668,-3.40583,loser,4,2026-03-23
-ethena,Ethena,ena,0.093317,-3.37811,loser,5,2026-03-23
-htx-dao,HTX DAO,htx,1.69e-06,-2.31403,loser,6,2026-03-23
-mantle,Mantle,mnt,0.705461,-1.95789,loser,7,2026-03-23
-tether-gold,Tether Gold,xaut,4434.92,-1.20779,loser,8,2026-03-23
-pax-gold,PAX Gold,paxg,4442.82,-1.13402,loser,9,2026-03-23
-cosmos,Cosmos Hub,atom,1.77,-0.93455,loser,10,2026-03-23
+layerzero,LayerZero,zro,2.21,14.45609,gainer,1,2026-03-24
+bittensor,Bittensor,tao,299.33,12.92612,gainer,2,2026-03-24
+a7a5,A7A5,a7a5,0.01347099,12.65492,gainer,3,2026-03-24
+aptos,Aptos,apt,1.054,11.87502,gainer,4,2026-03-24
+fetch-ai,Artificial Superintelligence Alliance,fet,0.230665,10.92773,gainer,5,2026-03-24
+midnight-3,Midnight,night,0.04700036,10.67108,gainer,6,2026-03-24
+filecoin,Filecoin,fil,0.919264,8.0107,gainer,7,2026-03-24
+render-token,Render,render,1.71,6.67157,gainer,8,2026-03-24
+siren-2,Siren,siren,2.43,6.1475,gainer,9,2026-03-24
+zcash,Zcash,zec,230.75,5.92293,gainer,10,2026-03-24
+hash-2,Provenance Blockchain,hash,0.01312071,-4.90534,loser,1,2026-03-24
+kaspa,Kaspa,kas,0.03490101,-3.67046,loser,2,2026-03-24
+ethena,Ethena,ena,0.092823,-3.57652,loser,3,2026-03-24
+monero,Monero,xmr,352.17,-2.04689,loser,4,2026-03-24
+pi-network,Pi Network,pi,0.188576,-2.00928,loser,5,2026-03-24
+htx-dao,HTX DAO,htx,1.7e-06,-1.03716,loser,6,2026-03-24
+aster-2,Aster,aster,0.660097,-1.0268,loser,7,2026-03-24
+quant-network,Quant,qnt,70.7,-0.5029,loser,8,2026-03-24
+tron,TRON,trx,0.308476,-0.41753,loser,9,2026-03-24
+mantle,Mantle,mnt,0.704957,-0.30635,loser,10,2026-03-24
