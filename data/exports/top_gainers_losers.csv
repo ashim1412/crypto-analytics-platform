@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bittensor,Bittensor,tao,337.92,13.19411,gainer,1,2026-03-25
-fetch-ai,Artificial Superintelligence Alliance,fet,0.250461,8.10457,gainer,2,2026-03-25
-hyperliquid,Hyperliquid,hype,40.46,7.69191,gainer,3,2026-03-25
-quant-network,Quant,qnt,75.97,7.45951,gainer,4,2026-03-25
-stellar,Stellar,xlm,0.176756,6.90715,gainer,5,2026-03-25
-morpho,Morpho,morpho,1.76,5.50997,gainer,6,2026-03-25
-zcash,Zcash,zec,243.1,5.50076,gainer,7,2026-03-25
-kaspa,Kaspa,kas,0.03653788,4.74596,gainer,8,2026-03-25
-beldex,Beldex,bdx,0.083399,4.68397,gainer,9,2026-03-25
-pax-gold,PAX Gold,paxg,4562.53,4.60202,gainer,10,2026-03-25
-siren-2,Siren,siren,1.15,-51.01711,loser,1,2026-03-25
-just,JUST,jst,0.058978,-6.25877,loser,2,2026-03-25
-monero,Monero,xmr,339.23,-3.74656,loser,3,2026-03-25
-canton-network,Canton,cc,0.142179,-3.07732,loser,4,2026-03-25
-sky,Sky,sky,0.070803,-2.67074,loser,5,2026-03-25
-polkadot,Polkadot,dot,1.4,-1.34725,loser,6,2026-03-25
-stable-2,​​Stable,stable,0.02622637,-1.21148,loser,7,2026-03-25
-crypto-com-chain,Cronos,cro,0.075218,-1.04552,loser,8,2026-03-25
-near,NEAR Protocol,near,1.3,-1.02627,loser,9,2026-03-25
-memecore,MemeCore,m,1.72,-0.95079,loser,10,2026-03-25
+siren-2,Siren,siren,2.11,110.0373,gainer,1,2026-03-25
+bittensor,Bittensor,tao,341.55,10.81254,gainer,2,2026-03-25
+fetch-ai,Artificial Superintelligence Alliance,fet,0.249055,9.63097,gainer,3,2026-03-25
+stellar,Stellar,xlm,0.179536,9.01236,gainer,4,2026-03-25
+quant-network,Quant,qnt,75.24,6.29392,gainer,5,2026-03-25
+kaspa,Kaspa,kas,0.03673878,5.69565,gainer,6,2026-03-25
+hyperliquid,Hyperliquid,hype,40.17,5.64443,gainer,7,2026-03-25
+bonk,Bonk,bonk,6.26e-06,5.63802,gainer,8,2026-03-25
+pepe,Pepe,pepe,3.6e-06,5.13867,gainer,9,2026-03-25
+layerzero,LayerZero,zro,2.23,4.87218,gainer,10,2026-03-25
+hash-2,Provenance Blockchain,hash,0.0133228,-10.96888,loser,1,2026-03-25
+canton-network,Canton,cc,0.140404,-4.1849,loser,2,2026-03-25
+world-liberty-financial,World Liberty Financial,wlfi,0.101335,-3.5505,loser,3,2026-03-25
+monero,Monero,xmr,338.52,-2.86284,loser,4,2026-03-25
+just,JUST,jst,0.060066,-2.82024,loser,5,2026-03-25
+filecoin,Filecoin,fil,0.91466,-2.39125,loser,6,2026-03-25
+near,NEAR Protocol,near,1.28,-2.10507,loser,7,2026-03-25
+polkadot,Polkadot,dot,1.38,-1.96748,loser,8,2026-03-25
+tron,TRON,trx,0.30747,-0.89546,loser,9,2026-03-25
+the-open-network,Toncoin,ton,1.33,-0.81456,loser,10,2026-03-25
