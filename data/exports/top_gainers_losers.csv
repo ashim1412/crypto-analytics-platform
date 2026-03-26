@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,2.47,43.23223,gainer,1,2026-03-26
-ethena,Ethena,ena,0.101402,6.84732,gainer,2,2026-03-26
-hash-2,Provenance Blockchain,hash,0.01414948,6.22495,gainer,3,2026-03-26
-kaspa,Kaspa,kas,0.03766659,2.576,gainer,4,2026-03-26
-just,JUST,jst,0.061522,2.44664,gainer,5,2026-03-26
-tron,TRON,trx,0.314733,2.38457,gainer,6,2026-03-26
-ondo-finance,Ondo,ondo,0.262018,1.03813,gainer,7,2026-03-26
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.89638,gainer,8,2026-03-26
-htx-dao,HTX DAO,htx,1.71e-06,0.7776,gainer,9,2026-03-26
-leo-token,LEO Token,leo,9.51,0.61359,gainer,10,2026-03-26
-siren-2,Siren,siren,1.9,-10.18134,loser,1,2026-03-26
-layerzero,LayerZero,zro,2.08,-6.64529,loser,2,2026-03-26
-official-trump,Official Trump,trump,3.14,-5.7601,loser,3,2026-03-26
-zcash,Zcash,zec,224.93,-5.61329,loser,4,2026-03-26
-dogecoin,Dogecoin,doge,0.092437,-4.98652,loser,5,2026-03-26
-jupiter-exchange-solana,Jupiter,jup,0.151422,-4.85714,loser,6,2026-03-26
-pepe,Pepe,pepe,3.43e-06,-4.63865,loser,7,2026-03-26
-polkadot,Polkadot,dot,1.32,-4.58791,loser,8,2026-03-26
-morpho,Morpho,morpho,1.66,-4.46168,loser,9,2026-03-26
-bonk,Bonk,bonk,6e-06,-4.27994,loser,10,2026-03-26
+memecore,MemeCore,m,2.09,16.28333,gainer,1,2026-03-26
+hash-2,Provenance Blockchain,hash,0.0137976,4.86828,gainer,2,2026-03-26
+midnight-3,Midnight,night,0.04510717,2.17136,gainer,3,2026-03-26
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.89012,gainer,4,2026-03-26
+just,JUST,jst,0.057525,0.80945,gainer,5,2026-03-26
+tron,TRON,trx,0.312224,0.72227,gainer,6,2026-03-26
+leo-token,LEO Token,leo,9.52,0.6019,gainer,7,2026-03-26
+nexo,NEXO,nexo,0.890243,0.32733,gainer,8,2026-03-26
+htx-dao,HTX DAO,htx,1.71e-06,0.32221,gainer,9,2026-03-26
+usdtb,USDtb,usdtb,1.001,0.20986,gainer,10,2026-03-26
+siren-2,Siren,siren,1.92,-10.61873,loser,1,2026-03-26
+aave,Aave,aave,106.28,-7.58037,loser,2,2026-03-26
+layerzero,LayerZero,zro,2.06,-6.87694,loser,3,2026-03-26
+official-trump,Official Trump,trump,3.14,-6.07337,loser,4,2026-03-26
+near,NEAR Protocol,near,1.22,-5.87783,loser,5,2026-03-26
+stable-2,​​Stable,stable,0.02563542,-5.85059,loser,6,2026-03-26
+dogecoin,Dogecoin,doge,0.091431,-5.60658,loser,7,2026-03-26
+worldcoin-wld,Worldcoin,wld,0.305369,-5.59704,loser,8,2026-03-26
+cardano,Cardano,ada,0.257674,-5.56047,loser,9,2026-03-26
+zcash,Zcash,zec,221.5,-5.56025,loser,10,2026-03-26
