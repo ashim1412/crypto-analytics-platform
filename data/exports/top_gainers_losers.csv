@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,2.25,78.94843,gainer,1,2026-03-26
-memecore,MemeCore,m,2.46,42.52493,gainer,2,2026-03-26
-ethena,Ethena,ena,0.106523,12.38503,gainer,3,2026-03-26
-kaspa,Kaspa,kas,0.03860559,6.02257,gainer,4,2026-03-26
-bittensor,Bittensor,tao,353.87,5.8817,gainer,5,2026-03-26
-render-token,Render,render,1.86,5.52216,gainer,6,2026-03-26
-ondo-finance,Ondo,ondo,0.269852,5.11116,gainer,7,2026-03-26
-pump-fun,Pump.fun,pump,0.00190624,3.66636,gainer,8,2026-03-26
-sky,Sky,sky,0.073315,3.37157,gainer,9,2026-03-26
-mantle,Mantle,mnt,0.739873,3.17051,gainer,10,2026-03-26
-midnight-3,Midnight,night,0.04463157,-6.88535,loser,1,2026-03-26
-layerzero,LayerZero,zro,2.15,-5.31531,loser,2,2026-03-26
-zcash,Zcash,zec,232.31,-5.30664,loser,3,2026-03-26
-morpho,Morpho,morpho,1.7,-3.66845,loser,4,2026-03-26
-polkadot,Polkadot,dot,1.36,-3.17082,loser,5,2026-03-26
-aptos,Aptos,apt,1.063,-2.08211,loser,6,2026-03-26
-world-liberty-financial,World Liberty Financial,wlfi,0.102308,-2.06467,loser,7,2026-03-26
-cosmos,Cosmos Hub,atom,1.76,-2.00788,loser,8,2026-03-26
-near,NEAR Protocol,near,1.27,-1.79333,loser,9,2026-03-26
-vechain,VeChain,vet,0.00709379,-1.69495,loser,10,2026-03-26
+memecore,MemeCore,m,2.47,43.23223,gainer,1,2026-03-26
+ethena,Ethena,ena,0.101402,6.84732,gainer,2,2026-03-26
+hash-2,Provenance Blockchain,hash,0.01414948,6.22495,gainer,3,2026-03-26
+kaspa,Kaspa,kas,0.03766659,2.576,gainer,4,2026-03-26
+just,JUST,jst,0.061522,2.44664,gainer,5,2026-03-26
+tron,TRON,trx,0.314733,2.38457,gainer,6,2026-03-26
+ondo-finance,Ondo,ondo,0.262018,1.03813,gainer,7,2026-03-26
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.89638,gainer,8,2026-03-26
+htx-dao,HTX DAO,htx,1.71e-06,0.7776,gainer,9,2026-03-26
+leo-token,LEO Token,leo,9.51,0.61359,gainer,10,2026-03-26
+siren-2,Siren,siren,1.9,-10.18134,loser,1,2026-03-26
+layerzero,LayerZero,zro,2.08,-6.64529,loser,2,2026-03-26
+official-trump,Official Trump,trump,3.14,-5.7601,loser,3,2026-03-26
+zcash,Zcash,zec,224.93,-5.61329,loser,4,2026-03-26
+dogecoin,Dogecoin,doge,0.092437,-4.98652,loser,5,2026-03-26
+jupiter-exchange-solana,Jupiter,jup,0.151422,-4.85714,loser,6,2026-03-26
+pepe,Pepe,pepe,3.43e-06,-4.63865,loser,7,2026-03-26
+polkadot,Polkadot,dot,1.32,-4.58791,loser,8,2026-03-26
+morpho,Morpho,morpho,1.66,-4.46168,loser,9,2026-03-26
+bonk,Bonk,bonk,6e-06,-4.27994,loser,10,2026-03-26
