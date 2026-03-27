@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.288193,10.04751,gainer,1,2026-03-27
-canton-network,Canton,cc,0.146701,4.27935,gainer,2,2026-03-27
-layerzero,LayerZero,zro,2.13,2.0776,gainer,3,2026-03-27
-aster-2,Aster,aster,0.666335,0.98713,gainer,4,2026-03-27
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.0964,0.60761,gainer,5,2026-03-27
-leo-token,LEO Token,leo,9.55,0.34486,gainer,6,2026-03-27
-pax-gold,PAX Gold,paxg,4460.74,0.17619,gainer,7,2026-03-27
-bitcoin-cash,Bitcoin Cash,bch,466.26,0.14971,gainer,8,2026-03-27
-tether-gold,Tether Gold,xaut,4454.78,0.1323,gainer,9,2026-03-27
-polkadot,Polkadot,dot,1.32,0.07625,gainer,10,2026-03-27
-siren-2,Siren,siren,1.064,-43.82713,loser,1,2026-03-27
-memecore,MemeCore,m,2.08,-15.87727,loser,2,2026-03-27
-hash-2,Provenance Blockchain,hash,0.01264346,-10.64463,loser,3,2026-03-27
-rain,Rain,rain,0.00763287,-10.21792,loser,4,2026-03-27
-worldcoin-wld,Worldcoin,wld,0.28217,-8.16053,loser,5,2026-03-27
-the-open-network,Toncoin,ton,1.24,-4.97789,loser,6,2026-03-27
-pi-network,Pi Network,pi,0.180393,-4.06533,loser,7,2026-03-27
-morpho,Morpho,morpho,1.59,-4.05205,loser,8,2026-03-27
-avalanche-2,Avalanche,avax,9.07,-3.7842,loser,9,2026-03-27
-kaspa,Kaspa,kas,0.03634636,-3.57441,loser,10,2026-03-27
+memecore,MemeCore,m,2.2,4.63367,gainer,1,2026-03-27
+canton-network,Canton,cc,0.142938,3.9135,gainer,2,2026-03-27
+stable-2,​​Stable,stable,0.02652399,3.36229,gainer,3,2026-03-27
+just,JUST,jst,0.058337,1.8234,gainer,4,2026-03-27
+ondo-finance,Ondo,ondo,0.261636,1.56853,gainer,5,2026-03-27
+leo-token,LEO Token,leo,9.53,0.25304,gainer,6,2026-03-27
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,0.17794,gainer,7,2026-03-27
+usdtb,USDtb,usdtb,1.0,0.14724,gainer,8,2026-03-27
+bitcoin-cash,Bitcoin Cash,bch,462.66,0.06512,gainer,9,2026-03-27
+gho,GHO,gho,0.999872,0.0501,gainer,10,2026-03-27
+siren-2,Siren,siren,0.798336,-58.83052,loser,1,2026-03-27
+hash-2,Provenance Blockchain,hash,0.01206464,-15.07557,loser,2,2026-03-27
+worldcoin-wld,Worldcoin,wld,0.273465,-10.57298,loser,3,2026-03-27
+morpho,Morpho,morpho,1.51,-8.15902,loser,4,2026-03-27
+pi-network,Pi Network,pi,0.173172,-7.66943,loser,5,2026-03-27
+kaspa,Kaspa,kas,0.03416669,-7.18497,loser,6,2026-03-27
+filecoin,Filecoin,fil,0.839066,-6.297,loser,7,2026-03-27
+bittensor,Bittensor,tao,318.81,-5.93952,loser,8,2026-03-27
+ethena,Ethena,ena,0.092655,-5.79857,loser,9,2026-03-27
+avalanche-2,Avalanche,avax,8.75,-5.24673,loser,10,2026-03-27
