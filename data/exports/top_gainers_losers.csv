@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04590387,2.85118,gainer,1,2026-03-27
-canton-network,Canton,cc,0.14519,2.25279,gainer,2,2026-03-27
-ondo-finance,Ondo,ondo,0.272991,1.14945,gainer,3,2026-03-27
-beldex,Beldex,bdx,0.083132,0.93752,gainer,4,2026-03-27
-aster-2,Aster,aster,0.670514,0.90806,gainer,5,2026-03-27
-leo-token,LEO Token,leo,9.53,0.54157,gainer,6,2026-03-27
-gho,GHO,gho,0.999154,0.01038,gainer,7,2026-03-27
-janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.098,0.00983,gainer,8,2026-03-27
-superstate-short-duration-us-government-securities-fund-ustb,Superstate Short Duration U.S. Government Securities Fund (USTB),ustb,11.03,0.00933,gainer,9,2026-03-27
-ousg,OUSG,ousg,114.72,0.00927,gainer,10,2026-03-27
-siren-2,Siren,siren,1.72,-22.77963,loser,1,2026-03-27
-memecore,MemeCore,m,2.16,-12.3828,loser,2,2026-03-27
-worldcoin-wld,Worldcoin,wld,0.290789,-9.56466,loser,3,2026-03-27
-hash-2,Provenance Blockchain,hash,0.01256245,-9.20876,loser,4,2026-03-27
-ethena,Ethena,ena,0.097078,-8.77926,loser,5,2026-03-27
-morpho,Morpho,morpho,1.55,-8.4728,loser,6,2026-03-27
-rain,Rain,rain,0.00835867,-6.95595,loser,7,2026-03-27
-pump-fun,Pump.fun,pump,0.00177827,-6.70123,loser,8,2026-03-27
-kaspa,Kaspa,kas,0.03606688,-6.42395,loser,9,2026-03-27
-aave,Aave,aave,105.58,-6.03304,loser,10,2026-03-27
+ondo-finance,Ondo,ondo,0.288193,10.04751,gainer,1,2026-03-27
+canton-network,Canton,cc,0.146701,4.27935,gainer,2,2026-03-27
+layerzero,LayerZero,zro,2.13,2.0776,gainer,3,2026-03-27
+aster-2,Aster,aster,0.666335,0.98713,gainer,4,2026-03-27
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.0964,0.60761,gainer,5,2026-03-27
+leo-token,LEO Token,leo,9.55,0.34486,gainer,6,2026-03-27
+pax-gold,PAX Gold,paxg,4460.74,0.17619,gainer,7,2026-03-27
+bitcoin-cash,Bitcoin Cash,bch,466.26,0.14971,gainer,8,2026-03-27
+tether-gold,Tether Gold,xaut,4454.78,0.1323,gainer,9,2026-03-27
+polkadot,Polkadot,dot,1.32,0.07625,gainer,10,2026-03-27
+siren-2,Siren,siren,1.064,-43.82713,loser,1,2026-03-27
+memecore,MemeCore,m,2.08,-15.87727,loser,2,2026-03-27
+hash-2,Provenance Blockchain,hash,0.01264346,-10.64463,loser,3,2026-03-27
+rain,Rain,rain,0.00763287,-10.21792,loser,4,2026-03-27
+worldcoin-wld,Worldcoin,wld,0.28217,-8.16053,loser,5,2026-03-27
+the-open-network,Toncoin,ton,1.24,-4.97789,loser,6,2026-03-27
+pi-network,Pi Network,pi,0.180393,-4.06533,loser,7,2026-03-27
+morpho,Morpho,morpho,1.59,-4.05205,loser,8,2026-03-27
+avalanche-2,Avalanche,avax,9.07,-3.7842,loser,9,2026-03-27
+kaspa,Kaspa,kas,0.03634636,-3.57441,loser,10,2026-03-27
