@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,2.19,4.7724,gainer,1,2026-03-27
-stable-2,​​Stable,stable,0.0262722,4.06177,gainer,2,2026-03-27
-tether-gold,Tether Gold,xaut,4511.2,3.03855,gainer,3,2026-03-27
-pax-gold,PAX Gold,paxg,4517.11,2.95337,gainer,4,2026-03-27
-canton-network,Canton,cc,0.140847,2.6308,gainer,5,2026-03-27
-figure-heloc,Figure Heloc,figr_heloc,1.03,1.43573,gainer,6,2026-03-27
-bitcoin-cash,Bitcoin Cash,bch,465.67,1.01088,gainer,7,2026-03-27
-ondo-finance,Ondo,ondo,0.262943,0.783,gainer,8,2026-03-27
-beldex,Beldex,bdx,0.082743,0.29363,gainer,9,2026-03-27
-usual-usd,Usual USD,usd0,0.998928,0.14087,gainer,10,2026-03-27
-siren-2,Siren,siren,0.784298,-54.56622,loser,1,2026-03-27
-hash-2,Provenance Blockchain,hash,0.00949917,-23.54607,loser,2,2026-03-27
-worldcoin-wld,Worldcoin,wld,0.263131,-10.22945,loser,3,2026-03-27
-morpho,Morpho,morpho,1.5,-6.75286,loser,4,2026-03-27
-ethena,Ethena,ena,0.090256,-6.61887,loser,5,2026-03-27
-pi-network,Pi Network,pi,0.171967,-6.06061,loser,6,2026-03-27
-layerzero,LayerZero,zro,2.0,-5.93244,loser,7,2026-03-27
-aptos,Aptos,apt,0.975947,-5.21258,loser,8,2026-03-27
-the-open-network,Toncoin,ton,1.21,-5.10753,loser,9,2026-03-27
-aave,Aave,aave,99.05,-5.05057,loser,10,2026-03-27
+memecore,MemeCore,m,2.22,2.88008,gainer,1,2026-03-28
+pax-gold,PAX Gold,paxg,4499.69,2.54412,gainer,2,2026-03-28
+tether-gold,Tether Gold,xaut,4491.55,2.50067,gainer,3,2026-03-28
+bitcoin-cash,Bitcoin Cash,bch,474.38,2.37353,gainer,4,2026-03-28
+figure-heloc,Figure Heloc,figr_heloc,1.032,1.30302,gainer,5,2026-03-28
+just,JUST,jst,0.059804,1.04416,gainer,6,2026-03-28
+midnight-3,Midnight,night,0.04618192,0.56952,gainer,7,2026-03-28
+stable-2,​​Stable,stable,0.0262069,0.50102,gainer,8,2026-03-28
+usual-usd,Usual USD,usd0,0.998505,0.14036,gainer,9,2026-03-28
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,0.12976,gainer,10,2026-03-28
+siren-2,Siren,siren,1.072,-37.71166,loser,1,2026-03-28
+worldcoin-wld,Worldcoin,wld,0.249821,-14.03035,loser,2,2026-03-28
+hash-2,Provenance Blockchain,hash,0.01141977,-9.09723,loser,3,2026-03-28
+bittensor,Bittensor,tao,314.65,-8.53712,loser,4,2026-03-28
+render-token,Render,render,1.64,-7.99912,loser,5,2026-03-28
+ethena,Ethena,ena,0.089441,-7.83665,loser,6,2026-03-28
+aave,Aave,aave,98.09,-7.17476,loser,7,2026-03-28
+layerzero,LayerZero,zro,2.0,-6.0912,loser,8,2026-03-28
+fetch-ai,Artificial Superintelligence Alliance,fet,0.228995,-5.75167,loser,9,2026-03-28
+aptos,Aptos,apt,0.970294,-5.54519,loser,10,2026-03-28
