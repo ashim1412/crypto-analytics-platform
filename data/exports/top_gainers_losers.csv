@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,2.22,2.88008,gainer,1,2026-03-28
-pax-gold,PAX Gold,paxg,4499.69,2.54412,gainer,2,2026-03-28
-tether-gold,Tether Gold,xaut,4491.55,2.50067,gainer,3,2026-03-28
-bitcoin-cash,Bitcoin Cash,bch,474.38,2.37353,gainer,4,2026-03-28
-figure-heloc,Figure Heloc,figr_heloc,1.032,1.30302,gainer,5,2026-03-28
-just,JUST,jst,0.059804,1.04416,gainer,6,2026-03-28
-midnight-3,Midnight,night,0.04618192,0.56952,gainer,7,2026-03-28
-stable-2,​​Stable,stable,0.0262069,0.50102,gainer,8,2026-03-28
-usual-usd,Usual USD,usd0,0.998505,0.14036,gainer,9,2026-03-28
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,0.12976,gainer,10,2026-03-28
-siren-2,Siren,siren,1.072,-37.71166,loser,1,2026-03-28
-worldcoin-wld,Worldcoin,wld,0.249821,-14.03035,loser,2,2026-03-28
-hash-2,Provenance Blockchain,hash,0.01141977,-9.09723,loser,3,2026-03-28
-bittensor,Bittensor,tao,314.65,-8.53712,loser,4,2026-03-28
-render-token,Render,render,1.64,-7.99912,loser,5,2026-03-28
-ethena,Ethena,ena,0.089441,-7.83665,loser,6,2026-03-28
-aave,Aave,aave,98.09,-7.17476,loser,7,2026-03-28
-layerzero,LayerZero,zro,2.0,-6.0912,loser,8,2026-03-28
-fetch-ai,Artificial Superintelligence Alliance,fet,0.228995,-5.75167,loser,9,2026-03-28
-aptos,Aptos,apt,0.970294,-5.54519,loser,10,2026-03-28
+siren-2,Siren,siren,1.55,49.95352,gainer,1,2026-03-28
+rain,Rain,rain,0.00809036,11.67814,gainer,2,2026-03-28
+midnight-3,Midnight,night,0.04833464,8.52179,gainer,3,2026-03-28
+memecore,MemeCore,m,2.16,3.17634,gainer,4,2026-03-28
+bitcoin-cash,Bitcoin Cash,bch,475.72,1.89534,gainer,5,2026-03-28
+figure-heloc,Figure Heloc,figr_heloc,1.03,1.19208,gainer,6,2026-03-28
+pax-gold,PAX Gold,paxg,4503.18,0.81335,gainer,7,2026-03-28
+tether-gold,Tether Gold,xaut,4493.18,0.76618,gainer,8,2026-03-28
+the-open-network,Toncoin,ton,1.24,0.61209,gainer,9,2026-03-28
+hyperliquid,Hyperliquid,hype,38.92,0.4643,gainer,10,2026-03-28
+hash-2,Provenance Blockchain,hash,0.01143819,-9.53336,loser,1,2026-03-28
+ondo-finance,Ondo,ondo,0.263347,-9.00194,loser,2,2026-03-28
+worldcoin-wld,Worldcoin,wld,0.256815,-8.90864,loser,3,2026-03-28
+ethena,Ethena,ena,0.090069,-8.68782,loser,4,2026-03-28
+aave,Aave,aave,97.33,-7.92407,loser,5,2026-03-28
+aptos,Aptos,apt,0.948985,-6.94147,loser,6,2026-03-28
+render-token,Render,render,1.66,-6.81287,loser,7,2026-03-28
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.090849,-5.64942,loser,8,2026-03-28
+filecoin,Filecoin,fil,0.822775,-5.51412,loser,9,2026-03-28
+morpho,Morpho,morpho,1.51,-5.09466,loser,10,2026-03-28
