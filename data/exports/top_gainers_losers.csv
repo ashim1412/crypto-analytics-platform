@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.55,49.95352,gainer,1,2026-03-28
-rain,Rain,rain,0.00809036,11.67814,gainer,2,2026-03-28
-midnight-3,Midnight,night,0.04833464,8.52179,gainer,3,2026-03-28
-memecore,MemeCore,m,2.16,3.17634,gainer,4,2026-03-28
-bitcoin-cash,Bitcoin Cash,bch,475.72,1.89534,gainer,5,2026-03-28
-figure-heloc,Figure Heloc,figr_heloc,1.03,1.19208,gainer,6,2026-03-28
-pax-gold,PAX Gold,paxg,4503.18,0.81335,gainer,7,2026-03-28
-tether-gold,Tether Gold,xaut,4493.18,0.76618,gainer,8,2026-03-28
-the-open-network,Toncoin,ton,1.24,0.61209,gainer,9,2026-03-28
-hyperliquid,Hyperliquid,hype,38.92,0.4643,gainer,10,2026-03-28
-hash-2,Provenance Blockchain,hash,0.01143819,-9.53336,loser,1,2026-03-28
-ondo-finance,Ondo,ondo,0.263347,-9.00194,loser,2,2026-03-28
-worldcoin-wld,Worldcoin,wld,0.256815,-8.90864,loser,3,2026-03-28
-ethena,Ethena,ena,0.090069,-8.68782,loser,4,2026-03-28
-aave,Aave,aave,97.33,-7.92407,loser,5,2026-03-28
-aptos,Aptos,apt,0.948985,-6.94147,loser,6,2026-03-28
-render-token,Render,render,1.66,-6.81287,loser,7,2026-03-28
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.090849,-5.64942,loser,8,2026-03-28
-filecoin,Filecoin,fil,0.822775,-5.51412,loser,9,2026-03-28
-morpho,Morpho,morpho,1.51,-5.09466,loser,10,2026-03-28
+siren-2,Siren,siren,1.75,119.85444,gainer,1,2026-03-28
+midnight-3,Midnight,night,0.050383,12.74007,gainer,2,2026-03-28
+hyperliquid,Hyperliquid,hype,39.83,4.39145,gainer,3,2026-03-28
+canton-network,Canton,cc,0.14886,4.14957,gainer,4,2026-03-28
+fetch-ai,Artificial Superintelligence Alliance,fet,0.237736,3.91236,gainer,5,2026-03-28
+just,JUST,jst,0.060364,3.38896,gainer,6,2026-03-28
+bitcoin-cash,Bitcoin Cash,bch,477.75,3.08168,gainer,7,2026-03-28
+kaspa,Kaspa,kas,0.03522587,2.98929,gainer,8,2026-03-28
+memecore,MemeCore,m,2.24,2.56079,gainer,9,2026-03-28
+ondo-finance,Ondo,ondo,0.269226,2.30197,gainer,10,2026-03-28
+hash-2,Provenance Blockchain,hash,0.01144494,-5.13651,loser,1,2026-03-28
+rain,Rain,rain,0.00788174,-4.97773,loser,2,2026-03-28
+aave,Aave,aave,97.44,-3.63367,loser,3,2026-03-28
+aptos,Aptos,apt,0.951136,-3.14219,loser,4,2026-03-28
+stable-2,​​Stable,stable,0.02594284,-2.72315,loser,5,2026-03-28
+ethena,Ethena,ena,0.090705,-2.36825,loser,6,2026-03-28
+filecoin,Filecoin,fil,0.823687,-2.00023,loser,7,2026-03-28
+stellar,Stellar,xlm,0.166625,-1.35341,loser,8,2026-03-28
+bitget-token,Bitget Token,bgb,1.94,-1.17815,loser,9,2026-03-28
+quant-network,Quant,qnt,71.13,-1.08565,loser,10,2026-03-28
