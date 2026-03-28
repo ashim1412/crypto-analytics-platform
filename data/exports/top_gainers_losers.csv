@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.75,119.85444,gainer,1,2026-03-28
-midnight-3,Midnight,night,0.050383,12.74007,gainer,2,2026-03-28
-hyperliquid,Hyperliquid,hype,39.83,4.39145,gainer,3,2026-03-28
-canton-network,Canton,cc,0.14886,4.14957,gainer,4,2026-03-28
-fetch-ai,Artificial Superintelligence Alliance,fet,0.237736,3.91236,gainer,5,2026-03-28
-just,JUST,jst,0.060364,3.38896,gainer,6,2026-03-28
-bitcoin-cash,Bitcoin Cash,bch,477.75,3.08168,gainer,7,2026-03-28
-kaspa,Kaspa,kas,0.03522587,2.98929,gainer,8,2026-03-28
-memecore,MemeCore,m,2.24,2.56079,gainer,9,2026-03-28
-ondo-finance,Ondo,ondo,0.269226,2.30197,gainer,10,2026-03-28
-hash-2,Provenance Blockchain,hash,0.01144494,-5.13651,loser,1,2026-03-28
-rain,Rain,rain,0.00788174,-4.97773,loser,2,2026-03-28
-aave,Aave,aave,97.44,-3.63367,loser,3,2026-03-28
-aptos,Aptos,apt,0.951136,-3.14219,loser,4,2026-03-28
-stable-2,​​Stable,stable,0.02594284,-2.72315,loser,5,2026-03-28
-ethena,Ethena,ena,0.090705,-2.36825,loser,6,2026-03-28
-filecoin,Filecoin,fil,0.823687,-2.00023,loser,7,2026-03-28
-stellar,Stellar,xlm,0.166625,-1.35341,loser,8,2026-03-28
-bitget-token,Bitget Token,bgb,1.94,-1.17815,loser,9,2026-03-28
-quant-network,Quant,qnt,71.13,-1.08565,loser,10,2026-03-28
+noon,Noon,noon,2.49,13277.66662,gainer,1,2026-03-28
+siren-2,Siren,siren,1.7,124.86003,gainer,2,2026-03-28
+hash-2,Provenance Blockchain,hash,0.01277051,34.44347,gainer,3,2026-03-28
+midnight-3,Midnight,night,0.051781,13.08782,gainer,4,2026-03-28
+canton-network,Canton,cc,0.152555,7.98841,gainer,5,2026-03-28
+fetch-ai,Artificial Superintelligence Alliance,fet,0.246002,5.30535,gainer,6,2026-03-28
+jupiter-exchange-solana,Jupiter,jup,0.146639,4.34027,gainer,7,2026-03-28
+pi-network,Pi Network,pi,0.179122,4.04705,gainer,8,2026-03-28
+monero,Monero,xmr,332.83,3.90796,gainer,9,2026-03-28
+worldcoin-wld,Worldcoin,wld,0.274459,3.9064,gainer,10,2026-03-28
+aptos,Aptos,apt,0.944429,-3.57322,loser,1,2026-03-28
+aave,Aave,aave,97.94,-1.50153,loser,2,2026-03-28
+bittensor,Bittensor,tao,320.41,-1.33795,loser,3,2026-03-28
+filecoin,Filecoin,fil,0.825773,-1.30002,loser,4,2026-03-28
+figure-heloc,Figure Heloc,figr_heloc,1.018,-1.13456,loser,5,2026-03-28
+stable-2,​​Stable,stable,0.02604569,-1.10739,loser,6,2026-03-28
+beldex,Beldex,bdx,0.081853,-1.08557,loser,7,2026-03-28
+bitget-token,Bitget Token,bgb,1.95,-0.26321,loser,8,2026-03-28
+tether-gold,Tether Gold,xaut,4489.06,-0.11817,loser,9,2026-03-28
+usdd,USDD,usdd,0.998532,-0.09189,loser,10,2026-03-28
