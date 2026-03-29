@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.52,53.15595,gainer,1,2026-03-29
-hash-2,Provenance Blockchain,hash,0.01384313,21.21546,gainer,2,2026-03-29
-worldcoin-wld,Worldcoin,wld,0.274278,10.59884,gainer,3,2026-03-29
-midnight-3,Midnight,night,0.050546,9.51382,gainer,4,2026-03-29
-canton-network,Canton,cc,0.152424,8.77669,gainer,5,2026-03-29
-fetch-ai,Artificial Superintelligence Alliance,fet,0.239578,4.88874,gainer,6,2026-03-29
-hyperliquid,Hyperliquid,hype,39.58,3.90686,gainer,7,2026-03-29
-okb,OKB,okb,83.88,2.4303,gainer,8,2026-03-29
-pi-network,Pi Network,pi,0.179426,2.01265,gainer,9,2026-03-29
-ondo-finance,Ondo,ondo,0.269525,1.92329,gainer,10,2026-03-29
-filecoin,Filecoin,fil,0.805114,-3.75609,loser,1,2026-03-29
-aptos,Aptos,apt,0.933451,-3.69708,loser,2,2026-03-29
-stable-2,​​Stable,stable,0.02551528,-2.52373,loser,3,2026-03-29
-beldex,Beldex,bdx,0.081277,-1.91625,loser,4,2026-03-29
-polkadot,Polkadot,dot,1.26,-1.43489,loser,5,2026-03-29
-sui,Sui,sui,0.863075,-1.38979,loser,6,2026-03-29
-figure-heloc,Figure Heloc,figr_heloc,1.019,-1.24458,loser,7,2026-03-29
-official-trump,Official Trump,trump,2.94,-1.14866,loser,8,2026-03-29
-quant-network,Quant,qnt,70.07,-1.06711,loser,9,2026-03-29
-rain,Rain,rain,0.00809265,-0.96835,loser,10,2026-03-29
+canton-network,Canton,cc,0.156269,8.96127,gainer,1,2026-03-29
+worldcoin-wld,Worldcoin,wld,0.276206,8.03298,gainer,2,2026-03-29
+siren-2,Siren,siren,1.62,5.93535,gainer,3,2026-03-29
+fetch-ai,Artificial Superintelligence Alliance,fet,0.240178,4.96634,gainer,4,2026-03-29
+midnight-3,Midnight,night,0.050372,4.43981,gainer,5,2026-03-29
+pi-network,Pi Network,pi,0.180982,2.95998,gainer,6,2026-03-29
+ondo-finance,Ondo,ondo,0.269706,2.75284,gainer,7,2026-03-29
+hyperliquid,Hyperliquid,hype,39.9,2.50947,gainer,8,2026-03-29
+okb,OKB,okb,84.94,2.31036,gainer,9,2026-03-29
+memecore,MemeCore,m,2.21,2.05618,gainer,10,2026-03-29
+hash-2,Provenance Blockchain,hash,0.01052037,-8.02382,loser,1,2026-03-29
+beldex,Beldex,bdx,0.08009,-3.55723,loser,2,2026-03-29
+aptos,Aptos,apt,0.929232,-2.05425,loser,3,2026-03-29
+quant-network,Quant,qnt,70.19,-1.76146,loser,4,2026-03-29
+stable-2,​​Stable,stable,0.02536669,-1.59362,loser,5,2026-03-29
+filecoin,Filecoin,fil,0.810112,-1.50586,loser,6,2026-03-29
+polkadot,Polkadot,dot,1.27,-1.44286,loser,7,2026-03-29
+morpho,Morpho,morpho,1.5,-1.35813,loser,8,2026-03-29
+layerzero,LayerZero,zro,2.01,-1.33207,loser,9,2026-03-29
+figure-heloc,Figure Heloc,figr_heloc,1.019,-1.13779,loser,10,2026-03-29
