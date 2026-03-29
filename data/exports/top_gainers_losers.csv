@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-canton-network,Canton,cc,0.156269,8.96127,gainer,1,2026-03-29
-worldcoin-wld,Worldcoin,wld,0.276206,8.03298,gainer,2,2026-03-29
-siren-2,Siren,siren,1.62,5.93535,gainer,3,2026-03-29
-fetch-ai,Artificial Superintelligence Alliance,fet,0.240178,4.96634,gainer,4,2026-03-29
-midnight-3,Midnight,night,0.050372,4.43981,gainer,5,2026-03-29
-pi-network,Pi Network,pi,0.180982,2.95998,gainer,6,2026-03-29
-ondo-finance,Ondo,ondo,0.269706,2.75284,gainer,7,2026-03-29
-hyperliquid,Hyperliquid,hype,39.9,2.50947,gainer,8,2026-03-29
-okb,OKB,okb,84.94,2.31036,gainer,9,2026-03-29
-memecore,MemeCore,m,2.21,2.05618,gainer,10,2026-03-29
-hash-2,Provenance Blockchain,hash,0.01052037,-8.02382,loser,1,2026-03-29
-beldex,Beldex,bdx,0.08009,-3.55723,loser,2,2026-03-29
-aptos,Aptos,apt,0.929232,-2.05425,loser,3,2026-03-29
-quant-network,Quant,qnt,70.19,-1.76146,loser,4,2026-03-29
-stable-2,​​Stable,stable,0.02536669,-1.59362,loser,5,2026-03-29
-filecoin,Filecoin,fil,0.810112,-1.50586,loser,6,2026-03-29
-polkadot,Polkadot,dot,1.27,-1.44286,loser,7,2026-03-29
-morpho,Morpho,morpho,1.5,-1.35813,loser,8,2026-03-29
-layerzero,LayerZero,zro,2.01,-1.33207,loser,9,2026-03-29
-figure-heloc,Figure Heloc,figr_heloc,1.019,-1.13779,loser,10,2026-03-29
+rain,Rain,rain,0.00847073,7.50859,gainer,1,2026-03-29
+canton-network,Canton,cc,0.153336,3.05038,gainer,2,2026-03-29
+okb,OKB,okb,85.19,2.40244,gainer,3,2026-03-29
+fetch-ai,Artificial Superintelligence Alliance,fet,0.242921,2.2341,gainer,4,2026-03-29
+kucoin-shares,KuCoin,kcs,8.0,1.79701,gainer,5,2026-03-29
+tron,TRON,trx,0.319346,1.23479,gainer,6,2026-03-29
+nexo,NEXO,nexo,0.881019,1.16974,gainer,7,2026-03-29
+pi-network,Pi Network,pi,0.178019,1.09164,gainer,8,2026-03-29
+bitcoin-cash,Bitcoin Cash,bch,482.13,0.92973,gainer,9,2026-03-29
+leo-token,LEO Token,leo,9.65,0.92247,gainer,10,2026-03-29
+official-trump,Official Trump,trump,2.85,-4.37671,loser,1,2026-03-29
+stable-2,​​Stable,stable,0.02481821,-4.36537,loser,2,2026-03-29
+beldex,Beldex,bdx,0.080037,-3.42741,loser,3,2026-03-29
+sui,Sui,sui,0.857572,-3.15706,loser,4,2026-03-29
+aptos,Aptos,apt,0.924772,-2.76088,loser,5,2026-03-29
+hash-2,Provenance Blockchain,hash,0.01114116,-2.65426,loser,6,2026-03-29
+cardano,Cardano,ada,0.242863,-2.23853,loser,7,2026-03-29
+crypto-com-chain,Cronos,cro,0.070514,-2.14522,loser,8,2026-03-29
+midnight-3,Midnight,night,0.04931982,-2.10879,loser,9,2026-03-29
+arbitrum,Arbitrum,arb,0.088753,-2.08451,loser,10,2026-03-29
