@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00847073,7.50859,gainer,1,2026-03-29
-canton-network,Canton,cc,0.153336,3.05038,gainer,2,2026-03-29
-okb,OKB,okb,85.19,2.40244,gainer,3,2026-03-29
-fetch-ai,Artificial Superintelligence Alliance,fet,0.242921,2.2341,gainer,4,2026-03-29
-kucoin-shares,KuCoin,kcs,8.0,1.79701,gainer,5,2026-03-29
-tron,TRON,trx,0.319346,1.23479,gainer,6,2026-03-29
-nexo,NEXO,nexo,0.881019,1.16974,gainer,7,2026-03-29
-pi-network,Pi Network,pi,0.178019,1.09164,gainer,8,2026-03-29
-bitcoin-cash,Bitcoin Cash,bch,482.13,0.92973,gainer,9,2026-03-29
-leo-token,LEO Token,leo,9.65,0.92247,gainer,10,2026-03-29
-official-trump,Official Trump,trump,2.85,-4.37671,loser,1,2026-03-29
-stable-2,​​Stable,stable,0.02481821,-4.36537,loser,2,2026-03-29
-beldex,Beldex,bdx,0.080037,-3.42741,loser,3,2026-03-29
-sui,Sui,sui,0.857572,-3.15706,loser,4,2026-03-29
-aptos,Aptos,apt,0.924772,-2.76088,loser,5,2026-03-29
-hash-2,Provenance Blockchain,hash,0.01114116,-2.65426,loser,6,2026-03-29
-cardano,Cardano,ada,0.242863,-2.23853,loser,7,2026-03-29
-crypto-com-chain,Cronos,cro,0.070514,-2.14522,loser,8,2026-03-29
-midnight-3,Midnight,night,0.04931982,-2.10879,loser,9,2026-03-29
-arbitrum,Arbitrum,arb,0.088753,-2.08451,loser,10,2026-03-29
+memecore,MemeCore,m,2.29,2.52361,gainer,1,2026-03-29
+sky,Sky,sky,0.071547,1.87268,gainer,2,2026-03-29
+leo-token,LEO Token,leo,9.64,0.6175,gainer,3,2026-03-29
+tron,TRON,trx,0.318764,0.36438,gainer,4,2026-03-29
+okb,OKB,okb,84.21,0.30988,gainer,5,2026-03-29
+pax-gold,PAX Gold,paxg,4513.54,0.26873,gainer,6,2026-03-29
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.1618,gainer,7,2026-03-29
+tether-gold,Tether Gold,xaut,4494.09,0.11373,gainer,8,2026-03-29
+usdd,USDD,usdd,0.999547,0.10228,gainer,9,2026-03-29
+usdtb,USDtb,usdtb,0.999873,0.05867,gainer,10,2026-03-29
+hash-2,Provenance Blockchain,hash,0.01124163,-11.96844,loser,1,2026-03-29
+stable-2,​​Stable,stable,0.02410418,-7.47064,loser,2,2026-03-29
+kaspa,Kaspa,kas,0.03284407,-6.4634,loser,3,2026-03-29
+bitcoin-cash,Bitcoin Cash,bch,452.81,-6.25714,loser,4,2026-03-29
+fetch-ai,Artificial Superintelligence Alliance,fet,0.230639,-6.0745,loser,5,2026-03-29
+midnight-3,Midnight,night,0.04888025,-5.4951,loser,6,2026-03-29
+sui,Sui,sui,0.843867,-4.63797,loser,7,2026-03-29
+ondo-finance,Ondo,ondo,0.260729,-4.56938,loser,8,2026-03-29
+official-trump,Official Trump,trump,2.88,-4.02104,loser,9,2026-03-29
+cardano,Cardano,ada,0.240912,-3.87492,loser,10,2026-03-29
