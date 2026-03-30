@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.75,7.92792,gainer,1,2026-03-30
-sky,Sky,sky,0.073627,5.33688,gainer,2,2026-03-30
-zcash,Zcash,zec,227.94,5.19819,gainer,3,2026-03-30
-rain,Rain,rain,0.00841322,4.62338,gainer,4,2026-03-30
-jupiter-exchange-solana,Jupiter,jup,0.150093,4.56387,gainer,5,2026-03-30
-filecoin,Filecoin,fil,0.845254,4.49621,gainer,6,2026-03-30
-morpho,Morpho,morpho,1.56,4.18108,gainer,7,2026-03-30
-shiba-inu,Shiba Inu,shib,6.02e-06,4.03448,gainer,8,2026-03-30
-render-token,Render,render,1.72,3.09658,gainer,9,2026-03-30
-near,NEAR Protocol,near,1.2,2.66291,gainer,10,2026-03-30
-kaspa,Kaspa,kas,0.03316693,-5.99617,loser,1,2026-03-30
-bitcoin-cash,Bitcoin Cash,bch,454.19,-5.85685,loser,2,2026-03-30
-hyperliquid,Hyperliquid,hype,38.23,-3.76297,loser,3,2026-03-30
-midnight-3,Midnight,night,0.04867023,-3.15691,loser,4,2026-03-30
-canton-network,Canton,cc,0.15268,-2.52104,loser,5,2026-03-30
-pi-network,Pi Network,pi,0.177297,-2.06061,loser,6,2026-03-30
-just,JUST,jst,0.059444,-1.87769,loser,7,2026-03-30
-stable-2,​​Stable,stable,0.02498346,-1.57646,loser,8,2026-03-30
-litecoin,Litecoin,ltc,53.59,-0.78272,loser,9,2026-03-30
-bitget-token,Bitget Token,bgb,1.94,-0.33406,loser,10,2026-03-30
+jupiter-exchange-solana,Jupiter,jup,0.154015,7.50665,gainer,1,2026-03-30
+zcash,Zcash,zec,227.1,5.72304,gainer,2,2026-03-30
+arbitrum,Arbitrum,arb,0.093279,5.46257,gainer,3,2026-03-30
+sky,Sky,sky,0.074505,5.38897,gainer,4,2026-03-30
+chainlink,Chainlink,link,8.88,4.68071,gainer,5,2026-03-30
+uniswap,Uniswap,uni,3.52,4.66493,gainer,6,2026-03-30
+official-trump,Official Trump,trump,2.97,4.57321,gainer,7,2026-03-30
+filecoin,Filecoin,fil,0.841266,4.517,gainer,8,2026-03-30
+worldcoin-wld,Worldcoin,wld,0.282523,4.14059,gainer,9,2026-03-30
+near,NEAR Protocol,near,1.2,4.06249,gainer,10,2026-03-30
+bitcoin-cash,Bitcoin Cash,bch,458.37,-4.96793,loser,1,2026-03-30
+kaspa,Kaspa,kas,0.03305227,-4.92938,loser,2,2026-03-30
+midnight-3,Midnight,night,0.04734799,-4.63326,loser,3,2026-03-30
+hash-2,Provenance Blockchain,hash,0.01059522,-4.62864,loser,4,2026-03-30
+siren-2,Siren,siren,1.69,-3.57605,loser,5,2026-03-30
+rain,Rain,rain,0.00822122,-2.68306,loser,6,2026-03-30
+hyperliquid,Hyperliquid,hype,38.2,-2.5652,loser,7,2026-03-30
+just,JUST,jst,0.059539,-1.84721,loser,8,2026-03-30
+stable-2,​​Stable,stable,0.02445203,-1.26786,loser,9,2026-03-30
+pi-network,Pi Network,pi,0.175459,-1.23806,loser,10,2026-03-30
