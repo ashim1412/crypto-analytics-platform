@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.150495,5.90933,gainer,1,2026-03-30
-shiba-inu,Shiba Inu,shib,5.99e-06,4.00998,gainer,2,2026-03-30
-uniswap,Uniswap,uni,3.48,3.58402,gainer,3,2026-03-30
-xdce-crowd-sale,XDC Network,xdc,0.03121062,3.50687,gainer,4,2026-03-30
-just,JUST,jst,0.060458,2.93744,gainer,5,2026-03-30
-memecore,MemeCore,m,2.32,2.88562,gainer,6,2026-03-30
-aster-2,Aster,aster,0.677663,2.77212,gainer,7,2026-03-30
-chainlink,Chainlink,link,8.66,2.76255,gainer,8,2026-03-30
-zcash,Zcash,zec,222.83,2.68245,gainer,9,2026-03-30
-bonk,Bonk,bonk,5.79e-06,2.37335,gainer,10,2026-03-30
-midnight-3,Midnight,night,0.04332598,-11.82851,loser,1,2026-03-30
-hash-2,Provenance Blockchain,hash,0.01022582,-9.00028,loser,2,2026-03-30
-hyperliquid,Hyperliquid,hype,37.16,-4.02015,loser,3,2026-03-30
-pump-fun,Pump.fun,pump,0.00165414,-3.15925,loser,4,2026-03-30
-bittensor,Bittensor,tao,307.62,-2.98669,loser,5,2026-03-30
-kaspa,Kaspa,kas,0.03194063,-2.58509,loser,6,2026-03-30
-aptos,Aptos,apt,0.896448,-1.97343,loser,7,2026-03-30
-layerzero,LayerZero,zro,1.93,-1.57686,loser,8,2026-03-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.090906,-1.52532,loser,9,2026-03-30
-the-open-network,Toncoin,ton,1.2,-1.42725,loser,10,2026-03-30
+jupiter-exchange-solana,Jupiter,jup,0.152303,5.2877,gainer,1,2026-03-31
+zcash,Zcash,zec,226.71,4.46713,gainer,2,2026-03-31
+just,JUST,jst,0.059939,3.48476,gainer,3,2026-03-31
+uniswap,Uniswap,uni,3.5,3.03496,gainer,4,2026-03-31
+sky,Sky,sky,0.07381,2.58198,gainer,5,2026-03-31
+xdce-crowd-sale,XDC Network,xdc,0.03045833,2.41897,gainer,6,2026-03-31
+arbitrum,Arbitrum,arb,0.091661,2.1144,gainer,7,2026-03-31
+flare-networks,Flare,flr,0.00786868,1.87165,gainer,8,2026-03-31
+tether-gold,Tether Gold,xaut,4527.76,1.84617,gainer,9,2026-03-31
+official-trump,Official Trump,trump,2.95,1.8348,gainer,10,2026-03-31
+midnight-3,Midnight,night,0.04416063,-9.46608,loser,1,2026-03-31
+siren-2,Siren,siren,1.7,-7.98629,loser,2,2026-03-31
+rain,Rain,rain,0.00770758,-6.98635,loser,3,2026-03-31
+hash-2,Provenance Blockchain,hash,0.01021608,-5.6854,loser,4,2026-03-31
+aptos,Aptos,apt,0.891768,-4.18354,loser,5,2026-03-31
+bittensor,Bittensor,tao,310.7,-3.50203,loser,6,2026-03-31
+memecore,MemeCore,m,2.29,-2.98777,loser,7,2026-03-31
+canton-network,Canton,cc,0.148713,-2.54733,loser,8,2026-03-31
+hedera-hashgraph,Hedera,hbar,0.087015,-2.02615,loser,9,2026-03-31
+polkadot,Polkadot,dot,1.24,-1.79552,loser,10,2026-03-31
