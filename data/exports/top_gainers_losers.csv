@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.152303,5.2877,gainer,1,2026-03-31
-zcash,Zcash,zec,226.71,4.46713,gainer,2,2026-03-31
-just,JUST,jst,0.059939,3.48476,gainer,3,2026-03-31
-uniswap,Uniswap,uni,3.5,3.03496,gainer,4,2026-03-31
-sky,Sky,sky,0.07381,2.58198,gainer,5,2026-03-31
-xdce-crowd-sale,XDC Network,xdc,0.03045833,2.41897,gainer,6,2026-03-31
-arbitrum,Arbitrum,arb,0.091661,2.1144,gainer,7,2026-03-31
-flare-networks,Flare,flr,0.00786868,1.87165,gainer,8,2026-03-31
-tether-gold,Tether Gold,xaut,4527.76,1.84617,gainer,9,2026-03-31
-official-trump,Official Trump,trump,2.95,1.8348,gainer,10,2026-03-31
-midnight-3,Midnight,night,0.04416063,-9.46608,loser,1,2026-03-31
-siren-2,Siren,siren,1.7,-7.98629,loser,2,2026-03-31
-rain,Rain,rain,0.00770758,-6.98635,loser,3,2026-03-31
-hash-2,Provenance Blockchain,hash,0.01021608,-5.6854,loser,4,2026-03-31
-aptos,Aptos,apt,0.891768,-4.18354,loser,5,2026-03-31
-bittensor,Bittensor,tao,310.7,-3.50203,loser,6,2026-03-31
-memecore,MemeCore,m,2.29,-2.98777,loser,7,2026-03-31
-canton-network,Canton,cc,0.148713,-2.54733,loser,8,2026-03-31
-hedera-hashgraph,Hedera,hbar,0.087015,-2.02615,loser,9,2026-03-31
-polkadot,Polkadot,dot,1.24,-1.79552,loser,10,2026-03-31
+memecore,MemeCore,m,2.35,3.97883,gainer,1,2026-03-31
+leo-token,LEO Token,leo,10.08,3.93448,gainer,2,2026-03-31
+jupiter-exchange-solana,Jupiter,jup,0.154364,3.7678,gainer,3,2026-03-31
+bitcoin-cash,Bitcoin Cash,bch,468.57,3.14286,gainer,4,2026-03-31
+algorand,Algorand,algo,0.084365,2.18385,gainer,5,2026-03-31
+cosmos,Cosmos Hub,atom,1.71,2.06335,gainer,6,2026-03-31
+quant-network,Quant,qnt,71.29,1.70423,gainer,7,2026-03-31
+zcash,Zcash,zec,230.26,1.53786,gainer,8,2026-03-31
+arbitrum,Arbitrum,arb,0.092861,1.47636,gainer,9,2026-03-31
+avalanche-2,Avalanche,avax,8.94,1.40204,gainer,10,2026-03-31
+rain,Rain,rain,0.00779793,-6.73204,loser,1,2026-03-31
+fetch-ai,Artificial Superintelligence Alliance,fet,0.22987,-4.60596,loser,2,2026-03-31
+morpho,Morpho,morpho,1.48,-4.17242,loser,3,2026-03-31
+stable-2,​​Stable,stable,0.02403924,-3.98975,loser,4,2026-03-31
+hedera-hashgraph,Hedera,hbar,0.086254,-3.6157,loser,5,2026-03-31
+kaspa,Kaspa,kas,0.03205938,-3.3662,loser,6,2026-03-31
+aptos,Aptos,apt,0.909245,-3.1874,loser,7,2026-03-31
+hyperliquid,Hyperliquid,hype,37.1,-3.02984,loser,8,2026-03-31
+bittensor,Bittensor,tao,308.36,-2.75287,loser,9,2026-03-31
+pump-fun,Pump.fun,pump,0.00167037,-2.62905,loser,10,2026-03-31
