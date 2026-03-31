@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,2.35,3.97883,gainer,1,2026-03-31
-leo-token,LEO Token,leo,10.08,3.93448,gainer,2,2026-03-31
-jupiter-exchange-solana,Jupiter,jup,0.154364,3.7678,gainer,3,2026-03-31
-bitcoin-cash,Bitcoin Cash,bch,468.57,3.14286,gainer,4,2026-03-31
-algorand,Algorand,algo,0.084365,2.18385,gainer,5,2026-03-31
-cosmos,Cosmos Hub,atom,1.71,2.06335,gainer,6,2026-03-31
-quant-network,Quant,qnt,71.29,1.70423,gainer,7,2026-03-31
-zcash,Zcash,zec,230.26,1.53786,gainer,8,2026-03-31
-arbitrum,Arbitrum,arb,0.092861,1.47636,gainer,9,2026-03-31
-avalanche-2,Avalanche,avax,8.94,1.40204,gainer,10,2026-03-31
-rain,Rain,rain,0.00779793,-6.73204,loser,1,2026-03-31
-fetch-ai,Artificial Superintelligence Alliance,fet,0.22987,-4.60596,loser,2,2026-03-31
-morpho,Morpho,morpho,1.48,-4.17242,loser,3,2026-03-31
-stable-2,​​Stable,stable,0.02403924,-3.98975,loser,4,2026-03-31
-hedera-hashgraph,Hedera,hbar,0.086254,-3.6157,loser,5,2026-03-31
-kaspa,Kaspa,kas,0.03205938,-3.3662,loser,6,2026-03-31
-aptos,Aptos,apt,0.909245,-3.1874,loser,7,2026-03-31
-hyperliquid,Hyperliquid,hype,37.1,-3.02984,loser,8,2026-03-31
-bittensor,Bittensor,tao,308.36,-2.75287,loser,9,2026-03-31
-pump-fun,Pump.fun,pump,0.00167037,-2.62905,loser,10,2026-03-31
+zcash,Zcash,zec,248.54,9.45703,gainer,1,2026-03-31
+midnight-3,Midnight,night,0.051169,8.09486,gainer,2,2026-03-31
+just,JUST,jst,0.061595,3.41366,gainer,3,2026-03-31
+leo-token,LEO Token,leo,10.0,3.02072,gainer,4,2026-03-31
+algorand,Algorand,algo,0.085972,2.57935,gainer,5,2026-03-31
+memecore,MemeCore,m,2.36,2.3168,gainer,6,2026-03-31
+bitcoin-cash,Bitcoin Cash,bch,467.69,2.01991,gainer,7,2026-03-31
+figure-heloc,Figure Heloc,figr_heloc,1.012,1.23627,gainer,8,2026-03-31
+rain,Rain,rain,0.00831931,1.19294,gainer,9,2026-03-31
+official-trump,Official Trump,trump,2.99,0.57545,gainer,10,2026-03-31
+siren-2,Siren,siren,1.076,-36.29421,loser,1,2026-03-31
+fetch-ai,Artificial Superintelligence Alliance,fet,0.226911,-6.09375,loser,2,2026-03-31
+hyperliquid,Hyperliquid,hype,35.98,-5.72038,loser,3,2026-03-31
+canton-network,Canton,cc,0.144239,-5.5654,loser,4,2026-03-31
+hedera-hashgraph,Hedera,hbar,0.085162,-5.28491,loser,5,2026-03-31
+stellar,Stellar,xlm,0.164308,-5.21656,loser,6,2026-03-31
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.089336,-4.78646,loser,7,2026-03-31
+a7a5,A7A5,a7a5,0.01215955,-4.57199,loser,8,2026-03-31
+pump-fun,Pump.fun,pump,0.00163725,-4.55363,loser,9,2026-03-31
+bittensor,Bittensor,tao,304.29,-4.37419,loser,10,2026-03-31
