@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04912643,13.38492,gainer,1,2026-03-31
-zcash,Zcash,zec,251.25,12.74441,gainer,2,2026-03-31
-algorand,Algorand,algo,0.090729,10.44639,gainer,3,2026-03-31
-jupiter-exchange-solana,Jupiter,jup,0.158201,5.16191,gainer,4,2026-03-31
-pax-gold,PAX Gold,paxg,4657.84,3.24224,gainer,5,2026-03-31
-sky,Sky,sky,0.075486,3.20023,gainer,6,2026-03-31
-ethereum,Ethereum,eth,2098.89,3.12653,gainer,7,2026-03-31
-tether-gold,Tether Gold,xaut,4642.57,3.07607,gainer,8,2026-03-31
-rain,Rain,rain,0.00823259,2.90474,gainer,9,2026-03-31
-leo-token,LEO Token,leo,9.99,2.85516,gainer,10,2026-03-31
-siren-2,Siren,siren,0.854625,-50.79765,loser,1,2026-03-31
-canton-network,Canton,cc,0.146673,-3.63737,loser,2,2026-03-31
-stable-2,​​Stable,stable,0.02338103,-3.46441,loser,3,2026-03-31
-xdce-crowd-sale,XDC Network,xdc,0.03041605,-2.36066,loser,4,2026-03-31
-tron,TRON,trx,0.312646,-2.25471,loser,5,2026-03-31
-nexo,NEXO,nexo,0.860378,-2.06164,loser,6,2026-03-31
-aster-2,Aster,aster,0.666773,-1.62026,loser,7,2026-03-31
-cardano,Cardano,ada,0.240626,-1.51404,loser,8,2026-03-31
-hyperliquid,Hyperliquid,hype,36.63,-1.42756,loser,9,2026-03-31
-htx-dao,HTX DAO,htx,1.7e-06,-1.32363,loser,10,2026-03-31
+algorand,Algorand,algo,0.098108,19.029,gainer,1,2026-04-01
+stable-2,​​Stable,stable,0.02839476,16.76908,gainer,2,2026-04-01
+midnight-3,Midnight,night,0.04850847,9.5372,gainer,3,2026-04-01
+zcash,Zcash,zec,247.44,8.57986,gainer,4,2026-04-01
+rain,Rain,rain,0.00818683,7.43998,gainer,5,2026-04-01
+hash-2,Provenance Blockchain,hash,0.01137996,6.63161,gainer,6,2026-04-01
+morpho,Morpho,morpho,1.55,4.83999,gainer,7,2026-04-01
+render-token,Render,render,1.78,4.73269,gainer,8,2026-04-01
+ondo-finance,Ondo,ondo,0.273477,4.17718,gainer,9,2026-04-01
+leo-token,LEO Token,leo,9.99,3.63095,gainer,10,2026-04-01
+hyperliquid,Hyperliquid,hype,36.47,-2.26404,loser,1,2026-04-01
+bittensor,Bittensor,tao,306.55,-1.90809,loser,2,2026-04-01
+tron,TRON,trx,0.313946,-1.63054,loser,3,2026-04-01
+nexo,NEXO,nexo,0.868163,-1.42547,loser,4,2026-04-01
+htx-dao,HTX DAO,htx,1.7e-06,-1.39209,loser,5,2026-04-01
+ethena,Ethena,ena,0.091095,-1.21737,loser,6,2026-04-01
+the-open-network,Toncoin,ton,1.22,-0.95403,loser,7,2026-04-01
+quant-network,Quant,qnt,70.06,-0.84184,loser,8,2026-04-01
+canton-network,Canton,cc,0.148021,-0.46613,loser,9,2026-04-01
+aster-2,Aster,aster,0.670278,-0.42616,loser,10,2026-04-01
