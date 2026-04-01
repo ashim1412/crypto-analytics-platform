@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.109242,27.19246,gainer,1,2026-04-01
-stable-2,​​Stable,stable,0.02906715,22.53599,gainer,2,2026-04-01
-hash-2,Provenance Blockchain,hash,0.01235061,17.5388,gainer,3,2026-04-01
-morpho,Morpho,morpho,1.69,14.31843,gainer,4,2026-04-01
-fetch-ai,Artificial Superintelligence Alliance,fet,0.243976,7.60615,gainer,5,2026-04-01
-jupiter-exchange-solana,Jupiter,jup,0.163851,7.34713,gainer,6,2026-04-01
-hedera-hashgraph,Hedera,hbar,0.090576,6.37646,gainer,7,2026-04-01
-render-token,Render,render,1.8,6.34889,gainer,8,2026-04-01
-ondo-finance,Ondo,ondo,0.274561,6.15022,gainer,9,2026-04-01
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094581,5.96711,gainer,10,2026-04-01
-midnight-3,Midnight,night,0.04555051,-11.65752,loser,1,2026-04-01
-rain,Rain,rain,0.00804131,-3.32817,loser,2,2026-04-01
-zcash,Zcash,zec,242.94,-2.22544,loser,3,2026-04-01
-bitcoin-cash,Bitcoin Cash,bch,460.2,-1.60195,loser,4,2026-04-01
-xdce-crowd-sale,XDC Network,xdc,0.03064892,-1.0257,loser,5,2026-04-01
-canton-network,Canton,cc,0.143394,-0.26911,loser,6,2026-04-01
-usual-usd,Usual USD,usd0,0.997091,-0.10557,loser,7,2026-04-01
-paypal-usd,PayPal USD,pyusd,0.999607,-0.07597,loser,8,2026-04-01
-beldex,Beldex,bdx,0.080126,-0.06865,loser,9,2026-04-01
-htx-dao,HTX DAO,htx,1.71e-06,-0.06405,loser,10,2026-04-01
+algorand,Algorand,algo,0.105292,16.08576,gainer,1,2026-04-01
+stable-2,​​Stable,stable,0.02662315,13.61712,gainer,2,2026-04-01
+layerzero,LayerZero,zro,1.97,7.52753,gainer,3,2026-04-01
+memecore,MemeCore,m,2.44,6.1569,gainer,4,2026-04-01
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.094069,4.6861,gainer,5,2026-04-01
+render-token,Render,render,1.79,4.38302,gainer,6,2026-04-01
+hash-2,Provenance Blockchain,hash,0.01048032,3.57818,gainer,7,2026-04-01
+cardano,Cardano,ada,0.249007,3.48242,gainer,8,2026-04-01
+avalanche-2,Avalanche,avax,9.15,3.19462,gainer,9,2026-04-01
+bittensor,Bittensor,tao,317.78,3.17217,gainer,10,2026-04-01
+rain,Rain,rain,0.00792639,-3.73642,loser,1,2026-04-01
+bitcoin-cash,Bitcoin Cash,bch,457.53,-3.33074,loser,2,2026-04-01
+canton-network,Canton,cc,0.144042,-2.06372,loser,3,2026-04-01
+zcash,Zcash,zec,246.57,-1.90828,loser,4,2026-04-01
+hyperliquid,Hyperliquid,hype,36.21,-1.22036,loser,5,2026-04-01
+beldex,Beldex,bdx,0.079568,-0.93781,loser,6,2026-04-01
+flare-networks,Flare,flr,0.00780665,-0.8033,loser,7,2026-04-01
+kucoin-shares,KuCoin,kcs,8.09,-0.66546,loser,8,2026-04-01
+ethena,Ethena,ena,0.090581,-0.61188,loser,9,2026-04-01
+midnight-3,Midnight,night,0.04846761,-0.59537,loser,10,2026-04-01
