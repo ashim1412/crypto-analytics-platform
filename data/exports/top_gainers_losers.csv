@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.105292,16.08576,gainer,1,2026-04-01
-stable-2,​​Stable,stable,0.02662315,13.61712,gainer,2,2026-04-01
-layerzero,LayerZero,zro,1.97,7.52753,gainer,3,2026-04-01
-memecore,MemeCore,m,2.44,6.1569,gainer,4,2026-04-01
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094069,4.6861,gainer,5,2026-04-01
-render-token,Render,render,1.79,4.38302,gainer,6,2026-04-01
-hash-2,Provenance Blockchain,hash,0.01048032,3.57818,gainer,7,2026-04-01
-cardano,Cardano,ada,0.249007,3.48242,gainer,8,2026-04-01
-avalanche-2,Avalanche,avax,9.15,3.19462,gainer,9,2026-04-01
-bittensor,Bittensor,tao,317.78,3.17217,gainer,10,2026-04-01
-rain,Rain,rain,0.00792639,-3.73642,loser,1,2026-04-01
-bitcoin-cash,Bitcoin Cash,bch,457.53,-3.33074,loser,2,2026-04-01
-canton-network,Canton,cc,0.144042,-2.06372,loser,3,2026-04-01
-zcash,Zcash,zec,246.57,-1.90828,loser,4,2026-04-01
-hyperliquid,Hyperliquid,hype,36.21,-1.22036,loser,5,2026-04-01
-beldex,Beldex,bdx,0.079568,-0.93781,loser,6,2026-04-01
-flare-networks,Flare,flr,0.00780665,-0.8033,loser,7,2026-04-01
-kucoin-shares,KuCoin,kcs,8.09,-0.66546,loser,8,2026-04-01
-ethena,Ethena,ena,0.090581,-0.61188,loser,9,2026-04-01
-midnight-3,Midnight,night,0.04846761,-0.59537,loser,10,2026-04-01
+algorand,Algorand,algo,0.102991,5.33131,gainer,1,2026-04-02
+memecore,MemeCore,m,2.46,4.81503,gainer,2,2026-04-02
+just,JUST,jst,0.064361,4.50871,gainer,3,2026-04-02
+layerzero,LayerZero,zro,1.98,4.22726,gainer,4,2026-04-02
+fetch-ai,Artificial Superintelligence Alliance,fet,0.242786,3.94232,gainer,5,2026-04-02
+bittensor,Bittensor,tao,314.64,2.48892,gainer,6,2026-04-02
+vechain,VeChain,vet,0.00694709,2.20199,gainer,7,2026-04-02
+avalanche-2,Avalanche,avax,9.13,1.88379,gainer,8,2026-04-02
+midnight-3,Midnight,night,0.04965854,1.86861,gainer,9,2026-04-02
+arbitrum,Arbitrum,arb,0.094619,1.84125,gainer,10,2026-04-02
+hash-2,Provenance Blockchain,hash,0.01041549,-8.47335,loser,1,2026-04-02
+stable-2,​​Stable,stable,0.02710511,-4.70782,loser,2,2026-04-02
+rain,Rain,rain,0.00782916,-4.34967,loser,3,2026-04-02
+canton-network,Canton,cc,0.142686,-3.69855,loser,4,2026-04-02
+flare-networks,Flare,flr,0.00759027,-3.43047,loser,5,2026-04-02
+solana,Solana,sol,81.14,-2.52288,loser,6,2026-04-02
+bitcoin-cash,Bitcoin Cash,bch,454.32,-2.10553,loser,7,2026-04-02
+kaspa,Kaspa,kas,0.0321015,-1.93194,loser,8,2026-04-02
+official-trump,Official Trump,trump,2.96,-1.54826,loser,9,2026-04-02
+cosmos,Cosmos Hub,atom,1.68,-1.43903,loser,10,2026-04-02
