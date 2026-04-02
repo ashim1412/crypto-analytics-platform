@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.102991,5.33131,gainer,1,2026-04-02
-memecore,MemeCore,m,2.46,4.81503,gainer,2,2026-04-02
-just,JUST,jst,0.064361,4.50871,gainer,3,2026-04-02
-layerzero,LayerZero,zro,1.98,4.22726,gainer,4,2026-04-02
-fetch-ai,Artificial Superintelligence Alliance,fet,0.242786,3.94232,gainer,5,2026-04-02
-bittensor,Bittensor,tao,314.64,2.48892,gainer,6,2026-04-02
-vechain,VeChain,vet,0.00694709,2.20199,gainer,7,2026-04-02
-avalanche-2,Avalanche,avax,9.13,1.88379,gainer,8,2026-04-02
-midnight-3,Midnight,night,0.04965854,1.86861,gainer,9,2026-04-02
-arbitrum,Arbitrum,arb,0.094619,1.84125,gainer,10,2026-04-02
-hash-2,Provenance Blockchain,hash,0.01041549,-8.47335,loser,1,2026-04-02
-stable-2,​​Stable,stable,0.02710511,-4.70782,loser,2,2026-04-02
-rain,Rain,rain,0.00782916,-4.34967,loser,3,2026-04-02
-canton-network,Canton,cc,0.142686,-3.69855,loser,4,2026-04-02
-flare-networks,Flare,flr,0.00759027,-3.43047,loser,5,2026-04-02
-solana,Solana,sol,81.14,-2.52288,loser,6,2026-04-02
-bitcoin-cash,Bitcoin Cash,bch,454.32,-2.10553,loser,7,2026-04-02
-kaspa,Kaspa,kas,0.0321015,-1.93194,loser,8,2026-04-02
-official-trump,Official Trump,trump,2.96,-1.54826,loser,9,2026-04-02
-cosmos,Cosmos Hub,atom,1.68,-1.43903,loser,10,2026-04-02
+just,JUST,jst,0.065015,6.79369,gainer,1,2026-04-02
+stable-2,​​Stable,stable,0.02961928,5.6508,gainer,2,2026-04-02
+memecore,MemeCore,m,2.46,4.57921,gainer,3,2026-04-02
+midnight-3,Midnight,night,0.04913902,3.41536,gainer,4,2026-04-02
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.11721,gainer,5,2026-04-02
+htx-dao,HTX DAO,htx,1.72e-06,0.88007,gainer,6,2026-04-02
+usdd,USDD,usdd,0.999634,0.0596,gainer,7,2026-04-02
+falcon-finance,Falcon USD,usdf,0.998203,0.05735,gainer,8,2026-04-02
+ethena-usde,Ethena USDe,usde,0.999566,0.05328,gainer,9,2026-04-02
+paypal-usd,PayPal USD,pyusd,1.0,0.05021,gainer,10,2026-04-02
+ethena,Ethena,ena,0.084249,-9.75378,loser,1,2026-04-02
+hash-2,Provenance Blockchain,hash,0.01040244,-8.63557,loser,2,2026-04-02
+uniswap,Uniswap,uni,3.34,-8.07579,loser,3,2026-04-02
+avalanche-2,Avalanche,avax,8.71,-7.08436,loser,4,2026-04-02
+flare-networks,Flare,flr,0.00745085,-6.40083,loser,5,2026-04-02
+morpho,Morpho,morpho,1.5,-6.37582,loser,6,2026-04-02
+solana,Solana,sol,79.09,-6.32823,loser,7,2026-04-02
+hyperliquid,Hyperliquid,hype,35.25,-6.00413,loser,8,2026-04-02
+polkadot,Polkadot,dot,1.22,-5.96781,loser,9,2026-04-02
+ondo-finance,Ondo,ondo,0.261609,-5.77393,loser,10,2026-04-02
