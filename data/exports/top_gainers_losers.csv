@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.119232,17.30023,gainer,1,2026-04-03
-render-token,Render,render,1.92,11.26427,gainer,2,2026-04-03
-quant-network,Quant,qnt,76.44,8.99615,gainer,3,2026-04-03
-jupiter-exchange-solana,Jupiter,jup,0.162557,6.18073,gainer,4,2026-04-03
-fetch-ai,Artificial Superintelligence Alliance,fet,0.239151,5.75155,gainer,5,2026-04-03
-pepe,Pepe,pepe,3.47e-06,5.58422,gainer,6,2026-04-03
-near,NEAR Protocol,near,1.22,5.48556,gainer,7,2026-04-03
-cosmos,Cosmos Hub,atom,1.71,5.41777,gainer,8,2026-04-03
-pump-fun,Pump.fun,pump,0.00166659,5.35813,gainer,9,2026-04-03
-vechain,VeChain,vet,0.00698064,4.83035,gainer,10,2026-04-03
-stable-2,​​Stable,stable,0.02810467,-23.52988,loser,1,2026-04-03
-midnight-3,Midnight,night,0.04425096,-6.52744,loser,2,2026-04-03
-rain,Rain,rain,0.00751803,-4.7363,loser,3,2026-04-03
-uniswap,Uniswap,uni,3.21,-3.58883,loser,4,2026-04-03
-xdce-crowd-sale,XDC Network,xdc,0.03019526,-2.97385,loser,5,2026-04-03
-monero,Monero,xmr,323.22,-1.67189,loser,6,2026-04-03
-just,JUST,jst,0.063039,-1.33882,loser,7,2026-04-03
-aster-2,Aster,aster,0.659689,-0.83539,loser,8,2026-04-03
-tron,TRON,trx,0.313681,-0.71506,loser,9,2026-04-03
-htx-dao,HTX DAO,htx,1.71e-06,-0.48055,loser,10,2026-04-03
+algorand,Algorand,algo,0.122479,13.58089,gainer,1,2026-04-03
+render-token,Render,render,1.94,8.68432,gainer,2,2026-04-03
+quant-network,Quant,qnt,76.85,8.00076,gainer,3,2026-04-03
+memecore,MemeCore,m,2.68,5.80778,gainer,4,2026-04-03
+near,NEAR Protocol,near,1.21,4.87593,gainer,5,2026-04-03
+jupiter-exchange-solana,Jupiter,jup,0.163452,4.53077,gainer,6,2026-04-03
+cardano,Cardano,ada,0.248997,4.32807,gainer,7,2026-04-03
+bittensor,Bittensor,tao,311.92,4.25747,gainer,8,2026-04-03
+avalanche-2,Avalanche,avax,9.02,4.0745,gainer,9,2026-04-03
+vechain,VeChain,vet,0.0069724,4.07406,gainer,10,2026-04-03
+midnight-3,Midnight,night,0.04429405,-5.93187,loser,1,2026-04-03
+rain,Rain,rain,0.00749815,-5.64046,loser,2,2026-04-03
+stable-2,​​Stable,stable,0.02801949,-4.1581,loser,3,2026-04-03
+just,JUST,jst,0.061314,-3.25715,loser,4,2026-04-03
+monero,Monero,xmr,315.27,-3.08554,loser,5,2026-04-03
+hash-2,Provenance Blockchain,hash,0.01107132,-2.46634,loser,6,2026-04-03
+kaspa,Kaspa,kas,0.03097125,-1.63909,loser,7,2026-04-03
+morpho,Morpho,morpho,1.5,-0.96215,loser,8,2026-04-03
+ethena,Ethena,ena,0.080233,-0.82688,loser,9,2026-04-03
+okb,OKB,okb,82.55,-0.71295,loser,10,2026-04-03
