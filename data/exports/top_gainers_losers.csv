@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.111385,8.78914,gainer,1,2026-04-03
-memecore,MemeCore,m,2.66,8.13238,gainer,2,2026-04-03
-hash-2,Provenance Blockchain,hash,0.01102267,5.84065,gainer,3,2026-04-03
-stable-2,​​Stable,stable,0.02862847,5.80949,gainer,4,2026-04-03
-quant-network,Quant,qnt,74.99,5.51109,gainer,5,2026-04-03
-render-token,Render,render,1.85,3.54771,gainer,6,2026-04-03
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.25862,gainer,7,2026-04-03
-flare-networks,Flare,flr,0.00767761,1.10761,gainer,8,2026-04-03
-rain,Rain,rain,0.00789138,0.87658,gainer,9,2026-04-03
-figure-heloc,Figure Heloc,figr_heloc,1.034,0.84836,gainer,10,2026-04-03
-uniswap,Uniswap,uni,3.18,-10.95764,loser,1,2026-04-03
-ethena,Ethena,ena,0.081099,-9.9924,loser,2,2026-04-03
-midnight-3,Midnight,night,0.04607305,-7.1004,loser,3,2026-04-03
-fetch-ai,Artificial Superintelligence Alliance,fet,0.226806,-6.53105,loser,4,2026-04-03
-zcash,Zcash,zec,238.29,-5.96547,loser,5,2026-04-03
-layerzero,LayerZero,zro,1.87,-5.33152,loser,6,2026-04-03
-ondo-finance,Ondo,ondo,0.257144,-5.20317,loser,7,2026-04-03
-official-trump,Official Trump,trump,2.82,-4.9136,loser,8,2026-04-03
-worldcoin-wld,Worldcoin,wld,0.264422,-4.64959,loser,9,2026-04-03
-bittensor,Bittensor,tao,300.11,-4.61909,loser,10,2026-04-03
+algorand,Algorand,algo,0.121763,21.69007,gainer,1,2026-04-03
+render-token,Render,render,1.92,11.11322,gainer,2,2026-04-03
+memecore,MemeCore,m,2.67,8.31292,gainer,3,2026-04-03
+quant-network,Quant,qnt,75.06,6.43116,gainer,4,2026-04-03
+jupiter-exchange-solana,Jupiter,jup,0.162775,5.671,gainer,5,2026-04-03
+cosmos,Cosmos Hub,atom,1.72,5.16709,gainer,6,2026-04-03
+pepe,Pepe,pepe,3.47e-06,4.49904,gainer,7,2026-04-03
+hedera-hashgraph,Hedera,hbar,0.09019,4.21573,gainer,8,2026-04-03
+vechain,VeChain,vet,0.00699998,4.032,gainer,9,2026-04-03
+near,NEAR Protocol,near,1.2,3.92817,gainer,10,2026-04-03
+midnight-3,Midnight,night,0.0458601,-6.67499,loser,1,2026-04-03
+stable-2,​​Stable,stable,0.02808251,-5.8683,loser,2,2026-04-03
+ethena,Ethena,ena,0.081879,-2.92953,loser,3,2026-04-03
+uniswap,Uniswap,uni,3.25,-2.86014,loser,4,2026-04-03
+pi-network,Pi Network,pi,0.170741,-2.47189,loser,5,2026-04-03
+just,JUST,jst,0.063721,-1.96082,loser,6,2026-04-03
+kaspa,Kaspa,kas,0.03106619,-1.45254,loser,7,2026-04-03
+aster-2,Aster,aster,0.663923,-1.01204,loser,8,2026-04-03
+gatechain-token,Gate,gt,6.47,-0.99336,loser,9,2026-04-03
+bitget-token,Bitget Token,bgb,1.91,-0.84385,loser,10,2026-04-03
