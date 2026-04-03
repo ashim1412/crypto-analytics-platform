@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-little-pepe-5,Little Pepe,lilpepe,1.79,133966.29675,gainer,1,2026-04-02
-stable-2,​​Stable,stable,0.02890822,8.94543,gainer,2,2026-04-02
-hash-2,Provenance Blockchain,hash,0.01135139,8.29823,gainer,3,2026-04-02
-memecore,MemeCore,m,2.55,4.77964,gainer,4,2026-04-02
-algorand,Algorand,algo,0.108428,3.06273,gainer,5,2026-04-02
-quant-network,Quant,qnt,71.1,0.99576,gainer,6,2026-04-02
-just,JUST,jst,0.063504,0.98055,gainer,7,2026-04-02
-figure-heloc,Figure Heloc,figr_heloc,1.033,0.67217,gainer,8,2026-04-02
-usual-usd,Usual USD,usd0,1.0,0.55617,gainer,9,2026-04-02
-beldex,Beldex,bdx,0.079922,0.44368,gainer,10,2026-04-02
-uniswap,Uniswap,uni,3.14,-13.20035,loser,1,2026-04-02
-ethena,Ethena,ena,0.080659,-10.80156,loser,2,2026-04-02
-solana,Solana,sol,78.62,-6.42215,loser,3,2026-04-02
-aptos,Aptos,apt,0.848755,-6.2776,loser,4,2026-04-02
-bittensor,Bittensor,tao,299.13,-5.56558,loser,5,2026-04-02
-binancecoin,BNB,bnb,580.43,-5.39599,loser,6,2026-04-02
-avalanche-2,Avalanche,avax,8.66,-5.29889,loser,7,2026-04-02
-pump-fun,Pump.fun,pump,0.00161022,-5.25913,loser,8,2026-04-02
-bonk,Bonk,bonk,5.62e-06,-5.11514,loser,9,2026-04-02
-official-trump,Official Trump,trump,2.83,-5.08044,loser,10,2026-04-02
+algorand,Algorand,algo,0.111385,8.78914,gainer,1,2026-04-03
+memecore,MemeCore,m,2.66,8.13238,gainer,2,2026-04-03
+hash-2,Provenance Blockchain,hash,0.01102267,5.84065,gainer,3,2026-04-03
+stable-2,​​Stable,stable,0.02862847,5.80949,gainer,4,2026-04-03
+quant-network,Quant,qnt,74.99,5.51109,gainer,5,2026-04-03
+render-token,Render,render,1.85,3.54771,gainer,6,2026-04-03
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.25862,gainer,7,2026-04-03
+flare-networks,Flare,flr,0.00767761,1.10761,gainer,8,2026-04-03
+rain,Rain,rain,0.00789138,0.87658,gainer,9,2026-04-03
+figure-heloc,Figure Heloc,figr_heloc,1.034,0.84836,gainer,10,2026-04-03
+uniswap,Uniswap,uni,3.18,-10.95764,loser,1,2026-04-03
+ethena,Ethena,ena,0.081099,-9.9924,loser,2,2026-04-03
+midnight-3,Midnight,night,0.04607305,-7.1004,loser,3,2026-04-03
+fetch-ai,Artificial Superintelligence Alliance,fet,0.226806,-6.53105,loser,4,2026-04-03
+zcash,Zcash,zec,238.29,-5.96547,loser,5,2026-04-03
+layerzero,LayerZero,zro,1.87,-5.33152,loser,6,2026-04-03
+ondo-finance,Ondo,ondo,0.257144,-5.20317,loser,7,2026-04-03
+official-trump,Official Trump,trump,2.82,-4.9136,loser,8,2026-04-03
+worldcoin-wld,Worldcoin,wld,0.264422,-4.64959,loser,9,2026-04-03
+bittensor,Bittensor,tao,300.11,-4.61909,loser,10,2026-04-03
