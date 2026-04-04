@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.122665,10.31249,gainer,1,2026-04-04
-fetch-ai,Artificial Superintelligence Alliance,fet,0.237715,4.78237,gainer,2,2026-04-04
-jupiter-exchange-solana,Jupiter,jup,0.162798,4.3019,gainer,3,2026-04-04
-vechain,VeChain,vet,0.00703555,4.13067,gainer,4,2026-04-04
-near,NEAR Protocol,near,1.21,4.0955,gainer,5,2026-04-04
-bittensor,Bittensor,tao,311.74,4.04754,gainer,6,2026-04-04
-render-token,Render,render,1.92,3.82652,gainer,7,2026-04-04
-ethereum-classic,Ethereum Classic,etc,8.1,3.02793,gainer,8,2026-04-04
-memecore,MemeCore,m,2.73,2.69605,gainer,9,2026-04-04
-cardano,Cardano,ada,0.245229,2.41639,gainer,10,2026-04-04
-rain,Rain,rain,0.00746169,-5.44585,loser,1,2026-04-04
-midnight-3,Midnight,night,0.04397348,-4.76113,loser,2,2026-04-04
-just,JUST,jst,0.061423,-3.56466,loser,3,2026-04-04
-monero,Monero,xmr,315.73,-3.32899,loser,4,2026-04-04
-stable-2,​​Stable,stable,0.02773648,-3.17601,loser,5,2026-04-04
-canton-network,Canton,cc,0.139685,-2.52919,loser,6,2026-04-04
-flare-networks,Flare,flr,0.00755153,-1.61007,loser,7,2026-04-04
-aptos,Aptos,apt,0.847096,-1.36265,loser,8,2026-04-04
-world-liberty-financial,World Liberty Financial,wlfi,0.098635,-1.36256,loser,9,2026-04-04
-zcash,Zcash,zec,235.28,-1.29883,loser,10,2026-04-04
+vechain,VeChain,vet,0.00743905,6.0692,gainer,1,2026-04-04
+fetch-ai,Artificial Superintelligence Alliance,fet,0.239838,4.64535,gainer,2,2026-04-04
+algorand,Algorand,algo,0.125657,3.60519,gainer,3,2026-04-04
+memecore,MemeCore,m,2.74,3.42396,gainer,4,2026-04-04
+xdce-crowd-sale,XDC Network,xdc,0.03078531,2.03536,gainer,5,2026-04-04
+near,NEAR Protocol,near,1.22,1.81588,gainer,6,2026-04-04
+ethereum-classic,Ethereum Classic,etc,8.19,1.72819,gainer,7,2026-04-04
+solana,Solana,sol,80.27,1.07596,gainer,8,2026-04-04
+pi-network,Pi Network,pi,0.17251,0.8733,gainer,9,2026-04-04
+bittensor,Bittensor,tao,309.21,0.85257,gainer,10,2026-04-04
+hash-2,Provenance Blockchain,hash,0.00963927,-10.07669,loser,1,2026-04-04
+midnight-3,Midnight,night,0.0420418,-8.79995,loser,2,2026-04-04
+just,JUST,jst,0.060177,-5.50451,loser,3,2026-04-04
+stable-2,​​Stable,stable,0.02714795,-4.18776,loser,4,2026-04-04
+rain,Rain,rain,0.00741466,-3.9209,loser,5,2026-04-04
+monero,Monero,xmr,317.24,-3.18257,loser,6,2026-04-04
+aptos,Aptos,apt,0.843394,-3.16925,loser,7,2026-04-04
+uniswap,Uniswap,uni,3.15,-2.77934,loser,8,2026-04-04
+ethena,Ethena,ena,0.079637,-2.76455,loser,9,2026-04-04
+stellar,Stellar,xlm,0.161747,-2.74171,loser,10,2026-04-04
