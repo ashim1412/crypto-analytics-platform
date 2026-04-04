@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-vechain,VeChain,vet,0.00743905,6.0692,gainer,1,2026-04-04
-fetch-ai,Artificial Superintelligence Alliance,fet,0.239838,4.64535,gainer,2,2026-04-04
-algorand,Algorand,algo,0.125657,3.60519,gainer,3,2026-04-04
-memecore,MemeCore,m,2.74,3.42396,gainer,4,2026-04-04
-xdce-crowd-sale,XDC Network,xdc,0.03078531,2.03536,gainer,5,2026-04-04
-near,NEAR Protocol,near,1.22,1.81588,gainer,6,2026-04-04
-ethereum-classic,Ethereum Classic,etc,8.19,1.72819,gainer,7,2026-04-04
-solana,Solana,sol,80.27,1.07596,gainer,8,2026-04-04
-pi-network,Pi Network,pi,0.17251,0.8733,gainer,9,2026-04-04
-bittensor,Bittensor,tao,309.21,0.85257,gainer,10,2026-04-04
-hash-2,Provenance Blockchain,hash,0.00963927,-10.07669,loser,1,2026-04-04
-midnight-3,Midnight,night,0.0420418,-8.79995,loser,2,2026-04-04
-just,JUST,jst,0.060177,-5.50451,loser,3,2026-04-04
-stable-2,​​Stable,stable,0.02714795,-4.18776,loser,4,2026-04-04
-rain,Rain,rain,0.00741466,-3.9209,loser,5,2026-04-04
-monero,Monero,xmr,317.24,-3.18257,loser,6,2026-04-04
-aptos,Aptos,apt,0.843394,-3.16925,loser,7,2026-04-04
-uniswap,Uniswap,uni,3.15,-2.77934,loser,8,2026-04-04
-ethena,Ethena,ena,0.079637,-2.76455,loser,9,2026-04-04
-stellar,Stellar,xlm,0.161747,-2.74171,loser,10,2026-04-04
+vechain,VeChain,vet,0.0076193,9.06409,gainer,1,2026-04-04
+ethereum-classic,Ethereum Classic,etc,8.44,5.13349,gainer,2,2026-04-04
+algorand,Algorand,algo,0.123979,3.63699,gainer,3,2026-04-04
+xdce-crowd-sale,XDC Network,xdc,0.03108575,3.27396,gainer,4,2026-04-04
+zcash,Zcash,zec,245.28,2.93127,gainer,5,2026-04-04
+memecore,MemeCore,m,2.7,2.29813,gainer,6,2026-04-04
+near,NEAR Protocol,near,1.24,1.8308,gainer,7,2026-04-04
+tron,TRON,trx,0.317222,1.13293,gainer,8,2026-04-04
+pi-network,Pi Network,pi,0.172607,1.07619,gainer,9,2026-04-04
+litecoin,Litecoin,ltc,53.44,0.95588,gainer,10,2026-04-04
+midnight-3,Midnight,night,0.04208045,-4.63703,loser,1,2026-04-04
+stable-2,​​Stable,stable,0.02690874,-4.34363,loser,2,2026-04-04
+quant-network,Quant,qnt,73.72,-3.35537,loser,3,2026-04-04
+worldcoin-wld,Worldcoin,wld,0.263792,-3.22302,loser,4,2026-04-04
+monero,Monero,xmr,315.91,-2.76342,loser,5,2026-04-04
+canton-network,Canton,cc,0.139315,-2.62846,loser,6,2026-04-04
+just,JUST,jst,0.061493,-2.52872,loser,7,2026-04-04
+morpho,Morpho,morpho,1.47,-2.42305,loser,8,2026-04-04
+pepe,Pepe,pepe,3.38e-06,-2.42021,loser,9,2026-04-04
+shiba-inu,Shiba Inu,shib,5.9e-06,-2.27068,loser,10,2026-04-04
