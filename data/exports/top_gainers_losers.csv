@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,248.36,5.46487,gainer,1,2026-04-05
-ethereum-classic,Ethereum Classic,etc,8.53,5.2845,gainer,2,2026-04-05
-vechain,VeChain,vet,0.00743583,5.18551,gainer,3,2026-04-05
-pancakeswap-token,PancakeSwap,cake,1.42,4.93507,gainer,4,2026-04-05
-near,NEAR Protocol,near,1.26,4.02249,gainer,5,2026-04-05
-official-trump,Official Trump,trump,2.89,3.53625,gainer,6,2026-04-05
-monero,Monero,xmr,326.49,3.37153,gainer,7,2026-04-05
-avalanche-2,Avalanche,avax,9.0,1.36744,gainer,8,2026-04-05
-cosmos,Cosmos Hub,atom,1.71,1.25575,gainer,9,2026-04-05
-pump-fun,Pump.fun,pump,0.00166692,1.20202,gainer,10,2026-04-05
-memecore,MemeCore,m,2.56,-7.0925,loser,1,2026-04-05
-bittensor,Bittensor,tao,302.39,-3.35276,loser,2,2026-04-05
-midnight-3,Midnight,night,0.04245046,-3.16069,loser,3,2026-04-05
-worldcoin-wld,Worldcoin,wld,0.25811,-2.91607,loser,4,2026-04-05
-algorand,Algorand,algo,0.118531,-2.88914,loser,5,2026-04-05
-render-token,Render,render,1.88,-2.14074,loser,6,2026-04-05
-stable-2,​​Stable,stable,0.02721484,-1.9547,loser,7,2026-04-05
-ondo-finance,Ondo,ondo,0.254521,-1.85554,loser,8,2026-04-05
-fetch-ai,Artificial Superintelligence Alliance,fet,0.234132,-1.70901,loser,9,2026-04-05
-uniswap,Uniswap,uni,3.12,-1.70821,loser,10,2026-04-05
+hash-2,Provenance Blockchain,hash,0.01141194,18.96769,gainer,1,2026-04-05
+just,JUST,jst,0.062757,4.22882,gainer,2,2026-04-05
+zcash,Zcash,zec,245.52,4.00155,gainer,3,2026-04-05
+pancakeswap-token,PancakeSwap,cake,1.4,3.41596,gainer,4,2026-04-05
+ethereum-classic,Ethereum Classic,etc,8.45,3.06265,gainer,5,2026-04-05
+monero,Monero,xmr,326.75,3.0188,gainer,6,2026-04-05
+stable-2,​​Stable,stable,0.0279487,2.7375,gainer,7,2026-04-05
+near,NEAR Protocol,near,1.25,1.92582,gainer,8,2026-04-05
+the-open-network,Toncoin,ton,1.24,0.73643,gainer,9,2026-04-05
+htx-dao,HTX DAO,htx,1.73e-06,0.71443,gainer,10,2026-04-05
+memecore,MemeCore,m,2.54,-7.24594,loser,1,2026-04-05
+algorand,Algorand,algo,0.1177,-5.51342,loser,2,2026-04-05
+fetch-ai,Artificial Superintelligence Alliance,fet,0.227537,-5.27814,loser,3,2026-04-05
+worldcoin-wld,Worldcoin,wld,0.252358,-5.03994,loser,4,2026-04-05
+ondo-finance,Ondo,ondo,0.250254,-3.49419,loser,5,2026-04-05
+rain,Rain,rain,0.00718006,-3.15054,loser,6,2026-04-05
+render-token,Render,render,1.87,-3.12294,loser,7,2026-04-05
+bittensor,Bittensor,tao,300.18,-3.1178,loser,8,2026-04-05
+ethena,Ethena,ena,0.077395,-2.93751,loser,9,2026-04-05
+filecoin,Filecoin,fil,0.822298,-2.61736,loser,10,2026-04-05
