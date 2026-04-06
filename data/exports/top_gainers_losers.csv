@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-just,JUST,jst,0.063827,5.71034,gainer,1,2026-04-05
-quant-network,Quant,qnt,75.53,3.41507,gainer,2,2026-04-05
-monero,Monero,xmr,330.09,3.03165,gainer,3,2026-04-05
-the-open-network,Toncoin,ton,1.24,0.77767,gainer,4,2026-04-05
-figure-heloc,Figure Heloc,figr_heloc,1.03,0.75112,gainer,5,2026-04-05
-htx-dao,HTX DAO,htx,1.74e-06,0.7411,gainer,6,2026-04-05
-tron,TRON,trx,0.31952,0.68947,gainer,7,2026-04-05
-leo-token,LEO Token,leo,10.12,0.43921,gainer,8,2026-04-05
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.24466,gainer,9,2026-04-05
-canton-network,Canton,cc,0.139882,0.09875,gainer,10,2026-04-05
-rain,Rain,rain,0.00659141,-10.43528,loser,1,2026-04-05
-worldcoin-wld,Worldcoin,wld,0.247892,-5.99211,loser,2,2026-04-05
-midnight-3,Midnight,night,0.0415015,-5.27085,loser,3,2026-04-05
-bonk,Bonk,bonk,5.45e-06,-5.08567,loser,4,2026-04-05
-fetch-ai,Artificial Superintelligence Alliance,fet,0.227504,-4.72891,loser,5,2026-04-05
-zcash,Zcash,zec,240.43,-4.36182,loser,6,2026-04-05
-official-trump,Official Trump,trump,2.84,-3.89208,loser,7,2026-04-05
-ethereum-classic,Ethereum Classic,etc,8.52,-3.8544,loser,8,2026-04-05
-memecore,MemeCore,m,2.56,-3.8463,loser,9,2026-04-05
-near,NEAR Protocol,near,1.23,-3.68388,loser,10,2026-04-05
+avalanche-2,Avalanche,avax,9.48,5.40534,gainer,1,2026-04-06
+pepe,Pepe,pepe,3.57e-06,5.35944,gainer,2,2026-04-06
+memecore,MemeCore,m,2.67,4.34324,gainer,3,2026-04-06
+fetch-ai,Artificial Superintelligence Alliance,fet,0.242268,3.57356,gainer,4,2026-04-06
+hash-2,Provenance Blockchain,hash,0.01131871,3.49189,gainer,5,2026-04-06
+cardano,Cardano,ada,0.25446,2.85327,gainer,6,2026-04-06
+just,JUST,jst,0.063535,2.83101,gainer,7,2026-04-06
+arbitrum,Arbitrum,arb,0.095027,2.76903,gainer,8,2026-04-06
+ethereum,Ethereum,eth,2116.48,2.76511,gainer,9,2026-04-06
+bonk,Bonk,bonk,5.83e-06,2.68419,gainer,10,2026-04-06
+rain,Rain,rain,0.00659294,-10.38539,loser,1,2026-04-06
+worldcoin-wld,Worldcoin,wld,0.249167,-3.41982,loser,2,2026-04-06
+bitget-token,Bitget Token,bgb,1.87,-2.51463,loser,3,2026-04-06
+bitcoin-cash,Bitcoin Cash,bch,431.54,-2.11409,loser,4,2026-04-06
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.11,-1.40677,loser,5,2026-04-06
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.091603,-0.79637,loser,6,2026-04-06
+cosmos,Cosmos Hub,atom,1.7,-0.74865,loser,7,2026-04-06
+pi-network,Pi Network,pi,0.170853,-0.64051,loser,8,2026-04-06
+stable-2,​​Stable,stable,0.02704469,-0.63618,loser,9,2026-04-06
+tether-gold,Tether Gold,xaut,4610.62,-0.55507,loser,10,2026-04-06
