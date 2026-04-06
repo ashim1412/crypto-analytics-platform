@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-filecoin,Filecoin,fil,0.898448,9.95295,gainer,1,2026-04-06
-arbitrum,Arbitrum,arb,0.097912,8.65164,gainer,2,2026-04-06
-bittensor,Bittensor,tao,323.25,8.5693,gainer,3,2026-04-06
-algorand,Algorand,algo,0.124985,8.45022,gainer,4,2026-04-06
-memecore,MemeCore,m,2.71,8.28577,gainer,5,2026-04-06
-bonk,Bonk,bonk,5.89e-06,7.91155,gainer,6,2026-04-06
-avalanche-2,Avalanche,avax,9.43,7.4757,gainer,7,2026-04-06
-ondo-finance,Ondo,ondo,0.266218,7.28983,gainer,8,2026-04-06
-sui,Sui,sui,0.904978,7.28325,gainer,9,2026-04-06
-render-token,Render,render,1.96,7.14534,gainer,10,2026-04-06
-rain,Rain,rain,0.00657749,-3.25974,loser,1,2026-04-06
-stable-2,​​Stable,stable,0.02687777,-1.9674,loser,2,2026-04-06
-bitget-token,Bitget Token,bgb,1.88,-0.81915,loser,3,2026-04-06
-tron,TRON,trx,0.318336,-0.19882,loser,4,2026-04-06
-canton-network,Canton,cc,0.139469,-0.14094,loser,5,2026-04-06
-usual-usd,Usual USD,usd0,0.997139,-0.13319,loser,6,2026-04-06
-usdtb,USDtb,usdtb,0.999001,-0.07329,loser,7,2026-04-06
-usdd,USDD,usdd,0.999416,-0.04411,loser,8,2026-04-06
-usd-coin,USDC,usdc,0.9998,-0.03851,loser,9,2026-04-06
-ylds,YLDS,ylds,0.999865,-0.01268,loser,10,2026-04-06
+morpho,Morpho,morpho,1.62,11.39093,gainer,1,2026-04-06
+ethena,Ethena,ena,0.084345,7.75069,gainer,2,2026-04-06
+bittensor,Bittensor,tao,319.9,7.37645,gainer,3,2026-04-06
+bonk,Bonk,bonk,5.86e-06,7.31202,gainer,4,2026-04-06
+filecoin,Filecoin,fil,0.876957,6.5854,gainer,5,2026-04-06
+zcash,Zcash,zec,257.12,6.34707,gainer,6,2026-04-06
+sky,Sky,sky,0.078622,6.2541,gainer,7,2026-04-06
+pump-fun,Pump.fun,pump,0.00174732,5.90709,gainer,8,2026-04-06
+avalanche-2,Avalanche,avax,9.35,5.71046,gainer,9,2026-04-06
+arbitrum,Arbitrum,arb,0.096202,5.59587,gainer,10,2026-04-06
+figure-heloc,Figure Heloc,figr_heloc,1.02,-1.56095,loser,1,2026-04-06
+a7a5,A7A5,a7a5,0.01224667,-1.35816,loser,2,2026-04-06
+tron,TRON,trx,0.316035,-1.10892,loser,3,2026-04-06
+monero,Monero,xmr,328.11,-0.80919,loser,4,2026-04-06
+hash-2,Provenance Blockchain,hash,0.01084462,-0.351,loser,5,2026-04-06
+stable-2,​​Stable,stable,0.02635759,-0.31634,loser,6,2026-04-06
+stellar,Stellar,xlm,0.158607,-0.2739,loser,7,2026-04-06
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.26807,loser,8,2026-04-06
+rain,Rain,rain,0.00657744,-0.1951,loser,9,2026-04-06
+the-open-network,Toncoin,ton,1.24,-0.16308,loser,10,2026-04-06
