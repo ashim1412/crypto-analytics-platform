@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,2.77,8.39878,gainer,1,2026-04-06
-algorand,Algorand,algo,0.1256,6.93398,gainer,2,2026-04-06
-avalanche-2,Avalanche,avax,9.39,6.47932,gainer,3,2026-04-06
-cardano,Cardano,ada,0.255698,5.27388,gainer,4,2026-04-06
-pepe,Pepe,pepe,3.5e-06,5.05074,gainer,5,2026-04-06
-bittensor,Bittensor,tao,314.66,5.02898,gainer,6,2026-04-06
-arbitrum,Arbitrum,arb,0.095339,5.00573,gainer,7,2026-04-06
-ondo-finance,Ondo,ondo,0.26158,4.60702,gainer,8,2026-04-06
-ethereum,Ethereum,eth,2124.07,4.11499,gainer,9,2026-04-06
-chainlink,Chainlink,link,8.91,4.08251,gainer,10,2026-04-06
-rain,Rain,rain,0.00657407,-8.42257,loser,1,2026-04-06
-stable-2,​​Stable,stable,0.02672679,-4.30693,loser,2,2026-04-06
-hash-2,Provenance Blockchain,hash,0.01115905,-2.25074,loser,3,2026-04-06
-worldcoin-wld,Worldcoin,wld,0.247144,-1.74407,loser,4,2026-04-06
-bitget-token,Bitget Token,bgb,1.87,-1.48471,loser,5,2026-04-06
-bitcoin-cash,Bitcoin Cash,bch,434.26,-0.41663,loser,6,2026-04-06
-canton-network,Canton,cc,0.139463,-0.35264,loser,7,2026-04-06
-nexo,NEXO,nexo,0.846803,-0.32399,loser,8,2026-04-06
-beldex,Beldex,bdx,0.079877,-0.32315,loser,9,2026-04-06
-tether-gold,Tether Gold,xaut,4623.67,-0.21943,loser,10,2026-04-06
+filecoin,Filecoin,fil,0.898448,9.95295,gainer,1,2026-04-06
+arbitrum,Arbitrum,arb,0.097912,8.65164,gainer,2,2026-04-06
+bittensor,Bittensor,tao,323.25,8.5693,gainer,3,2026-04-06
+algorand,Algorand,algo,0.124985,8.45022,gainer,4,2026-04-06
+memecore,MemeCore,m,2.71,8.28577,gainer,5,2026-04-06
+bonk,Bonk,bonk,5.89e-06,7.91155,gainer,6,2026-04-06
+avalanche-2,Avalanche,avax,9.43,7.4757,gainer,7,2026-04-06
+ondo-finance,Ondo,ondo,0.266218,7.28983,gainer,8,2026-04-06
+sui,Sui,sui,0.904978,7.28325,gainer,9,2026-04-06
+render-token,Render,render,1.96,7.14534,gainer,10,2026-04-06
+rain,Rain,rain,0.00657749,-3.25974,loser,1,2026-04-06
+stable-2,​​Stable,stable,0.02687777,-1.9674,loser,2,2026-04-06
+bitget-token,Bitget Token,bgb,1.88,-0.81915,loser,3,2026-04-06
+tron,TRON,trx,0.318336,-0.19882,loser,4,2026-04-06
+canton-network,Canton,cc,0.139469,-0.14094,loser,5,2026-04-06
+usual-usd,Usual USD,usd0,0.997139,-0.13319,loser,6,2026-04-06
+usdtb,USDtb,usdtb,0.999001,-0.07329,loser,7,2026-04-06
+usdd,USDD,usdd,0.999416,-0.04411,loser,8,2026-04-06
+usd-coin,USDC,usdc,0.9998,-0.03851,loser,9,2026-04-06
+ylds,YLDS,ylds,0.999865,-0.01268,loser,10,2026-04-06
