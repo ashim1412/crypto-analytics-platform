@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-canton-network,Canton,cc,0.148766,6.06562,gainer,1,2026-04-07
-morpho,Morpho,morpho,1.57,4.44548,gainer,2,2026-04-07
-just,JUST,jst,0.065153,2.54213,gainer,3,2026-04-07
-sky,Sky,sky,0.076174,2.01242,gainer,4,2026-04-07
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.48523,gainer,5,2026-04-07
-zcash,Zcash,zec,252.19,1.40479,gainer,6,2026-04-07
-ethena,Ethena,ena,0.082091,1.32153,gainer,7,2026-04-07
-filecoin,Filecoin,fil,0.853226,1.17684,gainer,8,2026-04-07
-bittensor,Bittensor,tao,311.22,1.09028,gainer,9,2026-04-07
-memecore,MemeCore,m,2.7,1.08034,gainer,10,2026-04-07
-avalanche-2,Avalanche,avax,8.79,-7.30254,loser,1,2026-04-07
-fetch-ai,Artificial Superintelligence Alliance,fet,0.225397,-6.96384,loser,2,2026-04-07
-stable-2,​​Stable,stable,0.0252359,-6.68814,loser,3,2026-04-07
-pepe,Pepe,pepe,3.35e-06,-6.22864,loser,4,2026-04-07
-hash-2,Provenance Blockchain,hash,0.01075383,-4.99069,loser,5,2026-04-07
-stellar,Stellar,xlm,0.155949,-3.92871,loser,6,2026-04-07
-vechain,VeChain,vet,0.00714509,-3.87785,loser,7,2026-04-07
-cardano,Cardano,ada,0.245128,-3.66341,loser,8,2026-04-07
-quant-network,Quant,qnt,73.52,-3.59831,loser,9,2026-04-07
-ethereum-classic,Ethereum Classic,etc,8.4,-3.47412,loser,10,2026-04-07
+morpho,Morpho,morpho,1.6,6.18303,gainer,1,2026-04-07
+canton-network,Canton,cc,0.147944,6.02897,gainer,2,2026-04-07
+zcash,Zcash,zec,263.34,4.44021,gainer,3,2026-04-07
+just,JUST,jst,0.064784,2.54703,gainer,4,2026-04-07
+sky,Sky,sky,0.075701,0.92853,gainer,5,2026-04-07
+xdce-crowd-sale,XDC Network,xdc,0.03137559,0.89547,gainer,6,2026-04-07
+filecoin,Filecoin,fil,0.855357,0.41744,gainer,7,2026-04-07
+usdtb,USDtb,usdtb,1.0,0.22707,gainer,8,2026-04-07
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.20192,gainer,9,2026-04-07
+beldex,Beldex,bdx,0.079883,0.12319,gainer,10,2026-04-07
+algorand,Algorand,algo,0.111985,-11.20353,loser,1,2026-04-07
+avalanche-2,Avalanche,avax,8.58,-8.60022,loser,2,2026-04-07
+ethereum-classic,Ethereum Classic,etc,8.23,-5.45074,loser,3,2026-04-07
+memecore,MemeCore,m,2.62,-5.31813,loser,4,2026-04-07
+vechain,VeChain,vet,0.00709311,-5.0113,loser,5,2026-04-07
+cardano,Cardano,ada,0.243702,-4.86753,loser,6,2026-04-07
+quant-network,Quant,qnt,72.09,-4.53577,loser,7,2026-04-07
+stable-2,​​Stable,stable,0.025617,-4.35561,loser,8,2026-04-07
+pepe,Pepe,pepe,3.36e-06,-4.26609,loser,9,2026-04-07
+jupiter-exchange-solana,Jupiter,jup,0.157646,-4.13057,loser,10,2026-04-07
