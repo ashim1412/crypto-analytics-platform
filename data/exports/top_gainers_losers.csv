@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00709016,7.87558,gainer,1,2026-04-07
-morpho,Morpho,morpho,1.61,4.9654,gainer,2,2026-04-07
-zcash,Zcash,zec,265.33,4.26924,gainer,3,2026-04-07
-canton-network,Canton,cc,0.146575,3.26791,gainer,4,2026-04-07
-a7a5,A7A5,a7a5,0.01239361,0.52067,gainer,5,2026-04-07
-usual-usd,Usual USD,usd0,1.0,0.35392,gainer,6,2026-04-07
-just,JUST,jst,0.064148,0.32813,gainer,7,2026-04-07
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.18226,gainer,8,2026-04-07
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,0.08846,gainer,9,2026-04-07
-dai,Dai,dai,1.001,0.05908,gainer,10,2026-04-07
-algorand,Algorand,algo,0.112476,-9.87212,loser,1,2026-04-07
-aave,Aave,aave,87.08,-9.84471,loser,2,2026-04-07
-avalanche-2,Avalanche,avax,8.62,-8.46736,loser,3,2026-04-07
-jupiter-exchange-solana,Jupiter,jup,0.155898,-5.91487,loser,4,2026-04-07
-ondo-finance,Ondo,ondo,0.250904,-5.74237,loser,5,2026-04-07
-ethereum-classic,Ethereum Classic,etc,8.18,-5.73142,loser,6,2026-04-07
-quant-network,Quant,qnt,71.11,-5.63354,loser,7,2026-04-07
-vechain,VeChain,vet,0.00703459,-5.5766,loser,8,2026-04-07
-bonk,Bonk,bonk,5.58e-06,-5.35899,loser,9,2026-04-07
-polkadot,Polkadot,dot,1.23,-5.28557,loser,10,2026-04-07
+rain,Rain,rain,0.00716849,9.00746,gainer,1,2026-04-07
+zcash,Zcash,zec,269.69,4.89343,gainer,2,2026-04-07
+morpho,Morpho,morpho,1.64,1.80549,gainer,3,2026-04-07
+figure-heloc,Figure Heloc,figr_heloc,1.032,1.18693,gainer,4,2026-04-07
+a7a5,A7A5,a7a5,0.01237141,1.01853,gainer,5,2026-04-07
+kaspa,Kaspa,kas,0.03130263,0.80839,gainer,6,2026-04-07
+tether-gold,Tether Gold,xaut,4652.1,0.62679,gainer,7,2026-04-07
+pax-gold,PAX Gold,paxg,4664.98,0.49441,gainer,8,2026-04-07
+worldcoin-wld,Worldcoin,wld,0.253745,0.42116,gainer,9,2026-04-07
+memecore,MemeCore,m,2.67,0.36969,gainer,10,2026-04-07
+algorand,Algorand,algo,0.111571,-9.3286,loser,1,2026-04-07
+aave,Aave,aave,87.85,-7.91238,loser,2,2026-04-07
+avalanche-2,Avalanche,avax,8.64,-7.59412,loser,3,2026-04-07
+sky,Sky,sky,0.073691,-6.09823,loser,4,2026-04-07
+world-liberty-financial,World Liberty Financial,wlfi,0.094969,-4.66428,loser,5,2026-04-07
+vechain,VeChain,vet,0.00704633,-4.60371,loser,6,2026-04-07
+ondo-finance,Ondo,ondo,0.251068,-4.51577,loser,7,2026-04-07
+chainlink,Chainlink,link,8.64,-4.10623,loser,8,2026-04-07
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.089044,-4.0843,loser,9,2026-04-07
+polkadot,Polkadot,dot,1.23,-3.96068,loser,10,2026-04-07
