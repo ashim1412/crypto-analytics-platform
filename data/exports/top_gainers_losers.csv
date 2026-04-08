@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,337.73,27.16281,gainer,1,2026-04-08
-layerzero,LayerZero,zro,2.07,15.97496,gainer,2,2026-04-08
-ethena,Ethena,ena,0.091648,14.67207,gainer,3,2026-04-08
-internet-computer,Internet Computer,icp,2.59,13.13138,gainer,4,2026-04-08
-render-token,Render,render,2.1,12.61456,gainer,5,2026-04-08
-bittensor,Bittensor,tao,346.08,12.13503,gainer,6,2026-04-08
-near,NEAR Protocol,near,1.37,10.89298,gainer,7,2026-04-08
-hyperliquid,Hyperliquid,hype,39.65,10.25806,gainer,8,2026-04-08
-fetch-ai,Artificial Superintelligence Alliance,fet,0.25435,10.23115,gainer,9,2026-04-08
-aave,Aave,aave,95.76,9.84527,gainer,10,2026-04-08
-canton-network,Canton,cc,0.143936,-1.85478,loser,1,2026-04-08
-memecore,MemeCore,m,2.65,-1.4425,loser,2,2026-04-08
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.78862,loser,3,2026-04-08
-leo-token,LEO Token,leo,10.1,-0.20732,loser,4,2026-04-08
-usual-usd,Usual USD,usd0,0.998506,-0.16511,loser,5,2026-04-08
-dai,Dai,dai,0.999891,-0.13639,loser,6,2026-04-08
-usd1-wlfi,USD1,usd1,0.999339,-0.0369,loser,7,2026-04-08
-bfusd,BFUSD,bfusd,0.999401,-0.01979,loser,8,2026-04-08
-paypal-usd,PayPal USD,pyusd,0.99983,-0.01917,loser,9,2026-04-08
-gho,GHO,gho,0.999713,-0.00789,loser,10,2026-04-08
+zcash,Zcash,zec,327.93,22.10746,gainer,1,2026-04-08
+rain,Rain,rain,0.00781424,9.21132,gainer,2,2026-04-08
+hash-2,Provenance Blockchain,hash,0.01157699,8.44638,gainer,3,2026-04-08
+ethena,Ethena,ena,0.089476,8.35868,gainer,4,2026-04-08
+internet-computer,Internet Computer,icp,2.48,8.32557,gainer,5,2026-04-08
+near,NEAR Protocol,near,1.34,7.66825,gainer,6,2026-04-08
+render-token,Render,render,2.03,7.32097,gainer,7,2026-04-08
+aave,Aave,aave,93.55,6.70717,gainer,8,2026-04-08
+bittensor,Bittensor,tao,331.16,6.48531,gainer,9,2026-04-08
+avalanche-2,Avalanche,avax,9.15,5.98866,gainer,10,2026-04-08
+xdce-crowd-sale,XDC Network,xdc,0.03093117,-0.94009,loser,1,2026-04-08
+midnight-3,Midnight,night,0.04062382,-0.92965,loser,2,2026-04-08
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.33244,loser,3,2026-04-08
+world-liberty-financial,World Liberty Financial,wlfi,0.094285,-0.29703,loser,4,2026-04-08
+leo-token,LEO Token,leo,10.1,-0.18099,loser,5,2026-04-08
+figure-heloc,Figure Heloc,figr_heloc,1.031,-0.10248,loser,6,2026-04-08
+falcon-finance,Falcon USD,usdf,0.997787,-0.0961,loser,7,2026-04-08
+usd-coin,USDC,usdc,0.999818,-0.0691,loser,8,2026-04-08
+usd1-wlfi,USD1,usd1,0.999128,-0.04013,loser,9,2026-04-08
+beldex,Beldex,bdx,0.079904,-0.03944,loser,10,2026-04-08
