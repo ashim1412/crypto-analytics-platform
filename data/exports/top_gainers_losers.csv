@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,313.68,24.3677,gainer,1,2026-04-08
-layerzero,LayerZero,zro,2.07,18.16817,gainer,2,2026-04-08
-rain,Rain,rain,0.00756979,16.62033,gainer,3,2026-04-08
-ethena,Ethena,ena,0.091893,11.88386,gainer,4,2026-04-08
-morpho,Morpho,morpho,1.75,11.17,gainer,5,2026-04-08
-render-token,Render,render,2.05,10.47301,gainer,6,2026-04-08
-sui,Sui,sui,0.958869,10.10815,gainer,7,2026-04-08
-fetch-ai,Artificial Superintelligence Alliance,fet,0.247106,9.58416,gainer,8,2026-04-08
-pepe,Pepe,pepe,3.67e-06,9.48418,gainer,9,2026-04-08
-pump-fun,Pump.fun,pump,0.00183361,9.28456,gainer,10,2026-04-08
-just,JUST,jst,0.062698,-3.78561,loser,1,2026-04-08
-memecore,MemeCore,m,2.63,-2.75329,loser,2,2026-04-08
-canton-network,Canton,cc,0.145602,-2.03183,loser,3,2026-04-08
-tron,TRON,trx,0.315224,-0.37911,loser,4,2026-04-08
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.11818,loser,5,2026-04-08
-usd1-wlfi,USD1,usd1,0.999383,-0.05452,loser,6,2026-04-08
-leo-token,LEO Token,leo,10.1,-0.02846,loser,7,2026-04-08
-bfusd,BFUSD,bfusd,0.9993,-0.01996,loser,8,2026-04-08
-ylds,YLDS,ylds,0.999862,-0.009,loser,9,2026-04-08
-gho,GHO,gho,0.999476,-0.00866,loser,10,2026-04-08
+zcash,Zcash,zec,321.95,22.25155,gainer,1,2026-04-08
+rain,Rain,rain,0.00757011,19.84181,gainer,2,2026-04-08
+layerzero,LayerZero,zro,2.06,17.0259,gainer,3,2026-04-08
+ethena,Ethena,ena,0.092142,14.63175,gainer,4,2026-04-08
+internet-computer,Internet Computer,icp,2.59,12.71649,gainer,5,2026-04-08
+render-token,Render,render,2.09,11.59619,gainer,6,2026-04-08
+pepe,Pepe,pepe,3.69e-06,10.0342,gainer,7,2026-04-08
+bittensor,Bittensor,tao,341.11,9.84875,gainer,8,2026-04-08
+avalanche-2,Avalanche,avax,9.4,9.55821,gainer,9,2026-04-08
+sui,Sui,sui,0.95114,9.36882,gainer,10,2026-04-08
+canton-network,Canton,cc,0.144293,-2.71889,loser,1,2026-04-08
+just,JUST,jst,0.064307,-0.75743,loser,2,2026-04-08
+world-liberty-financial,World Liberty Financial,wlfi,0.098086,-0.23627,loser,3,2026-04-08
+tron,TRON,trx,0.315838,-0.19005,loser,4,2026-04-08
+usual-usd,Usual USD,usd0,0.995864,-0.17284,loser,5,2026-04-08
+leo-token,LEO Token,leo,10.11,-0.09178,loser,6,2026-04-08
+dai,Dai,dai,0.999248,-0.07746,loser,7,2026-04-08
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.05657,loser,8,2026-04-08
+usd1-wlfi,USD1,usd1,0.999511,-0.05563,loser,9,2026-04-08
+ethena-usde,Ethena USDe,usde,0.99953,-0.03987,loser,10,2026-04-08
