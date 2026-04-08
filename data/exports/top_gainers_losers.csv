@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00716849,9.00746,gainer,1,2026-04-07
-zcash,Zcash,zec,269.69,4.89343,gainer,2,2026-04-07
-morpho,Morpho,morpho,1.64,1.80549,gainer,3,2026-04-07
-figure-heloc,Figure Heloc,figr_heloc,1.032,1.18693,gainer,4,2026-04-07
-a7a5,A7A5,a7a5,0.01237141,1.01853,gainer,5,2026-04-07
-kaspa,Kaspa,kas,0.03130263,0.80839,gainer,6,2026-04-07
-tether-gold,Tether Gold,xaut,4652.1,0.62679,gainer,7,2026-04-07
-pax-gold,PAX Gold,paxg,4664.98,0.49441,gainer,8,2026-04-07
-worldcoin-wld,Worldcoin,wld,0.253745,0.42116,gainer,9,2026-04-07
-memecore,MemeCore,m,2.67,0.36969,gainer,10,2026-04-07
-algorand,Algorand,algo,0.111571,-9.3286,loser,1,2026-04-07
-aave,Aave,aave,87.85,-7.91238,loser,2,2026-04-07
-avalanche-2,Avalanche,avax,8.64,-7.59412,loser,3,2026-04-07
-sky,Sky,sky,0.073691,-6.09823,loser,4,2026-04-07
-world-liberty-financial,World Liberty Financial,wlfi,0.094969,-4.66428,loser,5,2026-04-07
-vechain,VeChain,vet,0.00704633,-4.60371,loser,6,2026-04-07
-ondo-finance,Ondo,ondo,0.251068,-4.51577,loser,7,2026-04-07
-chainlink,Chainlink,link,8.64,-4.10623,loser,8,2026-04-07
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.089044,-4.0843,loser,9,2026-04-07
-polkadot,Polkadot,dot,1.23,-3.96068,loser,10,2026-04-07
+zcash,Zcash,zec,313.68,24.3677,gainer,1,2026-04-08
+layerzero,LayerZero,zro,2.07,18.16817,gainer,2,2026-04-08
+rain,Rain,rain,0.00756979,16.62033,gainer,3,2026-04-08
+ethena,Ethena,ena,0.091893,11.88386,gainer,4,2026-04-08
+morpho,Morpho,morpho,1.75,11.17,gainer,5,2026-04-08
+render-token,Render,render,2.05,10.47301,gainer,6,2026-04-08
+sui,Sui,sui,0.958869,10.10815,gainer,7,2026-04-08
+fetch-ai,Artificial Superintelligence Alliance,fet,0.247106,9.58416,gainer,8,2026-04-08
+pepe,Pepe,pepe,3.67e-06,9.48418,gainer,9,2026-04-08
+pump-fun,Pump.fun,pump,0.00183361,9.28456,gainer,10,2026-04-08
+just,JUST,jst,0.062698,-3.78561,loser,1,2026-04-08
+memecore,MemeCore,m,2.63,-2.75329,loser,2,2026-04-08
+canton-network,Canton,cc,0.145602,-2.03183,loser,3,2026-04-08
+tron,TRON,trx,0.315224,-0.37911,loser,4,2026-04-08
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.11818,loser,5,2026-04-08
+usd1-wlfi,USD1,usd1,0.999383,-0.05452,loser,6,2026-04-08
+leo-token,LEO Token,leo,10.1,-0.02846,loser,7,2026-04-08
+bfusd,BFUSD,bfusd,0.9993,-0.01996,loser,8,2026-04-08
+ylds,YLDS,ylds,0.999862,-0.009,loser,9,2026-04-08
+gho,GHO,gho,0.999476,-0.00866,loser,10,2026-04-08
