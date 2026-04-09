@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-just,JUST,jst,0.065675,4.67585,gainer,1,2026-04-09
-rain,Rain,rain,0.00790714,4.22762,gainer,2,2026-04-09
-memecore,MemeCore,m,2.73,3.93457,gainer,3,2026-04-09
-near,NEAR Protocol,near,1.33,3.22094,gainer,4,2026-04-09
-bitget-token,Bitget Token,bgb,1.89,1.83862,gainer,5,2026-04-09
-zcash,Zcash,zec,321.77,1.7477,gainer,6,2026-04-09
-arbitrum,Arbitrum,arb,0.102187,1.17224,gainer,7,2026-04-09
-tron,TRON,trx,0.317695,0.7697,gainer,8,2026-04-09
-htx-dao,HTX DAO,htx,1.75e-06,0.60436,gainer,9,2026-04-09
-quant-network,Quant,qnt,74.51,0.30713,gainer,10,2026-04-09
-world-liberty-financial,World Liberty Financial,wlfi,0.088853,-9.74697,loser,1,2026-04-09
-jupiter-exchange-solana,Jupiter,jup,0.160076,-5.68853,loser,2,2026-04-09
-monero,Monero,xmr,323.23,-5.61819,loser,3,2026-04-09
-pump-fun,Pump.fun,pump,0.0017447,-5.13292,loser,4,2026-04-09
-layerzero,LayerZero,zro,1.96,-5.06051,loser,5,2026-04-09
-ondo-finance,Ondo,ondo,0.255172,-5.03502,loser,6,2026-04-09
-hash-2,Provenance Blockchain,hash,0.01066683,-5.02751,loser,7,2026-04-09
-sui,Sui,sui,0.908335,-4.85275,loser,8,2026-04-09
-chainlink,Chainlink,link,8.77,-4.8462,loser,9,2026-04-09
-xdce-crowd-sale,XDC Network,xdc,0.03057186,-4.77642,loser,10,2026-04-09
+rain,Rain,rain,0.00800528,5.72205,gainer,1,2026-04-09
+just,JUST,jst,0.065905,2.53187,gainer,2,2026-04-09
+morpho,Morpho,morpho,1.75,2.01584,gainer,3,2026-04-09
+canton-network,Canton,cc,0.146511,1.69013,gainer,4,2026-04-09
+bitget-token,Bitget Token,bgb,1.9,1.55887,gainer,5,2026-04-09
+memecore,MemeCore,m,2.7,1.19268,gainer,6,2026-04-09
+a7a5,A7A5,a7a5,0.01242228,1.17122,gainer,7,2026-04-09
+near,NEAR Protocol,near,1.35,0.91812,gainer,8,2026-04-09
+tron,TRON,trx,0.317568,0.52415,gainer,9,2026-04-09
+htx-dao,HTX DAO,htx,1.75e-06,0.46965,gainer,10,2026-04-09
+algorand,Algorand,algo,0.111001,-9.4021,loser,1,2026-04-09
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.086507,-6.62126,loser,2,2026-04-09
+ondo-finance,Ondo,ondo,0.253521,-6.4088,loser,3,2026-04-09
+fetch-ai,Artificial Superintelligence Alliance,fet,0.23639,-6.37535,loser,4,2026-04-09
+world-liberty-financial,World Liberty Financial,wlfi,0.091747,-6.30168,loser,5,2026-04-09
+bittensor,Bittensor,tao,321.71,-5.91426,loser,6,2026-04-09
+aptos,Aptos,apt,0.8297,-5.76364,loser,7,2026-04-09
+pepe,Pepe,pepe,3.49e-06,-5.57399,loser,8,2026-04-09
+stable-2,​​Stable,stable,0.02534836,-5.54581,loser,9,2026-04-09
+bonk,Bonk,bonk,5.76e-06,-5.38573,loser,10,2026-04-09
