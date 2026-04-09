@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00797236,5.4324,gainer,1,2026-04-09
-just,JUST,jst,0.066753,3.84629,gainer,2,2026-04-09
-canton-network,Canton,cc,0.146423,1.71771,gainer,3,2026-04-09
-bitget-token,Bitget Token,bgb,1.92,1.63429,gainer,4,2026-04-09
-arbitrum,Arbitrum,arb,0.102218,0.81762,gainer,5,2026-04-09
-nexo,NEXO,nexo,0.884863,0.7989,gainer,6,2026-04-09
-cosmos,Cosmos Hub,atom,1.78,0.6584,gainer,7,2026-04-09
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.55924,gainer,8,2026-04-09
-beldex,Beldex,bdx,0.080196,0.25754,gainer,9,2026-04-09
-tron,TRON,trx,0.318493,0.20542,gainer,10,2026-04-09
-hash-2,Provenance Blockchain,hash,0.0103345,-7.40675,loser,1,2026-04-09
-zcash,Zcash,zec,312.47,-7.23723,loser,2,2026-04-09
-algorand,Algorand,algo,0.111575,-7.11928,loser,3,2026-04-09
-aave,Aave,aave,89.95,-6.03165,loser,4,2026-04-09
-ondo-finance,Ondo,ondo,0.252673,-5.97395,loser,5,2026-04-09
-fetch-ai,Artificial Superintelligence Alliance,fet,0.240009,-5.92327,loser,6,2026-04-09
-bittensor,Bittensor,tao,325.66,-5.87195,loser,7,2026-04-09
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.086472,-5.10358,loser,8,2026-04-09
-ethena,Ethena,ena,0.087183,-4.87316,loser,9,2026-04-09
-stellar,Stellar,xlm,0.153934,-4.84845,loser,10,2026-04-09
+siren-2,Siren,siren,0.73263,27.51215,gainer,1,2026-04-09
+morpho,Morpho,morpho,1.86,7.66102,gainer,2,2026-04-09
+just,JUST,jst,0.069995,7.61621,gainer,3,2026-04-09
+zcash,Zcash,zec,356.88,7.22124,gainer,4,2026-04-09
+hyperliquid,Hyperliquid,hype,39.91,4.78643,gainer,5,2026-04-09
+rain,Rain,rain,0.00799309,4.08898,gainer,6,2026-04-09
+monero,Monero,xmr,342.52,3.18803,gainer,7,2026-04-09
+canton-network,Canton,cc,0.147412,3.13861,gainer,8,2026-04-09
+arbitrum,Arbitrum,arb,0.103096,2.73719,gainer,9,2026-04-09
+worldcoin-wld,Worldcoin,wld,0.26829,2.2537,gainer,10,2026-04-09
+hash-2,Provenance Blockchain,hash,0.01034948,-10.60597,loser,1,2026-04-09
+algorand,Algorand,algo,0.112269,-3.1641,loser,2,2026-04-09
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.086947,-2.95194,loser,3,2026-04-09
+quant-network,Quant,qnt,74.47,-2.78063,loser,4,2026-04-09
+aave,Aave,aave,91.63,-2.70948,loser,5,2026-04-09
+stable-2,​​Stable,stable,0.02575437,-2.69697,loser,6,2026-04-09
+stellar,Stellar,xlm,0.155183,-2.55469,loser,7,2026-04-09
+ondo-finance,Ondo,ondo,0.256412,-2.13865,loser,8,2026-04-09
+layerzero,LayerZero,zro,1.97,-1.59648,loser,9,2026-04-09
+vechain,VeChain,vet,0.0072207,-1.55501,loser,10,2026-04-09
