@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00800528,5.72205,gainer,1,2026-04-09
-just,JUST,jst,0.065905,2.53187,gainer,2,2026-04-09
-morpho,Morpho,morpho,1.75,2.01584,gainer,3,2026-04-09
-canton-network,Canton,cc,0.146511,1.69013,gainer,4,2026-04-09
-bitget-token,Bitget Token,bgb,1.9,1.55887,gainer,5,2026-04-09
-memecore,MemeCore,m,2.7,1.19268,gainer,6,2026-04-09
-a7a5,A7A5,a7a5,0.01242228,1.17122,gainer,7,2026-04-09
-near,NEAR Protocol,near,1.35,0.91812,gainer,8,2026-04-09
-tron,TRON,trx,0.317568,0.52415,gainer,9,2026-04-09
-htx-dao,HTX DAO,htx,1.75e-06,0.46965,gainer,10,2026-04-09
-algorand,Algorand,algo,0.111001,-9.4021,loser,1,2026-04-09
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.086507,-6.62126,loser,2,2026-04-09
-ondo-finance,Ondo,ondo,0.253521,-6.4088,loser,3,2026-04-09
-fetch-ai,Artificial Superintelligence Alliance,fet,0.23639,-6.37535,loser,4,2026-04-09
-world-liberty-financial,World Liberty Financial,wlfi,0.091747,-6.30168,loser,5,2026-04-09
-bittensor,Bittensor,tao,321.71,-5.91426,loser,6,2026-04-09
-aptos,Aptos,apt,0.8297,-5.76364,loser,7,2026-04-09
-pepe,Pepe,pepe,3.49e-06,-5.57399,loser,8,2026-04-09
-stable-2,​​Stable,stable,0.02534836,-5.54581,loser,9,2026-04-09
-bonk,Bonk,bonk,5.76e-06,-5.38573,loser,10,2026-04-09
+rain,Rain,rain,0.00797236,5.4324,gainer,1,2026-04-09
+just,JUST,jst,0.066753,3.84629,gainer,2,2026-04-09
+canton-network,Canton,cc,0.146423,1.71771,gainer,3,2026-04-09
+bitget-token,Bitget Token,bgb,1.92,1.63429,gainer,4,2026-04-09
+arbitrum,Arbitrum,arb,0.102218,0.81762,gainer,5,2026-04-09
+nexo,NEXO,nexo,0.884863,0.7989,gainer,6,2026-04-09
+cosmos,Cosmos Hub,atom,1.78,0.6584,gainer,7,2026-04-09
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.55924,gainer,8,2026-04-09
+beldex,Beldex,bdx,0.080196,0.25754,gainer,9,2026-04-09
+tron,TRON,trx,0.318493,0.20542,gainer,10,2026-04-09
+hash-2,Provenance Blockchain,hash,0.0103345,-7.40675,loser,1,2026-04-09
+zcash,Zcash,zec,312.47,-7.23723,loser,2,2026-04-09
+algorand,Algorand,algo,0.111575,-7.11928,loser,3,2026-04-09
+aave,Aave,aave,89.95,-6.03165,loser,4,2026-04-09
+ondo-finance,Ondo,ondo,0.252673,-5.97395,loser,5,2026-04-09
+fetch-ai,Artificial Superintelligence Alliance,fet,0.240009,-5.92327,loser,6,2026-04-09
+bittensor,Bittensor,tao,325.66,-5.87195,loser,7,2026-04-09
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.086472,-5.10358,loser,8,2026-04-09
+ethena,Ethena,ena,0.087183,-4.87316,loser,9,2026-04-09
+stellar,Stellar,xlm,0.153934,-4.84845,loser,10,2026-04-09
