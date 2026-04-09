@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,327.93,22.10746,gainer,1,2026-04-08
-rain,Rain,rain,0.00781424,9.21132,gainer,2,2026-04-08
-hash-2,Provenance Blockchain,hash,0.01157699,8.44638,gainer,3,2026-04-08
-ethena,Ethena,ena,0.089476,8.35868,gainer,4,2026-04-08
-internet-computer,Internet Computer,icp,2.48,8.32557,gainer,5,2026-04-08
-near,NEAR Protocol,near,1.34,7.66825,gainer,6,2026-04-08
-render-token,Render,render,2.03,7.32097,gainer,7,2026-04-08
-aave,Aave,aave,93.55,6.70717,gainer,8,2026-04-08
-bittensor,Bittensor,tao,331.16,6.48531,gainer,9,2026-04-08
-avalanche-2,Avalanche,avax,9.15,5.98866,gainer,10,2026-04-08
-xdce-crowd-sale,XDC Network,xdc,0.03093117,-0.94009,loser,1,2026-04-08
-midnight-3,Midnight,night,0.04062382,-0.92965,loser,2,2026-04-08
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.33244,loser,3,2026-04-08
-world-liberty-financial,World Liberty Financial,wlfi,0.094285,-0.29703,loser,4,2026-04-08
-leo-token,LEO Token,leo,10.1,-0.18099,loser,5,2026-04-08
-figure-heloc,Figure Heloc,figr_heloc,1.031,-0.10248,loser,6,2026-04-08
-falcon-finance,Falcon USD,usdf,0.997787,-0.0961,loser,7,2026-04-08
-usd-coin,USDC,usdc,0.999818,-0.0691,loser,8,2026-04-08
-usd1-wlfi,USD1,usd1,0.999128,-0.04013,loser,9,2026-04-08
-beldex,Beldex,bdx,0.079904,-0.03944,loser,10,2026-04-08
+just,JUST,jst,0.065675,4.67585,gainer,1,2026-04-09
+rain,Rain,rain,0.00790714,4.22762,gainer,2,2026-04-09
+memecore,MemeCore,m,2.73,3.93457,gainer,3,2026-04-09
+near,NEAR Protocol,near,1.33,3.22094,gainer,4,2026-04-09
+bitget-token,Bitget Token,bgb,1.89,1.83862,gainer,5,2026-04-09
+zcash,Zcash,zec,321.77,1.7477,gainer,6,2026-04-09
+arbitrum,Arbitrum,arb,0.102187,1.17224,gainer,7,2026-04-09
+tron,TRON,trx,0.317695,0.7697,gainer,8,2026-04-09
+htx-dao,HTX DAO,htx,1.75e-06,0.60436,gainer,9,2026-04-09
+quant-network,Quant,qnt,74.51,0.30713,gainer,10,2026-04-09
+world-liberty-financial,World Liberty Financial,wlfi,0.088853,-9.74697,loser,1,2026-04-09
+jupiter-exchange-solana,Jupiter,jup,0.160076,-5.68853,loser,2,2026-04-09
+monero,Monero,xmr,323.23,-5.61819,loser,3,2026-04-09
+pump-fun,Pump.fun,pump,0.0017447,-5.13292,loser,4,2026-04-09
+layerzero,LayerZero,zro,1.96,-5.06051,loser,5,2026-04-09
+ondo-finance,Ondo,ondo,0.255172,-5.03502,loser,6,2026-04-09
+hash-2,Provenance Blockchain,hash,0.01066683,-5.02751,loser,7,2026-04-09
+sui,Sui,sui,0.908335,-4.85275,loser,8,2026-04-09
+chainlink,Chainlink,link,8.77,-4.8462,loser,9,2026-04-09
+xdce-crowd-sale,XDC Network,xdc,0.03057186,-4.77642,loser,10,2026-04-09
