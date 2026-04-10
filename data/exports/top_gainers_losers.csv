@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.714879,26.87713,gainer,1,2026-04-10
-zcash,Zcash,zec,371.88,16.39366,gainer,2,2026-04-10
-ethena,Ethena,ena,0.096832,11.06449,gainer,3,2026-04-10
-arbitrum,Arbitrum,arb,0.109031,6.32945,gainer,4,2026-04-10
-just,JUST,jst,0.069648,5.62413,gainer,5,2026-04-10
-monero,Monero,xmr,346.04,5.28845,gainer,6,2026-04-10
-canton-network,Canton,cc,0.154264,5.26983,gainer,7,2026-04-10
-worldcoin-wld,Worldcoin,wld,0.269454,4.77944,gainer,8,2026-04-10
-quant-network,Quant,qnt,76.28,4.38876,gainer,9,2026-04-10
-the-open-network,Toncoin,ton,1.28,4.24155,gainer,10,2026-04-10
-bittensor,Bittensor,tao,267.33,-16.9254,loser,1,2026-04-10
-world-liberty-financial,World Liberty Financial,wlfi,0.084919,-7.37259,loser,2,2026-04-10
-hash-2,Provenance Blockchain,hash,0.01021618,-3.97566,loser,3,2026-04-10
-vechain,VeChain,vet,0.00702551,-2.03886,loser,4,2026-04-10
-hedera-hashgraph,Hedera,hbar,0.088309,-1.14952,loser,5,2026-04-10
-official-trump,Official Trump,trump,2.89,-1.11327,loser,6,2026-04-10
-bitcoin-cash,Bitcoin Cash,bch,439.51,-1.079,loser,7,2026-04-10
-xdce-crowd-sale,XDC Network,xdc,0.03064995,-1.0088,loser,8,2026-04-10
-memecore,MemeCore,m,2.64,-1.00865,loser,9,2026-04-10
-aave,Aave,aave,90.06,-0.94035,loser,10,2026-04-10
+dash,Dash,dash,43.01,34.30856,gainer,1,2026-04-10
+zcash,Zcash,zec,381.45,22.18075,gainer,2,2026-04-10
+siren-2,Siren,siren,0.709258,15.33683,gainer,3,2026-04-10
+ethena,Ethena,ena,0.095702,9.66445,gainer,4,2026-04-10
+arbitrum,Arbitrum,arb,0.109875,7.56089,gainer,5,2026-04-10
+morpho,Morpho,morpho,1.88,6.89379,gainer,6,2026-04-10
+hyperliquid,Hyperliquid,hype,41.39,6.19598,gainer,7,2026-04-10
+pump-fun,Pump.fun,pump,0.00186976,6.13127,gainer,8,2026-04-10
+the-open-network,Toncoin,ton,1.29,5.67803,gainer,9,2026-04-10
+quant-network,Quant,qnt,76.65,5.38961,gainer,10,2026-04-10
+bittensor,Bittensor,tao,259.97,-19.57206,loser,1,2026-04-10
+world-liberty-financial,World Liberty Financial,wlfi,0.08139,-12.85817,loser,2,2026-04-10
+official-trump,Official Trump,trump,2.87,-4.6894,loser,3,2026-04-10
+fetch-ai,Artificial Superintelligence Alliance,fet,0.235231,-1.70595,loser,4,2026-04-10
+vechain,VeChain,vet,0.0070477,-1.41599,loser,5,2026-04-10
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.085368,-1.28337,loser,6,2026-04-10
+memecore,MemeCore,m,2.6,-1.11869,loser,7,2026-04-10
+algorand,Algorand,algo,0.110125,-0.95362,loser,8,2026-04-10
+midnight-3,Midnight,night,0.04074086,-0.94931,loser,9,2026-04-10
+xdce-crowd-sale,XDC Network,xdc,0.03121827,-0.93399,loser,10,2026-04-10
