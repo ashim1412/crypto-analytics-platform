@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.73263,27.51215,gainer,1,2026-04-09
-morpho,Morpho,morpho,1.86,7.66102,gainer,2,2026-04-09
-just,JUST,jst,0.069995,7.61621,gainer,3,2026-04-09
-zcash,Zcash,zec,356.88,7.22124,gainer,4,2026-04-09
-hyperliquid,Hyperliquid,hype,39.91,4.78643,gainer,5,2026-04-09
-rain,Rain,rain,0.00799309,4.08898,gainer,6,2026-04-09
-monero,Monero,xmr,342.52,3.18803,gainer,7,2026-04-09
-canton-network,Canton,cc,0.147412,3.13861,gainer,8,2026-04-09
-arbitrum,Arbitrum,arb,0.103096,2.73719,gainer,9,2026-04-09
-worldcoin-wld,Worldcoin,wld,0.26829,2.2537,gainer,10,2026-04-09
-hash-2,Provenance Blockchain,hash,0.01034948,-10.60597,loser,1,2026-04-09
-algorand,Algorand,algo,0.112269,-3.1641,loser,2,2026-04-09
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.086947,-2.95194,loser,3,2026-04-09
-quant-network,Quant,qnt,74.47,-2.78063,loser,4,2026-04-09
-aave,Aave,aave,91.63,-2.70948,loser,5,2026-04-09
-stable-2,​​Stable,stable,0.02575437,-2.69697,loser,6,2026-04-09
-stellar,Stellar,xlm,0.155183,-2.55469,loser,7,2026-04-09
-ondo-finance,Ondo,ondo,0.256412,-2.13865,loser,8,2026-04-09
-layerzero,LayerZero,zro,1.97,-1.59648,loser,9,2026-04-09
-vechain,VeChain,vet,0.0072207,-1.55501,loser,10,2026-04-09
+siren-2,Siren,siren,0.685408,23.29886,gainer,1,2026-04-10
+zcash,Zcash,zec,370.83,14.96873,gainer,2,2026-04-10
+morpho,Morpho,morpho,1.85,9.68129,gainer,3,2026-04-10
+arbitrum,Arbitrum,arb,0.109914,7.72624,gainer,4,2026-04-10
+monero,Monero,xmr,345.19,7.15933,gainer,5,2026-04-10
+just,JUST,jst,0.069883,6.18085,gainer,6,2026-04-10
+canton-network,Canton,cc,0.153047,6.16765,gainer,7,2026-04-10
+internet-computer,Internet Computer,icp,2.56,5.77075,gainer,8,2026-04-10
+worldcoin-wld,Worldcoin,wld,0.26653,4.74878,gainer,9,2026-04-10
+ethena,Ethena,ena,0.091043,4.52668,gainer,10,2026-04-10
+bittensor,Bittensor,tao,286.2,-11.25589,loser,1,2026-04-10
+world-liberty-financial,World Liberty Financial,wlfi,0.085326,-3.78072,loser,2,2026-04-10
+memecore,MemeCore,m,2.63,-3.58412,loser,3,2026-04-10
+hash-2,Provenance Blockchain,hash,0.01036447,-2.78933,loser,4,2026-04-10
+algorand,Algorand,algo,0.111603,-1.51593,loser,5,2026-04-10
+stable-2,​​Stable,stable,0.02541111,-1.07112,loser,6,2026-04-10
+rain,Rain,rain,0.00783763,-0.63301,loser,7,2026-04-10
+ondo-finance,Ondo,ondo,0.252877,-0.50019,loser,8,2026-04-10
+usual-usd,Usual USD,usd0,0.997602,-0.42156,loser,9,2026-04-10
+leo-token,LEO Token,leo,10.1,-0.34832,loser,10,2026-04-10
