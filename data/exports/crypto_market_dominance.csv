@@ -1,101 +1,101 @@
 coin_id,coin_name,coin_symbol,market_cap_usd,dominance_pct,market_rank,snapshot_date
-bitcoin,Bitcoin,btc,1458006185094.0,58.5566,1,2026-04-11
-ethereum,Ethereum,eth,270132145936.0,10.8491,2,2026-04-11
-tether,Tether,usdt,184336285319.0,7.4033,3,2026-04-11
-ripple,XRP,xrp,83085162366.0,3.3369,4,2026-04-11
-binancecoin,BNB,bnb,82464570199.0,3.312,5,2026-04-11
-usd-coin,USDC,usdc,78651845119.0,3.1588,6,2026-04-11
-solana,Solana,sol,48598724932.0,1.9518,7,2026-04-11
-tron,TRON,trx,30233406944.0,1.2142,8,2026-04-11
-figure-heloc,Figure Heloc,figr_heloc,16979398822.0,0.6819,9,2026-04-11
-dogecoin,Dogecoin,doge,14374222331.0,0.5773,10,2026-04-11
-usds,USDS,usds,11522938780.0,0.4628,11,2026-04-11
-whitebit,WhiteBIT Coin,wbt,11321553883.0,0.4547,12,2026-04-11
-hyperliquid,Hyperliquid,hype,9963341958.0,0.4001,13,2026-04-11
-cardano,Cardano,ada,9358731168.0,0.3759,14,2026-04-11
-leo-token,LEO Token,leo,9309970375.0,0.3739,15,2026-04-11
-bitcoin-cash,Bitcoin Cash,bch,8902851263.0,0.3576,16,2026-04-11
-chainlink,Chainlink,link,6588938946.0,0.2646,17,2026-04-11
-monero,Monero,xmr,6350656758.0,0.2551,18,2026-04-11
-zcash,Zcash,zec,6222730265.0,0.2499,19,2026-04-11
-ethena-usde,Ethena USDe,usde,5835222427.0,0.2344,20,2026-04-11
-canton-network,Canton,cc,5622532519.0,0.2258,21,2026-04-11
-stellar,Stellar,xlm,5104797150.0,0.205,22,2026-04-11
-memecore,MemeCore,m,4811791496.0,0.1933,23,2026-04-11
-dai,Dai,dai,4421477915.0,0.1776,24,2026-04-11
-litecoin,Litecoin,ltc,4216682913.0,0.1694,25,2026-04-11
-usd1-wlfi,USD1,usd1,4181996742.0,0.168,26,2026-04-11
-avalanche-2,Avalanche,avax,4038347553.0,0.1622,27,2026-04-11
-paypal-usd,PayPal USD,pyusd,4006952315.0,0.1609,28,2026-04-11
-rain,Rain,rain,3912983133.0,0.1572,29,2026-04-11
-hedera-hashgraph,Hedera,hbar,3857474325.0,0.1549,30,2026-04-11
-sui,Sui,sui,3712628601.0,0.1491,31,2026-04-11
-shiba-inu,Shiba Inu,shib,3503068567.0,0.1407,32,2026-04-11
-the-open-network,Toncoin,ton,3260345367.0,0.1309,33,2026-04-11
-crypto-com-chain,Cronos,cro,2968418524.0,0.1192,34,2026-04-11
-hashnote-usyc,Circle USYC,usyc,2682467564.0,0.1077,35,2026-04-11
-tether-gold,Tether Gold,xaut,2642909757.0,0.1061,36,2026-04-11
-world-liberty-financial,World Liberty Financial,wlfi,2574463695.0,0.1034,37,2026-04-11
-bittensor,Bittensor,tao,2463916688.0,0.099,38,2026-04-11
-pax-gold,PAX Gold,paxg,2402380602.0,0.0965,39,2026-04-11
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,2393155868.0,0.0961,40,2026-04-11
-mantle,Mantle,mnt,2257423980.0,0.0907,41,2026-04-11
-polkadot,Polkadot,dot,2177543139.0,0.0875,42,2026-04-11
-global-dollar,Global Dollar,usdg,2095224364.0,0.0841,43,2026-04-11
-uniswap,Uniswap,uni,1996166253.0,0.0802,44,2026-04-11
-sky,Sky,sky,1801977941.0,0.0724,45,2026-04-11
-falcon-finance,Falcon USD,usdf,1791456495.0,0.0719,46,2026-04-11
-okb,OKB,okb,1778928654.0,0.0714,47,2026-04-11
-near,NEAR Protocol,near,1754004487.0,0.0704,48,2026-04-11
-pi-network,Pi Network,pi,1704971806.0,0.0685,49,2026-04-11
-aster-2,Aster,aster,1634577147.0,0.0656,50,2026-04-11
-htx-dao,HTX DAO,htx,1613202346.0,0.0648,51,2026-04-11
-usdd,USDD,usdd,1539158221.0,0.0618,52,2026-04-11
-pepe,Pepe,pepe,1512017660.0,0.0607,53,2026-04-11
-aave,Aave,aave,1411684699.0,0.0567,54,2026-04-11
-internet-computer,Internet Computer,icp,1395507281.0,0.056,55,2026-04-11
-ripple-usd,Ripple USD,rlusd,1391809051.0,0.0559,56,2026-04-11
-bitget-token,Bitget Token,bgb,1349959403.0,0.0542,57,2026-04-11
-janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1346893592.0,0.0541,58,2026-04-11
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1330991820.0,0.0535,59,2026-04-11
-ethereum-classic,Ethereum Classic,etc,1322886564.0,0.0531,60,2026-04-11
-bfusd,BFUSD,bfusd,1319735692.0,0.053,61,2026-04-11
-ondo-finance,Ondo,ondo,1242472295.0,0.0499,62,2026-04-11
-kucoin-shares,KuCoin,kcs,1142200174.0,0.0459,63,2026-04-11
-quant-network,Quant,qnt,1139705092.0,0.0458,64,2026-04-11
-gatechain-token,Gate,gt,1133103428.0,0.0455,65,2026-04-11
-pump-fun,Pump.fun,pump,1092154293.0,0.0439,66,2026-04-11
-render-token,Render,render,1029535736.0,0.0413,67,2026-04-11
-morpho,Morpho,morpho,990578545.0,0.0398,68,2026-04-11
-algorand,Algorand,algo,978212424.0,0.0393,69,2026-04-11
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,926862067.0,0.0372,70,2026-04-11
-worldcoin-wld,Worldcoin,wld,911888865.0,0.0366,72,2026-04-11
-kaspa,Kaspa,kas,912030851.0,0.0366,71,2026-04-11
-polygon-ecosystem-token,POL (ex-MATIC),pol,907347740.0,0.0364,73,2026-04-11
-cosmos,Cosmos Hub,atom,903686260.0,0.0363,74,2026-04-11
-nexo,NEXO,nexo,892695792.0,0.0359,75,2026-04-11
-usdtb,USDtb,usdtb,865612950.0,0.0348,76,2026-04-11
-ethena,Ethena,ena,821393223.0,0.033,77,2026-04-11
-superstate-short-duration-us-government-securities-fund-ustb,Superstate Short Duration U.S. Government Securities Fund (USTB),ustb,813795188.0,0.0327,78,2026-04-11
+bitcoin,Bitcoin,btc,1456037987489.0,58.568,1,2026-04-11
+ethereum,Ethereum,eth,269702862408.0,10.8486,2,2026-04-11
+tether,Tether,usdt,184341774120.0,7.415,3,2026-04-11
+ripple,XRP,xrp,82660721024.0,3.325,4,2026-04-11
+binancecoin,BNB,bnb,82569909234.0,3.3213,5,2026-04-11
+usd-coin,USDC,usdc,78650378338.0,3.1637,6,2026-04-11
+solana,Solana,sol,48273450279.0,1.9418,7,2026-04-11
+tron,TRON,trx,30231284506.0,1.216,8,2026-04-11
+figure-heloc,Figure Heloc,figr_heloc,16979398822.0,0.683,9,2026-04-11
+dogecoin,Dogecoin,doge,14272037740.0,0.5741,10,2026-04-11
+usds,USDS,usds,11547695821.0,0.4645,11,2026-04-11
+whitebit,WhiteBIT Coin,wbt,11306633616.0,0.4548,12,2026-04-11
+hyperliquid,Hyperliquid,hype,10018989840.0,0.403,13,2026-04-11
+leo-token,LEO Token,leo,9339430241.0,0.3757,14,2026-04-11
+cardano,Cardano,ada,9264522001.0,0.3727,15,2026-04-11
+bitcoin-cash,Bitcoin Cash,bch,8816543979.0,0.3546,16,2026-04-11
+chainlink,Chainlink,link,6543363610.0,0.2632,17,2026-04-11
+zcash,Zcash,zec,6200823735.0,0.2494,18,2026-04-11
+monero,Monero,xmr,6193369537.0,0.2491,19,2026-04-11
+ethena-usde,Ethena USDe,usde,5835550167.0,0.2347,20,2026-04-11
+canton-network,Canton,cc,5674603769.0,0.2283,21,2026-04-11
+stellar,Stellar,xlm,5075059278.0,0.2041,22,2026-04-11
+memecore,MemeCore,m,4873088991.0,0.196,23,2026-04-11
+dai,Dai,dai,4422118117.0,0.1779,24,2026-04-11
+litecoin,Litecoin,ltc,4202770071.0,0.1691,25,2026-04-11
+usd1-wlfi,USD1,usd1,4181568493.0,0.1682,26,2026-04-11
+paypal-usd,PayPal USD,pyusd,4007927733.0,0.1612,27,2026-04-11
+avalanche-2,Avalanche,avax,4005329212.0,0.1611,28,2026-04-11
+rain,Rain,rain,3894759546.0,0.1567,29,2026-04-11
+hedera-hashgraph,Hedera,hbar,3815380319.0,0.1535,30,2026-04-11
+sui,Sui,sui,3688999899.0,0.1484,31,2026-04-11
+shiba-inu,Shiba Inu,shib,3487849426.0,0.1403,32,2026-04-11
+the-open-network,Toncoin,ton,3227574948.0,0.1298,33,2026-04-11
+crypto-com-chain,Cronos,cro,2955439421.0,0.1189,34,2026-04-11
+hashnote-usyc,Circle USYC,usyc,2682467564.0,0.1079,35,2026-04-11
+tether-gold,Tether Gold,xaut,2644029650.0,0.1064,36,2026-04-11
+bittensor,Bittensor,tao,2514016853.0,0.1011,37,2026-04-11
+world-liberty-financial,World Liberty Financial,wlfi,2493234265.0,0.1003,38,2026-04-11
+pax-gold,PAX Gold,paxg,2403416444.0,0.0967,39,2026-04-11
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,2393155868.0,0.0963,40,2026-04-11
+mantle,Mantle,mnt,2222963638.0,0.0894,41,2026-04-11
+polkadot,Polkadot,dot,2149981849.0,0.0865,42,2026-04-11
+global-dollar,Global Dollar,usdg,2095547980.0,0.0843,43,2026-04-11
+uniswap,Uniswap,uni,1988478378.0,0.08,44,2026-04-11
+sky,Sky,sky,1807713850.0,0.0727,45,2026-04-11
+falcon-finance,Falcon USD,usdf,1791628790.0,0.0721,46,2026-04-11
+okb,OKB,okb,1781024014.0,0.0716,47,2026-04-11
+near,NEAR Protocol,near,1727484698.0,0.0695,48,2026-04-11
+pi-network,Pi Network,pi,1696107035.0,0.0682,49,2026-04-11
+aster-2,Aster,aster,1649706548.0,0.0664,50,2026-04-11
+htx-dao,HTX DAO,htx,1613283097.0,0.0649,51,2026-04-11
+usdd,USDD,usdd,1542112103.0,0.062,52,2026-04-11
+pepe,Pepe,pepe,1505215577.0,0.0605,53,2026-04-11
+internet-computer,Internet Computer,icp,1394409421.0,0.0561,54,2026-04-11
+ripple-usd,Ripple USD,rlusd,1391721482.0,0.056,55,2026-04-11
+aave,Aave,aave,1389433854.0,0.0559,56,2026-04-11
+bitget-token,Bitget Token,bgb,1353416671.0,0.0544,57,2026-04-11
+janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1346893592.0,0.0542,58,2026-04-11
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1333561293.0,0.0536,59,2026-04-11
+bfusd,BFUSD,bfusd,1319735705.0,0.0531,60,2026-04-11
+ethereum-classic,Ethereum Classic,etc,1306984180.0,0.0526,61,2026-04-11
+ondo-finance,Ondo,ondo,1234808440.0,0.0497,62,2026-04-11
+kucoin-shares,KuCoin,kcs,1142977273.0,0.046,63,2026-04-11
+gatechain-token,Gate,gt,1133103428.0,0.0456,64,2026-04-11
+quant-network,Quant,qnt,1121631186.0,0.0451,65,2026-04-11
+pump-fun,Pump.fun,pump,1072954117.0,0.0432,66,2026-04-11
+render-token,Render,render,1035739567.0,0.0417,67,2026-04-11
+morpho,Morpho,morpho,979700903.0,0.0394,68,2026-04-11
+algorand,Algorand,algo,953884499.0,0.0384,69,2026-04-11
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,926546870.0,0.0373,70,2026-04-11
+worldcoin-wld,Worldcoin,wld,922962793.0,0.0371,71,2026-04-11
+polygon-ecosystem-token,POL (ex-MATIC),pol,906967794.0,0.0365,72,2026-04-11
+cosmos,Cosmos Hub,atom,902453318.0,0.0363,73,2026-04-11
+kaspa,Kaspa,kas,897831536.0,0.0361,74,2026-04-11
+nexo,NEXO,nexo,888331924.0,0.0357,75,2026-04-11
+usdtb,USDtb,usdtb,865863852.0,0.0348,76,2026-04-11
+ethena,Ethena,ena,821778061.0,0.0331,77,2026-04-11
+superstate-short-duration-us-government-securities-fund-ustb,Superstate Short Duration U.S. Government Securities Fund (USTB),ustb,813535216.0,0.0327,78,2026-04-11
 blockchain-capital,Blockchain Capital,bcap,756851940.0,0.0304,79,2026-04-11
-filecoin,Filecoin,fil,698606260.0,0.0281,80,2026-04-11
-arbitrum,Arbitrum,arb,692500441.0,0.0278,81,2026-04-11
-aptos,Aptos,apt,684982118.0,0.0275,82,2026-04-11
+arbitrum,Arbitrum,arb,694915322.0,0.028,80,2026-04-11
+filecoin,Filecoin,fil,692447468.0,0.0279,81,2026-04-11
+midnight-3,Midnight,night,677694074.0,0.0273,82,2026-04-11
+aptos,Aptos,apt,675317852.0,0.0272,84,2026-04-11
 ousg,OUSG,ousg,676636013.0,0.0272,83,2026-04-11
-midnight-3,Midnight,night,673680213.0,0.0271,84,2026-04-11
-official-trump,Official Trump,trump,659568294.0,0.0265,85,2026-04-11
-flare-networks,Flare,flr,650715378.0,0.0261,86,2026-04-11
-hash-2,Provenance Blockchain,hash,635838794.0,0.0255,92,2026-04-11
-beldex,Beldex,bdx,619898504.0,0.0249,87,2026-04-11
-just,JUST,jst,617776834.0,0.0248,88,2026-04-11
-xdce-crowd-sale,XDC Network,xdc,616886592.0,0.0248,89,2026-04-11
-ylds,YLDS,ylds,610653075.0,0.0245,90,2026-04-11
-vechain,VeChain,vet,605104995.0,0.0243,91,2026-04-11
-jupiter-exchange-solana,Jupiter,jup,587976572.0,0.0236,93,2026-04-11
-dash,Dash,dash,587096833.0,0.0236,94,2026-04-11
-gho,GHO,gho,583780291.0,0.0234,95,2026-04-11
-stable-2,​​Stable,stable,571921036.0,0.023,96,2026-04-11
-usual-usd,Usual USD,usd0,558701634.0,0.0224,97,2026-04-11
-fetch-ai,Artificial Superintelligence Alliance,fet,535636763.0,0.0215,98,2026-04-11
-bonk,Bonk,bonk,522128332.0,0.021,99,2026-04-11
-siren-2,Siren,siren,514678767.0,0.0207,100,2026-04-11
+flare-networks,Flare,flr,657603224.0,0.0265,85,2026-04-11
+official-trump,Official Trump,trump,654458206.0,0.0263,86,2026-04-11
+hash-2,Provenance Blockchain,hash,634708133.0,0.0255,87,2026-04-11
+beldex,Beldex,bdx,620830054.0,0.025,88,2026-04-11
+just,JUST,jst,616444273.0,0.0248,89,2026-04-11
+xdce-crowd-sale,XDC Network,xdc,612485419.0,0.0246,90,2026-04-11
+vechain,VeChain,vet,602349678.0,0.0242,91,2026-04-11
+ylds,YLDS,ylds,601171172.0,0.0242,92,2026-04-11
+gho,GHO,gho,583817364.0,0.0235,93,2026-04-11
+jupiter-exchange-solana,Jupiter,jup,577233707.0,0.0232,94,2026-04-11
+stable-2,​​Stable,stable,567670462.0,0.0228,95,2026-04-11
+usual-usd,Usual USD,usd0,559054065.0,0.0225,96,2026-04-11
+dash,Dash,dash,551908626.0,0.0222,97,2026-04-11
+siren-2,Siren,siren,543227068.0,0.0219,98,2026-04-11
+fetch-ai,Artificial Superintelligence Alliance,fet,531690836.0,0.0214,99,2026-04-11
+bonk,Bonk,bonk,517634932.0,0.0208,100,2026-04-11
