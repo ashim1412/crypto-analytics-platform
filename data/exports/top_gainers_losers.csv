@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,43.32,29.91213,gainer,1,2026-04-10
-arbitrum,Arbitrum,arb,0.110882,7.72329,gainer,2,2026-04-10
-hyperliquid,Hyperliquid,hype,42.1,5.61633,gainer,3,2026-04-10
-ethena,Ethena,ena,0.096057,5.41724,gainer,4,2026-04-10
-kaspa,Kaspa,kas,0.03358417,4.62337,gainer,5,2026-04-10
-zcash,Zcash,zec,376.07,4.33581,gainer,6,2026-04-10
-stable-2,​​Stable,stable,0.02674983,3.93115,gainer,7,2026-04-10
-hash-2,Provenance Blockchain,hash,0.0107534,3.90277,gainer,8,2026-04-10
-quant-network,Quant,qnt,77.22,3.50168,gainer,9,2026-04-10
-flare-networks,Flare,flr,0.00778233,3.24234,gainer,10,2026-04-10
-bittensor,Bittensor,tao,269.0,-19.71925,loser,1,2026-04-10
-world-liberty-financial,World Liberty Financial,wlfi,0.080256,-15.00009,loser,2,2026-04-10
-official-trump,Official Trump,trump,2.87,-3.53766,loser,3,2026-04-10
-just,JUST,jst,0.0676,-3.40041,loser,4,2026-04-10
-siren-2,Siren,siren,0.71323,-3.15728,loser,5,2026-04-10
-fetch-ai,Artificial Superintelligence Alliance,fet,0.241392,-1.9261,loser,6,2026-04-10
-render-token,Render,render,2.02,-1.78038,loser,7,2026-04-10
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.085515,-1.26722,loser,8,2026-04-10
-figure-heloc,Figure Heloc,figr_heloc,1.021,-1.24966,loser,9,2026-04-10
-aster-2,Aster,aster,0.66117,-1.24792,loser,10,2026-04-10
+dash,Dash,dash,46.62,28.04723,gainer,1,2026-04-11
+hash-2,Provenance Blockchain,hash,0.01120804,8.13906,gainer,2,2026-04-11
+worldcoin-wld,Worldcoin,wld,0.279799,5.23888,gainer,3,2026-04-11
+hyperliquid,Hyperliquid,hype,41.82,5.00291,gainer,4,2026-04-11
+the-open-network,Toncoin,ton,1.32,4.99088,gainer,5,2026-04-11
+arbitrum,Arbitrum,arb,0.114958,4.69612,gainer,6,2026-04-11
+quant-network,Quant,qnt,78.25,4.33932,gainer,7,2026-04-11
+memecore,MemeCore,m,2.74,4.24208,gainer,8,2026-04-11
+rain,Rain,rain,0.00817791,4.23247,gainer,9,2026-04-11
+stable-2,​​Stable,stable,0.0263867,3.83532,gainer,10,2026-04-11
+bittensor,Bittensor,tao,256.58,-10.33815,loser,1,2026-04-11
+world-liberty-financial,World Liberty Financial,wlfi,0.081008,-5.13749,loser,2,2026-04-11
+canton-network,Canton,cc,0.147104,-3.91809,loser,3,2026-04-11
+render-token,Render,render,1.99,-3.13008,loser,4,2026-04-11
+morpho,Morpho,morpho,1.8,-3.0724,loser,5,2026-04-11
+official-trump,Official Trump,trump,2.84,-2.55083,loser,6,2026-04-11
+fetch-ai,Artificial Superintelligence Alliance,fet,0.236786,-1.94286,loser,7,2026-04-11
+algorand,Algorand,algo,0.109783,-1.52071,loser,8,2026-04-11
+stellar,Stellar,xlm,0.154112,-1.27137,loser,9,2026-04-11
+figure-heloc,Figure Heloc,figr_heloc,1.021,-1.22974,loser,10,2026-04-11
