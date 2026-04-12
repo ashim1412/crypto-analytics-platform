@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,2.83,35.67312,gainer,1,2026-04-12
-just,JUST,jst,0.076586,8.74482,gainer,2,2026-04-12
-worldcoin-wld,Worldcoin,wld,0.291806,4.14055,gainer,3,2026-04-12
-the-open-network,Toncoin,ton,1.46,4.02878,gainer,4,2026-04-12
-hash-2,Provenance Blockchain,hash,0.01147629,2.67662,gainer,5,2026-04-12
-figure-heloc,Figure Heloc,figr_heloc,1.04,1.8134,gainer,6,2026-04-12
-pi-network,Pi Network,pi,0.16979,1.46668,gainer,7,2026-04-12
-htx-dao,HTX DAO,htx,1.78e-06,1.13729,gainer,8,2026-04-12
-tron,TRON,trx,0.321512,1.0903,gainer,9,2026-04-12
-stable-2,​​Stable,stable,0.02629788,0.7535,gainer,10,2026-04-12
-siren-2,Siren,siren,0.808229,-11.29181,loser,1,2026-04-12
-dash,Dash,dash,43.13,-6.81206,loser,2,2026-04-12
-midnight-3,Midnight,night,0.03824395,-6.14854,loser,3,2026-04-12
-render-token,Render,render,1.9,-5.81745,loser,4,2026-04-12
-hyperliquid,Hyperliquid,hype,40.5,-4.35522,loser,5,2026-04-12
-polkadot,Polkadot,dot,1.23,-4.20118,loser,6,2026-04-12
-cardano,Cardano,ada,0.240408,-3.81942,loser,7,2026-04-12
-bitcoin-cash,Bitcoin Cash,bch,423.57,-3.77398,loser,8,2026-04-12
-sky,Sky,sky,0.075357,-3.49625,loser,9,2026-04-12
-filecoin,Filecoin,fil,0.865433,-3.39831,loser,10,2026-04-12
+ravedao,RaveDAO,rave,4.9,124.25003,gainer,1,2026-04-12
+just,JUST,jst,0.077018,10.35003,gainer,2,2026-04-12
+memecore,MemeCore,m,2.82,3.66817,gainer,3,2026-04-12
+worldcoin-wld,Worldcoin,wld,0.294661,2.07349,gainer,4,2026-04-12
+figure-heloc,Figure Heloc,figr_heloc,1.04,1.74129,gainer,5,2026-04-12
+htx-dao,HTX DAO,htx,1.78e-06,0.91743,gainer,6,2026-04-12
+tron,TRON,trx,0.322419,0.8484,gainer,7,2026-04-12
+world-liberty-financial,World Liberty Financial,wlfi,0.079694,0.7535,gainer,8,2026-04-12
+monero,Monero,xmr,340.8,0.53602,gainer,9,2026-04-12
+canton-network,Canton,cc,0.145293,0.2389,gainer,10,2026-04-12
+dash,Dash,dash,41.92,-10.7249,loser,1,2026-04-12
+render-token,Render,render,1.89,-7.59817,loser,2,2026-04-12
+morpho,Morpho,morpho,1.67,-6.61118,loser,3,2026-04-12
+midnight-3,Midnight,night,0.03848299,-5.44459,loser,4,2026-04-12
+algorand,Algorand,algo,0.103829,-5.22822,loser,5,2026-04-12
+ethena,Ethena,ena,0.09141,-5.17468,loser,6,2026-04-12
+aptos,Aptos,apt,0.82683,-4.62164,loser,7,2026-04-12
+sky,Sky,sky,0.073952,-4.59109,loser,8,2026-04-12
+cardano,Cardano,ada,0.239283,-4.26922,loser,9,2026-04-12
+sui,Sui,sui,0.90884,-4.14923,loser,10,2026-04-12
