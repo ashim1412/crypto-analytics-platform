@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,1.48,15.25942,gainer,1,2026-04-11
-siren-2,Siren,siren,0.789718,10.82079,gainer,2,2026-04-11
-hash-2,Provenance Blockchain,hash,0.01175475,9.31204,gainer,3,2026-04-11
-dash,Dash,dash,46.6,6.69845,gainer,4,2026-04-11
-arbitrum,Arbitrum,arb,0.116509,5.14476,gainer,5,2026-04-11
-worldcoin-wld,Worldcoin,wld,0.287913,4.44618,gainer,6,2026-04-11
-just,JUST,jst,0.069819,3.0936,gainer,7,2026-04-11
-near,NEAR Protocol,near,1.41,2.68962,gainer,8,2026-04-11
-gatechain-token,Gate,gt,6.84,2.45881,gainer,9,2026-04-11
-memecore,MemeCore,m,2.73,2.2346,gainer,10,2026-04-11
-morpho,Morpho,morpho,1.78,-3.29294,loser,1,2026-04-11
-vechain,VeChain,vet,0.00704334,-2.55466,loser,2,2026-04-11
-cosmos,Cosmos Hub,atom,1.77,-2.47927,loser,3,2026-04-11
-cardano,Cardano,ada,0.24959,-2.32062,loser,4,2026-04-11
-stable-2,​​Stable,stable,0.026206,-2.27828,loser,5,2026-04-11
-bittensor,Bittensor,tao,264.62,-2.23405,loser,6,2026-04-11
-polkadot,Polkadot,dot,1.29,-2.16279,loser,7,2026-04-11
-canton-network,Canton,cc,0.144984,-2.14634,loser,8,2026-04-11
-xdce-crowd-sale,XDC Network,xdc,0.03069469,-2.13333,loser,9,2026-04-11
-rain,Rain,rain,0.00806322,-1.84305,loser,10,2026-04-11
+the-open-network,Toncoin,ton,1.47,11.64438,gainer,1,2026-04-12
+worldcoin-wld,Worldcoin,wld,0.298968,7.58294,gainer,2,2026-04-12
+bittensor,Bittensor,tao,272.32,7.00442,gainer,3,2026-04-12
+just,JUST,jst,0.073237,4.8822,gainer,4,2026-04-12
+siren-2,Siren,siren,0.73547,4.33914,gainer,5,2026-04-12
+dash,Dash,dash,47.34,4.30005,gainer,6,2026-04-12
+flare-networks,Flare,flr,0.00792341,4.23736,gainer,7,2026-04-12
+fetch-ai,Artificial Superintelligence Alliance,fet,0.243422,3.46596,gainer,8,2026-04-12
+pump-fun,Pump.fun,pump,0.00190166,3.11671,gainer,9,2026-04-12
+ethena,Ethena,ena,0.096721,3.11138,gainer,10,2026-04-12
+rain,Rain,rain,0.00780326,-4.5832,loser,1,2026-04-12
+monero,Monero,xmr,338.48,-1.84905,loser,2,2026-04-12
+bitcoin-cash,Bitcoin Cash,bch,436.09,-1.8003,loser,3,2026-04-12
+quant-network,Quant,qnt,76.91,-1.64418,loser,4,2026-04-12
+algorand,Algorand,algo,0.108301,-1.33412,loser,5,2026-04-12
+sky,Sky,sky,0.076707,-1.1384,loser,6,2026-04-12
+mantle,Mantle,mnt,0.680761,-1.05847,loser,7,2026-04-12
+cardano,Cardano,ada,0.250131,-1.01735,loser,8,2026-04-12
+polkadot,Polkadot,dot,1.28,-0.96014,loser,9,2026-04-12
+world-liberty-financial,World Liberty Financial,wlfi,0.07996,-0.68658,loser,10,2026-04-12
