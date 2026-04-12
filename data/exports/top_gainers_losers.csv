@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,1.47,11.64438,gainer,1,2026-04-12
-worldcoin-wld,Worldcoin,wld,0.298968,7.58294,gainer,2,2026-04-12
-bittensor,Bittensor,tao,272.32,7.00442,gainer,3,2026-04-12
-just,JUST,jst,0.073237,4.8822,gainer,4,2026-04-12
-siren-2,Siren,siren,0.73547,4.33914,gainer,5,2026-04-12
-dash,Dash,dash,47.34,4.30005,gainer,6,2026-04-12
-flare-networks,Flare,flr,0.00792341,4.23736,gainer,7,2026-04-12
-fetch-ai,Artificial Superintelligence Alliance,fet,0.243422,3.46596,gainer,8,2026-04-12
-pump-fun,Pump.fun,pump,0.00190166,3.11671,gainer,9,2026-04-12
-ethena,Ethena,ena,0.096721,3.11138,gainer,10,2026-04-12
-rain,Rain,rain,0.00780326,-4.5832,loser,1,2026-04-12
-monero,Monero,xmr,338.48,-1.84905,loser,2,2026-04-12
-bitcoin-cash,Bitcoin Cash,bch,436.09,-1.8003,loser,3,2026-04-12
-quant-network,Quant,qnt,76.91,-1.64418,loser,4,2026-04-12
-algorand,Algorand,algo,0.108301,-1.33412,loser,5,2026-04-12
-sky,Sky,sky,0.076707,-1.1384,loser,6,2026-04-12
-mantle,Mantle,mnt,0.680761,-1.05847,loser,7,2026-04-12
-cardano,Cardano,ada,0.250131,-1.01735,loser,8,2026-04-12
-polkadot,Polkadot,dot,1.28,-0.96014,loser,9,2026-04-12
-world-liberty-financial,World Liberty Financial,wlfi,0.07996,-0.68658,loser,10,2026-04-12
+ravedao,RaveDAO,rave,2.88,38.17084,gainer,1,2026-04-12
+just,JUST,jst,0.076145,8.50139,gainer,2,2026-04-12
+the-open-network,Toncoin,ton,1.42,8.45554,gainer,3,2026-04-12
+siren-2,Siren,siren,0.806001,7.43756,gainer,4,2026-04-12
+flare-networks,Flare,flr,0.00783114,2.09221,gainer,5,2026-04-12
+hash-2,Provenance Blockchain,hash,0.0114178,2.03115,gainer,6,2026-04-12
+figure-heloc,Figure Heloc,figr_heloc,1.04,1.8143,gainer,7,2026-04-12
+monero,Monero,xmr,342.16,1.54875,gainer,8,2026-04-12
+pi-network,Pi Network,pi,0.169522,1.40098,gainer,9,2026-04-12
+worldcoin-wld,Worldcoin,wld,0.286287,1.36878,gainer,10,2026-04-12
+rain,Rain,rain,0.00771638,-5.23248,loser,1,2026-04-12
+midnight-3,Midnight,night,0.03876355,-5.01783,loser,2,2026-04-12
+dash,Dash,dash,41.82,-4.78954,loser,3,2026-04-12
+polkadot,Polkadot,dot,1.23,-4.16957,loser,4,2026-04-12
+render-token,Render,render,1.92,-4.10955,loser,5,2026-04-12
+filecoin,Filecoin,fil,0.866654,-3.6629,loser,6,2026-04-12
+arbitrum,Arbitrum,arb,0.110792,-3.56516,loser,7,2026-04-12
+cardano,Cardano,ada,0.242128,-3.3673,loser,8,2026-04-12
+hyperliquid,Hyperliquid,hype,40.74,-3.33302,loser,9,2026-04-12
+bitcoin-cash,Bitcoin Cash,bch,425.81,-3.19383,loser,10,2026-04-12
