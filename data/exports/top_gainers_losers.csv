@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,5.86,176.29813,gainer,1,2026-04-13
-siren-2,Siren,siren,0.830833,13.07092,gainer,2,2026-04-13
-memecore,MemeCore,m,2.87,4.61765,gainer,3,2026-04-13
-just,JUST,jst,0.075296,2.86589,gainer,4,2026-04-13
-rain,Rain,rain,0.00796545,2.0406,gainer,5,2026-04-13
-hash-2,Provenance Blockchain,hash,0.01165907,1.27174,gainer,6,2026-04-13
-tron,TRON,trx,0.321876,0.81293,gainer,7,2026-04-13
-htx-dao,HTX DAO,htx,1.78e-06,0.69591,gainer,8,2026-04-13
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.28569,gainer,9,2026-04-13
-leo-token,LEO Token,leo,10.13,0.09857,gainer,10,2026-04-13
-dash,Dash,dash,41.38,-12.58456,loser,1,2026-04-13
-morpho,Morpho,morpho,1.69,-6.73891,loser,2,2026-04-13
-midnight-3,Midnight,night,0.03784111,-6.54001,loser,3,2026-04-13
-render-token,Render,render,1.9,-5.92433,loser,4,2026-04-13
-stable-2,​​Stable,stable,0.0251344,-5.36337,loser,5,2026-04-13
-pump-fun,Pump.fun,pump,0.00179984,-5.2895,loser,6,2026-04-13
-ethena,Ethena,ena,0.091751,-5.16347,loser,7,2026-04-13
-algorand,Algorand,algo,0.102463,-5.13883,loser,8,2026-04-13
-aptos,Aptos,apt,0.818784,-4.89673,loser,9,2026-04-13
-cardano,Cardano,ada,0.238211,-4.76056,loser,10,2026-04-13
+ravedao,RaveDAO,rave,8.78,217.77905,gainer,1,2026-04-13
+stable-2,​​Stable,stable,0.02896966,9.99291,gainer,2,2026-04-13
+aave,Aave,aave,96.42,7.16343,gainer,3,2026-04-13
+memecore,MemeCore,m,2.87,3.90292,gainer,4,2026-04-13
+near,NEAR Protocol,near,1.39,3.59578,gainer,5,2026-04-13
+canton-network,Canton,cc,0.148253,2.71516,gainer,6,2026-04-13
+hash-2,Provenance Blockchain,hash,0.01161246,1.73181,gainer,7,2026-04-13
+rain,Rain,rain,0.00784856,1.68719,gainer,8,2026-04-13
+midnight-3,Midnight,night,0.03935576,1.67479,gainer,9,2026-04-13
+jupiter-exchange-solana,Jupiter,jup,0.164291,1.64945,gainer,10,2026-04-13
+siren-2,Siren,siren,0.784919,-5.01278,loser,1,2026-04-13
+algorand,Algorand,algo,0.101215,-4.03275,loser,2,2026-04-13
+sky,Sky,sky,0.073011,-3.84019,loser,3,2026-04-13
+polkadot,Polkadot,dot,1.19,-3.5145,loser,4,2026-04-13
+fetch-ai,Artificial Superintelligence Alliance,fet,0.229332,-2.93181,loser,5,2026-04-13
+render-token,Render,render,1.87,-2.56003,loser,6,2026-04-13
+kaspa,Kaspa,kas,0.0316253,-2.47167,loser,7,2026-04-13
+quant-network,Quant,qnt,74.66,-2.30074,loser,8,2026-04-13
+morpho,Morpho,morpho,1.7,-1.85129,loser,9,2026-04-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.082111,-1.84449,loser,10,2026-04-13
