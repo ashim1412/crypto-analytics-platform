@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,10.11,265.21636,gainer,1,2026-04-13
-stable-2,​​Stable,stable,0.02991574,14.38379,gainer,2,2026-04-13
-aave,Aave,aave,94.37,4.58685,gainer,3,2026-04-13
-worldcoin-wld,Worldcoin,wld,0.304104,4.34712,gainer,4,2026-04-13
-hyperliquid,Hyperliquid,hype,41.84,3.67744,gainer,5,2026-04-13
-xdce-crowd-sale,XDC Network,xdc,0.03125867,3.4976,gainer,6,2026-04-13
-near,NEAR Protocol,near,1.38,3.15242,gainer,7,2026-04-13
-jupiter-exchange-solana,Jupiter,jup,0.163962,2.47292,gainer,8,2026-04-13
-canton-network,Canton,cc,0.148488,2.37481,gainer,9,2026-04-13
-monero,Monero,xmr,346.58,2.28662,gainer,10,2026-04-13
-dash,Dash,dash,41.67,-4.48331,loser,1,2026-04-13
-polkadot,Polkadot,dot,1.17,-4.47571,loser,2,2026-04-13
-sky,Sky,sky,0.072123,-4.12561,loser,3,2026-04-13
-the-open-network,Toncoin,ton,1.41,-3.15666,loser,4,2026-04-13
-quant-network,Quant,qnt,74.63,-2.65937,loser,5,2026-04-13
-fetch-ai,Artificial Superintelligence Alliance,fet,0.230624,-1.91505,loser,6,2026-04-13
-pi-network,Pi Network,pi,0.165862,-1.83854,loser,7,2026-04-13
-litecoin,Litecoin,ltc,52.98,-1.56687,loser,8,2026-04-13
-bitget-token,Bitget Token,bgb,1.88,-1.53467,loser,9,2026-04-13
-internet-computer,Internet Computer,icp,2.42,-1.50661,loser,10,2026-04-13
+ravedao,RaveDAO,rave,13.19,182.84403,gainer,1,2026-04-13
+pancakeswap-token,PancakeSwap,cake,1.59,8.28909,gainer,2,2026-04-13
+hyperliquid,Hyperliquid,hype,43.71,6.66398,gainer,3,2026-04-13
+hash-2,Provenance Blockchain,hash,0.0119369,6.08372,gainer,4,2026-04-13
+stable-2,​​Stable,stable,0.02720354,5.79492,gainer,5,2026-04-13
+ethena,Ethena,ena,0.096237,5.37689,gainer,6,2026-04-13
+aave,Aave,aave,95.53,4.9189,gainer,7,2026-04-13
+aptos,Aptos,apt,0.856174,3.86008,gainer,8,2026-04-13
+canton-network,Canton,cc,0.150499,3.57967,gainer,9,2026-04-13
+near,NEAR Protocol,near,1.4,3.28899,gainer,10,2026-04-13
+siren-2,Siren,siren,0.761723,-5.08973,loser,1,2026-04-13
+polkadot,Polkadot,dot,1.18,-4.50019,loser,2,2026-04-13
+the-open-network,Toncoin,ton,1.43,-2.56907,loser,3,2026-04-13
+zcash,Zcash,zec,357.63,-2.38928,loser,4,2026-04-13
+rain,Rain,rain,0.00782678,-2.12607,loser,5,2026-04-13
+quant-network,Quant,qnt,74.49,-1.99375,loser,6,2026-04-13
+bittensor,Bittensor,tao,256.38,-1.85293,loser,7,2026-04-13
+litecoin,Litecoin,ltc,53.04,-1.48736,loser,8,2026-04-13
+pi-network,Pi Network,pi,0.1649,-1.46451,loser,9,2026-04-13
+fetch-ai,Artificial Superintelligence Alliance,fet,0.232068,-1.17928,loser,10,2026-04-13
