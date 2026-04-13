@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,4.9,124.25003,gainer,1,2026-04-12
-just,JUST,jst,0.077018,10.35003,gainer,2,2026-04-12
-memecore,MemeCore,m,2.82,3.66817,gainer,3,2026-04-12
-worldcoin-wld,Worldcoin,wld,0.294661,2.07349,gainer,4,2026-04-12
-figure-heloc,Figure Heloc,figr_heloc,1.04,1.74129,gainer,5,2026-04-12
-htx-dao,HTX DAO,htx,1.78e-06,0.91743,gainer,6,2026-04-12
-tron,TRON,trx,0.322419,0.8484,gainer,7,2026-04-12
-world-liberty-financial,World Liberty Financial,wlfi,0.079694,0.7535,gainer,8,2026-04-12
-monero,Monero,xmr,340.8,0.53602,gainer,9,2026-04-12
-canton-network,Canton,cc,0.145293,0.2389,gainer,10,2026-04-12
-dash,Dash,dash,41.92,-10.7249,loser,1,2026-04-12
-render-token,Render,render,1.89,-7.59817,loser,2,2026-04-12
-morpho,Morpho,morpho,1.67,-6.61118,loser,3,2026-04-12
-midnight-3,Midnight,night,0.03848299,-5.44459,loser,4,2026-04-12
-algorand,Algorand,algo,0.103829,-5.22822,loser,5,2026-04-12
-ethena,Ethena,ena,0.09141,-5.17468,loser,6,2026-04-12
-aptos,Aptos,apt,0.82683,-4.62164,loser,7,2026-04-12
-sky,Sky,sky,0.073952,-4.59109,loser,8,2026-04-12
-cardano,Cardano,ada,0.239283,-4.26922,loser,9,2026-04-12
-sui,Sui,sui,0.90884,-4.14923,loser,10,2026-04-12
+ravedao,RaveDAO,rave,5.86,176.29813,gainer,1,2026-04-13
+siren-2,Siren,siren,0.830833,13.07092,gainer,2,2026-04-13
+memecore,MemeCore,m,2.87,4.61765,gainer,3,2026-04-13
+just,JUST,jst,0.075296,2.86589,gainer,4,2026-04-13
+rain,Rain,rain,0.00796545,2.0406,gainer,5,2026-04-13
+hash-2,Provenance Blockchain,hash,0.01165907,1.27174,gainer,6,2026-04-13
+tron,TRON,trx,0.321876,0.81293,gainer,7,2026-04-13
+htx-dao,HTX DAO,htx,1.78e-06,0.69591,gainer,8,2026-04-13
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.28569,gainer,9,2026-04-13
+leo-token,LEO Token,leo,10.13,0.09857,gainer,10,2026-04-13
+dash,Dash,dash,41.38,-12.58456,loser,1,2026-04-13
+morpho,Morpho,morpho,1.69,-6.73891,loser,2,2026-04-13
+midnight-3,Midnight,night,0.03784111,-6.54001,loser,3,2026-04-13
+render-token,Render,render,1.9,-5.92433,loser,4,2026-04-13
+stable-2,​​Stable,stable,0.0251344,-5.36337,loser,5,2026-04-13
+pump-fun,Pump.fun,pump,0.00179984,-5.2895,loser,6,2026-04-13
+ethena,Ethena,ena,0.091751,-5.16347,loser,7,2026-04-13
+algorand,Algorand,algo,0.102463,-5.13883,loser,8,2026-04-13
+aptos,Aptos,apt,0.818784,-4.89673,loser,9,2026-04-13
+cardano,Cardano,ada,0.238211,-4.76056,loser,10,2026-04-13
