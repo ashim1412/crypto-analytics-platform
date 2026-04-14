@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,8.03,35.44403,gainer,1,2026-04-14
-aave,Aave,aave,100.73,10.17016,gainer,2,2026-04-14
-ethena,Ethena,ena,0.099165,8.11325,gainer,3,2026-04-14
-hyperliquid,Hyperliquid,hype,44.67,7.72779,gainer,4,2026-04-14
-algorand,Algorand,algo,0.110328,7.67924,gainer,5,2026-04-14
-morpho,Morpho,morpho,1.82,7.35063,gainer,6,2026-04-14
-ethereum,Ethereum,eth,2363.85,7.31131,gainer,7,2026-04-14
-aptos,Aptos,apt,0.870542,6.32146,gainer,8,2026-04-14
-pepe,Pepe,pepe,3.71e-06,6.10975,gainer,9,2026-04-14
-stable-2,​​Stable,stable,0.02662516,5.93176,gainer,10,2026-04-14
-siren-2,Siren,siren,0.777435,-6.09123,loser,1,2026-04-14
-memecore,MemeCore,m,2.72,-5.09081,loser,2,2026-04-14
-bittensor,Bittensor,tao,256.26,-2.15387,loser,3,2026-04-14
-polkadot,Polkadot,dot,1.22,-1.4791,loser,4,2026-04-14
-the-open-network,Toncoin,ton,1.43,-1.40583,loser,5,2026-04-14
-pi-network,Pi Network,pi,0.166282,-0.36703,loser,6,2026-04-14
+ravedao,RaveDAO,rave,11.49,52.71185,gainer,1,2026-04-14
+algorand,Algorand,algo,0.111949,10.353,gainer,2,2026-04-14
+worldcoin-wld,Worldcoin,wld,0.322714,9.85314,gainer,3,2026-04-14
+ethereum,Ethereum,eth,2381.05,8.57048,gainer,4,2026-04-14
+hyperliquid,Hyperliquid,hype,44.71,8.21211,gainer,5,2026-04-14
+canton-network,Canton,cc,0.157442,5.79519,gainer,6,2026-04-14
+hash-2,Provenance Blockchain,hash,0.01228999,5.58798,gainer,7,2026-04-14
+bitcoin,Bitcoin,btc,74753.0,5.4313,gainer,8,2026-04-14
+aptos,Aptos,apt,0.866996,5.41478,gainer,9,2026-04-14
+pepe,Pepe,pepe,3.66e-06,5.33711,gainer,10,2026-04-14
+stable-2,​​Stable,stable,0.02634641,-8.89915,loser,1,2026-04-14
+midnight-3,Midnight,night,0.03586994,-8.66446,loser,2,2026-04-14
+bittensor,Bittensor,tao,251.82,-3.53206,loser,3,2026-04-14
+memecore,MemeCore,m,2.8,-2.2617,loser,4,2026-04-14
+siren-2,Siren,siren,0.764964,-2.17203,loser,5,2026-04-14
+pi-network,Pi Network,pi,0.164426,-1.28733,loser,6,2026-04-14
 blockchain-capital,Blockchain Capital,bcap,82.76,-0.36118,loser,7,2026-04-14
-leo-token,LEO Token,leo,10.11,-0.22386,loser,8,2026-04-14
-tron,TRON,trx,0.321163,-0.2227,loser,9,2026-04-14
-usds,USDS,usds,0.999738,-0.03613,loser,10,2026-04-14
+htx-dao,HTX DAO,htx,1.77e-06,-0.27304,loser,8,2026-04-14
+dai,Dai,dai,0.999384,-0.03332,loser,9,2026-04-14
+ripple-usd,Ripple USD,rlusd,0.999979,-0.02822,loser,10,2026-04-14
