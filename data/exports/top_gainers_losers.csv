@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,19.01,136.61052,gainer,1,2026-04-15
-memecore,MemeCore,m,2.87,5.63319,gainer,2,2026-04-15
-just,JUST,jst,0.078464,2.00695,gainer,3,2026-04-15
-pax-gold,PAX Gold,paxg,4839.97,1.71428,gainer,4,2026-04-15
-tether-gold,Tether Gold,xaut,4827.41,1.71252,gainer,5,2026-04-15
-gatechain-token,Gate,gt,6.87,1.58142,gainer,6,2026-04-15
-tron,TRON,trx,0.324672,1.10952,gainer,7,2026-04-15
-xdce-crowd-sale,XDC Network,xdc,0.03066364,0.74335,gainer,8,2026-04-15
-binancecoin,BNB,bnb,617.46,0.73244,gainer,9,2026-04-15
-okb,OKB,okb,85.11,0.69992,gainer,10,2026-04-15
-hash-2,Provenance Blockchain,hash,0.01103402,-10.53431,loser,1,2026-04-15
-midnight-3,Midnight,night,0.03584642,-7.95401,loser,2,2026-04-15
-worldcoin-wld,Worldcoin,wld,0.294782,-5.22333,loser,3,2026-04-15
-bittensor,Bittensor,tao,244.39,-4.50503,loser,4,2026-04-15
-rain,Rain,rain,0.00776175,-4.45462,loser,5,2026-04-15
-near,NEAR Protocol,near,1.36,-4.07991,loser,6,2026-04-15
-morpho,Morpho,morpho,1.75,-3.71787,loser,7,2026-04-15
-polkadot,Polkadot,dot,1.17,-3.62217,loser,8,2026-04-15
-mantle,Mantle,mnt,0.658416,-3.43601,loser,9,2026-04-15
-the-open-network,Toncoin,ton,1.39,-3.18347,loser,10,2026-04-15
+ravedao,RaveDAO,rave,14.77,29.90587,gainer,1,2026-04-15
+dexe,DeXe,dexe,12.06,19.78433,gainer,2,2026-04-15
+gatechain-token,Gate,gt,7.0,3.38728,gainer,3,2026-04-15
+pancakeswap-token,PancakeSwap,cake,1.6,2.23982,gainer,4,2026-04-15
+pi-network,Pi Network,pi,0.16756,1.88581,gainer,5,2026-04-15
+just,JUST,jst,0.079819,1.41892,gainer,6,2026-04-15
+memecore,MemeCore,m,2.85,1.2889,gainer,7,2026-04-15
+sky,Sky,sky,0.074443,0.72175,gainer,8,2026-04-15
+tron,TRON,trx,0.323444,0.65377,gainer,9,2026-04-15
+htx-dao,HTX DAO,htx,1.79e-06,0.649,gainer,10,2026-04-15
+hash-2,Provenance Blockchain,hash,0.01107103,-9.91828,loser,1,2026-04-15
+worldcoin-wld,Worldcoin,wld,0.297362,-7.76193,loser,2,2026-04-15
+near,NEAR Protocol,near,1.35,-5.20677,loser,3,2026-04-15
+rain,Rain,rain,0.00768071,-4.98774,loser,4,2026-04-15
+the-open-network,Toncoin,ton,1.36,-4.90507,loser,5,2026-04-15
+mantle,Mantle,mnt,0.65317,-4.79599,loser,6,2026-04-15
+siren-2,Siren,siren,0.730602,-4.53672,loser,7,2026-04-15
+solana,Solana,sol,83.11,-3.37539,loser,8,2026-04-15
+zcash,Zcash,zec,354.06,-3.31999,loser,9,2026-04-15
+morpho,Morpho,morpho,1.74,-3.05151,loser,10,2026-04-15
