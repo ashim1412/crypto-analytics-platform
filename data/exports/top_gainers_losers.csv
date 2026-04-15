@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,12.12,18.33464,gainer,1,2026-04-15
-aptos,Aptos,apt,0.885262,3.13533,gainer,2,2026-04-15
-aave,Aave,aave,102.49,2.48107,gainer,3,2026-04-15
-gatechain-token,Gate,gt,6.98,2.11056,gainer,4,2026-04-15
-arbitrum,Arbitrum,arb,0.113446,1.90623,gainer,5,2026-04-15
-memecore,MemeCore,m,2.89,1.81518,gainer,6,2026-04-15
-ethena,Ethena,ena,0.098052,1.78163,gainer,7,2026-04-15
-pancakeswap-token,PancakeSwap,cake,1.61,1.75122,gainer,8,2026-04-15
-tron,TRON,trx,0.326663,1.66809,gainer,9,2026-04-15
-world-liberty-financial,World Liberty Financial,wlfi,0.083325,1.32813,gainer,10,2026-04-15
-ravedao,RaveDAO,rave,12.18,-23.88969,loser,1,2026-04-15
-hash-2,Provenance Blockchain,hash,0.01097569,-10.69277,loser,2,2026-04-15
-worldcoin-wld,Worldcoin,wld,0.298456,-5.32403,loser,3,2026-04-15
-the-open-network,Toncoin,ton,1.37,-4.09496,loser,4,2026-04-15
-monero,Monero,xmr,338.28,-3.93324,loser,5,2026-04-15
-zcash,Zcash,zec,357.45,-3.86191,loser,6,2026-04-15
-stable-2,​​Stable,stable,0.02622363,-3.46877,loser,7,2026-04-15
-xdce-crowd-sale,XDC Network,xdc,0.03061423,-3.38494,loser,8,2026-04-15
-aster-2,Aster,aster,0.661356,-3.2814,loser,9,2026-04-15
-canton-network,Canton,cc,0.149719,-3.24109,loser,10,2026-04-15
+siren-2,Siren,siren,0.822155,19.56521,gainer,1,2026-04-15
+dexe,DeXe,dexe,12.05,19.33937,gainer,2,2026-04-15
+aave,Aave,aave,108.17,10.677,gainer,3,2026-04-15
+morpho,Morpho,morpho,1.86,7.66591,gainer,4,2026-04-15
+arbitrum,Arbitrum,arb,0.116505,5.94271,gainer,5,2026-04-15
+pump-fun,Pump.fun,pump,0.00193067,5.47238,gainer,6,2026-04-15
+aptos,Aptos,apt,0.899534,5.36624,gainer,7,2026-04-15
+algorand,Algorand,algo,0.11253,5.30783,gainer,8,2026-04-15
+ethena,Ethena,ena,0.099389,4.67974,gainer,9,2026-04-15
+bonk,Bonk,bonk,6.07e-06,4.67906,gainer,10,2026-04-15
+ravedao,RaveDAO,rave,11.98,-23.06928,loser,1,2026-04-15
+just,JUST,jst,0.069387,-10.81698,loser,2,2026-04-15
+hash-2,Provenance Blockchain,hash,0.01096567,-10.60414,loser,3,2026-04-15
+figure-heloc,Figure Heloc,figr_heloc,1.025,-0.76104,loser,4,2026-04-15
+pax-gold,PAX Gold,paxg,4792.89,-0.73905,loser,5,2026-04-15
+tether-gold,Tether Gold,xaut,4779.5,-0.67456,loser,6,2026-04-15
+nexo,NEXO,nexo,0.89708,-0.58475,loser,7,2026-04-15
+bitget-token,Bitget Token,bgb,1.9,-0.47945,loser,8,2026-04-15
+quant-network,Quant,qnt,74.05,-0.22419,loser,9,2026-04-15
+okb,OKB,okb,85.54,-0.15856,loser,10,2026-04-15
