@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,14.77,29.90587,gainer,1,2026-04-15
-dexe,DeXe,dexe,12.06,19.78433,gainer,2,2026-04-15
-gatechain-token,Gate,gt,7.0,3.38728,gainer,3,2026-04-15
-pancakeswap-token,PancakeSwap,cake,1.6,2.23982,gainer,4,2026-04-15
-pi-network,Pi Network,pi,0.16756,1.88581,gainer,5,2026-04-15
-just,JUST,jst,0.079819,1.41892,gainer,6,2026-04-15
-memecore,MemeCore,m,2.85,1.2889,gainer,7,2026-04-15
-sky,Sky,sky,0.074443,0.72175,gainer,8,2026-04-15
-tron,TRON,trx,0.323444,0.65377,gainer,9,2026-04-15
-htx-dao,HTX DAO,htx,1.79e-06,0.649,gainer,10,2026-04-15
-hash-2,Provenance Blockchain,hash,0.01107103,-9.91828,loser,1,2026-04-15
-worldcoin-wld,Worldcoin,wld,0.297362,-7.76193,loser,2,2026-04-15
-near,NEAR Protocol,near,1.35,-5.20677,loser,3,2026-04-15
-rain,Rain,rain,0.00768071,-4.98774,loser,4,2026-04-15
-the-open-network,Toncoin,ton,1.36,-4.90507,loser,5,2026-04-15
-mantle,Mantle,mnt,0.65317,-4.79599,loser,6,2026-04-15
-siren-2,Siren,siren,0.730602,-4.53672,loser,7,2026-04-15
-solana,Solana,sol,83.11,-3.37539,loser,8,2026-04-15
-zcash,Zcash,zec,354.06,-3.31999,loser,9,2026-04-15
-morpho,Morpho,morpho,1.74,-3.05151,loser,10,2026-04-15
+dexe,DeXe,dexe,12.12,18.33464,gainer,1,2026-04-15
+aptos,Aptos,apt,0.885262,3.13533,gainer,2,2026-04-15
+aave,Aave,aave,102.49,2.48107,gainer,3,2026-04-15
+gatechain-token,Gate,gt,6.98,2.11056,gainer,4,2026-04-15
+arbitrum,Arbitrum,arb,0.113446,1.90623,gainer,5,2026-04-15
+memecore,MemeCore,m,2.89,1.81518,gainer,6,2026-04-15
+ethena,Ethena,ena,0.098052,1.78163,gainer,7,2026-04-15
+pancakeswap-token,PancakeSwap,cake,1.61,1.75122,gainer,8,2026-04-15
+tron,TRON,trx,0.326663,1.66809,gainer,9,2026-04-15
+world-liberty-financial,World Liberty Financial,wlfi,0.083325,1.32813,gainer,10,2026-04-15
+ravedao,RaveDAO,rave,12.18,-23.88969,loser,1,2026-04-15
+hash-2,Provenance Blockchain,hash,0.01097569,-10.69277,loser,2,2026-04-15
+worldcoin-wld,Worldcoin,wld,0.298456,-5.32403,loser,3,2026-04-15
+the-open-network,Toncoin,ton,1.37,-4.09496,loser,4,2026-04-15
+monero,Monero,xmr,338.28,-3.93324,loser,5,2026-04-15
+zcash,Zcash,zec,357.45,-3.86191,loser,6,2026-04-15
+stable-2,​​Stable,stable,0.02622363,-3.46877,loser,7,2026-04-15
+xdce-crowd-sale,XDC Network,xdc,0.03061423,-3.38494,loser,8,2026-04-15
+aster-2,Aster,aster,0.661356,-3.2814,loser,9,2026-04-15
+canton-network,Canton,cc,0.149719,-3.24109,loser,10,2026-04-15
