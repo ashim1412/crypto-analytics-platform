@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.83947,20.46162,gainer,1,2026-04-16
-dexe,DeXe,dexe,12.1,9.61881,gainer,2,2026-04-16
-hash-2,Provenance Blockchain,hash,0.01179919,5.90015,gainer,3,2026-04-16
-aave,Aave,aave,105.83,5.56097,gainer,4,2026-04-16
-official-trump,Official Trump,trump,2.94,4.83548,gainer,5,2026-04-16
-morpho,Morpho,morpho,1.82,4.44317,gainer,6,2026-04-16
-worldcoin-wld,Worldcoin,wld,0.306279,3.68941,gainer,7,2026-04-16
-algorand,Algorand,algo,0.112615,3.55667,gainer,8,2026-04-16
-pepe,Pepe,pepe,3.73e-06,3.50301,gainer,9,2026-04-16
-arbitrum,Arbitrum,arb,0.115171,3.46649,gainer,10,2026-04-16
-ravedao,RaveDAO,rave,10.77,-43.00213,loser,1,2026-04-16
-just,JUST,jst,0.067174,-14.79668,loser,2,2026-04-16
-zcash,Zcash,zec,343.85,-4.08256,loser,3,2026-04-16
-bittensor,Bittensor,tao,240.27,-1.57349,loser,4,2026-04-16
-canton-network,Canton,cc,0.148039,-0.69335,loser,5,2026-04-16
-whitebit,WhiteBIT Coin,wbt,54.42,-0.64336,loser,6,2026-04-16
-pax-gold,PAX Gold,paxg,4816.03,-0.52207,loser,7,2026-04-16
-crypto-com-chain,Cronos,cro,0.069128,-0.48197,loser,8,2026-04-16
-tether-gold,Tether Gold,xaut,4804.67,-0.39267,loser,9,2026-04-16
-world-liberty-financial,World Liberty Financial,wlfi,0.080427,-0.36668,loser,10,2026-04-16
+siren-2,Siren,siren,0.84141,16.21557,gainer,1,2026-04-16
+pepe,Pepe,pepe,3.9e-06,9.84936,gainer,2,2026-04-16
+hash-2,Provenance Blockchain,hash,0.01214184,9.67221,gainer,3,2026-04-16
+polkadot,Polkadot,dot,1.26,8.92387,gainer,4,2026-04-16
+ethena,Ethena,ena,0.103662,8.66192,gainer,5,2026-04-16
+filecoin,Filecoin,fil,0.973639,8.49525,gainer,6,2026-04-16
+aptos,Aptos,apt,0.924167,7.75174,gainer,7,2026-04-16
+pump-fun,Pump.fun,pump,0.00197171,7.25297,gainer,8,2026-04-16
+bonk,Bonk,bonk,6.25e-06,6.74991,gainer,9,2026-04-16
+internet-computer,Internet Computer,icp,2.57,6.50113,gainer,10,2026-04-16
+dexe,DeXe,dexe,11.61,-3.73112,loser,1,2026-04-16
+zcash,Zcash,zec,343.88,-2.87181,loser,2,2026-04-16
+canton-network,Canton,cc,0.147596,-2.51572,loser,3,2026-04-16
+ravedao,RaveDAO,rave,14.45,-2.13875,loser,4,2026-04-16
+stable-2,​​Stable,stable,0.02586738,-1.49083,loser,5,2026-04-16
+memecore,MemeCore,m,2.84,-0.82842,loser,6,2026-04-16
+bittensor,Bittensor,tao,242.99,-0.7591,loser,7,2026-04-16
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.46147,loser,8,2026-04-16
+falcon-finance,Falcon USD,usdf,0.998014,-0.03268,loser,9,2026-04-16
+bfusd,BFUSD,bfusd,0.999305,-0.02613,loser,10,2026-04-16
