@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.822155,19.56521,gainer,1,2026-04-15
-dexe,DeXe,dexe,12.05,19.33937,gainer,2,2026-04-15
-aave,Aave,aave,108.17,10.677,gainer,3,2026-04-15
-morpho,Morpho,morpho,1.86,7.66591,gainer,4,2026-04-15
-arbitrum,Arbitrum,arb,0.116505,5.94271,gainer,5,2026-04-15
-pump-fun,Pump.fun,pump,0.00193067,5.47238,gainer,6,2026-04-15
-aptos,Aptos,apt,0.899534,5.36624,gainer,7,2026-04-15
-algorand,Algorand,algo,0.11253,5.30783,gainer,8,2026-04-15
-ethena,Ethena,ena,0.099389,4.67974,gainer,9,2026-04-15
-bonk,Bonk,bonk,6.07e-06,4.67906,gainer,10,2026-04-15
-ravedao,RaveDAO,rave,11.98,-23.06928,loser,1,2026-04-15
-just,JUST,jst,0.069387,-10.81698,loser,2,2026-04-15
-hash-2,Provenance Blockchain,hash,0.01096567,-10.60414,loser,3,2026-04-15
-figure-heloc,Figure Heloc,figr_heloc,1.025,-0.76104,loser,4,2026-04-15
-pax-gold,PAX Gold,paxg,4792.89,-0.73905,loser,5,2026-04-15
-tether-gold,Tether Gold,xaut,4779.5,-0.67456,loser,6,2026-04-15
-nexo,NEXO,nexo,0.89708,-0.58475,loser,7,2026-04-15
-bitget-token,Bitget Token,bgb,1.9,-0.47945,loser,8,2026-04-15
-quant-network,Quant,qnt,74.05,-0.22419,loser,9,2026-04-15
-okb,OKB,okb,85.54,-0.15856,loser,10,2026-04-15
+siren-2,Siren,siren,0.83947,20.46162,gainer,1,2026-04-16
+dexe,DeXe,dexe,12.1,9.61881,gainer,2,2026-04-16
+hash-2,Provenance Blockchain,hash,0.01179919,5.90015,gainer,3,2026-04-16
+aave,Aave,aave,105.83,5.56097,gainer,4,2026-04-16
+official-trump,Official Trump,trump,2.94,4.83548,gainer,5,2026-04-16
+morpho,Morpho,morpho,1.82,4.44317,gainer,6,2026-04-16
+worldcoin-wld,Worldcoin,wld,0.306279,3.68941,gainer,7,2026-04-16
+algorand,Algorand,algo,0.112615,3.55667,gainer,8,2026-04-16
+pepe,Pepe,pepe,3.73e-06,3.50301,gainer,9,2026-04-16
+arbitrum,Arbitrum,arb,0.115171,3.46649,gainer,10,2026-04-16
+ravedao,RaveDAO,rave,10.77,-43.00213,loser,1,2026-04-16
+just,JUST,jst,0.067174,-14.79668,loser,2,2026-04-16
+zcash,Zcash,zec,343.85,-4.08256,loser,3,2026-04-16
+bittensor,Bittensor,tao,240.27,-1.57349,loser,4,2026-04-16
+canton-network,Canton,cc,0.148039,-0.69335,loser,5,2026-04-16
+whitebit,WhiteBIT Coin,wbt,54.42,-0.64336,loser,6,2026-04-16
+pax-gold,PAX Gold,paxg,4816.03,-0.52207,loser,7,2026-04-16
+crypto-com-chain,Cronos,cro,0.069128,-0.48197,loser,8,2026-04-16
+tether-gold,Tether Gold,xaut,4804.67,-0.39267,loser,9,2026-04-16
+world-liberty-financial,World Liberty Financial,wlfi,0.080427,-0.36668,loser,10,2026-04-16
