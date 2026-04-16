@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,15.28,25.47447,gainer,1,2026-04-16
-siren-2,Siren,siren,0.878757,17.30097,gainer,2,2026-04-16
-polkadot,Polkadot,dot,1.28,9.28228,gainer,3,2026-04-16
-filecoin,Filecoin,fil,0.983729,8.44226,gainer,4,2026-04-16
-arbitrum,Arbitrum,arb,0.121271,6.89794,gainer,5,2026-04-16
-aptos,Aptos,apt,0.940201,6.19773,gainer,6,2026-04-16
-pepe,Pepe,pepe,3.84e-06,5.91446,gainer,7,2026-04-16
-memecore,MemeCore,m,3.05,5.37518,gainer,8,2026-04-16
-pump-fun,Pump.fun,pump,0.00195739,5.006,gainer,9,2026-04-16
-bonk,Bonk,bonk,6.26e-06,4.96913,gainer,10,2026-04-16
-dexe,DeXe,dexe,11.35,-6.33921,loser,1,2026-04-16
-zcash,Zcash,zec,343.83,-3.62881,loser,2,2026-04-16
-bittensor,Bittensor,tao,240.51,-3.41686,loser,3,2026-04-16
-world-liberty-financial,World Liberty Financial,wlfi,0.080866,-3.06377,loser,4,2026-04-16
-midnight-3,Midnight,night,0.0353965,-2.19077,loser,5,2026-04-16
-canton-network,Canton,cc,0.147136,-1.72127,loser,6,2026-04-16
-morpho,Morpho,morpho,1.74,-1.20543,loser,7,2026-04-16
-render-token,Render,render,1.87,-1.14367,loser,8,2026-04-16
-stable-2,​​Stable,stable,0.0260598,-0.67229,loser,9,2026-04-16
-whitebit,WhiteBIT Coin,wbt,54.36,-0.36362,loser,10,2026-04-16
+siren-2,Siren,siren,1.57,89.68688,gainer,1,2026-04-16
+ravedao,RaveDAO,rave,16.44,35.89692,gainer,2,2026-04-16
+memecore,MemeCore,m,3.64,27.15741,gainer,3,2026-04-16
+ethena,Ethena,ena,0.112305,13.25588,gainer,4,2026-04-16
+polkadot,Polkadot,dot,1.33,12.32398,gainer,5,2026-04-16
+hash-2,Provenance Blockchain,hash,0.01227396,10.30136,gainer,6,2026-04-16
+arbitrum,Arbitrum,arb,0.127151,9.95266,gainer,7,2026-04-16
+bonk,Bonk,bonk,6.64e-06,9.45398,gainer,8,2026-04-16
+filecoin,Filecoin,fil,0.995425,9.12994,gainer,9,2026-04-16
+aptos,Aptos,apt,0.978262,9.04176,gainer,10,2026-04-16
+just,JUST,jst,0.062845,-9.82493,loser,1,2026-04-16
+zcash,Zcash,zec,341.53,-3.97686,loser,2,2026-04-16
+morpho,Morpho,morpho,1.79,-3.68356,loser,3,2026-04-16
+canton-network,Canton,cc,0.149225,-2.19074,loser,4,2026-04-16
+rain,Rain,rain,0.00783563,-1.89201,loser,5,2026-04-16
+hyperliquid,Hyperliquid,hype,43.97,-1.83627,loser,6,2026-04-16
+render-token,Render,render,1.88,-1.16371,loser,7,2026-04-16
+bittensor,Bittensor,tao,242.17,-1.16168,loser,8,2026-04-16
+ethereum,Ethereum,eth,2340.83,-0.77113,loser,9,2026-04-16
+tron,TRON,trx,0.326189,-0.61268,loser,10,2026-04-16
