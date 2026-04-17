@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,3.76,25.56804,gainer,1,2026-04-17
-ravedao,RaveDAO,rave,18.72,24.24378,gainer,2,2026-04-17
-arbitrum,Arbitrum,arb,0.134847,11.34965,gainer,3,2026-04-17
-just,JUST,jst,0.065603,10.63086,gainer,4,2026-04-17
-ethena,Ethena,ena,0.113409,10.42854,gainer,5,2026-04-17
-dexe,DeXe,dexe,12.48,9.70748,gainer,6,2026-04-17
-morpho,Morpho,morpho,1.9,9.70738,gainer,7,2026-04-17
-aave,Aave,aave,116.79,9.38955,gainer,8,2026-04-17
-kaspa,Kaspa,kas,0.03643091,9.15455,gainer,9,2026-04-17
-jupiter-exchange-solana,Jupiter,jup,0.186006,8.46825,gainer,10,2026-04-17
-hash-2,Provenance Blockchain,hash,0.0104138,-8.02513,loser,1,2026-04-17
-rain,Rain,rain,0.00768616,-4.98813,loser,2,2026-04-17
-hyperliquid,Hyperliquid,hype,43.88,-2.55001,loser,3,2026-04-17
-zcash,Zcash,zec,337.36,-1.59119,loser,4,2026-04-17
-tron,TRON,trx,0.324283,-0.73608,loser,5,2026-04-17
-worldcoin-wld,Worldcoin,wld,0.309586,-0.67205,loser,6,2026-04-17
-htx-dao,HTX DAO,htx,1.78e-06,-0.27741,loser,7,2026-04-17
-usd1-wlfi,USD1,usd1,0.999671,-0.04132,loser,8,2026-04-17
-bitget-token,Bitget Token,bgb,1.9,-0.03015,loser,9,2026-04-17
-dai,Dai,dai,0.999429,-0.02522,loser,10,2026-04-17
+ravedao,RaveDAO,rave,21.09,29.74336,gainer,1,2026-04-17
+ethena,Ethena,ena,0.126712,15.15806,gainer,2,2026-04-17
+dexe,DeXe,dexe,12.3,11.38236,gainer,3,2026-04-17
+morpho,Morpho,morpho,1.94,9.21485,gainer,4,2026-04-17
+bittensor,Bittensor,tao,260.9,8.86614,gainer,5,2026-04-17
+just,JUST,jst,0.067628,7.89711,gainer,6,2026-04-17
+memecore,MemeCore,m,3.83,6.02748,gainer,7,2026-04-17
+kaspa,Kaspa,kas,0.03568734,6.02476,gainer,8,2026-04-17
+jupiter-exchange-solana,Jupiter,jup,0.185836,5.17664,gainer,9,2026-04-17
+arbitrum,Arbitrum,arb,0.132465,5.15002,gainer,10,2026-04-17
+worldcoin-wld,Worldcoin,wld,0.285013,-9.17832,loser,1,2026-04-17
+hash-2,Provenance Blockchain,hash,0.01090643,-7.83541,loser,2,2026-04-17
+zcash,Zcash,zec,332.55,-1.46517,loser,3,2026-04-17
+the-open-network,Toncoin,ton,1.4,-0.98366,loser,4,2026-04-17
+bonk,Bonk,bonk,6.53e-06,-0.73584,loser,5,2026-04-17
+beldex,Beldex,bdx,0.079886,-0.60883,loser,6,2026-04-17
+xdce-crowd-sale,XDC Network,xdc,0.03133515,-0.24734,loser,7,2026-04-17
+htx-dao,HTX DAO,htx,1.78e-06,-0.19537,loser,8,2026-04-17
+united-stables,United Stables,u,0.999347,-0.0265,loser,9,2026-04-17
+falcon-finance,Falcon USD,usdf,0.998508,-0.02346,loser,10,2026-04-17
