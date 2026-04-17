@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.57,89.68688,gainer,1,2026-04-16
-ravedao,RaveDAO,rave,16.44,35.89692,gainer,2,2026-04-16
-memecore,MemeCore,m,3.64,27.15741,gainer,3,2026-04-16
-ethena,Ethena,ena,0.112305,13.25588,gainer,4,2026-04-16
-polkadot,Polkadot,dot,1.33,12.32398,gainer,5,2026-04-16
-hash-2,Provenance Blockchain,hash,0.01227396,10.30136,gainer,6,2026-04-16
-arbitrum,Arbitrum,arb,0.127151,9.95266,gainer,7,2026-04-16
-bonk,Bonk,bonk,6.64e-06,9.45398,gainer,8,2026-04-16
-filecoin,Filecoin,fil,0.995425,9.12994,gainer,9,2026-04-16
-aptos,Aptos,apt,0.978262,9.04176,gainer,10,2026-04-16
-just,JUST,jst,0.062845,-9.82493,loser,1,2026-04-16
-zcash,Zcash,zec,341.53,-3.97686,loser,2,2026-04-16
-morpho,Morpho,morpho,1.79,-3.68356,loser,3,2026-04-16
-canton-network,Canton,cc,0.149225,-2.19074,loser,4,2026-04-16
-rain,Rain,rain,0.00783563,-1.89201,loser,5,2026-04-16
-hyperliquid,Hyperliquid,hype,43.97,-1.83627,loser,6,2026-04-16
-render-token,Render,render,1.88,-1.16371,loser,7,2026-04-16
-bittensor,Bittensor,tao,242.17,-1.16168,loser,8,2026-04-16
-ethereum,Ethereum,eth,2340.83,-0.77113,loser,9,2026-04-16
-tron,TRON,trx,0.326189,-0.61268,loser,10,2026-04-16
+siren-2,Siren,siren,1.94,130.6735,gainer,1,2026-04-17
+ravedao,RaveDAO,rave,16.92,57.22438,gainer,2,2026-04-17
+memecore,MemeCore,m,3.77,32.03942,gainer,3,2026-04-17
+ethena,Ethena,ena,0.112897,13.89996,gainer,4,2026-04-17
+arbitrum,Arbitrum,arb,0.128891,11.89512,gainer,5,2026-04-17
+polkadot,Polkadot,dot,1.31,11.69006,gainer,6,2026-04-17
+aptos,Aptos,apt,0.980609,10.64019,gainer,7,2026-04-17
+aave,Aave,aave,115.25,8.94158,gainer,8,2026-04-17
+filecoin,Filecoin,fil,0.992278,8.83679,gainer,9,2026-04-17
+jupiter-exchange-solana,Jupiter,jup,0.182739,7.96406,gainer,10,2026-04-17
+just,JUST,jst,0.065663,-2.25183,loser,1,2026-04-17
+rain,Rain,rain,0.00773481,-1.63446,loser,2,2026-04-17
+morpho,Morpho,morpho,1.8,-1.33922,loser,3,2026-04-17
+pax-gold,PAX Gold,paxg,4767.71,-1.09101,loser,4,2026-04-17
+hash-2,Provenance Blockchain,hash,0.0116907,-0.9195,loser,5,2026-04-17
+hyperliquid,Hyperliquid,hype,43.86,-0.84414,loser,6,2026-04-17
+tether-gold,Tether Gold,xaut,4764.64,-0.83458,loser,7,2026-04-17
+stable-2,​​Stable,stable,0.02634556,-0.50731,loser,8,2026-04-17
+htx-dao,HTX DAO,htx,1.78e-06,-0.47509,loser,9,2026-04-17
+ethereum,Ethereum,eth,2344.58,-0.30348,loser,10,2026-04-17
