@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ravedao,RaveDAO,rave,21.09,29.74336,gainer,1,2026-04-17
-ethena,Ethena,ena,0.126712,15.15806,gainer,2,2026-04-17
-dexe,DeXe,dexe,12.3,11.38236,gainer,3,2026-04-17
-morpho,Morpho,morpho,1.94,9.21485,gainer,4,2026-04-17
-bittensor,Bittensor,tao,260.9,8.86614,gainer,5,2026-04-17
-just,JUST,jst,0.067628,7.89711,gainer,6,2026-04-17
-memecore,MemeCore,m,3.83,6.02748,gainer,7,2026-04-17
-kaspa,Kaspa,kas,0.03568734,6.02476,gainer,8,2026-04-17
-jupiter-exchange-solana,Jupiter,jup,0.185836,5.17664,gainer,9,2026-04-17
-arbitrum,Arbitrum,arb,0.132465,5.15002,gainer,10,2026-04-17
-worldcoin-wld,Worldcoin,wld,0.285013,-9.17832,loser,1,2026-04-17
-hash-2,Provenance Blockchain,hash,0.01090643,-7.83541,loser,2,2026-04-17
-zcash,Zcash,zec,332.55,-1.46517,loser,3,2026-04-17
-the-open-network,Toncoin,ton,1.4,-0.98366,loser,4,2026-04-17
-bonk,Bonk,bonk,6.53e-06,-0.73584,loser,5,2026-04-17
-beldex,Beldex,bdx,0.079886,-0.60883,loser,6,2026-04-17
-xdce-crowd-sale,XDC Network,xdc,0.03133515,-0.24734,loser,7,2026-04-17
-htx-dao,HTX DAO,htx,1.78e-06,-0.19537,loser,8,2026-04-17
-united-stables,United Stables,u,0.999347,-0.0265,loser,9,2026-04-17
-falcon-finance,Falcon USD,usdf,0.998508,-0.02346,loser,10,2026-04-17
+ravedao,RaveDAO,rave,26.06,54.60163,gainer,1,2026-04-18
+dexe,DeXe,dexe,13.47,20.98538,gainer,2,2026-04-18
+memecore,MemeCore,m,4.52,20.01056,gainer,3,2026-04-18
+ethena,Ethena,ena,0.126064,11.52423,gainer,4,2026-04-18
+morpho,Morpho,morpho,1.95,7.97572,gainer,5,2026-04-18
+kaspa,Kaspa,kas,0.03664421,7.84595,gainer,6,2026-04-18
+just,JUST,jst,0.069188,5.48408,gainer,7,2026-04-18
+pi-network,Pi Network,pi,0.180745,5.02695,gainer,8,2026-04-18
+ethereum,Ethereum,eth,2425.87,3.4621,gainer,9,2026-04-18
+stellar,Stellar,xlm,0.17371,3.23718,gainer,10,2026-04-18
+worldcoin-wld,Worldcoin,wld,0.286017,-11.61755,loser,1,2026-04-18
+hash-2,Provenance Blockchain,hash,0.01073919,-8.27716,loser,2,2026-04-18
+algorand,Algorand,algo,0.110985,-4.30027,loser,3,2026-04-18
+rain,Rain,rain,0.00745667,-3.61633,loser,4,2026-04-18
+stable-2,​​Stable,stable,0.02567706,-2.97597,loser,5,2026-04-18
+the-open-network,Toncoin,ton,1.41,-2.09995,loser,6,2026-04-18
+bonk,Bonk,bonk,6.44e-06,-2.03737,loser,7,2026-04-18
+official-trump,Official Trump,trump,3.03,-1.98111,loser,8,2026-04-18
+vechain,VeChain,vet,0.00728157,-1.63486,loser,9,2026-04-18
+near,NEAR Protocol,near,1.4,-1.5345,loser,10,2026-04-18
