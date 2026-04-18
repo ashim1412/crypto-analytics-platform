@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,4.55,22.69214,gainer,1,2026-04-18
-siren-2,Siren,siren,0.780766,14.32806,gainer,2,2026-04-18
-dexe,DeXe,dexe,13.68,10.73822,gainer,3,2026-04-18
-just,JUST,jst,0.07061,8.27967,gainer,4,2026-04-18
-ethena,Ethena,ena,0.121028,7.52055,gainer,5,2026-04-18
-hash-2,Provenance Blockchain,hash,0.01104014,4.36477,gainer,6,2026-04-18
-tron,TRON,trx,0.327974,1.21773,gainer,7,2026-04-18
-hyperliquid,Hyperliquid,hype,44.15,0.92822,gainer,8,2026-04-18
-morpho,Morpho,morpho,1.92,0.84358,gainer,9,2026-04-18
-bitcoin,Bitcoin,btc,76197.0,0.49826,gainer,10,2026-04-18
-ravedao,RaveDAO,rave,13.9,-25.40809,loser,1,2026-04-18
-worldcoin-wld,Worldcoin,wld,0.27623,-10.12365,loser,2,2026-04-18
-algorand,Algorand,algo,0.108111,-6.62451,loser,3,2026-04-18
-pump-fun,Pump.fun,pump,0.00190215,-5.63717,loser,4,2026-04-18
-kaspa,Kaspa,kas,0.03443922,-5.27097,loser,5,2026-04-18
-xdce-crowd-sale,XDC Network,xdc,0.0302195,-4.71713,loser,6,2026-04-18
-aave,Aave,aave,111.35,-4.24291,loser,7,2026-04-18
-arbitrum,Arbitrum,arb,0.129233,-3.94896,loser,8,2026-04-18
-filecoin,Filecoin,fil,0.954349,-3.54211,loser,9,2026-04-18
-sui,Sui,sui,0.964347,-3.48355,loser,10,2026-04-18
+siren-2,Siren,siren,0.796657,24.83778,gainer,1,2026-04-18
+dexe,DeXe,dexe,14.26,15.44836,gainer,2,2026-04-18
+just,JUST,jst,0.071165,5.20917,gainer,3,2026-04-18
+hash-2,Provenance Blockchain,hash,0.01117001,2.55103,gainer,4,2026-04-18
+midnight-3,Midnight,night,0.03750466,1.39108,gainer,5,2026-04-18
+htx-dao,HTX DAO,htx,1.8e-06,1.20535,gainer,6,2026-04-18
+tron,TRON,trx,0.33001,1.01275,gainer,7,2026-04-18
+morpho,Morpho,morpho,1.96,0.39337,gainer,8,2026-04-18
+beldex,Beldex,bdx,0.08006,0.22063,gainer,9,2026-04-18
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.201,gainer,10,2026-04-18
+ravedao,RaveDAO,rave,4.23,-79.94855,loser,1,2026-04-18
+worldcoin-wld,Worldcoin,wld,0.269207,-7.18522,loser,2,2026-04-18
+pepe,Pepe,pepe,3.78e-06,-6.98225,loser,3,2026-04-18
+render-token,Render,render,1.8,-6.50974,loser,4,2026-04-18
+pump-fun,Pump.fun,pump,0.0018841,-6.42774,loser,5,2026-04-18
+aptos,Aptos,apt,0.938878,-6.29174,loser,6,2026-04-18
+ondo-finance,Ondo,ondo,0.25728,-5.86403,loser,7,2026-04-18
+bittensor,Bittensor,tao,245.37,-5.82479,loser,8,2026-04-18
+sui,Sui,sui,0.959091,-5.43905,loser,9,2026-04-18
+dogecoin,Dogecoin,doge,0.095019,-5.35414,loser,10,2026-04-18
