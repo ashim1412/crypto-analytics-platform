@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,15.07,13.53055,gainer,1,2026-04-19
-hash-2,Provenance Blockchain,hash,0.01170577,4.29695,gainer,2,2026-04-19
-monero,Monero,xmr,351.58,1.58866,gainer,3,2026-04-19
-figure-heloc,Figure Heloc,figr_heloc,1.035,1.3118,gainer,4,2026-04-19
-htx-dao,HTX DAO,htx,1.8e-06,0.85007,gainer,5,2026-04-19
-tron,TRON,trx,0.329529,0.60806,gainer,6,2026-04-19
-just,JUST,jst,0.070282,0.34424,gainer,7,2026-04-19
-morpho,Morpho,morpho,1.96,0.21155,gainer,8,2026-04-19
-falcon-finance,Falcon USD,usdf,0.998712,0.08179,gainer,9,2026-04-19
-united-stables,United Stables,u,0.999963,0.01603,gainer,10,2026-04-19
-memecore,MemeCore,m,3.55,-21.38609,loser,1,2026-04-19
-aave,Aave,aave,91.91,-20.11909,loser,2,2026-04-19
-worldcoin-wld,Worldcoin,wld,0.262239,-8.6712,loser,3,2026-04-19
-pump-fun,Pump.fun,pump,0.00184964,-8.41077,loser,4,2026-04-19
-the-open-network,Toncoin,ton,1.28,-8.08566,loser,5,2026-04-19
-pi-network,Pi Network,pi,0.17373,-7.3363,loser,6,2026-04-19
-xdce-crowd-sale,XDC Network,xdc,0.02992527,-6.69407,loser,7,2026-04-19
-filecoin,Filecoin,fil,0.926977,-6.48411,loser,8,2026-04-19
-bonk,Bonk,bonk,6.03e-06,-6.14514,loser,9,2026-04-19
-aptos,Aptos,apt,0.92924,-5.88009,loser,10,2026-04-19
+dexe,DeXe,dexe,15.69,14.31964,gainer,1,2026-04-19
+morpho,Morpho,morpho,2.05,6.7532,gainer,2,2026-04-19
+zcash,Zcash,zec,330.3,2.39473,gainer,3,2026-04-19
+monero,Monero,xmr,352.07,1.86272,gainer,4,2026-04-19
+canton-network,Canton,cc,0.147801,1.58632,gainer,5,2026-04-19
+figure-heloc,Figure Heloc,figr_heloc,1.035,1.31021,gainer,6,2026-04-19
+hash-2,Provenance Blockchain,hash,0.0111638,1.13965,gainer,7,2026-04-19
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.09026,1.12706,gainer,8,2026-04-19
+htx-dao,HTX DAO,htx,1.81e-06,1.09375,gainer,9,2026-04-19
+just,JUST,jst,0.071272,1.00615,gainer,10,2026-04-19
+memecore,MemeCore,m,3.32,-25.56962,loser,1,2026-04-19
+aave,Aave,aave,91.05,-18.25772,loser,2,2026-04-19
+the-open-network,Toncoin,ton,1.3,-6.23348,loser,3,2026-04-19
+pi-network,Pi Network,pi,0.172419,-3.8789,loser,4,2026-04-19
+worldcoin-wld,Worldcoin,wld,0.265872,-3.80463,loser,5,2026-04-19
+internet-computer,Internet Computer,icp,2.46,-3.42383,loser,6,2026-04-19
+filecoin,Filecoin,fil,0.926782,-2.9505,loser,7,2026-04-19
+algorand,Algorand,algo,0.105145,-2.80103,loser,8,2026-04-19
+arbitrum,Arbitrum,arb,0.126167,-2.44939,loser,9,2026-04-19
+pump-fun,Pump.fun,pump,0.00185893,-2.27446,loser,10,2026-04-19
