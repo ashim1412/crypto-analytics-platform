@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.01175557,8.96469,gainer,1,2026-04-19
-dexe,DeXe,dexe,14.46,8.40188,gainer,2,2026-04-19
-siren-2,Siren,siren,0.747556,7.36233,gainer,3,2026-04-19
-rain,Rain,rain,0.00767178,3.08979,gainer,4,2026-04-19
-midnight-3,Midnight,night,0.03769549,2.25355,gainer,5,2026-04-19
-figure-heloc,Figure Heloc,figr_heloc,1.035,1.31021,gainer,6,2026-04-19
-htx-dao,HTX DAO,htx,1.81e-06,0.88162,gainer,7,2026-04-19
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.84868,gainer,8,2026-04-19
-monero,Monero,xmr,350.47,0.83766,gainer,9,2026-04-19
-tron,TRON,trx,0.328735,0.48141,gainer,10,2026-04-19
-ravedao,RaveDAO,rave,2.73,-89.64894,loser,1,2026-04-19
-memecore,MemeCore,m,3.54,-18.56028,loser,2,2026-04-19
-aave,Aave,aave,98.72,-14.37561,loser,3,2026-04-19
-the-open-network,Toncoin,ton,1.29,-8.37811,loser,4,2026-04-19
-worldcoin-wld,Worldcoin,wld,0.263519,-7.86167,loser,5,2026-04-19
-pump-fun,Pump.fun,pump,0.00187394,-6.90791,loser,6,2026-04-19
-kaspa,Kaspa,kas,0.03424899,-6.52989,loser,7,2026-04-19
-aptos,Aptos,apt,0.93126,-6.31483,loser,8,2026-04-19
-bittensor,Bittensor,tao,242.14,-6.30397,loser,9,2026-04-19
-render-token,Render,render,1.77,-5.7107,loser,10,2026-04-19
+dexe,DeXe,dexe,15.07,13.53055,gainer,1,2026-04-19
+hash-2,Provenance Blockchain,hash,0.01170577,4.29695,gainer,2,2026-04-19
+monero,Monero,xmr,351.58,1.58866,gainer,3,2026-04-19
+figure-heloc,Figure Heloc,figr_heloc,1.035,1.3118,gainer,4,2026-04-19
+htx-dao,HTX DAO,htx,1.8e-06,0.85007,gainer,5,2026-04-19
+tron,TRON,trx,0.329529,0.60806,gainer,6,2026-04-19
+just,JUST,jst,0.070282,0.34424,gainer,7,2026-04-19
+morpho,Morpho,morpho,1.96,0.21155,gainer,8,2026-04-19
+falcon-finance,Falcon USD,usdf,0.998712,0.08179,gainer,9,2026-04-19
+united-stables,United Stables,u,0.999963,0.01603,gainer,10,2026-04-19
+memecore,MemeCore,m,3.55,-21.38609,loser,1,2026-04-19
+aave,Aave,aave,91.91,-20.11909,loser,2,2026-04-19
+worldcoin-wld,Worldcoin,wld,0.262239,-8.6712,loser,3,2026-04-19
+pump-fun,Pump.fun,pump,0.00184964,-8.41077,loser,4,2026-04-19
+the-open-network,Toncoin,ton,1.28,-8.08566,loser,5,2026-04-19
+pi-network,Pi Network,pi,0.17373,-7.3363,loser,6,2026-04-19
+xdce-crowd-sale,XDC Network,xdc,0.02992527,-6.69407,loser,7,2026-04-19
+filecoin,Filecoin,fil,0.926977,-6.48411,loser,8,2026-04-19
+bonk,Bonk,bonk,6.03e-06,-6.14514,loser,9,2026-04-19
+aptos,Aptos,apt,0.92924,-5.88009,loser,10,2026-04-19
