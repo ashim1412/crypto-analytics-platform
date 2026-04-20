@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sky,Sky,sky,0.078092,3.23514,gainer,1,2026-04-20
-canton-network,Canton,cc,0.151399,3.15543,gainer,2,2026-04-20
-just,JUST,jst,0.073302,2.59067,gainer,3,2026-04-20
-aster-2,Aster,aster,0.679457,1.57395,gainer,4,2026-04-20
-bonk,Bonk,bonk,6.07e-06,1.56255,gainer,5,2026-04-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.08991,1.42095,gainer,6,2026-04-20
-gatechain-token,Gate,gt,7.22,1.42034,gainer,7,2026-04-20
-near,NEAR Protocol,near,1.35,1.38025,gainer,8,2026-04-20
-arbitrum,Arbitrum,arb,0.126379,0.97393,gainer,9,2026-04-20
-monero,Monero,xmr,353.87,0.94965,gainer,10,2026-04-20
-mantle,Mantle,mnt,0.612758,-6.33738,loser,1,2026-04-20
-hash-2,Provenance Blockchain,hash,0.01089598,-5.10449,loser,2,2026-04-20
-hyperliquid,Hyperliquid,hype,41.1,-4.77364,loser,3,2026-04-20
-zcash,Zcash,zec,307.92,-4.52153,loser,4,2026-04-20
-jupiter-exchange-solana,Jupiter,jup,0.170206,-4.02043,loser,5,2026-04-20
-algorand,Algorand,algo,0.102612,-2.62923,loser,6,2026-04-20
-dexe,DeXe,dexe,14.84,-1.98283,loser,7,2026-04-20
-world-liberty-financial,World Liberty Financial,wlfi,0.077527,-1.63708,loser,8,2026-04-20
-ethena,Ethena,ena,0.116681,-1.52203,loser,9,2026-04-20
-pump-fun,Pump.fun,pump,0.00180839,-1.33136,loser,10,2026-04-20
+siren-2,Siren,siren,0.702008,9.83331,gainer,1,2026-04-20
+memecore,MemeCore,m,3.38,5.272,gainer,2,2026-04-20
+canton-network,Canton,cc,0.154011,4.44629,gainer,3,2026-04-20
+sky,Sky,sky,0.079359,4.01202,gainer,4,2026-04-20
+xdce-crowd-sale,XDC Network,xdc,0.03117119,3.85945,gainer,5,2026-04-20
+arbitrum,Arbitrum,arb,0.128235,1.21448,gainer,6,2026-04-20
+just,JUST,jst,0.072069,1.07007,gainer,7,2026-04-20
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.90124,gainer,8,2026-04-20
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.091056,0.70813,gainer,9,2026-04-20
+gatechain-token,Gate,gt,7.22,0.52403,gainer,10,2026-04-20
+hash-2,Provenance Blockchain,hash,0.01043183,-12.25427,loser,1,2026-04-20
+zcash,Zcash,zec,308.19,-7.22438,loser,2,2026-04-20
+mantle,Mantle,mnt,0.620216,-5.94909,loser,3,2026-04-20
+dexe,DeXe,dexe,14.93,-5.93206,loser,4,2026-04-20
+morpho,Morpho,morpho,1.97,-4.6749,loser,5,2026-04-20
+hyperliquid,Hyperliquid,hype,41.42,-4.59131,loser,6,2026-04-20
+midnight-3,Midnight,night,0.03577896,-3.5931,loser,7,2026-04-20
+ethena,Ethena,ena,0.117026,-3.41614,loser,8,2026-04-20
+jupiter-exchange-solana,Jupiter,jup,0.171105,-3.25098,loser,9,2026-04-20
+algorand,Algorand,algo,0.103251,-2.11847,loser,10,2026-04-20
