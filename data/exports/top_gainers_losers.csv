@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.700532,10.05487,gainer,1,2026-04-20
-canton-network,Canton,cc,0.156979,5.65808,gainer,2,2026-04-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094706,5.21043,gainer,3,2026-04-20
-zcash,Zcash,zec,319.08,5.18258,gainer,4,2026-04-20
-sky,Sky,sky,0.080264,4.9092,gainer,5,2026-04-20
-arbitrum,Arbitrum,arb,0.129109,3.9827,gainer,6,2026-04-20
-bittensor,Bittensor,tao,248.23,3.92603,gainer,7,2026-04-20
-the-open-network,Toncoin,ton,1.33,3.7764,gainer,8,2026-04-20
-pepe,Pepe,pepe,3.83e-06,3.19076,gainer,9,2026-04-20
-stellar,Stellar,xlm,0.174709,3.02552,gainer,10,2026-04-20
-dexe,DeXe,dexe,14.15,-10.33944,loser,1,2026-04-20
-midnight-3,Midnight,night,0.03588249,-4.28766,loser,2,2026-04-20
-hash-2,Provenance Blockchain,hash,0.01087983,-3.25249,loser,3,2026-04-20
-tron,TRON,trx,0.327953,-1.66266,loser,4,2026-04-20
-stable-2,​​Stable,stable,0.0255124,-1.32149,loser,5,2026-04-20
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-1.22534,loser,6,2026-04-20
-jupiter-exchange-solana,Jupiter,jup,0.172285,-0.68921,loser,7,2026-04-20
-htx-dao,HTX DAO,htx,1.81e-06,-0.61785,loser,8,2026-04-20
-hyperliquid,Hyperliquid,hype,41.3,-0.56224,loser,9,2026-04-20
-ethena,Ethena,ena,0.114275,-0.55563,loser,10,2026-04-20
+canton-network,Canton,cc,0.158832,6.18277,gainer,1,2026-04-21
+the-open-network,Toncoin,ton,1.38,6.05961,gainer,2,2026-04-21
+siren-2,Siren,siren,0.704732,5.87642,gainer,3,2026-04-21
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092543,4.53188,gainer,4,2026-04-21
+stellar,Stellar,xlm,0.175411,4.07736,gainer,5,2026-04-21
+zcash,Zcash,zec,317.62,3.41967,gainer,6,2026-04-21
+gatechain-token,Gate,gt,7.35,2.88907,gainer,7,2026-04-21
+bonk,Bonk,bonk,6.15e-06,2.88012,gainer,8,2026-04-21
+xdce-crowd-sale,XDC Network,xdc,0.03016705,2.81582,gainer,9,2026-04-21
+pump-fun,Pump.fun,pump,0.00184407,2.80967,gainer,10,2026-04-21
+hash-2,Provenance Blockchain,hash,0.01063789,-4.69029,loser,1,2026-04-21
+ethena,Ethena,ena,0.112073,-2.188,loser,2,2026-04-21
+rain,Rain,rain,0.0074501,-2.06437,loser,3,2026-04-21
+dexe,DeXe,dexe,14.43,-1.90565,loser,4,2026-04-21
+hyperliquid,Hyperliquid,hype,40.84,-1.32568,loser,5,2026-04-21
+midnight-3,Midnight,night,0.03647734,-0.83161,loser,6,2026-04-21
+stable-2,​​Stable,stable,0.02562958,-0.76384,loser,7,2026-04-21
+tron,TRON,trx,0.328612,-0.63718,loser,8,2026-04-21
+jupiter-exchange-solana,Jupiter,jup,0.17027,-0.32448,loser,9,2026-04-21
+aave,Aave,aave,92.04,-0.32212,loser,10,2026-04-21
