@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,4.1,21.17194,gainer,1,2026-04-21
-just,JUST,jst,0.079711,10.60306,gainer,2,2026-04-21
-stable-2,​​Stable,stable,0.02740638,7.37973,gainer,3,2026-04-21
-zcash,Zcash,zec,327.92,6.39952,gainer,4,2026-04-21
-stellar,Stellar,xlm,0.179335,6.24816,gainer,5,2026-04-21
-hash-2,Provenance Blockchain,hash,0.01105226,6.17186,gainer,6,2026-04-21
-the-open-network,Toncoin,ton,1.38,5.32629,gainer,7,2026-04-21
-monero,Monero,xmr,368.29,4.85445,gainer,8,2026-04-21
-mantle,Mantle,mnt,0.639535,3.17345,gainer,9,2026-04-21
-midnight-3,Midnight,night,0.0366951,2.52848,gainer,10,2026-04-21
-dexe,DeXe,dexe,13.11,-12.31589,loser,1,2026-04-21
-ethena,Ethena,ena,0.111623,-4.64213,loser,2,2026-04-21
-pi-network,Pi Network,pi,0.168034,-3.26205,loser,3,2026-04-21
-xdce-crowd-sale,XDC Network,xdc,0.03022231,-3.04408,loser,4,2026-04-21
-canton-network,Canton,cc,0.149655,-2.78587,loser,5,2026-04-21
-hyperliquid,Hyperliquid,hype,40.64,-1.89181,loser,6,2026-04-21
-arbitrum,Arbitrum,arb,0.125869,-1.86319,loser,7,2026-04-21
-siren-2,Siren,siren,0.694347,-1.09066,loser,8,2026-04-21
-kucoin-shares,KuCoin,kcs,8.52,-0.94889,loser,9,2026-04-21
-morpho,Morpho,morpho,1.95,-0.83399,loser,10,2026-04-21
+memecore,MemeCore,m,4.24,19.15374,gainer,1,2026-04-21
+just,JUST,jst,0.081069,10.09572,gainer,2,2026-04-21
+monero,Monero,xmr,381.26,7.73086,gainer,3,2026-04-21
+stable-2,​​Stable,stable,0.02664137,4.42615,gainer,4,2026-04-21
+hash-2,Provenance Blockchain,hash,0.01118598,2.75598,gainer,5,2026-04-21
+rain,Rain,rain,0.00774247,2.22681,gainer,6,2026-04-21
+the-open-network,Toncoin,ton,1.36,1.9023,gainer,7,2026-04-21
+tron,TRON,trx,0.333279,1.56106,gainer,8,2026-04-21
+stellar,Stellar,xlm,0.177417,1.52622,gainer,9,2026-04-21
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.47272,gainer,10,2026-04-21
+dexe,DeXe,dexe,12.49,-11.63649,loser,1,2026-04-21
+hyperliquid,Hyperliquid,hype,39.2,-5.02141,loser,2,2026-04-21
+pi-network,Pi Network,pi,0.167143,-3.5875,loser,3,2026-04-21
+quant-network,Quant,qnt,72.59,-3.57267,loser,4,2026-04-21
+arbitrum,Arbitrum,arb,0.124683,-3.37787,loser,5,2026-04-21
+ethena,Ethena,ena,0.110535,-3.34022,loser,6,2026-04-21
+zcash,Zcash,zec,311.08,-3.26182,loser,7,2026-04-21
+pepe,Pepe,pepe,3.73e-06,-2.78231,loser,8,2026-04-21
+worldcoin-wld,Worldcoin,wld,0.260027,-2.72864,loser,9,2026-04-21
+bittensor,Bittensor,tao,241.88,-2.71188,loser,10,2026-04-21
