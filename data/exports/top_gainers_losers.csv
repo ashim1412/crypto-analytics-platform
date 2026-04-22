@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pudgy-penguins,Pudgy Penguins,pengu,0.00864502,12.1789,gainer,1,2026-04-22
-sky,Sky,sky,0.08589,6.7533,gainer,2,2026-04-22
-memecore,MemeCore,m,4.32,5.47747,gainer,3,2026-04-22
-bonk,Bonk,bonk,6.48e-06,5.25476,gainer,4,2026-04-22
-jupiter-exchange-solana,Jupiter,jup,0.17842,5.17521,gainer,5,2026-04-22
-bitcoin-cash,Bitcoin Cash,bch,465.36,4.80508,gainer,6,2026-04-22
-pump-fun,Pump.fun,pump,0.00192633,4.78861,gainer,7,2026-04-22
-official-trump,Official Trump,trump,2.99,4.49848,gainer,8,2026-04-22
-ethereum,Ethereum,eth,2404.3,4.17528,gainer,9,2026-04-22
-cosmos,Cosmos Hub,atom,1.88,4.10302,gainer,10,2026-04-22
-stable-2,​​Stable,stable,0.02585988,-5.56254,loser,1,2026-04-22
-dexe,DeXe,dexe,12.51,-4.52968,loser,2,2026-04-22
-zcash,Zcash,zec,318.73,-2.7974,loser,3,2026-04-22
-ethena,Ethena,ena,0.110519,-1.10044,loser,4,2026-04-22
-kaspa,Kaspa,kas,0.03461258,-0.85924,loser,5,2026-04-22
-pax-gold,PAX Gold,paxg,4733.2,-0.75887,loser,6,2026-04-22
-tether-gold,Tether Gold,xaut,4732.38,-0.72547,loser,7,2026-04-22
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.28257,loser,8,2026-04-22
-beldex,Beldex,bdx,0.08007,-0.22843,loser,9,2026-04-22
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.21365,loser,10,2026-04-22
+pudgy-penguins,Pudgy Penguins,pengu,0.00860675,12.91232,gainer,1,2026-04-22
+bonk,Bonk,bonk,6.58e-06,8.25589,gainer,2,2026-04-22
+sky,Sky,sky,0.083663,6.82105,gainer,3,2026-04-22
+uniswap,Uniswap,uni,3.41,6.10042,gainer,4,2026-04-22
+arbitrum,Arbitrum,arb,0.132371,5.92676,gainer,5,2026-04-22
+hyperliquid,Hyperliquid,hype,41.39,5.79569,gainer,6,2026-04-22
+official-trump,Official Trump,trump,2.98,5.65542,gainer,7,2026-04-22
+jupiter-exchange-solana,Jupiter,jup,0.17766,5.17733,gainer,8,2026-04-22
+zcash,Zcash,zec,325.77,5.12685,gainer,9,2026-04-22
+pepe,Pepe,pepe,3.92e-06,4.99021,gainer,10,2026-04-22
+hash-2,Provenance Blockchain,hash,0.01043344,-6.72756,loser,1,2026-04-22
+dexe,DeXe,dexe,12.31,-1.83306,loser,2,2026-04-22
+leo-token,LEO Token,leo,10.23,-1.34051,loser,3,2026-04-22
+tron,TRON,trx,0.328883,-1.32323,loser,4,2026-04-22
+figure-heloc,Figure Heloc,figr_heloc,1.021,-1.08776,loser,5,2026-04-22
+monero,Monero,xmr,378.68,-0.73105,loser,6,2026-04-22
+morpho,Morpho,morpho,1.94,-0.48619,loser,7,2026-04-22
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.44445,loser,8,2026-04-22
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.20887,loser,9,2026-04-22
+stable-2,​​Stable,stable,0.02659467,-0.19854,loser,10,2026-04-22
