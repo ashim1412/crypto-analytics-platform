@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,4.29,21.89,gainer,1,2026-04-22
-monero,Monero,xmr,386.03,7.93375,gainer,2,2026-04-22
-cosmos,Cosmos Hub,atom,1.9,6.57939,gainer,3,2026-04-22
-bitcoin-cash,Bitcoin Cash,bch,468.15,5.62533,gainer,4,2026-04-22
-jupiter-exchange-solana,Jupiter,jup,0.178386,5.55928,gainer,5,2026-04-22
-just,JUST,jst,0.079635,5.25911,gainer,6,2026-04-22
-rain,Rain,rain,0.00783917,4.91157,gainer,7,2026-04-22
-ondo-finance,Ondo,ondo,0.269522,4.90338,gainer,8,2026-04-22
-official-trump,Official Trump,trump,2.97,4.13959,gainer,9,2026-04-22
-uniswap,Uniswap,uni,3.38,4.01211,gainer,10,2026-04-22
-dexe,DeXe,dexe,13.32,-6.43962,loser,1,2026-04-22
-canton-network,Canton,cc,0.151216,-2.51251,loser,2,2026-04-22
-kaspa,Kaspa,kas,0.03470033,-1.12178,loser,3,2026-04-22
-hyperliquid,Hyperliquid,hype,40.5,-0.62343,loser,4,2026-04-22
-pax-gold,PAX Gold,paxg,4752.71,-0.42819,loser,5,2026-04-22
-mantle,Mantle,mnt,0.637403,-0.36773,loser,6,2026-04-22
-tether-gold,Tether Gold,xaut,4751.67,-0.31592,loser,7,2026-04-22
-the-open-network,Toncoin,ton,1.38,-0.30836,loser,8,2026-04-22
-pi-network,Pi Network,pi,0.169745,-0.26528,loser,9,2026-04-22
-beldex,Beldex,bdx,0.07997,-0.23189,loser,10,2026-04-22
+pudgy-penguins,Pudgy Penguins,pengu,0.00864502,12.1789,gainer,1,2026-04-22
+sky,Sky,sky,0.08589,6.7533,gainer,2,2026-04-22
+memecore,MemeCore,m,4.32,5.47747,gainer,3,2026-04-22
+bonk,Bonk,bonk,6.48e-06,5.25476,gainer,4,2026-04-22
+jupiter-exchange-solana,Jupiter,jup,0.17842,5.17521,gainer,5,2026-04-22
+bitcoin-cash,Bitcoin Cash,bch,465.36,4.80508,gainer,6,2026-04-22
+pump-fun,Pump.fun,pump,0.00192633,4.78861,gainer,7,2026-04-22
+official-trump,Official Trump,trump,2.99,4.49848,gainer,8,2026-04-22
+ethereum,Ethereum,eth,2404.3,4.17528,gainer,9,2026-04-22
+cosmos,Cosmos Hub,atom,1.88,4.10302,gainer,10,2026-04-22
+stable-2,​​Stable,stable,0.02585988,-5.56254,loser,1,2026-04-22
+dexe,DeXe,dexe,12.51,-4.52968,loser,2,2026-04-22
+zcash,Zcash,zec,318.73,-2.7974,loser,3,2026-04-22
+ethena,Ethena,ena,0.110519,-1.10044,loser,4,2026-04-22
+kaspa,Kaspa,kas,0.03461258,-0.85924,loser,5,2026-04-22
+pax-gold,PAX Gold,paxg,4733.2,-0.75887,loser,6,2026-04-22
+tether-gold,Tether Gold,xaut,4732.38,-0.72547,loser,7,2026-04-22
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.28257,loser,8,2026-04-22
+beldex,Beldex,bdx,0.08007,-0.22843,loser,9,2026-04-22
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.21365,loser,10,2026-04-22
