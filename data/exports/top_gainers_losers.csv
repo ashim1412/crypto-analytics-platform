@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,4.28,23.40696,gainer,1,2026-04-22
-just,JUST,jst,0.081493,10.0319,gainer,2,2026-04-22
-monero,Monero,xmr,382.24,7.85312,gainer,3,2026-04-22
-hash-2,Provenance Blockchain,hash,0.01134452,6.59925,gainer,4,2026-04-22
-rain,Rain,rain,0.00775648,4.10497,gainer,5,2026-04-22
-stable-2,​​Stable,stable,0.02662349,3.87687,gainer,6,2026-04-22
-cosmos,Cosmos Hub,atom,1.86,3.13825,gainer,7,2026-04-22
-stellar,Stellar,xlm,0.179691,2.39529,gainer,8,2026-04-22
-jupiter-exchange-solana,Jupiter,jup,0.173673,1.96642,gainer,9,2026-04-22
-sky,Sky,sky,0.079772,1.53244,gainer,10,2026-04-22
-dexe,DeXe,dexe,12.79,-11.22603,loser,1,2026-04-22
-canton-network,Canton,cc,0.150149,-5.44754,loser,2,2026-04-22
-pi-network,Pi Network,pi,0.168131,-3.22328,loser,3,2026-04-22
-hyperliquid,Hyperliquid,hype,39.86,-2.38541,loser,4,2026-04-22
-kaspa,Kaspa,kas,0.03415194,-2.12282,loser,5,2026-04-22
-worldcoin-wld,Worldcoin,wld,0.260784,-1.98853,loser,6,2026-04-22
-arbitrum,Arbitrum,arb,0.12474,-1.7976,loser,7,2026-04-22
-pax-gold,PAX Gold,paxg,4728.07,-1.53688,loser,8,2026-04-22
-tether-gold,Tether Gold,xaut,4726.4,-1.48242,loser,9,2026-04-22
-quant-network,Quant,qnt,73.75,-1.40709,loser,10,2026-04-22
+memecore,MemeCore,m,4.29,21.89,gainer,1,2026-04-22
+monero,Monero,xmr,386.03,7.93375,gainer,2,2026-04-22
+cosmos,Cosmos Hub,atom,1.9,6.57939,gainer,3,2026-04-22
+bitcoin-cash,Bitcoin Cash,bch,468.15,5.62533,gainer,4,2026-04-22
+jupiter-exchange-solana,Jupiter,jup,0.178386,5.55928,gainer,5,2026-04-22
+just,JUST,jst,0.079635,5.25911,gainer,6,2026-04-22
+rain,Rain,rain,0.00783917,4.91157,gainer,7,2026-04-22
+ondo-finance,Ondo,ondo,0.269522,4.90338,gainer,8,2026-04-22
+official-trump,Official Trump,trump,2.97,4.13959,gainer,9,2026-04-22
+uniswap,Uniswap,uni,3.38,4.01211,gainer,10,2026-04-22
+dexe,DeXe,dexe,13.32,-6.43962,loser,1,2026-04-22
+canton-network,Canton,cc,0.151216,-2.51251,loser,2,2026-04-22
+kaspa,Kaspa,kas,0.03470033,-1.12178,loser,3,2026-04-22
+hyperliquid,Hyperliquid,hype,40.5,-0.62343,loser,4,2026-04-22
+pax-gold,PAX Gold,paxg,4752.71,-0.42819,loser,5,2026-04-22
+mantle,Mantle,mnt,0.637403,-0.36773,loser,6,2026-04-22
+tether-gold,Tether Gold,xaut,4751.67,-0.31592,loser,7,2026-04-22
+the-open-network,Toncoin,ton,1.38,-0.30836,loser,8,2026-04-22
+pi-network,Pi Network,pi,0.169745,-0.26528,loser,9,2026-04-22
+beldex,Beldex,bdx,0.07997,-0.23189,loser,10,2026-04-22
