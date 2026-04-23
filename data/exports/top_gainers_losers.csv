@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pudgy-penguins,Pudgy Penguins,pengu,0.00860675,12.91232,gainer,1,2026-04-22
-bonk,Bonk,bonk,6.58e-06,8.25589,gainer,2,2026-04-22
-sky,Sky,sky,0.083663,6.82105,gainer,3,2026-04-22
-uniswap,Uniswap,uni,3.41,6.10042,gainer,4,2026-04-22
-arbitrum,Arbitrum,arb,0.132371,5.92676,gainer,5,2026-04-22
-hyperliquid,Hyperliquid,hype,41.39,5.79569,gainer,6,2026-04-22
-official-trump,Official Trump,trump,2.98,5.65542,gainer,7,2026-04-22
-jupiter-exchange-solana,Jupiter,jup,0.17766,5.17733,gainer,8,2026-04-22
-zcash,Zcash,zec,325.77,5.12685,gainer,9,2026-04-22
-pepe,Pepe,pepe,3.92e-06,4.99021,gainer,10,2026-04-22
-hash-2,Provenance Blockchain,hash,0.01043344,-6.72756,loser,1,2026-04-22
-dexe,DeXe,dexe,12.31,-1.83306,loser,2,2026-04-22
-leo-token,LEO Token,leo,10.23,-1.34051,loser,3,2026-04-22
-tron,TRON,trx,0.328883,-1.32323,loser,4,2026-04-22
-figure-heloc,Figure Heloc,figr_heloc,1.021,-1.08776,loser,5,2026-04-22
-monero,Monero,xmr,378.68,-0.73105,loser,6,2026-04-22
-morpho,Morpho,morpho,1.94,-0.48619,loser,7,2026-04-22
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.44445,loser,8,2026-04-22
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.20887,loser,9,2026-04-22
-stable-2,​​Stable,stable,0.02659467,-0.19854,loser,10,2026-04-22
+pudgy-penguins,Pudgy Penguins,pengu,0.0082389,6.57669,gainer,1,2026-04-23
+memecore,MemeCore,m,4.53,5.50379,gainer,2,2026-04-23
+sky,Sky,sky,0.083316,4.51056,gainer,3,2026-04-23
+hyperliquid,Hyperliquid,hype,41.12,3.26447,gainer,4,2026-04-23
+bitget-token,Bitget Token,bgb,1.95,2.89308,gainer,5,2026-04-23
+just,JUST,jst,0.083911,2.60984,gainer,6,2026-04-23
+bitcoin,Bitcoin,btc,78169.0,2.54767,gainer,7,2026-04-23
+bonk,Bonk,bonk,6.29e-06,2.29538,gainer,8,2026-04-23
+bitcoin-cash,Bitcoin Cash,bch,459.09,2.21945,gainer,9,2026-04-23
+canton-network,Canton,cc,0.153803,2.21715,gainer,10,2026-04-23
+hash-2,Provenance Blockchain,hash,0.01015775,-10.40635,loser,1,2026-04-23
+dexe,DeXe,dexe,12.02,-5.55841,loser,2,2026-04-23
+monero,Monero,xmr,365.94,-4.36787,loser,3,2026-04-23
+ethena,Ethena,ena,0.106827,-3.69161,loser,4,2026-04-23
+stable-2,​​Stable,stable,0.02612412,-1.6269,loser,5,2026-04-23
+chainlink,Chainlink,link,9.26,-1.47518,loser,6,2026-04-23
+jupiter-exchange-solana,Jupiter,jup,0.17085,-1.42005,loser,7,2026-04-23
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092658,-1.26443,loser,8,2026-04-23
+tron,TRON,trx,0.329445,-1.05588,loser,9,2026-04-23
+world-liberty-financial,World Liberty Financial,wlfi,0.077889,-1.05531,loser,10,2026-04-23
