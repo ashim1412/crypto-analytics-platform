@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pudgy-penguins,Pudgy Penguins,pengu,0.00868869,6.85006,gainer,1,2026-04-23
-memecore,MemeCore,m,4.58,6.72527,gainer,2,2026-04-23
-just,JUST,jst,0.084058,5.43846,gainer,3,2026-04-23
-stable-2,​​Stable,stable,0.02762767,4.87763,gainer,4,2026-04-23
-bitget-token,Bitget Token,bgb,1.95,2.21657,gainer,5,2026-04-23
-hyperliquid,Hyperliquid,hype,41.0,1.26328,gainer,6,2026-04-23
-sky,Sky,sky,0.083015,1.18129,gainer,7,2026-04-23
-bitcoin,Bitcoin,btc,78132.0,0.17022,gainer,8,2026-04-23
-figure-heloc,Figure Heloc,figr_heloc,1.036,0.17012,gainer,9,2026-04-23
-gatechain-token,Gate,gt,7.38,0.1274,gainer,10,2026-04-23
-dexe,DeXe,dexe,12.5,-6.23411,loser,1,2026-04-23
-ethena,Ethena,ena,0.105797,-5.86084,loser,2,2026-04-23
-hash-2,Provenance Blockchain,hash,0.010712,-5.40444,loser,3,2026-04-23
-pump-fun,Pump.fun,pump,0.00181179,-4.92439,loser,4,2026-04-23
-jupiter-exchange-solana,Jupiter,jup,0.170526,-4.41466,loser,5,2026-04-23
-algorand,Algorand,algo,0.101936,-4.18528,loser,6,2026-04-23
-morpho,Morpho,morpho,1.92,-4.01218,loser,7,2026-04-23
-ondo-finance,Ondo,ondo,0.25902,-3.89287,loser,8,2026-04-23
-rain,Rain,rain,0.00754131,-3.79122,loser,9,2026-04-23
-world-liberty-financial,World Liberty Financial,wlfi,0.076954,-3.77812,loser,10,2026-04-23
+stable-2,​​Stable,stable,0.02971487,14.87279,gainer,1,2026-04-23
+dexe,DeXe,dexe,13.89,12.77669,gainer,2,2026-04-23
+memecore,MemeCore,m,4.48,3.9934,gainer,3,2026-04-23
+zcash,Zcash,zec,324.42,1.76367,gainer,4,2026-04-23
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.1038,gainer,5,2026-04-23
+just,JUST,jst,0.082948,0.69937,gainer,6,2026-04-23
+figure-heloc,Figure Heloc,figr_heloc,1.036,0.14698,gainer,7,2026-04-23
+usdtb,USDtb,usdtb,0.999818,0.04424,gainer,8,2026-04-23
+usual-usd,Usual USD,usd0,0.998157,0.02754,gainer,9,2026-04-23
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.094024,0.01374,gainer,10,2026-04-23
+pump-fun,Pump.fun,pump,0.00179573,-6.79196,loser,1,2026-04-23
+hash-2,Provenance Blockchain,hash,0.01052847,-5.748,loser,2,2026-04-23
+jupiter-exchange-solana,Jupiter,jup,0.17002,-4.71345,loser,3,2026-04-23
+official-trump,Official Trump,trump,2.86,-4.56447,loser,4,2026-04-23
+morpho,Morpho,morpho,1.89,-4.36812,loser,5,2026-04-23
+polkadot,Polkadot,dot,1.24,-4.31137,loser,6,2026-04-23
+ethena,Ethena,ena,0.105931,-4.11551,loser,7,2026-04-23
+sky,Sky,sky,0.082007,-4.04209,loser,8,2026-04-23
+uniswap,Uniswap,uni,3.25,-3.73919,loser,9,2026-04-23
+the-open-network,Toncoin,ton,1.33,-3.64243,loser,10,2026-04-23
