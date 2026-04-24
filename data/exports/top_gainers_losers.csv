@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.03715762,42.27516,gainer,1,2026-04-24
-zcash,Zcash,zec,341.75,8.08577,gainer,2,2026-04-24
-memecore,MemeCore,m,4.78,5.5278,gainer,3,2026-04-24
-dexe,DeXe,dexe,12.58,4.77458,gainer,4,2026-04-24
-hash-2,Provenance Blockchain,hash,0.01062525,4.6024,gainer,5,2026-04-24
-algorand,Algorand,algo,0.106583,4.01956,gainer,6,2026-04-24
-pudgy-penguins,Pudgy Penguins,pengu,0.00854878,3.77351,gainer,7,2026-04-24
-cosmos,Cosmos Hub,atom,1.92,3.64528,gainer,8,2026-04-24
-monero,Monero,xmr,378.73,3.47915,gainer,9,2026-04-24
-ethena,Ethena,ena,0.110528,3.42421,gainer,10,2026-04-24
-just,JUST,jst,0.080222,-4.35125,loser,1,2026-04-24
-the-open-network,Toncoin,ton,1.32,-2.67885,loser,2,2026-04-24
-quant-network,Quant,qnt,71.27,-2.6439,loser,3,2026-04-24
-rain,Rain,rain,0.00747438,-2.59287,loser,4,2026-04-24
-canton-network,Canton,cc,0.149917,-2.52269,loser,5,2026-04-24
-polkadot,Polkadot,dot,1.24,-2.02141,loser,6,2026-04-24
-pump-fun,Pump.fun,pump,0.00178985,-1.82444,loser,7,2026-04-24
-morpho,Morpho,morpho,1.9,-1.76969,loser,8,2026-04-24
-ethereum,Ethereum,eth,2323.69,-1.66298,loser,9,2026-04-24
-stellar,Stellar,xlm,0.175228,-1.15016,loser,10,2026-04-24
+stable-2,​​Stable,stable,0.0333538,20.50433,gainer,1,2026-04-24
+zcash,Zcash,zec,341.99,7.82704,gainer,2,2026-04-24
+bitget-token,Bitget Token,bgb,2.01,4.68526,gainer,3,2026-04-24
+dexe,DeXe,dexe,12.9,3.82126,gainer,4,2026-04-24
+cosmos,Cosmos Hub,atom,1.93,3.66967,gainer,5,2026-04-24
+algorand,Algorand,algo,0.105287,3.45519,gainer,6,2026-04-24
+memecore,MemeCore,m,4.7,3.1241,gainer,7,2026-04-24
+jupiter-exchange-solana,Jupiter,jup,0.174132,2.21421,gainer,8,2026-04-24
+canton-network,Canton,cc,0.153809,2.14289,gainer,9,2026-04-24
+monero,Monero,xmr,380.25,2.09847,gainer,10,2026-04-24
+quant-network,Quant,qnt,71.5,-2.54842,loser,1,2026-04-24
+morpho,Morpho,morpho,1.87,-2.29086,loser,2,2026-04-24
+just,JUST,jst,0.082272,-2.10694,loser,3,2026-04-24
+polkadot,Polkadot,dot,1.23,-2.029,loser,4,2026-04-24
+rain,Rain,rain,0.00739274,-1.75196,loser,5,2026-04-24
+stellar,Stellar,xlm,0.174328,-1.63005,loser,6,2026-04-24
+ethereum,Ethereum,eth,2313.56,-1.62835,loser,7,2026-04-24
+the-open-network,Toncoin,ton,1.33,-1.27232,loser,8,2026-04-24
+pudgy-penguins,Pudgy Penguins,pengu,0.00857238,-1.10645,loser,9,2026-04-24
+hash-2,Provenance Blockchain,hash,0.01060415,-1.00934,loser,10,2026-04-24
