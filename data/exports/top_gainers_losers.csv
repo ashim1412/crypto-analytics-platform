@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.0332431,11.81916,gainer,1,2026-04-24
-zcash,Zcash,zec,354.43,9.12117,gainer,2,2026-04-24
-cosmos,Cosmos Hub,atom,1.96,4.91528,gainer,3,2026-04-24
-arbitrum,Arbitrum,arb,0.131228,4.84869,gainer,4,2026-04-24
-algorand,Algorand,algo,0.107316,4.84277,gainer,5,2026-04-24
-ethena,Ethena,ena,0.109396,3.29536,gainer,6,2026-04-24
-pudgy-penguins,Pudgy Penguins,pengu,0.00872391,3.25318,gainer,7,2026-04-24
-bitget-token,Bitget Token,bgb,1.99,3.15879,gainer,8,2026-04-24
-xdce-crowd-sale,XDC Network,xdc,0.03049002,2.83574,gainer,9,2026-04-24
-aave,Aave,aave,94.86,2.74331,gainer,10,2026-04-24
-dexe,DeXe,dexe,12.5,-9.98643,loser,1,2026-04-24
-hash-2,Provenance Blockchain,hash,0.01003612,-4.67631,loser,2,2026-04-24
-world-liberty-financial,World Liberty Financial,wlfi,0.075417,-2.39149,loser,3,2026-04-24
-just,JUST,jst,0.081196,-1.91997,loser,4,2026-04-24
-memecore,MemeCore,m,4.4,-1.73336,loser,5,2026-04-24
-morpho,Morpho,morpho,1.86,-1.70741,loser,6,2026-04-24
-quant-network,Quant,qnt,71.72,-1.16558,loser,7,2026-04-24
-stellar,Stellar,xlm,0.175585,-1.11275,loser,8,2026-04-24
-pax-gold,PAX Gold,paxg,4685.51,-0.81778,loser,9,2026-04-24
-tether-gold,Tether Gold,xaut,4682.02,-0.81127,loser,10,2026-04-24
+stable-2,​​Stable,stable,0.03516338,17.48277,gainer,1,2026-04-24
+zcash,Zcash,zec,363.13,10.62291,gainer,2,2026-04-24
+dexe,DeXe,dexe,13.48,7.46466,gainer,3,2026-04-24
+hash-2,Provenance Blockchain,hash,0.0110636,6.3314,gainer,4,2026-04-24
+cosmos,Cosmos Hub,atom,1.99,6.18188,gainer,5,2026-04-24
+official-trump,Official Trump,trump,3.0,6.01192,gainer,6,2026-04-24
+algorand,Algorand,algo,0.107333,4.89968,gainer,7,2026-04-24
+arbitrum,Arbitrum,arb,0.130601,4.15321,gainer,8,2026-04-24
+xdce-crowd-sale,XDC Network,xdc,0.03072182,3.82137,gainer,9,2026-04-24
+filecoin,Filecoin,fil,0.944224,3.17032,gainer,10,2026-04-24
+sky,Sky,sky,0.083149,-3.11798,loser,1,2026-04-24
+world-liberty-financial,World Liberty Financial,wlfi,0.074818,-3.0723,loser,2,2026-04-24
+just,JUST,jst,0.081347,-2.1945,loser,3,2026-04-24
+the-open-network,Toncoin,ton,1.33,-2.04409,loser,4,2026-04-24
+stellar,Stellar,xlm,0.173688,-1.78699,loser,5,2026-04-24
+tron,TRON,trx,0.324236,-1.49127,loser,6,2026-04-24
+quant-network,Quant,qnt,71.58,-1.20976,loser,7,2026-04-24
+morpho,Morpho,morpho,1.86,-1.09662,loser,8,2026-04-24
+memecore,MemeCore,m,4.25,-1.08674,loser,9,2026-04-24
+monero,Monero,xmr,368.23,-1.07382,loser,10,2026-04-24
