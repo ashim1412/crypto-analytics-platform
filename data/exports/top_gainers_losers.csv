@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.02996059,12.65636,gainer,1,2026-04-23
-sky,Sky,sky,0.085993,2.7882,gainer,2,2026-04-23
-just,JUST,jst,0.083536,2.71544,gainer,3,2026-04-23
-dexe,DeXe,dexe,12.55,2.02811,gainer,4,2026-04-23
-figure-heloc,Figure Heloc,figr_heloc,1.038,1.66988,gainer,5,2026-04-23
-zcash,Zcash,zec,330.74,1.52617,gainer,6,2026-04-23
-leo-token,LEO Token,leo,10.28,0.51865,gainer,7,2026-04-23
-beldex,Beldex,bdx,0.080083,0.27953,gainer,8,2026-04-23
-htx-dao,HTX DAO,htx,1.83e-06,0.2107,gainer,9,2026-04-23
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.20163,gainer,10,2026-04-23
-pump-fun,Pump.fun,pump,0.00178151,-6.3674,loser,1,2026-04-23
-polkadot,Polkadot,dot,1.22,-5.20236,loser,2,2026-04-23
-official-trump,Official Trump,trump,2.84,-4.85643,loser,3,2026-04-23
-arbitrum,Arbitrum,arb,0.125964,-4.84054,loser,4,2026-04-23
-worldcoin-wld,Worldcoin,wld,0.258827,-4.78223,loser,5,2026-04-23
-uniswap,Uniswap,uni,3.25,-4.68719,loser,6,2026-04-23
-bonk,Bonk,bonk,6.31e-06,-4.04648,loser,7,2026-04-23
-rain,Rain,rain,0.0074592,-4.03458,loser,8,2026-04-23
-jupiter-exchange-solana,Jupiter,jup,0.170577,-3.9864,loser,9,2026-04-23
-ethereum,Ethereum,eth,2310.03,-3.88309,loser,10,2026-04-23
+stable-2,​​Stable,stable,0.03715762,42.27516,gainer,1,2026-04-24
+zcash,Zcash,zec,341.75,8.08577,gainer,2,2026-04-24
+memecore,MemeCore,m,4.78,5.5278,gainer,3,2026-04-24
+dexe,DeXe,dexe,12.58,4.77458,gainer,4,2026-04-24
+hash-2,Provenance Blockchain,hash,0.01062525,4.6024,gainer,5,2026-04-24
+algorand,Algorand,algo,0.106583,4.01956,gainer,6,2026-04-24
+pudgy-penguins,Pudgy Penguins,pengu,0.00854878,3.77351,gainer,7,2026-04-24
+cosmos,Cosmos Hub,atom,1.92,3.64528,gainer,8,2026-04-24
+monero,Monero,xmr,378.73,3.47915,gainer,9,2026-04-24
+ethena,Ethena,ena,0.110528,3.42421,gainer,10,2026-04-24
+just,JUST,jst,0.080222,-4.35125,loser,1,2026-04-24
+the-open-network,Toncoin,ton,1.32,-2.67885,loser,2,2026-04-24
+quant-network,Quant,qnt,71.27,-2.6439,loser,3,2026-04-24
+rain,Rain,rain,0.00747438,-2.59287,loser,4,2026-04-24
+canton-network,Canton,cc,0.149917,-2.52269,loser,5,2026-04-24
+polkadot,Polkadot,dot,1.24,-2.02141,loser,6,2026-04-24
+pump-fun,Pump.fun,pump,0.00178985,-1.82444,loser,7,2026-04-24
+morpho,Morpho,morpho,1.9,-1.76969,loser,8,2026-04-24
+ethereum,Ethereum,eth,2323.69,-1.66298,loser,9,2026-04-24
+stellar,Stellar,xlm,0.175228,-1.15016,loser,10,2026-04-24
