@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.03516338,17.48277,gainer,1,2026-04-24
-zcash,Zcash,zec,363.13,10.62291,gainer,2,2026-04-24
-dexe,DeXe,dexe,13.48,7.46466,gainer,3,2026-04-24
-hash-2,Provenance Blockchain,hash,0.0110636,6.3314,gainer,4,2026-04-24
-cosmos,Cosmos Hub,atom,1.99,6.18188,gainer,5,2026-04-24
-official-trump,Official Trump,trump,3.0,6.01192,gainer,6,2026-04-24
-algorand,Algorand,algo,0.107333,4.89968,gainer,7,2026-04-24
-arbitrum,Arbitrum,arb,0.130601,4.15321,gainer,8,2026-04-24
-xdce-crowd-sale,XDC Network,xdc,0.03072182,3.82137,gainer,9,2026-04-24
-filecoin,Filecoin,fil,0.944224,3.17032,gainer,10,2026-04-24
-sky,Sky,sky,0.083149,-3.11798,loser,1,2026-04-24
-world-liberty-financial,World Liberty Financial,wlfi,0.074818,-3.0723,loser,2,2026-04-24
-just,JUST,jst,0.081347,-2.1945,loser,3,2026-04-24
-the-open-network,Toncoin,ton,1.33,-2.04409,loser,4,2026-04-24
-stellar,Stellar,xlm,0.173688,-1.78699,loser,5,2026-04-24
-tron,TRON,trx,0.324236,-1.49127,loser,6,2026-04-24
-quant-network,Quant,qnt,71.58,-1.20976,loser,7,2026-04-24
-morpho,Morpho,morpho,1.86,-1.09662,loser,8,2026-04-24
-memecore,MemeCore,m,4.25,-1.08674,loser,9,2026-04-24
-monero,Monero,xmr,368.23,-1.07382,loser,10,2026-04-24
+cosmos,Cosmos Hub,atom,2.02,5.04743,gainer,1,2026-04-25
+zcash,Zcash,zec,357.63,4.03603,gainer,2,2026-04-25
+aptos,Aptos,apt,0.989611,3.46662,gainer,3,2026-04-25
+algorand,Algorand,algo,0.109691,2.96309,gainer,4,2026-04-25
+canton-network,Canton,cc,0.154178,2.81473,gainer,5,2026-04-25
+dexe,DeXe,dexe,12.9,2.57596,gainer,6,2026-04-25
+midnight-3,Midnight,night,0.03741647,2.06409,gainer,7,2026-04-25
+bitget-token,Bitget Token,bgb,1.99,1.79867,gainer,8,2026-04-25
+dogecoin,Dogecoin,doge,0.098546,1.41233,gainer,9,2026-04-25
+filecoin,Filecoin,fil,0.943756,1.33626,gainer,10,2026-04-25
+stable-2,​​Stable,stable,0.03178796,-15.91047,loser,1,2026-04-25
+memecore,MemeCore,m,4.48,-6.84111,loser,2,2026-04-25
+hash-2,Provenance Blockchain,hash,0.01032555,-3.3827,loser,3,2026-04-25
+morpho,Morpho,morpho,1.84,-3.00736,loser,4,2026-04-25
+just,JUST,jst,0.077849,-2.92281,loser,5,2026-04-25
+monero,Monero,xmr,369.16,-2.53021,loser,6,2026-04-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092379,-2.33515,loser,7,2026-04-25
+pudgy-penguins,Pudgy Penguins,pengu,0.00836843,-2.23127,loser,8,2026-04-25
+world-liberty-financial,World Liberty Financial,wlfi,0.076074,-1.98021,loser,9,2026-04-25
+worldcoin-wld,Worldcoin,wld,0.260775,-1.96405,loser,10,2026-04-25
