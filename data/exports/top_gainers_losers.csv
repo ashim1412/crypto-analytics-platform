@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,13.56,5.97839,gainer,1,2026-04-25
-algorand,Algorand,algo,0.113606,5.07195,gainer,2,2026-04-25
-cosmos,Cosmos Hub,atom,2.04,4.0321,gainer,3,2026-04-25
-hash-2,Provenance Blockchain,hash,0.01050497,3.45914,gainer,4,2026-04-25
-hyperliquid,Hyperliquid,hype,41.53,1.34406,gainer,5,2026-04-25
-bittensor,Bittensor,tao,251.84,1.30788,gainer,6,2026-04-25
-the-open-network,Toncoin,ton,1.34,1.25655,gainer,7,2026-04-25
-mantle,Mantle,mnt,0.657754,1.15802,gainer,8,2026-04-25
-leo-token,LEO Token,leo,10.25,0.94373,gainer,9,2026-04-25
-aave,Aave,aave,95.71,0.94052,gainer,10,2026-04-25
-official-trump,Official Trump,trump,2.73,-5.63067,loser,1,2026-04-25
-stable-2,​​Stable,stable,0.03170287,-4.68736,loser,2,2026-04-25
-memecore,MemeCore,m,4.3,-3.70112,loser,3,2026-04-25
-midnight-3,Midnight,night,0.03631968,-3.6039,loser,4,2026-04-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.092557,-2.89869,loser,5,2026-04-25
-rain,Rain,rain,0.00755094,-2.7365,loser,6,2026-04-25
-bonk,Bonk,bonk,6.27e-06,-2.55134,loser,7,2026-04-25
-stellar,Stellar,xlm,0.172037,-2.21356,loser,8,2026-04-25
-pudgy-penguins,Pudgy Penguins,pengu,0.00857749,-1.89966,loser,9,2026-04-25
-xdce-crowd-sale,XDC Network,xdc,0.02984066,-1.88293,loser,10,2026-04-25
+siren-2,Siren,siren,0.740083,11.96808,gainer,1,2026-04-25
+algorand,Algorand,algo,0.115753,7.85447,gainer,2,2026-04-25
+memecore,MemeCore,m,4.36,2.76533,gainer,3,2026-04-25
+monero,Monero,xmr,377.78,2.54576,gainer,4,2026-04-25
+cosmos,Cosmos Hub,atom,2.02,1.94546,gainer,5,2026-04-25
+dexe,DeXe,dexe,13.61,1.4424,gainer,6,2026-04-25
+sky,Sky,sky,0.084279,1.31091,gainer,7,2026-04-25
+mantle,Mantle,mnt,0.654381,0.8805,gainer,8,2026-04-25
+crypto-com-chain,Cronos,cro,0.069896,0.79947,gainer,9,2026-04-25
+okb,OKB,okb,84.27,0.59156,gainer,10,2026-04-25
+official-trump,Official Trump,trump,2.58,-14.11067,loser,1,2026-04-25
+stable-2,​​Stable,stable,0.03350107,-5.44387,loser,2,2026-04-25
+hash-2,Provenance Blockchain,hash,0.01046764,-5.41727,loser,3,2026-04-25
+midnight-3,Midnight,night,0.03574979,-4.27787,loser,4,2026-04-25
+rain,Rain,rain,0.0072682,-4.13758,loser,5,2026-04-25
+aster-2,Aster,aster,0.641275,-4.02115,loser,6,2026-04-25
+xdce-crowd-sale,XDC Network,xdc,0.02985262,-2.84152,loser,7,2026-04-25
+zcash,Zcash,zec,353.43,-2.8023,loser,8,2026-04-25
+pump-fun,Pump.fun,pump,0.00173605,-2.52972,loser,9,2026-04-25
+bonk,Bonk,bonk,6.19e-06,-2.52106,loser,10,2026-04-25
