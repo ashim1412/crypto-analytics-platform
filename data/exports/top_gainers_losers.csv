@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cosmos,Cosmos Hub,atom,2.02,5.04743,gainer,1,2026-04-25
-zcash,Zcash,zec,357.63,4.03603,gainer,2,2026-04-25
-aptos,Aptos,apt,0.989611,3.46662,gainer,3,2026-04-25
-algorand,Algorand,algo,0.109691,2.96309,gainer,4,2026-04-25
-canton-network,Canton,cc,0.154178,2.81473,gainer,5,2026-04-25
-dexe,DeXe,dexe,12.9,2.57596,gainer,6,2026-04-25
-midnight-3,Midnight,night,0.03741647,2.06409,gainer,7,2026-04-25
-bitget-token,Bitget Token,bgb,1.99,1.79867,gainer,8,2026-04-25
-dogecoin,Dogecoin,doge,0.098546,1.41233,gainer,9,2026-04-25
-filecoin,Filecoin,fil,0.943756,1.33626,gainer,10,2026-04-25
-stable-2,​​Stable,stable,0.03178796,-15.91047,loser,1,2026-04-25
-memecore,MemeCore,m,4.48,-6.84111,loser,2,2026-04-25
-hash-2,Provenance Blockchain,hash,0.01032555,-3.3827,loser,3,2026-04-25
-morpho,Morpho,morpho,1.84,-3.00736,loser,4,2026-04-25
-just,JUST,jst,0.077849,-2.92281,loser,5,2026-04-25
-monero,Monero,xmr,369.16,-2.53021,loser,6,2026-04-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.092379,-2.33515,loser,7,2026-04-25
-pudgy-penguins,Pudgy Penguins,pengu,0.00836843,-2.23127,loser,8,2026-04-25
-world-liberty-financial,World Liberty Financial,wlfi,0.076074,-1.98021,loser,9,2026-04-25
-worldcoin-wld,Worldcoin,wld,0.260775,-1.96405,loser,10,2026-04-25
+algorand,Algorand,algo,0.114302,8.22473,gainer,1,2026-04-25
+cosmos,Cosmos Hub,atom,2.01,4.47445,gainer,2,2026-04-25
+aptos,Aptos,apt,0.985624,4.22673,gainer,3,2026-04-25
+zcash,Zcash,zec,356.63,3.35233,gainer,4,2026-04-25
+arbitrum,Arbitrum,arb,0.13202,3.08711,gainer,5,2026-04-25
+polkadot,Polkadot,dot,1.27,2.45147,gainer,6,2026-04-25
+official-trump,Official Trump,trump,2.93,2.2987,gainer,7,2026-04-25
+bittensor,Bittensor,tao,251.11,2.2405,gainer,8,2026-04-25
+dexe,DeXe,dexe,13.34,2.22364,gainer,9,2026-04-25
+rain,Rain,rain,0.00754749,2.09,gainer,10,2026-04-25
+memecore,MemeCore,m,4.3,-9.10887,loser,1,2026-04-25
+stable-2,​​Stable,stable,0.03193444,-6.21605,loser,2,2026-04-25
+monero,Monero,xmr,370.64,-2.35595,loser,3,2026-04-25
+just,JUST,jst,0.080988,-2.29089,loser,4,2026-04-25
+pump-fun,Pump.fun,pump,0.00176598,-1.86848,loser,5,2026-04-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092456,-1.71553,loser,6,2026-04-25
+kaspa,Kaspa,kas,0.03364155,-1.62428,loser,7,2026-04-25
+world-liberty-financial,World Liberty Financial,wlfi,0.075872,-1.61454,loser,8,2026-04-25
+hash-2,Provenance Blockchain,hash,0.01044973,-1.51491,loser,9,2026-04-25
+morpho,Morpho,morpho,1.85,-1.2054,loser,10,2026-04-25
