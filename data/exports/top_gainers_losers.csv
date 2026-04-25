@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.114302,8.22473,gainer,1,2026-04-25
-cosmos,Cosmos Hub,atom,2.01,4.47445,gainer,2,2026-04-25
-aptos,Aptos,apt,0.985624,4.22673,gainer,3,2026-04-25
-zcash,Zcash,zec,356.63,3.35233,gainer,4,2026-04-25
-arbitrum,Arbitrum,arb,0.13202,3.08711,gainer,5,2026-04-25
-polkadot,Polkadot,dot,1.27,2.45147,gainer,6,2026-04-25
-official-trump,Official Trump,trump,2.93,2.2987,gainer,7,2026-04-25
-bittensor,Bittensor,tao,251.11,2.2405,gainer,8,2026-04-25
-dexe,DeXe,dexe,13.34,2.22364,gainer,9,2026-04-25
-rain,Rain,rain,0.00754749,2.09,gainer,10,2026-04-25
-memecore,MemeCore,m,4.3,-9.10887,loser,1,2026-04-25
-stable-2,​​Stable,stable,0.03193444,-6.21605,loser,2,2026-04-25
-monero,Monero,xmr,370.64,-2.35595,loser,3,2026-04-25
-just,JUST,jst,0.080988,-2.29089,loser,4,2026-04-25
-pump-fun,Pump.fun,pump,0.00176598,-1.86848,loser,5,2026-04-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.092456,-1.71553,loser,6,2026-04-25
-kaspa,Kaspa,kas,0.03364155,-1.62428,loser,7,2026-04-25
-world-liberty-financial,World Liberty Financial,wlfi,0.075872,-1.61454,loser,8,2026-04-25
-hash-2,Provenance Blockchain,hash,0.01044973,-1.51491,loser,9,2026-04-25
-morpho,Morpho,morpho,1.85,-1.2054,loser,10,2026-04-25
+dexe,DeXe,dexe,13.56,5.97839,gainer,1,2026-04-25
+algorand,Algorand,algo,0.113606,5.07195,gainer,2,2026-04-25
+cosmos,Cosmos Hub,atom,2.04,4.0321,gainer,3,2026-04-25
+hash-2,Provenance Blockchain,hash,0.01050497,3.45914,gainer,4,2026-04-25
+hyperliquid,Hyperliquid,hype,41.53,1.34406,gainer,5,2026-04-25
+bittensor,Bittensor,tao,251.84,1.30788,gainer,6,2026-04-25
+the-open-network,Toncoin,ton,1.34,1.25655,gainer,7,2026-04-25
+mantle,Mantle,mnt,0.657754,1.15802,gainer,8,2026-04-25
+leo-token,LEO Token,leo,10.25,0.94373,gainer,9,2026-04-25
+aave,Aave,aave,95.71,0.94052,gainer,10,2026-04-25
+official-trump,Official Trump,trump,2.73,-5.63067,loser,1,2026-04-25
+stable-2,​​Stable,stable,0.03170287,-4.68736,loser,2,2026-04-25
+memecore,MemeCore,m,4.3,-3.70112,loser,3,2026-04-25
+midnight-3,Midnight,night,0.03631968,-3.6039,loser,4,2026-04-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092557,-2.89869,loser,5,2026-04-25
+rain,Rain,rain,0.00755094,-2.7365,loser,6,2026-04-25
+bonk,Bonk,bonk,6.27e-06,-2.55134,loser,7,2026-04-25
+stellar,Stellar,xlm,0.172037,-2.21356,loser,8,2026-04-25
+pudgy-penguins,Pudgy Penguins,pengu,0.00857749,-1.89966,loser,9,2026-04-25
+xdce-crowd-sale,XDC Network,xdc,0.02984066,-1.88293,loser,10,2026-04-25
