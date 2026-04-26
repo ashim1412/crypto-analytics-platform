@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sky,Sky,sky,0.088144,5.62725,gainer,1,2026-04-26
-pi-network,Pi Network,pi,0.177555,4.46844,gainer,2,2026-04-26
-jupiter-exchange-solana,Jupiter,jup,0.179589,3.77029,gainer,3,2026-04-26
-dexe,DeXe,dexe,13.85,3.68403,gainer,4,2026-04-26
-stable-2,​​Stable,stable,0.0330594,3.23508,gainer,5,2026-04-26
-algorand,Algorand,algo,0.117317,2.90295,gainer,6,2026-04-26
-monero,Monero,xmr,380.77,2.386,gainer,7,2026-04-26
-morpho,Morpho,morpho,1.88,1.45564,gainer,8,2026-04-26
-pudgy-penguins,Pudgy Penguins,pengu,0.00870376,1.23824,gainer,9,2026-04-26
-hedera-hashgraph,Hedera,hbar,0.092077,1.10591,gainer,10,2026-04-26
-rain,Rain,rain,0.00688665,-8.75958,loser,1,2026-04-26
-official-trump,Official Trump,trump,2.68,-8.32013,loser,2,2026-04-26
-midnight-3,Midnight,night,0.03571606,-2.73266,loser,3,2026-04-26
-hash-2,Provenance Blockchain,hash,0.01028713,-2.06891,loser,4,2026-04-26
-the-open-network,Toncoin,ton,1.32,-1.86194,loser,5,2026-04-26
-bittensor,Bittensor,tao,246.67,-1.75237,loser,6,2026-04-26
-canton-network,Canton,cc,0.150256,-1.70542,loser,7,2026-04-26
-stellar,Stellar,xlm,0.170013,-1.69105,loser,8,2026-04-26
-just,JUST,jst,0.080283,-1.23196,loser,9,2026-04-26
-bitget-token,Bitget Token,bgb,1.97,-1.20934,loser,10,2026-04-26
+sky,Sky,sky,0.088408,6.5247,gainer,1,2026-04-26
+official-trump,Official Trump,trump,2.7,6.31843,gainer,2,2026-04-26
+monero,Monero,xmr,389.71,5.56118,gainer,3,2026-04-26
+pi-network,Pi Network,pi,0.17866,4.82976,gainer,4,2026-04-26
+stable-2,​​Stable,stable,0.0335808,4.58801,gainer,5,2026-04-26
+algorand,Algorand,algo,0.118899,4.50499,gainer,6,2026-04-26
+jupiter-exchange-solana,Jupiter,jup,0.179198,3.73908,gainer,7,2026-04-26
+ondo-finance,Ondo,ondo,0.270499,3.60459,gainer,8,2026-04-26
+pudgy-penguins,Pudgy Penguins,pengu,0.00886446,3.34265,gainer,9,2026-04-26
+morpho,Morpho,morpho,1.9,2.6919,gainer,10,2026-04-26
+rain,Rain,rain,0.00739367,-2.08204,loser,1,2026-04-26
+midnight-3,Midnight,night,0.03552694,-2.03554,loser,2,2026-04-26
+bittensor,Bittensor,tao,246.49,-1.95276,loser,3,2026-04-26
+the-open-network,Toncoin,ton,1.32,-1.76397,loser,4,2026-04-26
+zcash,Zcash,zec,350.82,-1.26876,loser,5,2026-04-26
+quant-network,Quant,qnt,70.43,-1.06056,loser,6,2026-04-26
+just,JUST,jst,0.079728,-0.94633,loser,7,2026-04-26
+hyperliquid,Hyperliquid,hype,41.11,-0.92085,loser,8,2026-04-26
+cosmos,Cosmos Hub,atom,2.03,-0.83042,loser,9,2026-04-26
+aster-2,Aster,aster,0.658817,-0.76339,loser,10,2026-04-26
