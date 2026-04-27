@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pudgy-penguins,Pudgy Penguins,pengu,0.00981251,10.54798,gainer,1,2026-04-27
-jupiter-exchange-solana,Jupiter,jup,0.194162,8.56526,gainer,2,2026-04-27
-stable-2,​​Stable,stable,0.03579347,6.97367,gainer,3,2026-04-27
-dexe,DeXe,dexe,14.76,5.92318,gainer,4,2026-04-27
-just,JUST,jst,0.081922,3.53934,gainer,5,2026-04-27
-hyperliquid,Hyperliquid,hype,42.3,3.1012,gainer,6,2026-04-27
-hash-2,Provenance Blockchain,hash,0.01060378,2.5941,gainer,7,2026-04-27
-morpho,Morpho,morpho,1.94,2.15352,gainer,8,2026-04-27
-pi-network,Pi Network,pi,0.182141,1.83545,gainer,9,2026-04-27
-bittensor,Bittensor,tao,250.51,1.74244,gainer,10,2026-04-27
-memecore,MemeCore,m,3.99,-8.56617,loser,1,2026-04-27
-official-trump,Official Trump,trump,2.54,-4.30387,loser,2,2026-04-27
-arbitrum,Arbitrum,arb,0.12566,-3.50522,loser,3,2026-04-27
-ethena,Ethena,ena,0.105266,-3.29342,loser,4,2026-04-27
-stellar,Stellar,xlm,0.167494,-2.79746,loser,5,2026-04-27
-ondo-finance,Ondo,ondo,0.262113,-2.71797,loser,6,2026-04-27
-filecoin,Filecoin,fil,0.924166,-2.38471,loser,7,2026-04-27
-midnight-3,Midnight,night,0.03476443,-2.27904,loser,8,2026-04-27
-aptos,Aptos,apt,0.958284,-2.25456,loser,9,2026-04-27
-algorand,Algorand,algo,0.11594,-2.16552,loser,10,2026-04-27
+pudgy-penguins,Pudgy Penguins,pengu,0.00991111,12.08365,gainer,1,2026-04-27
+jupiter-exchange-solana,Jupiter,jup,0.193158,7.09216,gainer,2,2026-04-27
+stable-2,​​Stable,stable,0.03599657,5.8699,gainer,3,2026-04-27
+dexe,DeXe,dexe,14.34,2.89334,gainer,4,2026-04-27
+just,JUST,jst,0.081685,1.68302,gainer,5,2026-04-27
+figure-heloc,Figure Heloc,figr_heloc,1.033,1.51122,gainer,6,2026-04-27
+htx-dao,HTX DAO,htx,1.83e-06,0.72895,gainer,7,2026-04-27
+leo-token,LEO Token,leo,10.34,0.51467,gainer,8,2026-04-27
+tron,TRON,trx,0.32572,0.47506,gainer,9,2026-04-27
+algorand,Algorand,algo,0.118421,0.3659,gainer,10,2026-04-27
+memecore,MemeCore,m,3.93,-9.51016,loser,1,2026-04-27
+official-trump,Official Trump,trump,2.51,-5.34099,loser,2,2026-04-27
+arbitrum,Arbitrum,arb,0.125171,-4.13268,loser,3,2026-04-27
+monero,Monero,xmr,380.05,-3.97857,loser,4,2026-04-27
+aptos,Aptos,apt,0.953181,-3.74593,loser,5,2026-04-27
+polkadot,Polkadot,dot,1.22,-3.71574,loser,6,2026-04-27
+worldcoin-wld,Worldcoin,wld,0.250019,-3.68407,loser,7,2026-04-27
+filecoin,Filecoin,fil,0.911957,-3.53761,loser,8,2026-04-27
+stellar,Stellar,xlm,0.165098,-3.38773,loser,9,2026-04-27
+hedera-hashgraph,Hedera,hbar,0.089869,-3.25796,loser,10,2026-04-27
