@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pudgy-penguins,Pudgy Penguins,pengu,0.00925457,8.23319,gainer,1,2026-04-27
-jupiter-exchange-solana,Jupiter,jup,0.185386,7.0758,gainer,2,2026-04-27
-hash-2,Provenance Blockchain,hash,0.01075381,7.06694,gainer,3,2026-04-27
-rain,Rain,rain,0.00751598,6.60649,gainer,4,2026-04-27
-monero,Monero,xmr,392.93,5.17508,gainer,5,2026-04-27
-morpho,Morpho,morpho,1.96,4.91355,gainer,6,2026-04-27
-algorand,Algorand,algo,0.120823,4.83481,gainer,7,2026-04-27
-ondo-finance,Ondo,ondo,0.270582,4.41543,gainer,8,2026-04-27
-aave,Aave,aave,97.42,4.12503,gainer,9,2026-04-27
-pi-network,Pi Network,pi,0.179743,3.88511,gainer,10,2026-04-27
-just,JUST,jst,0.07976,-0.67239,loser,1,2026-04-27
-canton-network,Canton,cc,0.150414,-0.52828,loser,2,2026-04-27
-cosmos,Cosmos Hub,atom,2.01,-0.50254,loser,3,2026-04-27
-htx-dao,HTX DAO,htx,1.81e-06,-0.30156,loser,4,2026-04-27
-tron,TRON,trx,0.323566,-0.19086,loser,5,2026-04-27
-beldex,Beldex,bdx,0.080022,-0.16066,loser,6,2026-04-27
-xdce-crowd-sale,XDC Network,xdc,0.03004622,-0.12121,loser,7,2026-04-27
-pax-gold,PAX Gold,paxg,4686.81,-0.10001,loser,8,2026-04-27
-tether-gold,Tether Gold,xaut,4685.19,-0.09258,loser,9,2026-04-27
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.08445,loser,10,2026-04-27
+pudgy-penguins,Pudgy Penguins,pengu,0.00958785,9.22695,gainer,1,2026-04-27
+stable-2,​​Stable,stable,0.03494134,4.81405,gainer,2,2026-04-27
+rain,Rain,rain,0.00744853,4.51189,gainer,3,2026-04-27
+jupiter-exchange-solana,Jupiter,jup,0.18641,3.46781,gainer,4,2026-04-27
+hash-2,Provenance Blockchain,hash,0.01060784,3.1373,gainer,5,2026-04-27
+hyperliquid,Hyperliquid,hype,42.4,2.7568,gainer,6,2026-04-27
+dexe,DeXe,dexe,14.2,2.34996,gainer,7,2026-04-27
+just,JUST,jst,0.081346,1.7544,gainer,8,2026-04-27
+monero,Monero,xmr,388.33,1.26953,gainer,9,2026-04-27
+aave,Aave,aave,95.9,1.24747,gainer,10,2026-04-27
+arbitrum,Arbitrum,arb,0.125936,-4.21111,loser,1,2026-04-27
+official-trump,Official Trump,trump,2.55,-3.95536,loser,2,2026-04-27
+sky,Sky,sky,0.084756,-3.75002,loser,3,2026-04-27
+cosmos,Cosmos Hub,atom,1.95,-3.42094,loser,4,2026-04-27
+filecoin,Filecoin,fil,0.923377,-3.07857,loser,5,2026-04-27
+memecore,MemeCore,m,4.2,-3.0531,loser,6,2026-04-27
+worldcoin-wld,Worldcoin,wld,0.253283,-2.95739,loser,7,2026-04-27
+world-liberty-financial,World Liberty Financial,wlfi,0.073017,-2.80744,loser,8,2026-04-27
+ethena,Ethena,ena,0.106508,-2.70183,loser,9,2026-04-27
+aptos,Aptos,apt,0.953941,-2.68271,loser,10,2026-04-27
