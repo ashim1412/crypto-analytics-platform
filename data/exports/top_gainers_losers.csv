@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
 blockchain-capital,Blockchain Capital,bcap,105.75,27.77912,gainer,1,2026-04-28
-hash-2,Provenance Blockchain,hash,0.01244301,17.24578,gainer,2,2026-04-28
-pi-network,Pi Network,pi,0.188616,6.28322,gainer,3,2026-04-28
-pudgy-penguins,Pudgy Penguins,pengu,0.01009037,5.69646,gainer,4,2026-04-28
-sky,Sky,sky,0.088929,4.92446,gainer,5,2026-04-28
-dexe,DeXe,dexe,14.65,3.1298,gainer,6,2026-04-28
-stable-2,​​Stable,stable,0.03606111,3.06996,gainer,7,2026-04-28
-jupiter-exchange-solana,Jupiter,jup,0.191155,2.6234,gainer,8,2026-04-28
-xdce-crowd-sale,XDC Network,xdc,0.0306054,1.99893,gainer,9,2026-04-28
-aave,Aave,aave,97.68,1.83712,gainer,10,2026-04-28
-memecore,MemeCore,m,3.53,-15.96075,loser,1,2026-04-28
-zcash,Zcash,zec,337.41,-5.54488,loser,2,2026-04-28
-midnight-3,Midnight,night,0.03386983,-5.38304,loser,3,2026-04-28
-hyperliquid,Hyperliquid,hype,40.54,-4.50387,loser,4,2026-04-28
-official-trump,Official Trump,trump,2.48,-2.91837,loser,5,2026-04-28
-monero,Monero,xmr,379.0,-2.41272,loser,6,2026-04-28
-render-token,Render,render,1.76,-2.04923,loser,7,2026-04-28
-stellar,Stellar,xlm,0.164646,-1.84573,loser,8,2026-04-28
-flare-networks,Flare,flr,0.00767795,-1.83499,loser,9,2026-04-28
-nexo,NEXO,nexo,0.885802,-1.83485,loser,10,2026-04-28
+hash-2,Provenance Blockchain,hash,0.01244972,17.56127,gainer,2,2026-04-28
+pi-network,Pi Network,pi,0.19411,6.25059,gainer,3,2026-04-28
+just,JUST,jst,0.083788,2.54765,gainer,4,2026-04-28
+figure-heloc,Figure Heloc,figr_heloc,1.03,1.2161,gainer,5,2026-04-28
+leo-token,LEO Token,leo,10.37,0.79426,gainer,6,2026-04-28
+sky,Sky,sky,0.087745,0.51069,gainer,7,2026-04-28
+pudgy-penguins,Pudgy Penguins,pengu,0.00983517,0.44628,gainer,8,2026-04-28
+dogecoin,Dogecoin,doge,0.098551,0.43439,gainer,9,2026-04-28
+canton-network,Canton,cc,0.149501,0.3675,gainer,10,2026-04-28
+memecore,MemeCore,m,3.7,-7.05074,loser,1,2026-04-28
+zcash,Zcash,zec,332.39,-6.7692,loser,2,2026-04-28
+hyperliquid,Hyperliquid,hype,39.9,-5.76504,loser,3,2026-04-28
+midnight-3,Midnight,night,0.03358678,-3.73542,loser,4,2026-04-28
+official-trump,Official Trump,trump,2.45,-3.61783,loser,5,2026-04-28
+stellar,Stellar,xlm,0.161837,-3.41591,loser,6,2026-04-28
+monero,Monero,xmr,378.47,-3.31862,loser,7,2026-04-28
+algorand,Algorand,algo,0.112548,-3.03555,loser,8,2026-04-28
+flare-networks,Flare,flr,0.00757299,-2.93446,loser,9,2026-04-28
+render-token,Render,render,1.75,-2.79727,loser,10,2026-04-28
