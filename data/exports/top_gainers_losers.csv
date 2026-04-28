@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
 blockchain-capital,Blockchain Capital,bcap,105.75,27.77912,gainer,1,2026-04-28
-hash-2,Provenance Blockchain,hash,0.01246479,15.62929,gainer,2,2026-04-28
-pudgy-penguins,Pudgy Penguins,pengu,0.01018685,7.29571,gainer,3,2026-04-28
-stable-2,​​Stable,stable,0.03555552,5.50235,gainer,4,2026-04-28
-pi-network,Pi Network,pi,0.188538,4.5304,gainer,5,2026-04-28
-jupiter-exchange-solana,Jupiter,jup,0.194039,4.33785,gainer,6,2026-04-28
-just,JUST,jst,0.082089,2.58367,gainer,7,2026-04-28
-figure-heloc,Figure Heloc,figr_heloc,1.031,1.23637,gainer,8,2026-04-28
-sky,Sky,sky,0.08906,1.09537,gainer,9,2026-04-28
-htx-dao,HTX DAO,htx,1.83e-06,0.95862,gainer,10,2026-04-28
-memecore,MemeCore,m,3.75,-13.05433,loser,1,2026-04-28
-rain,Rain,rain,0.00723634,-5.03117,loser,2,2026-04-28
-stellar,Stellar,xlm,0.165375,-3.93329,loser,3,2026-04-28
-ethereum,Ethereum,eth,2300.01,-3.88637,loser,4,2026-04-28
-render-token,Render,render,1.78,-3.82954,loser,5,2026-04-28
-ethena,Ethena,ena,0.107086,-3.81625,loser,6,2026-04-28
-solana,Solana,sol,84.48,-3.76824,loser,7,2026-04-28
-official-trump,Official Trump,trump,2.52,-3.61624,loser,8,2026-04-28
-arbitrum,Arbitrum,arb,0.126387,-3.5239,loser,9,2026-04-28
-filecoin,Filecoin,fil,0.920445,-3.50131,loser,10,2026-04-28
+hash-2,Provenance Blockchain,hash,0.01244301,17.24578,gainer,2,2026-04-28
+pi-network,Pi Network,pi,0.188616,6.28322,gainer,3,2026-04-28
+pudgy-penguins,Pudgy Penguins,pengu,0.01009037,5.69646,gainer,4,2026-04-28
+sky,Sky,sky,0.088929,4.92446,gainer,5,2026-04-28
+dexe,DeXe,dexe,14.65,3.1298,gainer,6,2026-04-28
+stable-2,​​Stable,stable,0.03606111,3.06996,gainer,7,2026-04-28
+jupiter-exchange-solana,Jupiter,jup,0.191155,2.6234,gainer,8,2026-04-28
+xdce-crowd-sale,XDC Network,xdc,0.0306054,1.99893,gainer,9,2026-04-28
+aave,Aave,aave,97.68,1.83712,gainer,10,2026-04-28
+memecore,MemeCore,m,3.53,-15.96075,loser,1,2026-04-28
+zcash,Zcash,zec,337.41,-5.54488,loser,2,2026-04-28
+midnight-3,Midnight,night,0.03386983,-5.38304,loser,3,2026-04-28
+hyperliquid,Hyperliquid,hype,40.54,-4.50387,loser,4,2026-04-28
+official-trump,Official Trump,trump,2.48,-2.91837,loser,5,2026-04-28
+monero,Monero,xmr,379.0,-2.41272,loser,6,2026-04-28
+render-token,Render,render,1.76,-2.04923,loser,7,2026-04-28
+stellar,Stellar,xlm,0.164646,-1.84573,loser,8,2026-04-28
+flare-networks,Flare,flr,0.00767795,-1.83499,loser,9,2026-04-28
+nexo,NEXO,nexo,0.885802,-1.83485,loser,10,2026-04-28
