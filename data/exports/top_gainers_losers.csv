@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00187596,6.01395,gainer,1,2026-04-29
-pi-network,Pi Network,pi,0.199287,5.63842,gainer,2,2026-04-29
-bittensor,Bittensor,tao,257.55,3.87407,gainer,3,2026-04-29
-just,JUST,jst,0.084804,3.28958,gainer,4,2026-04-29
-rain,Rain,rain,0.00745235,2.94941,gainer,5,2026-04-29
-stable-2,​​Stable,stable,0.03636836,2.62433,gainer,6,2026-04-29
-aster-2,Aster,aster,0.65941,2.41488,gainer,7,2026-04-29
-morpho,Morpho,morpho,1.98,1.85318,gainer,8,2026-04-29
-xdce-crowd-sale,XDC Network,xdc,0.02976039,0.98423,gainer,9,2026-04-29
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.093048,0.97877,gainer,10,2026-04-29
-dexe,DeXe,dexe,12.65,-10.78385,loser,1,2026-04-29
-memecore,MemeCore,m,3.46,-7.95089,loser,2,2026-04-29
-zcash,Zcash,zec,336.66,-4.67644,loser,3,2026-04-29
-algorand,Algorand,algo,0.112299,-3.73795,loser,4,2026-04-29
-hyperliquid,Hyperliquid,hype,40.09,-3.4213,loser,5,2026-04-29
-sky,Sky,sky,0.086047,-3.15862,loser,6,2026-04-29
-jupiter-exchange-solana,Jupiter,jup,0.189333,-2.3611,loser,7,2026-04-29
-pax-gold,PAX Gold,paxg,4580.26,-2.08048,loser,8,2026-04-29
-pudgy-penguins,Pudgy Penguins,pengu,0.00996036,-2.0593,loser,9,2026-04-29
-tether-gold,Tether Gold,xaut,4582.26,-2.05103,loser,10,2026-04-29
+pump-fun,Pump.fun,pump,0.00190506,7.80257,gainer,1,2026-04-29
+dogecoin,Dogecoin,doge,0.104578,5.05229,gainer,2,2026-04-29
+bittensor,Bittensor,tao,260.96,4.78429,gainer,3,2026-04-29
+aptos,Aptos,apt,1.003,4.4504,gainer,4,2026-04-29
+pi-network,Pi Network,pi,0.196962,4.43527,gainer,5,2026-04-29
+morpho,Morpho,morpho,2.0,4.03334,gainer,6,2026-04-29
+aster-2,Aster,aster,0.656852,3.32527,gainer,7,2026-04-29
+ethena,Ethena,ena,0.108313,2.80015,gainer,8,2026-04-29
+bonk,Bonk,bonk,6.32e-06,2.45793,gainer,9,2026-04-29
+pepe,Pepe,pepe,3.94e-06,2.24983,gainer,10,2026-04-29
+dexe,DeXe,dexe,12.6,-13.88951,loser,1,2026-04-29
+sky,Sky,sky,0.086344,-2.92329,loser,2,2026-04-29
+stable-2,​​Stable,stable,0.03507168,-2.88131,loser,3,2026-04-29
+xdce-crowd-sale,XDC Network,xdc,0.02986916,-2.46265,loser,4,2026-04-29
+memecore,MemeCore,m,3.49,-1.46044,loser,5,2026-04-29
+pax-gold,PAX Gold,paxg,4564.72,-1.24284,loser,6,2026-04-29
+jupiter-exchange-solana,Jupiter,jup,0.1888,-1.21977,loser,7,2026-04-29
+tether-gold,Tether Gold,xaut,4568.71,-1.19401,loser,8,2026-04-29
+algorand,Algorand,algo,0.113208,-1.17642,loser,9,2026-04-29
+pudgy-penguins,Pudgy Penguins,pengu,0.01001241,-1.1226,loser,10,2026-04-29
