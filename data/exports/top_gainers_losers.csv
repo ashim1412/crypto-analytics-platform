@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dogecoin,Dogecoin,doge,0.107188,8.82011,gainer,1,2026-04-29
-rain,Rain,rain,0.00795227,7.58062,gainer,2,2026-04-29
-aster-2,Aster,aster,0.675419,6.41901,gainer,3,2026-04-29
-morpho,Morpho,morpho,2.02,5.53254,gainer,4,2026-04-29
-filecoin,Filecoin,fil,0.954226,4.93048,gainer,5,2026-04-29
-shiba-inu,Shiba Inu,shib,6.3e-06,3.71742,gainer,6,2026-04-29
-bonk,Bonk,bonk,6.34e-06,3.6435,gainer,7,2026-04-29
-pump-fun,Pump.fun,pump,0.00181093,3.636,gainer,8,2026-04-29
-litecoin,Litecoin,ltc,56.89,3.60768,gainer,9,2026-04-29
-the-open-network,Toncoin,ton,1.33,3.35369,gainer,10,2026-04-29
-dexe,DeXe,dexe,12.12,-15.91406,loser,1,2026-04-29
-stable-2,​​Stable,stable,0.03342277,-6.42211,loser,2,2026-04-29
-memecore,MemeCore,m,3.53,-5.07222,loser,3,2026-04-29
-sky,Sky,sky,0.08511,-3.00879,loser,4,2026-04-29
-pi-network,Pi Network,pi,0.189729,-2.39789,loser,5,2026-04-29
-jupiter-exchange-solana,Jupiter,jup,0.188647,-1.88744,loser,6,2026-04-29
-world-liberty-financial,World Liberty Financial,wlfi,0.071798,-1.75417,loser,7,2026-04-29
-official-trump,Official Trump,trump,2.43,-0.9298,loser,8,2026-04-29
-pax-gold,PAX Gold,paxg,4543.16,-0.64481,loser,9,2026-04-29
-tether-gold,Tether Gold,xaut,4548.34,-0.56236,loser,10,2026-04-29
+rain,Rain,rain,0.00775537,3.3786,gainer,1,2026-04-29
+dogecoin,Dogecoin,doge,0.101931,2.49658,gainer,2,2026-04-29
+just,JUST,jst,0.08565,1.95743,gainer,3,2026-04-29
+canton-network,Canton,cc,0.151929,1.49881,gainer,4,2026-04-29
+aster-2,Aster,aster,0.654154,0.90214,gainer,5,2026-04-29
+pi-network,Pi Network,pi,0.18931,0.8854,gainer,6,2026-04-29
+the-open-network,Toncoin,ton,1.3,0.65417,gainer,7,2026-04-29
+bitget-token,Bitget Token,bgb,1.96,0.52665,gainer,8,2026-04-29
+memecore,MemeCore,m,3.44,0.44479,gainer,9,2026-04-29
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.42614,gainer,10,2026-04-29
+hash-2,Provenance Blockchain,hash,0.01089752,-15.85469,loser,1,2026-04-29
+world-liberty-financial,World Liberty Financial,wlfi,0.063739,-13.54463,loser,2,2026-04-29
+stable-2,​​Stable,stable,0.03280756,-10.41588,loser,3,2026-04-29
+dexe,DeXe,dexe,12.2,-9.10629,loser,4,2026-04-29
+jupiter-exchange-solana,Jupiter,jup,0.177047,-6.3492,loser,5,2026-04-29
+sky,Sky,sky,0.082101,-5.9357,loser,6,2026-04-29
+official-trump,Official Trump,trump,2.35,-5.14204,loser,7,2026-04-29
+pudgy-penguins,Pudgy Penguins,pengu,0.00972018,-4.81476,loser,8,2026-04-29
+pump-fun,Pump.fun,pump,0.0017131,-4.16165,loser,9,2026-04-29
+ethena,Ethena,ena,0.102111,-4.07978,loser,10,2026-04-29
