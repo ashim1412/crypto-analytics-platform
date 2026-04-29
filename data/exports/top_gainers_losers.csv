@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-blockchain-capital,Blockchain Capital,bcap,105.75,27.77912,gainer,1,2026-04-28
-hash-2,Provenance Blockchain,hash,0.01295081,26.58269,gainer,2,2026-04-28
-bittensor,Bittensor,tao,258.45,4.46465,gainer,3,2026-04-28
-pudgy-penguins,Pudgy Penguins,pengu,0.01018943,3.76705,gainer,4,2026-04-28
-pi-network,Pi Network,pi,0.18773,3.31057,gainer,5,2026-04-28
-pump-fun,Pump.fun,pump,0.00178718,3.1113,gainer,6,2026-04-28
-just,JUST,jst,0.083395,2.50459,gainer,7,2026-04-28
-bonk,Bonk,bonk,6.26e-06,1.76788,gainer,8,2026-04-28
-rain,Rain,rain,0.00750328,1.71546,gainer,9,2026-04-28
-stable-2,​​Stable,stable,0.03670084,1.67737,gainer,10,2026-04-28
-memecore,MemeCore,m,3.4,-13.47712,loser,1,2026-04-28
-dexe,DeXe,dexe,13.34,-6.83484,loser,2,2026-04-28
-algorand,Algorand,algo,0.111304,-6.03796,loser,3,2026-04-28
-zcash,Zcash,zec,334.76,-6.0295,loser,4,2026-04-28
-hyperliquid,Hyperliquid,hype,39.94,-3.8465,loser,5,2026-04-28
-flare-networks,Flare,flr,0.00756878,-1.84071,loser,6,2026-04-28
-cosmos,Cosmos Hub,atom,1.94,-1.83296,loser,7,2026-04-28
-stellar,Stellar,xlm,0.162044,-1.80005,loser,8,2026-04-28
-pax-gold,PAX Gold,paxg,4590.8,-1.72607,loser,9,2026-04-28
-tether-gold,Tether Gold,xaut,4592.1,-1.67793,loser,10,2026-04-28
+pump-fun,Pump.fun,pump,0.00187596,6.01395,gainer,1,2026-04-29
+pi-network,Pi Network,pi,0.199287,5.63842,gainer,2,2026-04-29
+bittensor,Bittensor,tao,257.55,3.87407,gainer,3,2026-04-29
+just,JUST,jst,0.084804,3.28958,gainer,4,2026-04-29
+rain,Rain,rain,0.00745235,2.94941,gainer,5,2026-04-29
+stable-2,​​Stable,stable,0.03636836,2.62433,gainer,6,2026-04-29
+aster-2,Aster,aster,0.65941,2.41488,gainer,7,2026-04-29
+morpho,Morpho,morpho,1.98,1.85318,gainer,8,2026-04-29
+xdce-crowd-sale,XDC Network,xdc,0.02976039,0.98423,gainer,9,2026-04-29
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.093048,0.97877,gainer,10,2026-04-29
+dexe,DeXe,dexe,12.65,-10.78385,loser,1,2026-04-29
+memecore,MemeCore,m,3.46,-7.95089,loser,2,2026-04-29
+zcash,Zcash,zec,336.66,-4.67644,loser,3,2026-04-29
+algorand,Algorand,algo,0.112299,-3.73795,loser,4,2026-04-29
+hyperliquid,Hyperliquid,hype,40.09,-3.4213,loser,5,2026-04-29
+sky,Sky,sky,0.086047,-3.15862,loser,6,2026-04-29
+jupiter-exchange-solana,Jupiter,jup,0.189333,-2.3611,loser,7,2026-04-29
+pax-gold,PAX Gold,paxg,4580.26,-2.08048,loser,8,2026-04-29
+pudgy-penguins,Pudgy Penguins,pengu,0.00996036,-2.0593,loser,9,2026-04-29
+tether-gold,Tether Gold,xaut,4582.26,-2.05103,loser,10,2026-04-29
