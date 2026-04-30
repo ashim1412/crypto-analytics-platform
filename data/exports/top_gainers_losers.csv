@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dogecoin,Dogecoin,doge,0.107469,7.5836,gainer,1,2026-04-30
-rain,Rain,rain,0.00787617,5.69333,gainer,2,2026-04-30
-aptos,Aptos,apt,1.013,4.80854,gainer,3,2026-04-30
-arbitrum,Arbitrum,arb,0.12827,3.41139,gainer,4,2026-04-30
-just,JUST,jst,0.086822,2.39959,gainer,5,2026-04-30
-shiba-inu,Shiba Inu,shib,6.28e-06,2.28771,gainer,6,2026-04-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095129,2.26758,gainer,7,2026-04-30
-canton-network,Canton,cc,0.152212,1.99252,gainer,8,2026-04-30
-the-open-network,Toncoin,ton,1.33,1.61052,gainer,9,2026-04-30
-bitget-token,Bitget Token,bgb,1.98,1.21735,gainer,10,2026-04-30
-hash-2,Provenance Blockchain,hash,0.01064215,-13.61115,loser,1,2026-04-30
-world-liberty-financial,World Liberty Financial,wlfi,0.0635,-13.40289,loser,2,2026-04-30
-stable-2,​​Stable,stable,0.03327199,-8.65478,loser,3,2026-04-30
-midnight-3,Midnight,night,0.03244212,-5.00563,loser,4,2026-04-30
-sky,Sky,sky,0.081982,-4.80587,loser,5,2026-04-30
-pi-network,Pi Network,pi,0.189867,-4.7526,loser,6,2026-04-30
-dexe,DeXe,dexe,12.05,-4.47257,loser,7,2026-04-30
-pump-fun,Pump.fun,pump,0.00180242,-3.98403,loser,8,2026-04-30
-aave,Aave,aave,93.19,-3.68821,loser,9,2026-04-30
-official-trump,Official Trump,trump,2.4,-3.5453,loser,10,2026-04-30
+whitebit,WhiteBIT Coin,wbt,58.3,6.68701,gainer,1,2026-04-30
+rain,Rain,rain,0.00790997,5.85564,gainer,2,2026-04-30
+just,JUST,jst,0.086276,3.81072,gainer,3,2026-04-30
+dogecoin,Dogecoin,doge,0.106897,2.21956,gainer,4,2026-04-30
+canton-network,Canton,cc,0.152186,1.28754,gainer,5,2026-04-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.0939,1.17611,gainer,6,2026-04-30
+tron,TRON,trx,0.324371,0.70728,gainer,7,2026-04-30
+xdce-crowd-sale,XDC Network,xdc,0.03005278,0.61433,gainer,8,2026-04-30
+htx-dao,HTX DAO,htx,1.83e-06,0.59355,gainer,9,2026-04-30
+tether-gold,Tether Gold,xaut,4592.69,0.54122,gainer,10,2026-04-30
+world-liberty-financial,World Liberty Financial,wlfi,0.062867,-14.36065,loser,1,2026-04-30
+hash-2,Provenance Blockchain,hash,0.0107629,-13.05276,loser,2,2026-04-30
+pi-network,Pi Network,pi,0.176754,-10.26014,loser,3,2026-04-30
+sky,Sky,sky,0.079268,-8.0859,loser,4,2026-04-30
+stable-2,​​Stable,stable,0.03237951,-7.66202,loser,5,2026-04-30
+pump-fun,Pump.fun,pump,0.00176075,-7.5752,loser,6,2026-04-30
+dexe,DeXe,dexe,11.73,-6.58466,loser,7,2026-04-30
+aave,Aave,aave,92.7,-4.74506,loser,8,2026-04-30
+render-token,Render,render,1.7,-4.32837,loser,9,2026-04-30
+ethena,Ethena,ena,0.103769,-4.17698,loser,10,2026-04-30
