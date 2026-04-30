@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-whitebit,WhiteBIT Coin,wbt,57.22,4.79924,gainer,1,2026-04-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.09575,4.22431,gainer,2,2026-04-30
-just,JUST,jst,0.086826,2.21186,gainer,3,2026-04-30
-pax-gold,PAX Gold,paxg,4629.4,1.91076,gainer,4,2026-04-30
-tether-gold,Tether Gold,xaut,4629.07,1.77351,gainer,5,2026-04-30
-aptos,Aptos,apt,1.005,1.46366,gainer,6,2026-04-30
-bitget-token,Bitget Token,bgb,2.01,1.21213,gainer,7,2026-04-30
-htx-dao,HTX DAO,htx,1.83e-06,0.91106,gainer,8,2026-04-30
-tron,TRON,trx,0.325554,0.6822,gainer,9,2026-04-30
-zcash,Zcash,zec,333.83,0.57423,gainer,10,2026-04-30
-world-liberty-financial,World Liberty Financial,wlfi,0.059924,-16.55108,loser,1,2026-04-30
-hash-2,Provenance Blockchain,hash,0.01122245,-9.47221,loser,2,2026-04-30
-dexe,DeXe,dexe,11.17,-7.79773,loser,3,2026-04-30
-pi-network,Pi Network,pi,0.175613,-7.54232,loser,4,2026-04-30
-sky,Sky,sky,0.07904,-7.15211,loser,5,2026-04-30
-jupiter-exchange-solana,Jupiter,jup,0.178547,-5.34756,loser,6,2026-04-30
-worldcoin-wld,Worldcoin,wld,0.243121,-3.69617,loser,7,2026-04-30
-render-token,Render,render,1.69,-3.60514,loser,8,2026-04-30
-filecoin,Filecoin,fil,0.923898,-3.16694,loser,9,2026-04-30
-ethena,Ethena,ena,0.103488,-3.03962,loser,10,2026-04-30
+hash-2,Provenance Blockchain,hash,0.01189166,9.22003,gainer,1,2026-04-30
+zcash,Zcash,zec,351.08,8.85363,gainer,2,2026-04-30
+whitebit,WhiteBIT Coin,wbt,57.2,6.48219,gainer,3,2026-04-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.095724,5.02575,gainer,4,2026-04-30
+filecoin,Filecoin,fil,0.922796,3.7644,gainer,5,2026-04-30
+dogecoin,Dogecoin,doge,0.105588,3.55607,gainer,6,2026-04-30
+shiba-inu,Shiba Inu,shib,6.29e-06,3.50623,gainer,7,2026-04-30
+pudgy-penguins,Pudgy Penguins,pengu,0.01001459,3.48109,gainer,8,2026-04-30
+aptos,Aptos,apt,0.992399,3.2082,gainer,9,2026-04-30
+pump-fun,Pump.fun,pump,0.001762,3.20723,gainer,10,2026-04-30
+pi-network,Pi Network,pi,0.175252,-7.55853,loser,1,2026-04-30
+memecore,MemeCore,m,3.21,-6.5034,loser,2,2026-04-30
+dexe,DeXe,dexe,11.52,-5.47402,loser,3,2026-04-30
+world-liberty-financial,World Liberty Financial,wlfi,0.060662,-4.83403,loser,4,2026-04-30
+sky,Sky,sky,0.079088,-3.6538,loser,5,2026-04-30
+stable-2,​​Stable,stable,0.03216932,-1.9455,loser,6,2026-04-30
+hyperliquid,Hyperliquid,hype,39.13,-1.31595,loser,7,2026-04-30
+cosmos,Cosmos Hub,atom,1.89,-1.27901,loser,8,2026-04-30
+canton-network,Canton,cc,0.150328,-1.10423,loser,9,2026-04-30
+near,NEAR Protocol,near,1.3,-0.81038,loser,10,2026-04-30
