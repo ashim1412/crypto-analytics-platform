@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.01189166,9.22003,gainer,1,2026-04-30
-zcash,Zcash,zec,351.08,8.85363,gainer,2,2026-04-30
-whitebit,WhiteBIT Coin,wbt,57.2,6.48219,gainer,3,2026-04-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095724,5.02575,gainer,4,2026-04-30
-filecoin,Filecoin,fil,0.922796,3.7644,gainer,5,2026-04-30
-dogecoin,Dogecoin,doge,0.105588,3.55607,gainer,6,2026-04-30
-shiba-inu,Shiba Inu,shib,6.29e-06,3.50623,gainer,7,2026-04-30
-pudgy-penguins,Pudgy Penguins,pengu,0.01001459,3.48109,gainer,8,2026-04-30
-aptos,Aptos,apt,0.992399,3.2082,gainer,9,2026-04-30
-pump-fun,Pump.fun,pump,0.001762,3.20723,gainer,10,2026-04-30
-pi-network,Pi Network,pi,0.175252,-7.55853,loser,1,2026-04-30
-memecore,MemeCore,m,3.21,-6.5034,loser,2,2026-04-30
-dexe,DeXe,dexe,11.52,-5.47402,loser,3,2026-04-30
-world-liberty-financial,World Liberty Financial,wlfi,0.060662,-4.83403,loser,4,2026-04-30
-sky,Sky,sky,0.079088,-3.6538,loser,5,2026-04-30
-stable-2,​​Stable,stable,0.03216932,-1.9455,loser,6,2026-04-30
-hyperliquid,Hyperliquid,hype,39.13,-1.31595,loser,7,2026-04-30
-cosmos,Cosmos Hub,atom,1.89,-1.27901,loser,8,2026-04-30
-canton-network,Canton,cc,0.150328,-1.10423,loser,9,2026-04-30
-near,NEAR Protocol,near,1.3,-0.81038,loser,10,2026-04-30
+whitebit,WhiteBIT Coin,wbt,57.38,5.63159,gainer,1,2026-05-01
+zcash,Zcash,zec,344.64,5.3836,gainer,2,2026-05-01
+hash-2,Provenance Blockchain,hash,0.0111879,5.12825,gainer,3,2026-05-01
+just,JUST,jst,0.089435,3.04944,gainer,4,2026-05-01
+the-open-network,Toncoin,ton,1.35,1.61598,gainer,5,2026-05-01
+morpho,Morpho,morpho,2.0,1.23014,gainer,6,2026-05-01
+pudgy-penguins,Pudgy Penguins,pengu,0.01003011,1.19439,gainer,7,2026-05-01
+dogecoin,Dogecoin,doge,0.10849,0.99984,gainer,8,2026-05-01
+xdce-crowd-sale,XDC Network,xdc,0.02967965,0.931,gainer,9,2026-05-01
+pax-gold,PAX Gold,paxg,4609.17,0.90538,gainer,10,2026-05-01
+memecore,MemeCore,m,3.23,-5.41743,loser,1,2026-05-01
+world-liberty-financial,World Liberty Financial,wlfi,0.06054,-4.55877,loser,2,2026-05-01
+pi-network,Pi Network,pi,0.182148,-4.0617,loser,3,2026-05-01
+dexe,DeXe,dexe,11.57,-3.89523,loser,4,2026-05-01
+near,NEAR Protocol,near,1.3,-3.18912,loser,5,2026-05-01
+arbitrum,Arbitrum,arb,0.124158,-3.06402,loser,6,2026-05-01
+sky,Sky,sky,0.079598,-2.92289,loser,7,2026-05-01
+cosmos,Cosmos Hub,atom,1.88,-2.85893,loser,8,2026-05-01
+worldcoin-wld,Worldcoin,wld,0.243345,-2.84315,loser,9,2026-05-01
+render-token,Render,render,1.67,-2.23362,loser,10,2026-05-01
