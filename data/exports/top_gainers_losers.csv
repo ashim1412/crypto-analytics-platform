@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-whitebit,WhiteBIT Coin,wbt,57.38,5.63159,gainer,1,2026-05-01
-zcash,Zcash,zec,344.64,5.3836,gainer,2,2026-05-01
-hash-2,Provenance Blockchain,hash,0.0111879,5.12825,gainer,3,2026-05-01
-just,JUST,jst,0.089435,3.04944,gainer,4,2026-05-01
-the-open-network,Toncoin,ton,1.35,1.61598,gainer,5,2026-05-01
-morpho,Morpho,morpho,2.0,1.23014,gainer,6,2026-05-01
-pudgy-penguins,Pudgy Penguins,pengu,0.01003011,1.19439,gainer,7,2026-05-01
-dogecoin,Dogecoin,doge,0.10849,0.99984,gainer,8,2026-05-01
-xdce-crowd-sale,XDC Network,xdc,0.02967965,0.931,gainer,9,2026-05-01
-pax-gold,PAX Gold,paxg,4609.17,0.90538,gainer,10,2026-05-01
-memecore,MemeCore,m,3.23,-5.41743,loser,1,2026-05-01
-world-liberty-financial,World Liberty Financial,wlfi,0.06054,-4.55877,loser,2,2026-05-01
-pi-network,Pi Network,pi,0.182148,-4.0617,loser,3,2026-05-01
-dexe,DeXe,dexe,11.57,-3.89523,loser,4,2026-05-01
-near,NEAR Protocol,near,1.3,-3.18912,loser,5,2026-05-01
-arbitrum,Arbitrum,arb,0.124158,-3.06402,loser,6,2026-05-01
-sky,Sky,sky,0.079598,-2.92289,loser,7,2026-05-01
-cosmos,Cosmos Hub,atom,1.88,-2.85893,loser,8,2026-05-01
-worldcoin-wld,Worldcoin,wld,0.243345,-2.84315,loser,9,2026-05-01
-render-token,Render,render,1.67,-2.23362,loser,10,2026-05-01
+zcash,Zcash,zec,349.88,5.16013,gainer,1,2026-05-01
+stable-2,​​Stable,stable,0.03342649,3.21734,gainer,2,2026-05-01
+just,JUST,jst,0.088507,2.58597,gainer,3,2026-05-01
+pump-fun,Pump.fun,pump,0.00180308,2.37854,gainer,4,2026-05-01
+aptos,Aptos,apt,1.03,2.31389,gainer,5,2026-05-01
+the-open-network,Toncoin,ton,1.34,2.29751,gainer,6,2026-05-01
+bittensor,Bittensor,tao,255.27,2.0361,gainer,7,2026-05-01
+morpho,Morpho,morpho,1.99,2.03584,gainer,8,2026-05-01
+pi-network,Pi Network,pi,0.180117,2.00039,gainer,9,2026-05-01
+nexo,NEXO,nexo,0.894628,1.44692,gainer,10,2026-05-01
+memecore,MemeCore,m,3.16,-6.08591,loser,1,2026-05-01
+world-liberty-financial,World Liberty Financial,wlfi,0.05968,-5.08625,loser,2,2026-05-01
+worldcoin-wld,Worldcoin,wld,0.239741,-2.59235,loser,3,2026-05-01
+dexe,DeXe,dexe,11.44,-2.48408,loser,4,2026-05-01
+near,NEAR Protocol,near,1.3,-2.33913,loser,5,2026-05-01
+hash-2,Provenance Blockchain,hash,0.01055802,-1.90356,loser,6,2026-05-01
+cosmos,Cosmos Hub,atom,1.88,-1.89535,loser,7,2026-05-01
+algorand,Algorand,algo,0.109322,-1.83971,loser,8,2026-05-01
+quant-network,Quant,qnt,68.86,-1.64324,loser,9,2026-05-01
+xdce-crowd-sale,XDC Network,xdc,0.02964343,-1.34278,loser,10,2026-05-01
