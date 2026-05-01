@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bittensor,Bittensor,tao,264.5,5.77064,gainer,1,2026-05-01
-hyperliquid,Hyperliquid,hype,40.94,5.0198,gainer,2,2026-05-01
-zcash,Zcash,zec,350.39,4.72991,gainer,3,2026-05-01
-pump-fun,Pump.fun,pump,0.00182182,3.49884,gainer,4,2026-05-01
-pudgy-penguins,Pudgy Penguins,pengu,0.00998942,3.23292,gainer,5,2026-05-01
-pi-network,Pi Network,pi,0.180424,2.69547,gainer,6,2026-05-01
-the-open-network,Toncoin,ton,1.34,2.46255,gainer,7,2026-05-01
-stable-2,​​Stable,stable,0.03317303,2.3093,gainer,8,2026-05-01
-bitcoin,Bitcoin,btc,77995.0,2.24058,gainer,9,2026-05-01
-dogecoin,Dogecoin,doge,0.108805,2.21033,gainer,10,2026-05-01
-memecore,MemeCore,m,3.11,-9.14121,loser,1,2026-05-01
-world-liberty-financial,World Liberty Financial,wlfi,0.056493,-6.5495,loser,2,2026-05-01
-algorand,Algorand,algo,0.107425,-3.61308,loser,3,2026-05-01
-midnight-3,Midnight,night,0.03214986,-3.32542,loser,4,2026-05-01
-worldcoin-wld,Worldcoin,wld,0.238688,-2.04648,loser,5,2026-05-01
-official-trump,Official Trump,trump,2.33,-1.96018,loser,6,2026-05-01
-dexe,DeXe,dexe,11.05,-1.4878,loser,7,2026-05-01
-quant-network,Quant,qnt,69.03,-1.43319,loser,8,2026-05-01
-internet-computer,Internet Computer,icp,2.37,-1.40265,loser,9,2026-05-01
-arbitrum,Arbitrum,arb,0.125781,-1.39566,loser,10,2026-05-01
+bittensor,Bittensor,tao,274.36,9.76385,gainer,1,2026-05-01
+zcash,Zcash,zec,383.97,9.21414,gainer,2,2026-05-01
+siren-2,Siren,siren,0.706235,5.17693,gainer,3,2026-05-01
+hyperliquid,Hyperliquid,hype,40.97,4.69442,gainer,4,2026-05-01
+stable-2,​​Stable,stable,0.03368396,4.64645,gainer,5,2026-05-01
+pump-fun,Pump.fun,pump,0.0018385,4.22012,gainer,6,2026-05-01
+ondo-finance,Ondo,ondo,0.27202,3.11375,gainer,7,2026-05-01
+pi-network,Pi Network,pi,0.180608,3.10779,gainer,8,2026-05-01
+vechain,VeChain,vet,0.00721735,3.0758,gainer,9,2026-05-01
+dogecoin,Dogecoin,doge,0.108965,2.9011,gainer,10,2026-05-01
+hash-2,Provenance Blockchain,hash,0.01049848,-11.72812,loser,1,2026-05-01
+world-liberty-financial,World Liberty Financial,wlfi,0.055068,-9.07145,loser,2,2026-05-01
+memecore,MemeCore,m,2.97,-8.15743,loser,3,2026-05-01
+worldcoin-wld,Worldcoin,wld,0.238931,-2.73914,loser,4,2026-05-01
+midnight-3,Midnight,night,0.03190081,-2.454,loser,5,2026-05-01
+official-trump,Official Trump,trump,2.33,-2.17127,loser,6,2026-05-01
+just,JUST,jst,0.085619,-1.78518,loser,7,2026-05-01
+algorand,Algorand,algo,0.108874,-1.66911,loser,8,2026-05-01
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.094775,-1.3752,loser,9,2026-05-01
+xdce-crowd-sale,XDC Network,xdc,0.02960271,-1.16805,loser,10,2026-05-01
