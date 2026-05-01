@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,349.88,5.16013,gainer,1,2026-05-01
-stable-2,​​Stable,stable,0.03342649,3.21734,gainer,2,2026-05-01
-just,JUST,jst,0.088507,2.58597,gainer,3,2026-05-01
-pump-fun,Pump.fun,pump,0.00180308,2.37854,gainer,4,2026-05-01
-aptos,Aptos,apt,1.03,2.31389,gainer,5,2026-05-01
-the-open-network,Toncoin,ton,1.34,2.29751,gainer,6,2026-05-01
-bittensor,Bittensor,tao,255.27,2.0361,gainer,7,2026-05-01
-morpho,Morpho,morpho,1.99,2.03584,gainer,8,2026-05-01
-pi-network,Pi Network,pi,0.180117,2.00039,gainer,9,2026-05-01
-nexo,NEXO,nexo,0.894628,1.44692,gainer,10,2026-05-01
-memecore,MemeCore,m,3.16,-6.08591,loser,1,2026-05-01
-world-liberty-financial,World Liberty Financial,wlfi,0.05968,-5.08625,loser,2,2026-05-01
-worldcoin-wld,Worldcoin,wld,0.239741,-2.59235,loser,3,2026-05-01
-dexe,DeXe,dexe,11.44,-2.48408,loser,4,2026-05-01
-near,NEAR Protocol,near,1.3,-2.33913,loser,5,2026-05-01
-hash-2,Provenance Blockchain,hash,0.01055802,-1.90356,loser,6,2026-05-01
-cosmos,Cosmos Hub,atom,1.88,-1.89535,loser,7,2026-05-01
-algorand,Algorand,algo,0.109322,-1.83971,loser,8,2026-05-01
-quant-network,Quant,qnt,68.86,-1.64324,loser,9,2026-05-01
-xdce-crowd-sale,XDC Network,xdc,0.02964343,-1.34278,loser,10,2026-05-01
+bittensor,Bittensor,tao,264.5,5.77064,gainer,1,2026-05-01
+hyperliquid,Hyperliquid,hype,40.94,5.0198,gainer,2,2026-05-01
+zcash,Zcash,zec,350.39,4.72991,gainer,3,2026-05-01
+pump-fun,Pump.fun,pump,0.00182182,3.49884,gainer,4,2026-05-01
+pudgy-penguins,Pudgy Penguins,pengu,0.00998942,3.23292,gainer,5,2026-05-01
+pi-network,Pi Network,pi,0.180424,2.69547,gainer,6,2026-05-01
+the-open-network,Toncoin,ton,1.34,2.46255,gainer,7,2026-05-01
+stable-2,​​Stable,stable,0.03317303,2.3093,gainer,8,2026-05-01
+bitcoin,Bitcoin,btc,77995.0,2.24058,gainer,9,2026-05-01
+dogecoin,Dogecoin,doge,0.108805,2.21033,gainer,10,2026-05-01
+memecore,MemeCore,m,3.11,-9.14121,loser,1,2026-05-01
+world-liberty-financial,World Liberty Financial,wlfi,0.056493,-6.5495,loser,2,2026-05-01
+algorand,Algorand,algo,0.107425,-3.61308,loser,3,2026-05-01
+midnight-3,Midnight,night,0.03214986,-3.32542,loser,4,2026-05-01
+worldcoin-wld,Worldcoin,wld,0.238688,-2.04648,loser,5,2026-05-01
+official-trump,Official Trump,trump,2.33,-1.96018,loser,6,2026-05-01
+dexe,DeXe,dexe,11.05,-1.4878,loser,7,2026-05-01
+quant-network,Quant,qnt,69.03,-1.43319,loser,8,2026-05-01
+internet-computer,Internet Computer,icp,2.37,-1.40265,loser,9,2026-05-01
+arbitrum,Arbitrum,arb,0.125781,-1.39566,loser,10,2026-05-01
