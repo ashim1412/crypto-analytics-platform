@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,372.65,6.04108,gainer,1,2026-05-02
-bittensor,Bittensor,tao,275.73,4.09903,gainer,2,2026-05-02
-ondo-finance,Ondo,ondo,0.275782,3.33057,gainer,3,2026-05-02
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.097107,2.90347,gainer,4,2026-05-02
-stable-2,​​Stable,stable,0.03393617,1.90747,gainer,5,2026-05-02
-hyperliquid,Hyperliquid,hype,41.59,1.47312,gainer,6,2026-05-02
-siren-2,Siren,siren,0.709135,1.41021,gainer,7,2026-05-02
-vechain,VeChain,vet,0.0071522,1.34191,gainer,8,2026-05-02
-hash-2,Provenance Blockchain,hash,0.0112594,1.22556,gainer,9,2026-05-02
-tron,TRON,trx,0.330486,1.20444,gainer,10,2026-05-02
-memecore,MemeCore,m,2.97,-4.50418,loser,1,2026-05-02
-arbitrum,Arbitrum,arb,0.122086,-2.95381,loser,2,2026-05-02
-kucoin-shares,KuCoin,kcs,8.3,-2.76292,loser,3,2026-05-02
-just,JUST,jst,0.084974,-2.42985,loser,4,2026-05-02
-world-liberty-financial,World Liberty Financial,wlfi,0.05504,-2.3739,loser,5,2026-05-02
-ethena,Ethena,ena,0.101322,-2.24548,loser,6,2026-05-02
-rain,Rain,rain,0.00775355,-2.02402,loser,7,2026-05-02
-near,NEAR Protocol,near,1.28,-1.78443,loser,8,2026-05-02
-midnight-3,Midnight,night,0.03162345,-1.63593,loser,9,2026-05-02
-pi-network,Pi Network,pi,0.177586,-1.54432,loser,10,2026-05-02
+hash-2,Provenance Blockchain,hash,0.01137033,9.05644,gainer,1,2026-05-02
+ondo-finance,Ondo,ondo,0.283613,4.34902,gainer,2,2026-05-02
+memecore,MemeCore,m,3.04,3.41598,gainer,3,2026-05-02
+bittensor,Bittensor,tao,281.28,3.13421,gainer,4,2026-05-02
+aster-2,Aster,aster,0.674803,2.68569,gainer,5,2026-05-02
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.097206,2.63314,gainer,6,2026-05-02
+worldcoin-wld,Worldcoin,wld,0.244124,2.35341,gainer,7,2026-05-02
+monero,Monero,xmr,384.06,2.14752,gainer,8,2026-05-02
+tron,TRON,trx,0.331989,1.65187,gainer,9,2026-05-02
+official-trump,Official Trump,trump,2.37,1.54196,gainer,10,2026-05-02
+rain,Rain,rain,0.00764099,-2.81293,loser,1,2026-05-02
+arbitrum,Arbitrum,arb,0.122395,-2.2324,loser,2,2026-05-02
+zcash,Zcash,zec,381.54,-2.05478,loser,3,2026-05-02
+just,JUST,jst,0.084531,-1.85888,loser,4,2026-05-02
+pi-network,Pi Network,pi,0.177318,-1.78761,loser,5,2026-05-02
+cosmos,Cosmos Hub,atom,1.88,-1.56114,loser,6,2026-05-02
+bitcoin-cash,Bitcoin Cash,bch,446.59,-1.38324,loser,7,2026-05-02
+siren-2,Siren,siren,0.695034,-1.30344,loser,8,2026-05-02
+midnight-3,Midnight,night,0.03147921,-1.30064,loser,9,2026-05-02
+shiba-inu,Shiba Inu,shib,6.27e-06,-1.10616,loser,10,2026-05-02
