@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.117341,10.71094,gainer,1,2026-05-03
-render-token,Render,render,1.81,5.66871,gainer,2,2026-05-03
-world-liberty-financial,World Liberty Financial,wlfi,0.056691,5.45253,gainer,3,2026-05-03
-bittensor,Bittensor,tao,289.22,5.01292,gainer,4,2026-05-03
-memecore,MemeCore,m,2.97,4.0285,gainer,5,2026-05-03
-kaspa,Kaspa,kas,0.03357701,3.74461,gainer,6,2026-05-03
-ondo-finance,Ondo,ondo,0.279845,3.58887,gainer,7,2026-05-03
-official-trump,Official Trump,trump,2.35,3.48106,gainer,8,2026-05-03
-okb,OKB,okb,86.26,3.38289,gainer,9,2026-05-03
-aster-2,Aster,aster,0.676222,3.36841,gainer,10,2026-05-03
-pudgy-penguins,Pudgy Penguins,pengu,0.00981466,-3.9837,loser,1,2026-05-03
-stable-2,​​Stable,stable,0.0333173,-3.383,loser,2,2026-05-03
-just,JUST,jst,0.083233,-3.03572,loser,3,2026-05-03
-rain,Rain,rain,0.00758684,-2.80273,loser,4,2026-05-03
-arbitrum,Arbitrum,arb,0.119143,-2.70677,loser,5,2026-05-03
-sky,Sky,sky,0.07989,-1.77084,loser,6,2026-05-03
-morpho,Morpho,morpho,1.96,-1.49941,loser,7,2026-05-03
-pi-network,Pi Network,pi,0.176258,-1.47867,loser,8,2026-05-03
-hyperliquid,Hyperliquid,hype,40.99,-1.22392,loser,9,2026-05-03
-bitcoin-cash,Bitcoin Cash,bch,443.74,-1.20749,loser,10,2026-05-03
+algorand,Algorand,algo,0.116343,8.6311,gainer,1,2026-05-03
+zcash,Zcash,zec,398.64,6.97436,gainer,2,2026-05-03
+world-liberty-financial,World Liberty Financial,wlfi,0.05826,5.85057,gainer,3,2026-05-03
+kaspa,Kaspa,kas,0.03393752,4.75435,gainer,4,2026-05-03
+render-token,Render,render,1.8,4.50822,gainer,5,2026-05-03
+bittensor,Bittensor,tao,287.27,4.18609,gainer,6,2026-05-03
+monero,Monero,xmr,396.43,2.9328,gainer,7,2026-05-03
+okb,OKB,okb,85.86,2.90961,gainer,8,2026-05-03
+htx-dao,HTX DAO,htx,1.89e-06,2.32237,gainer,9,2026-05-03
+aster-2,Aster,aster,0.671366,2.18886,gainer,10,2026-05-03
+arbitrum,Arbitrum,arb,0.118285,-3.1129,loser,1,2026-05-03
+rain,Rain,rain,0.00755687,-2.5359,loser,2,2026-05-03
+stable-2,​​Stable,stable,0.03312399,-2.39324,loser,3,2026-05-03
+pudgy-penguins,Pudgy Penguins,pengu,0.00983821,-1.89861,loser,4,2026-05-03
+morpho,Morpho,morpho,1.96,-1.23624,loser,5,2026-05-03
+hyperliquid,Hyperliquid,hype,41.09,-1.21232,loser,6,2026-05-03
+just,JUST,jst,0.084068,-1.06601,loser,7,2026-05-03
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-1.04267,loser,8,2026-05-03
+xdce-crowd-sale,XDC Network,xdc,0.02913836,-0.56262,loser,9,2026-05-03
+pi-network,Pi Network,pi,0.176687,-0.50602,loser,10,2026-05-03
