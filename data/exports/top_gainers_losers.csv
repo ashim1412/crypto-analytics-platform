@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.01137033,9.05644,gainer,1,2026-05-02
-ondo-finance,Ondo,ondo,0.283613,4.34902,gainer,2,2026-05-02
-memecore,MemeCore,m,3.04,3.41598,gainer,3,2026-05-02
-bittensor,Bittensor,tao,281.28,3.13421,gainer,4,2026-05-02
-aster-2,Aster,aster,0.674803,2.68569,gainer,5,2026-05-02
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.097206,2.63314,gainer,6,2026-05-02
-worldcoin-wld,Worldcoin,wld,0.244124,2.35341,gainer,7,2026-05-02
-monero,Monero,xmr,384.06,2.14752,gainer,8,2026-05-02
-tron,TRON,trx,0.331989,1.65187,gainer,9,2026-05-02
-official-trump,Official Trump,trump,2.37,1.54196,gainer,10,2026-05-02
-rain,Rain,rain,0.00764099,-2.81293,loser,1,2026-05-02
-arbitrum,Arbitrum,arb,0.122395,-2.2324,loser,2,2026-05-02
-zcash,Zcash,zec,381.54,-2.05478,loser,3,2026-05-02
-just,JUST,jst,0.084531,-1.85888,loser,4,2026-05-02
-pi-network,Pi Network,pi,0.177318,-1.78761,loser,5,2026-05-02
-cosmos,Cosmos Hub,atom,1.88,-1.56114,loser,6,2026-05-02
-bitcoin-cash,Bitcoin Cash,bch,446.59,-1.38324,loser,7,2026-05-02
-siren-2,Siren,siren,0.695034,-1.30344,loser,8,2026-05-02
-midnight-3,Midnight,night,0.03147921,-1.30064,loser,9,2026-05-02
-shiba-inu,Shiba Inu,shib,6.27e-06,-1.10616,loser,10,2026-05-02
+bittensor,Bittensor,tao,282.48,4.06528,gainer,1,2026-05-03
+ondo-finance,Ondo,ondo,0.279338,3.76753,gainer,2,2026-05-03
+aster-2,Aster,aster,0.677795,3.26143,gainer,3,2026-05-03
+render-token,Render,render,1.77,3.2558,gainer,4,2026-05-03
+algorand,Algorand,algo,0.111075,3.16754,gainer,5,2026-05-03
+okb,OKB,okb,84.94,2.10249,gainer,6,2026-05-03
+worldcoin-wld,Worldcoin,wld,0.239349,1.77606,gainer,7,2026-05-03
+the-open-network,Toncoin,ton,1.33,1.57515,gainer,8,2026-05-03
+world-liberty-financial,World Liberty Financial,wlfi,0.055172,1.43109,gainer,9,2026-05-03
+tron,TRON,trx,0.330631,1.22778,gainer,10,2026-05-03
+arbitrum,Arbitrum,arb,0.119628,-3.45051,loser,1,2026-05-03
+just,JUST,jst,0.083292,-2.67072,loser,2,2026-05-03
+rain,Rain,rain,0.00764267,-2.62466,loser,3,2026-05-03
+pudgy-penguins,Pudgy Penguins,pengu,0.00968882,-2.44718,loser,4,2026-05-03
+aptos,Aptos,apt,0.985804,-2.21194,loser,5,2026-05-03
+cosmos,Cosmos Hub,atom,1.86,-2.15513,loser,6,2026-05-03
+pi-network,Pi Network,pi,0.177434,-2.07358,loser,7,2026-05-03
+bitcoin-cash,Bitcoin Cash,bch,443.34,-2.0296,loser,8,2026-05-03
+sky,Sky,sky,0.080099,-1.93762,loser,9,2026-05-03
+pump-fun,Pump.fun,pump,0.00179306,-1.62449,loser,10,2026-05-03
