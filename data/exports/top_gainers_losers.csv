@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-skyai,SkyAI,skyai,0.595373,27.26186,gainer,1,2026-05-04
-zcash,Zcash,zec,420.8,9.77877,gainer,2,2026-05-04
-siren-2,Siren,siren,0.754387,7.49256,gainer,3,2026-05-04
-world-liberty-financial,World Liberty Financial,wlfi,0.059588,7.0151,gainer,4,2026-05-04
-htx-dao,HTX DAO,htx,1.91e-06,3.44148,gainer,5,2026-05-04
-render-token,Render,render,1.83,2.94931,gainer,6,2026-05-04
-monero,Monero,xmr,393.8,2.5564,gainer,7,2026-05-04
-ondo-finance,Ondo,ondo,0.286674,2.37697,gainer,8,2026-05-04
-just,JUST,jst,0.085162,2.37467,gainer,9,2026-05-04
-tron,TRON,trx,0.338015,2.27898,gainer,10,2026-05-04
-arbitrum,Arbitrum,arb,0.115929,-3.59691,loser,1,2026-05-04
-rain,Rain,rain,0.00744221,-2.76081,loser,2,2026-05-04
-near,NEAR Protocol,near,1.26,-2.2554,loser,3,2026-05-04
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095093,-2.14148,loser,4,2026-05-04
-aster-2,Aster,aster,0.667862,-1.74701,loser,5,2026-05-04
-worldcoin-wld,Worldcoin,wld,0.235856,-1.63242,loser,6,2026-05-04
-pi-network,Pi Network,pi,0.174684,-1.58606,loser,7,2026-05-04
-jupiter-exchange-solana,Jupiter,jup,0.17649,-1.57959,loser,8,2026-05-04
-nexo,NEXO,nexo,0.895009,-1.5454,loser,9,2026-05-04
-hash-2,Provenance Blockchain,hash,0.01115618,-1.52869,loser,10,2026-05-04
+skyai,SkyAI,skyai,0.587029,57.43926,gainer,1,2026-05-04
+dash,Dash,dash,49.08,31.79135,gainer,2,2026-05-04
+siren-2,Siren,siren,0.841625,22.40052,gainer,3,2026-05-04
+ondo-finance,Ondo,ondo,0.308708,10.26079,gainer,4,2026-05-04
+zcash,Zcash,zec,413.35,7.31617,gainer,5,2026-05-04
+world-liberty-financial,World Liberty Financial,wlfi,0.059691,5.68049,gainer,6,2026-05-04
+uniswap,Uniswap,uni,3.37,4.35578,gainer,7,2026-05-04
+ethena,Ethena,ena,0.104844,4.08585,gainer,8,2026-05-04
+dogecoin,Dogecoin,doge,0.112229,3.87423,gainer,9,2026-05-04
+the-open-network,Toncoin,ton,1.39,3.73834,gainer,10,2026-05-04
+memecore,MemeCore,m,2.77,-6.16523,loser,1,2026-05-04
+algorand,Algorand,algo,0.114604,-3.20456,loser,2,2026-05-04
+arbitrum,Arbitrum,arb,0.117649,-1.33197,loser,3,2026-05-04
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-1.0421,loser,4,2026-05-04
+rain,Rain,rain,0.00752526,-0.8445,loser,5,2026-05-04
+stable-2,​​Stable,stable,0.03303836,-0.73422,loser,6,2026-05-04
+pax-gold,PAX Gold,paxg,4570.9,-0.6823,loser,7,2026-05-04
+tether-gold,Tether Gold,xaut,4572.75,-0.6491,loser,8,2026-05-04
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.096369,-0.61856,loser,9,2026-05-04
+canton-network,Canton,cc,0.148748,-0.59346,loser,10,2026-05-04
