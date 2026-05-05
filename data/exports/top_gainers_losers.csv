@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,1.86,35.40708,gainer,1,2026-05-05
-memecore,MemeCore,m,3.37,28.04743,gainer,2,2026-05-05
-morpho,Morpho,morpho,2.28,16.01165,gainer,3,2026-05-05
-pudgy-penguins,Pudgy Penguins,pengu,0.01147465,15.79743,gainer,4,2026-05-05
-terra-luna,Terra Luna Classic,lunc,0.00010113,8.12965,gainer,5,2026-05-05
-internet-computer,Internet Computer,icp,2.54,7.82681,gainer,6,2026-05-05
-algorand,Algorand,algo,0.12067,7.24168,gainer,7,2026-05-05
-jupiter-exchange-solana,Jupiter,jup,0.188907,6.52697,gainer,8,2026-05-05
-hyperliquid,Hyperliquid,hype,43.79,6.51529,gainer,9,2026-05-05
-ethena,Ethena,ena,0.108534,6.48305,gainer,10,2026-05-05
-skyai,SkyAI,skyai,0.630601,-8.5865,loser,1,2026-05-05
-dash,Dash,dash,45.43,-3.93979,loser,2,2026-05-05
-hash-2,Provenance Blockchain,hash,0.01048479,-3.83305,loser,3,2026-05-05
-siren-2,Siren,siren,0.755339,-1.53074,loser,4,2026-05-05
-figure-heloc,Figure Heloc,figr_heloc,1.029,-0.77837,loser,5,2026-05-05
-xdce-crowd-sale,XDC Network,xdc,0.02937829,-0.4281,loser,6,2026-05-05
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.0846,loser,7,2026-05-05
-dai,Dai,dai,0.999486,-0.01621,loser,8,2026-05-05
-leo-token,LEO Token,leo,10.32,-0.01418,loser,9,2026-05-05
-ripple-usd,Ripple USD,rlusd,0.999989,-0.00069,loser,10,2026-05-05
+the-open-network,Toncoin,ton,1.85,27.13039,gainer,1,2026-05-05
+memecore,MemeCore,m,3.33,20.97122,gainer,2,2026-05-05
+pudgy-penguins,Pudgy Penguins,pengu,0.01137757,13.7181,gainer,3,2026-05-05
+terra-luna,Terra Luna Classic,lunc,0.00011438,13.70582,gainer,4,2026-05-05
+morpho,Morpho,morpho,2.23,11.71245,gainer,5,2026-05-05
+ethena,Ethena,ena,0.113194,10.07048,gainer,6,2026-05-05
+hash-2,Provenance Blockchain,hash,0.01137872,8.34565,gainer,7,2026-05-05
+hyperliquid,Hyperliquid,hype,44.33,7.07099,gainer,8,2026-05-05
+internet-computer,Internet Computer,icp,2.55,6.90365,gainer,9,2026-05-05
+skyai,SkyAI,skyai,0.771244,5.40433,gainer,10,2026-05-05
+dash,Dash,dash,46.32,-3.06298,loser,1,2026-05-05
+rain,Rain,rain,0.00741411,-1.57749,loser,2,2026-05-05
+aptos,Aptos,apt,0.966831,-1.45267,loser,3,2026-05-05
+cosmos,Cosmos Hub,atom,1.87,-1.02033,loser,4,2026-05-05
+pump-fun,Pump.fun,pump,0.00182476,-0.4664,loser,5,2026-05-05
+figure-heloc,Figure Heloc,figr_heloc,1.031,-0.35956,loser,6,2026-05-05
+near,NEAR Protocol,near,1.27,-0.35101,loser,7,2026-05-05
+bitget-token,Bitget Token,bgb,2.05,-0.31514,loser,8,2026-05-05
+gatechain-token,Gate,gt,7.29,-0.22609,loser,9,2026-05-05
+ondo-finance,Ondo,ondo,0.317383,-0.16563,loser,10,2026-05-05
