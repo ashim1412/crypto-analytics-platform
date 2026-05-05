@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,1.72,26.62973,gainer,1,2026-05-05
-terra-luna,Terra Luna Classic,lunc,9.885e-05,14.87881,gainer,2,2026-05-05
-dash,Dash,dash,46.79,14.41679,gainer,3,2026-05-05
-skyai,SkyAI,skyai,0.661517,11.28245,gainer,4,2026-05-05
-world-liberty-financial,World Liberty Financial,wlfi,0.06492,8.94649,gainer,5,2026-05-05
-ondo-finance,Ondo,ondo,0.309654,8.01008,gainer,6,2026-05-05
-morpho,Morpho,morpho,2.04,4.82752,gainer,7,2026-05-05
-pudgy-penguins,Pudgy Penguins,pengu,0.01034868,4.43011,gainer,8,2026-05-05
-stable-2,​​Stable,stable,0.03396394,3.80448,gainer,9,2026-05-05
-pi-network,Pi Network,pi,0.181108,3.64537,gainer,10,2026-05-05
-memecore,MemeCore,m,2.7,-9.43452,loser,1,2026-05-05
-hash-2,Provenance Blockchain,hash,0.01050204,-5.86352,loser,2,2026-05-05
-quant-network,Quant,qnt,67.22,-1.40826,loser,3,2026-05-05
-aptos,Aptos,apt,0.966945,-1.40586,loser,4,2026-05-05
-pax-gold,PAX Gold,paxg,4531.73,-1.30215,loser,5,2026-05-05
-tether-gold,Tether Gold,xaut,4533.54,-1.26503,loser,6,2026-05-05
-figure-heloc,Figure Heloc,figr_heloc,1.029,-0.77213,loser,7,2026-05-05
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.30765,loser,8,2026-05-05
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.12,-0.2007,loser,9,2026-05-05
-okb,OKB,okb,85.27,-0.1542,loser,10,2026-05-05
+the-open-network,Toncoin,ton,1.86,35.40708,gainer,1,2026-05-05
+memecore,MemeCore,m,3.37,28.04743,gainer,2,2026-05-05
+morpho,Morpho,morpho,2.28,16.01165,gainer,3,2026-05-05
+pudgy-penguins,Pudgy Penguins,pengu,0.01147465,15.79743,gainer,4,2026-05-05
+terra-luna,Terra Luna Classic,lunc,0.00010113,8.12965,gainer,5,2026-05-05
+internet-computer,Internet Computer,icp,2.54,7.82681,gainer,6,2026-05-05
+algorand,Algorand,algo,0.12067,7.24168,gainer,7,2026-05-05
+jupiter-exchange-solana,Jupiter,jup,0.188907,6.52697,gainer,8,2026-05-05
+hyperliquid,Hyperliquid,hype,43.79,6.51529,gainer,9,2026-05-05
+ethena,Ethena,ena,0.108534,6.48305,gainer,10,2026-05-05
+skyai,SkyAI,skyai,0.630601,-8.5865,loser,1,2026-05-05
+dash,Dash,dash,45.43,-3.93979,loser,2,2026-05-05
+hash-2,Provenance Blockchain,hash,0.01048479,-3.83305,loser,3,2026-05-05
+siren-2,Siren,siren,0.755339,-1.53074,loser,4,2026-05-05
+figure-heloc,Figure Heloc,figr_heloc,1.029,-0.77837,loser,5,2026-05-05
+xdce-crowd-sale,XDC Network,xdc,0.02937829,-0.4281,loser,6,2026-05-05
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.0846,loser,7,2026-05-05
+dai,Dai,dai,0.999486,-0.01621,loser,8,2026-05-05
+leo-token,LEO Token,leo,10.32,-0.01418,loser,9,2026-05-05
+ripple-usd,Ripple USD,rlusd,0.999989,-0.00069,loser,10,2026-05-05
