@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,3.49,29.26575,gainer,1,2026-05-06
-zcash,Zcash,zec,519.39,22.36515,gainer,2,2026-05-06
-the-open-network,Toncoin,ton,2.0,16.24068,gainer,3,2026-05-06
-terra-luna,Terra Luna Classic,lunc,0.00011463,16.15674,gainer,4,2026-05-06
-skyai,SkyAI,skyai,0.773945,15.2863,gainer,5,2026-05-06
-internet-computer,Internet Computer,icp,2.72,14.9707,gainer,6,2026-05-06
-morpho,Morpho,morpho,2.26,11.10383,gainer,7,2026-05-06
-ethena,Ethena,ena,0.111046,9.76686,gainer,8,2026-05-06
-hash-2,Provenance Blockchain,hash,0.0113544,8.11617,gainer,9,2026-05-06
-pudgy-penguins,Pudgy Penguins,pengu,0.01115614,7.77446,gainer,10,2026-05-06
-sky,Sky,sky,0.079697,-1.60256,loser,1,2026-05-06
-rain,Rain,rain,0.00736231,-1.40951,loser,2,2026-05-06
-just,JUST,jst,0.084693,-1.12489,loser,3,2026-05-06
-canton-network,Canton,cc,0.147498,-0.86167,loser,4,2026-05-06
-beldex,Beldex,bdx,0.079897,-0.30008,loser,5,2026-05-06
-kucoin-shares,KuCoin,kcs,8.44,-0.23063,loser,6,2026-05-06
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.098031,-0.18783,loser,7,2026-05-06
-bfusd,BFUSD,bfusd,0.999,-0.00874,loser,8,2026-05-06
-ripple-usd,Ripple USD,rlusd,0.999911,-0.00655,loser,9,2026-05-06
-usd-coin,USDC,usdc,0.999784,-0.00645,loser,10,2026-05-06
+zcash,Zcash,zec,577.87,34.48155,gainer,1,2026-05-06
+the-open-network,Toncoin,ton,2.43,31.1992,gainer,2,2026-05-06
+dash,Dash,dash,56.27,24.36625,gainer,3,2026-05-06
+skyai,SkyAI,skyai,0.775275,23.51208,gainer,4,2026-05-06
+near,NEAR Protocol,near,1.47,13.72484,gainer,5,2026-05-06
+filecoin,Filecoin,fil,1.085,13.40823,gainer,6,2026-05-06
+internet-computer,Internet Computer,icp,2.88,13.05592,gainer,7,2026-05-06
+ethena,Ethena,ena,0.120046,10.55437,gainer,8,2026-05-06
+memecore,MemeCore,m,3.68,7.10597,gainer,9,2026-05-06
+pump-fun,Pump.fun,pump,0.00197423,6.772,gainer,10,2026-05-06
+pudgy-penguins,Pudgy Penguins,pengu,0.01081985,-6.35516,loser,1,2026-05-06
+canton-network,Canton,cc,0.14624,-2.795,loser,2,2026-05-06
+sky,Sky,sky,0.080219,-2.44193,loser,3,2026-05-06
+rain,Rain,rain,0.00737414,-1.69966,loser,4,2026-05-06
+ondo-finance,Ondo,ondo,0.317686,-0.97974,loser,5,2026-05-06
+just,JUST,jst,0.083924,-0.88864,loser,6,2026-05-06
+beldex,Beldex,bdx,0.079735,-0.35552,loser,7,2026-05-06
+ethereum,Ethereum,eth,2386.84,-0.32548,loser,8,2026-05-06
+kucoin-shares,KuCoin,kcs,8.54,-0.29279,loser,9,2026-05-06
+megausd,MegaUSD,usdm,0.996041,-0.15059,loser,10,2026-05-06
