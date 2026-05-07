@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,2.41,27.99052,gainer,1,2026-05-06
-zcash,Zcash,zec,554.06,26.77501,gainer,2,2026-05-06
-near,NEAR Protocol,near,1.5,17.52329,gainer,3,2026-05-06
-dash,Dash,dash,53.89,15.96739,gainer,4,2026-05-06
-internet-computer,Internet Computer,icp,2.9,12.81807,gainer,5,2026-05-06
-filecoin,Filecoin,fil,1.061,11.48085,gainer,6,2026-05-06
-bittensor,Bittensor,tao,313.84,10.61924,gainer,7,2026-05-06
-pump-fun,Pump.fun,pump,0.00197195,7.98494,gainer,8,2026-05-06
-bitget-token,Bitget Token,bgb,2.17,5.58668,gainer,9,2026-05-06
-siren-2,Siren,siren,0.80048,5.47038,gainer,10,2026-05-06
-pudgy-penguins,Pudgy Penguins,pengu,0.01070924,-6.11443,loser,1,2026-05-06
-terra-luna,Terra Luna Classic,lunc,0.00010632,-5.76907,loser,2,2026-05-06
-just,JUST,jst,0.081036,-4.61711,loser,3,2026-05-06
-hyperliquid,Hyperliquid,hype,43.21,-2.30082,loser,4,2026-05-06
-sky,Sky,sky,0.079539,-1.63062,loser,5,2026-05-06
-rain,Rain,rain,0.0073177,-1.31925,loser,6,2026-05-06
-whitebit,WhiteBIT Coin,wbt,59.44,-1.28561,loser,7,2026-05-06
-kucoin-shares,KuCoin,kcs,8.42,-1.21723,loser,8,2026-05-06
-ethereum,Ethereum,eth,2343.64,-1.21199,loser,9,2026-05-06
-figure-heloc,Figure Heloc,figr_heloc,1.02,-1.04224,loser,10,2026-05-06
+the-open-network,Toncoin,ton,2.56,24.11926,gainer,1,2026-05-07
+venice-token,Venice Token,vvv,12.35,21.12191,gainer,2,2026-05-07
+near,NEAR Protocol,near,1.48,12.69533,gainer,3,2026-05-07
+siren-2,Siren,siren,0.822605,9.3512,gainer,4,2026-05-07
+internet-computer,Internet Computer,icp,3.01,8.52673,gainer,5,2026-05-07
+memecore,MemeCore,m,3.75,7.48893,gainer,6,2026-05-07
+filecoin,Filecoin,fil,1.07,6.39206,gainer,7,2026-05-07
+bitget-token,Bitget Token,bgb,2.19,6.38049,gainer,8,2026-05-07
+dash,Dash,dash,51.95,6.14487,gainer,9,2026-05-07
+ethena,Ethena,ena,0.117823,6.0716,gainer,10,2026-05-07
+pudgy-penguins,Pudgy Penguins,pengu,0.0105346,-5.77147,loser,1,2026-05-07
+skyai,SkyAI,skyai,0.756411,-4.23626,loser,2,2026-05-07
+rain,Rain,rain,0.00713902,-3.02127,loser,3,2026-05-07
+dogecoin,Dogecoin,doge,0.111304,-2.93565,loser,4,2026-05-07
+pi-network,Pi Network,pi,0.1782,-2.93182,loser,5,2026-05-07
+hyperliquid,Hyperliquid,hype,42.77,-2.77851,loser,6,2026-05-07
+morpho,Morpho,morpho,2.23,-1.80031,loser,7,2026-05-07
+pepe,Pepe,pepe,4.12e-06,-1.75347,loser,8,2026-05-07
+ethereum,Ethereum,eth,2333.69,-1.6176,loser,9,2026-05-07
+aster-2,Aster,aster,0.674043,-1.56961,loser,10,2026-05-07
