@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.965578,17.08095,gainer,1,2026-05-08
-ondo-finance,Ondo,ondo,0.348437,8.60605,gainer,2,2026-05-08
-dexe,DeXe,dexe,12.28,8.40733,gainer,3,2026-05-08
-world-liberty-financial,World Liberty Financial,wlfi,0.072891,8.04233,gainer,4,2026-05-08
-virtual-protocol,Virtuals Protocol,virtual,0.905312,6.56909,gainer,5,2026-05-08
-jupiter-exchange-solana,Jupiter,jup,0.208734,6.56368,gainer,6,2026-05-08
-algorand,Algorand,algo,0.126224,5.80782,gainer,7,2026-05-08
-rain,Rain,rain,0.00745379,4.4269,gainer,8,2026-05-08
-pump-fun,Pump.fun,pump,0.00200113,4.21881,gainer,9,2026-05-08
-zcash,Zcash,zec,567.46,4.19793,gainer,10,2026-05-08
-morpho,Morpho,morpho,2.09,-6.29514,loser,1,2026-05-08
-dogecoin,Dogecoin,doge,0.106549,-4.27087,loser,2,2026-05-08
-kaspa,Kaspa,kas,0.03508317,-3.91995,loser,3,2026-05-08
-monero,Monero,xmr,393.15,-3.83313,loser,4,2026-05-08
-bitget-token,Bitget Token,bgb,2.12,-3.36416,loser,5,2026-05-08
-bitcoin-cash,Bitcoin Cash,bch,452.21,-2.74618,loser,6,2026-05-08
-kucoin-shares,KuCoin,kcs,8.17,-2.58384,loser,7,2026-05-08
-dash,Dash,dash,50.73,-2.37204,loser,8,2026-05-08
-ripple,XRP,xrp,1.38,-2.32207,loser,9,2026-05-08
-ethereum,Ethereum,eth,2284.27,-2.09676,loser,10,2026-05-08
+siren-2,Siren,siren,1.059,24.95317,gainer,1,2026-05-08
+internet-computer,Internet Computer,icp,3.26,9.0818,gainer,2,2026-05-08
+world-liberty-financial,World Liberty Financial,wlfi,0.074059,9.06255,gainer,3,2026-05-08
+venice-token,Venice Token,vvv,13.52,8.88463,gainer,4,2026-05-08
+dexe,DeXe,dexe,12.05,6.59729,gainer,5,2026-05-08
+ondo-finance,Ondo,ondo,0.359737,6.22852,gainer,6,2026-05-08
+rain,Rain,rain,0.00748954,4.67851,gainer,7,2026-05-08
+zcash,Zcash,zec,572.69,3.5467,gainer,8,2026-05-08
+quant-network,Quant,qnt,72.52,3.22533,gainer,9,2026-05-08
+tron,TRON,trx,0.349672,1.32479,gainer,10,2026-05-08
+virtual-protocol,Virtuals Protocol,virtual,0.902446,-6.20823,loser,1,2026-05-08
+dogecoin,Dogecoin,doge,0.106098,-4.72738,loser,2,2026-05-08
+morpho,Morpho,morpho,2.07,-4.45001,loser,3,2026-05-08
+sui,Sui,sui,0.959707,-4.41209,loser,4,2026-05-08
+kaspa,Kaspa,kas,0.03515048,-4.38049,loser,5,2026-05-08
+skyai,SkyAI,skyai,0.611271,-4.31499,loser,6,2026-05-08
+monero,Monero,xmr,397.02,-4.25603,loser,7,2026-05-08
+pi-network,Pi Network,pi,0.172645,-3.72742,loser,8,2026-05-08
+dash,Dash,dash,49.62,-3.44389,loser,9,2026-05-08
+the-open-network,Toncoin,ton,2.73,-3.4252,loser,10,2026-05-08
