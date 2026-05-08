@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-the-open-network,Toncoin,ton,2.58,8.61336,gainer,1,2026-05-08
-ondo-finance,Ondo,ondo,0.399631,6.70398,gainer,2,2026-05-08
-venice-token,Venice Token,vvv,13.56,4.93206,gainer,3,2026-05-08
-quant-network,Quant,qnt,73.42,4.23621,gainer,4,2026-05-08
-near,NEAR Protocol,near,1.54,3.16807,gainer,5,2026-05-08
-world-liberty-financial,World Liberty Financial,wlfi,0.074147,2.57702,gainer,6,2026-05-08
-arbitrum,Arbitrum,arb,0.133028,2.30224,gainer,7,2026-05-08
-jupiter-exchange-solana,Jupiter,jup,0.212916,2.24472,gainer,8,2026-05-08
-aptos,Aptos,apt,1.058,2.24097,gainer,9,2026-05-08
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.101553,1.83768,gainer,10,2026-05-08
-pi-network,Pi Network,pi,0.168779,-6.17634,loser,1,2026-05-08
-dash,Dash,dash,50.16,-5.70526,loser,2,2026-05-08
-monero,Monero,xmr,398.19,-4.39429,loser,3,2026-05-08
-dogecoin,Dogecoin,doge,0.106843,-4.07345,loser,4,2026-05-08
-skyai,SkyAI,skyai,0.595753,-3.958,loser,5,2026-05-08
-vechain,VeChain,vet,0.00751061,-3.85212,loser,6,2026-05-08
-pudgy-penguins,Pudgy Penguins,pengu,0.01033494,-3.3312,loser,7,2026-05-08
-memecore,MemeCore,m,3.67,-2.77539,loser,8,2026-05-08
-bitget-token,Bitget Token,bgb,2.1,-2.68468,loser,9,2026-05-08
-cosmos,Cosmos Hub,atom,1.88,-2.5253,loser,10,2026-05-08
+ondo-finance,Ondo,ondo,0.451361,29.33186,gainer,1,2026-05-08
+jupiter-exchange-solana,Jupiter,jup,0.24243,18.72005,gainer,2,2026-05-08
+siren-2,Siren,siren,1.2,15.14052,gainer,3,2026-05-08
+arbitrum,Arbitrum,arb,0.144852,14.68918,gainer,4,2026-05-08
+filecoin,Filecoin,fil,1.19,11.18083,gainer,5,2026-05-08
+internet-computer,Internet Computer,icp,3.2,8.67857,gainer,6,2026-05-08
+aptos,Aptos,apt,1.11,8.65239,gainer,7,2026-05-08
+worldcoin-wld,Worldcoin,wld,0.273264,8.16312,gainer,8,2026-05-08
+pump-fun,Pump.fun,pump,0.00214579,7.93633,gainer,9,2026-05-08
+uniswap,Uniswap,uni,3.69,7.80338,gainer,10,2026-05-08
+memecore,MemeCore,m,3.61,-5.92412,loser,1,2026-05-08
+dash,Dash,dash,49.04,-3.40903,loser,2,2026-05-08
+just,JUST,jst,0.083358,-3.07381,loser,3,2026-05-08
+the-open-network,Toncoin,ton,2.59,-2.97922,loser,4,2026-05-08
+pi-network,Pi Network,pi,0.17121,-2.21981,loser,5,2026-05-08
+figure-heloc,Figure Heloc,figr_heloc,1.003,-1.06396,loser,6,2026-05-08
+stable-2,​​Stable,stable,0.03260615,-0.98164,loser,7,2026-05-08
+monero,Monero,xmr,405.31,-0.84525,loser,8,2026-05-08
+canton-network,Canton,cc,0.146061,-0.24113,loser,9,2026-05-08
+htx-dao,HTX DAO,htx,1.96e-06,-0.139,loser,10,2026-05-08
