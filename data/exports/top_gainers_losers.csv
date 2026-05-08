@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.059,24.95317,gainer,1,2026-05-08
-internet-computer,Internet Computer,icp,3.26,9.0818,gainer,2,2026-05-08
-world-liberty-financial,World Liberty Financial,wlfi,0.074059,9.06255,gainer,3,2026-05-08
-venice-token,Venice Token,vvv,13.52,8.88463,gainer,4,2026-05-08
-dexe,DeXe,dexe,12.05,6.59729,gainer,5,2026-05-08
-ondo-finance,Ondo,ondo,0.359737,6.22852,gainer,6,2026-05-08
-rain,Rain,rain,0.00748954,4.67851,gainer,7,2026-05-08
-zcash,Zcash,zec,572.69,3.5467,gainer,8,2026-05-08
-quant-network,Quant,qnt,72.52,3.22533,gainer,9,2026-05-08
-tron,TRON,trx,0.349672,1.32479,gainer,10,2026-05-08
-virtual-protocol,Virtuals Protocol,virtual,0.902446,-6.20823,loser,1,2026-05-08
-dogecoin,Dogecoin,doge,0.106098,-4.72738,loser,2,2026-05-08
-morpho,Morpho,morpho,2.07,-4.45001,loser,3,2026-05-08
-sui,Sui,sui,0.959707,-4.41209,loser,4,2026-05-08
-kaspa,Kaspa,kas,0.03515048,-4.38049,loser,5,2026-05-08
-skyai,SkyAI,skyai,0.611271,-4.31499,loser,6,2026-05-08
-monero,Monero,xmr,397.02,-4.25603,loser,7,2026-05-08
-pi-network,Pi Network,pi,0.172645,-3.72742,loser,8,2026-05-08
-dash,Dash,dash,49.62,-3.44389,loser,9,2026-05-08
-the-open-network,Toncoin,ton,2.73,-3.4252,loser,10,2026-05-08
+the-open-network,Toncoin,ton,2.58,8.61336,gainer,1,2026-05-08
+ondo-finance,Ondo,ondo,0.399631,6.70398,gainer,2,2026-05-08
+venice-token,Venice Token,vvv,13.56,4.93206,gainer,3,2026-05-08
+quant-network,Quant,qnt,73.42,4.23621,gainer,4,2026-05-08
+near,NEAR Protocol,near,1.54,3.16807,gainer,5,2026-05-08
+world-liberty-financial,World Liberty Financial,wlfi,0.074147,2.57702,gainer,6,2026-05-08
+arbitrum,Arbitrum,arb,0.133028,2.30224,gainer,7,2026-05-08
+jupiter-exchange-solana,Jupiter,jup,0.212916,2.24472,gainer,8,2026-05-08
+aptos,Aptos,apt,1.058,2.24097,gainer,9,2026-05-08
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.101553,1.83768,gainer,10,2026-05-08
+pi-network,Pi Network,pi,0.168779,-6.17634,loser,1,2026-05-08
+dash,Dash,dash,50.16,-5.70526,loser,2,2026-05-08
+monero,Monero,xmr,398.19,-4.39429,loser,3,2026-05-08
+dogecoin,Dogecoin,doge,0.106843,-4.07345,loser,4,2026-05-08
+skyai,SkyAI,skyai,0.595753,-3.958,loser,5,2026-05-08
+vechain,VeChain,vet,0.00751061,-3.85212,loser,6,2026-05-08
+pudgy-penguins,Pudgy Penguins,pengu,0.01033494,-3.3312,loser,7,2026-05-08
+memecore,MemeCore,m,3.67,-2.77539,loser,8,2026-05-08
+bitget-token,Bitget Token,bgb,2.1,-2.68468,loser,9,2026-05-08
+cosmos,Cosmos Hub,atom,1.88,-2.5253,loser,10,2026-05-08
