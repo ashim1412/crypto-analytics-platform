@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.474112,36.05038,gainer,1,2026-05-09
-internet-computer,Internet Computer,icp,3.94,31.10005,gainer,2,2026-05-09
-siren-2,Siren,siren,1.24,26.86692,gainer,3,2026-05-09
-jupiter-exchange-solana,Jupiter,jup,0.249446,19.59739,gainer,4,2026-05-09
-filecoin,Filecoin,fil,1.28,16.18051,gainer,5,2026-05-09
-skyai,SkyAI,skyai,0.630892,12.59893,gainer,6,2026-05-09
-ethena,Ethena,ena,0.13332,12.41811,gainer,7,2026-05-09
-sui,Sui,sui,1.081,12.3196,gainer,8,2026-05-09
-arbitrum,Arbitrum,arb,0.143025,11.72339,gainer,9,2026-05-09
-venice-token,Venice Token,vvv,14.1,11.67701,gainer,10,2026-05-09
-the-open-network,Toncoin,ton,2.54,-4.85786,loser,1,2026-05-09
-memecore,MemeCore,m,3.56,-4.73435,loser,2,2026-05-09
-just,JUST,jst,0.082118,-3.11672,loser,3,2026-05-09
-dash,Dash,dash,49.94,-1.75199,loser,4,2026-05-09
-pi-network,Pi Network,pi,0.174537,-0.37668,loser,5,2026-05-09
-leo-token,LEO Token,leo,10.31,-0.30082,loser,6,2026-05-09
-htx-dao,HTX DAO,htx,1.96e-06,-0.15889,loser,7,2026-05-09
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.1446,loser,8,2026-05-09
-usdtb,USDtb,usdtb,0.999474,-0.01254,loser,9,2026-05-09
-gho,GHO,gho,0.999853,-0.00593,loser,10,2026-05-09
+ondo-finance,Ondo,ondo,0.437444,21.75238,gainer,1,2026-05-09
+jupiter-exchange-solana,Jupiter,jup,0.243856,19.71146,gainer,2,2026-05-09
+siren-2,Siren,siren,1.27,17.59453,gainer,3,2026-05-09
+internet-computer,Internet Computer,icp,3.75,15.9436,gainer,4,2026-05-09
+arbitrum,Arbitrum,arb,0.147653,15.69449,gainer,5,2026-05-09
+filecoin,Filecoin,fil,1.26,15.41814,gainer,6,2026-05-09
+skyai,SkyAI,skyai,0.680642,13.06848,gainer,7,2026-05-09
+venice-token,Venice Token,vvv,15.29,12.84658,gainer,8,2026-05-09
+sui,Sui,sui,1.074,11.82307,gainer,9,2026-05-09
+ethena,Ethena,ena,0.13167,10.67545,gainer,10,2026-05-09
+memecore,MemeCore,m,3.46,-9.34839,loser,1,2026-05-09
+the-open-network,Toncoin,ton,2.56,-6.17171,loser,2,2026-05-09
+just,JUST,jst,0.082069,-2.72313,loser,3,2026-05-09
+leo-token,LEO Token,leo,10.29,-0.77447,loser,4,2026-05-09
+united-stables,United Stables,u,0.999555,-0.07683,loser,5,2026-05-09
+usdtb,USDtb,usdtb,0.999411,-0.02719,loser,6,2026-05-09
+paypal-usd,PayPal USD,pyusd,0.999679,-0.02272,loser,7,2026-05-09
+usds,USDS,usds,0.99969,-0.01439,loser,8,2026-05-09
+ethena-usde,Ethena USDe,usde,0.999296,-0.00771,loser,9,2026-05-09
+gho,GHO,gho,0.999772,-0.00237,loser,10,2026-05-09
