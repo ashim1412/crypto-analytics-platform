@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.437444,21.75238,gainer,1,2026-05-09
-jupiter-exchange-solana,Jupiter,jup,0.243856,19.71146,gainer,2,2026-05-09
-siren-2,Siren,siren,1.27,17.59453,gainer,3,2026-05-09
-internet-computer,Internet Computer,icp,3.75,15.9436,gainer,4,2026-05-09
-arbitrum,Arbitrum,arb,0.147653,15.69449,gainer,5,2026-05-09
-filecoin,Filecoin,fil,1.26,15.41814,gainer,6,2026-05-09
-skyai,SkyAI,skyai,0.680642,13.06848,gainer,7,2026-05-09
-venice-token,Venice Token,vvv,15.29,12.84658,gainer,8,2026-05-09
-sui,Sui,sui,1.074,11.82307,gainer,9,2026-05-09
-ethena,Ethena,ena,0.13167,10.67545,gainer,10,2026-05-09
-memecore,MemeCore,m,3.46,-9.34839,loser,1,2026-05-09
-the-open-network,Toncoin,ton,2.56,-6.17171,loser,2,2026-05-09
-just,JUST,jst,0.082069,-2.72313,loser,3,2026-05-09
-leo-token,LEO Token,leo,10.29,-0.77447,loser,4,2026-05-09
-united-stables,United Stables,u,0.999555,-0.07683,loser,5,2026-05-09
-usdtb,USDtb,usdtb,0.999411,-0.02719,loser,6,2026-05-09
-paypal-usd,PayPal USD,pyusd,0.999679,-0.02272,loser,7,2026-05-09
-usds,USDS,usds,0.99969,-0.01439,loser,8,2026-05-09
-ethena-usde,Ethena USDe,usde,0.999296,-0.00771,loser,9,2026-05-09
-gho,GHO,gho,0.999772,-0.00237,loser,10,2026-05-09
+jupiter-exchange-solana,Jupiter,jup,0.246565,15.88323,gainer,1,2026-05-09
+internet-computer,Internet Computer,icp,3.58,14.82744,gainer,2,2026-05-09
+siren-2,Siren,siren,1.28,14.63718,gainer,3,2026-05-09
+venice-token,Venice Token,vvv,15.17,11.96767,gainer,4,2026-05-09
+canton-network,Canton,cc,0.160047,10.16145,gainer,5,2026-05-09
+filecoin,Filecoin,fil,1.22,9.89423,gainer,6,2026-05-09
+sui,Sui,sui,1.054,7.37839,gainer,7,2026-05-09
+arbitrum,Arbitrum,arb,0.142178,6.9932,gainer,8,2026-05-09
+aster-2,Aster,aster,0.706825,6.75033,gainer,9,2026-05-09
+stable-2,​​Stable,stable,0.03492374,6.46029,gainer,10,2026-05-09
+memecore,MemeCore,m,3.37,-8.37321,loser,1,2026-05-09
+the-open-network,Toncoin,ton,2.52,-3.20398,loser,2,2026-05-09
+dash,Dash,dash,49.75,-1.65116,loser,3,2026-05-09
+just,JUST,jst,0.082847,-1.6232,loser,4,2026-05-09
+rain,Rain,rain,0.00741917,-1.58698,loser,5,2026-05-09
+world-liberty-financial,World Liberty Financial,wlfi,0.072896,-1.48556,loser,6,2026-05-09
+beldex,Beldex,bdx,0.079817,-0.32751,loser,7,2026-05-09
+leo-token,LEO Token,leo,10.34,-0.30692,loser,8,2026-05-09
+tether-gold,Tether Gold,xaut,4699.66,-0.24748,loser,9,2026-05-09
+pax-gold,PAX Gold,paxg,4704.91,-0.20845,loser,10,2026-05-09
