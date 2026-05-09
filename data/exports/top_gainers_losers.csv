@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.246565,15.88323,gainer,1,2026-05-09
-internet-computer,Internet Computer,icp,3.58,14.82744,gainer,2,2026-05-09
-siren-2,Siren,siren,1.28,14.63718,gainer,3,2026-05-09
-venice-token,Venice Token,vvv,15.17,11.96767,gainer,4,2026-05-09
-canton-network,Canton,cc,0.160047,10.16145,gainer,5,2026-05-09
-filecoin,Filecoin,fil,1.22,9.89423,gainer,6,2026-05-09
-sui,Sui,sui,1.054,7.37839,gainer,7,2026-05-09
-arbitrum,Arbitrum,arb,0.142178,6.9932,gainer,8,2026-05-09
-aster-2,Aster,aster,0.706825,6.75033,gainer,9,2026-05-09
-stable-2,​​Stable,stable,0.03492374,6.46029,gainer,10,2026-05-09
-memecore,MemeCore,m,3.37,-8.37321,loser,1,2026-05-09
-the-open-network,Toncoin,ton,2.52,-3.20398,loser,2,2026-05-09
-dash,Dash,dash,49.75,-1.65116,loser,3,2026-05-09
-just,JUST,jst,0.082847,-1.6232,loser,4,2026-05-09
-rain,Rain,rain,0.00741917,-1.58698,loser,5,2026-05-09
-world-liberty-financial,World Liberty Financial,wlfi,0.072896,-1.48556,loser,6,2026-05-09
-beldex,Beldex,bdx,0.079817,-0.32751,loser,7,2026-05-09
-leo-token,LEO Token,leo,10.34,-0.30692,loser,8,2026-05-09
-tether-gold,Tether Gold,xaut,4699.66,-0.24748,loser,9,2026-05-09
-pax-gold,PAX Gold,paxg,4704.91,-0.20845,loser,10,2026-05-09
+venice-token,Venice Token,vvv,15.75,16.25233,gainer,1,2026-05-09
+internet-computer,Internet Computer,icp,3.55,10.68675,gainer,2,2026-05-09
+jupiter-exchange-solana,Jupiter,jup,0.260711,9.17823,gainer,3,2026-05-09
+canton-network,Canton,cc,0.155695,6.56279,gainer,4,2026-05-09
+siren-2,Siren,siren,1.28,5.43107,gainer,5,2026-05-09
+stable-2,​​Stable,stable,0.03421455,4.87958,gainer,6,2026-05-09
+sui,Sui,sui,1.066,4.0835,gainer,7,2026-05-09
+aster-2,Aster,aster,0.704625,3.8664,gainer,8,2026-05-09
+gatechain-token,Gate,gt,7.5,3.23044,gainer,9,2026-05-09
+zcash,Zcash,zec,596.07,3.16197,gainer,10,2026-05-09
+ondo-finance,Ondo,ondo,0.428316,-6.91014,loser,1,2026-05-09
+the-open-network,Toncoin,ton,2.42,-6.79918,loser,2,2026-05-09
+world-liberty-financial,World Liberty Financial,wlfi,0.070035,-6.72775,loser,3,2026-05-09
+memecore,MemeCore,m,3.42,-4.96738,loser,4,2026-05-09
+sky,Sky,sky,0.079818,-3.921,loser,5,2026-05-09
+ethereum-classic,Ethereum Classic,etc,9.55,-2.69942,loser,6,2026-05-09
+render-token,Render,render,2.01,-2.64098,loser,7,2026-05-09
+vechain,VeChain,vet,0.00763782,-2.40731,loser,8,2026-05-09
+rain,Rain,rain,0.00740965,-1.79941,loser,9,2026-05-09
+polkadot,Polkadot,dot,1.35,-1.64926,loser,10,2026-05-09
