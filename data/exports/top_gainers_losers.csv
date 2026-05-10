@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,4.01,9.32831,gainer,1,2026-05-10
-flare-networks,Flare,flr,0.0084191,4.96788,gainer,2,2026-05-10
-jupiter-exchange-solana,Jupiter,jup,0.248871,2.34293,gainer,3,2026-05-10
-just,JUST,jst,0.084255,2.05346,gainer,4,2026-05-10
-sui,Sui,sui,1.093,1.96183,gainer,5,2026-05-10
-vechain,VeChain,vet,0.00779797,1.93034,gainer,6,2026-05-10
-gatechain-token,Gate,gt,7.5,1.76502,gainer,7,2026-05-10
-kaspa,Kaspa,kas,0.0368518,1.36028,gainer,8,2026-05-10
-nexo,NEXO,nexo,0.913529,1.16024,gainer,9,2026-05-10
-hedera-hashgraph,Hedera,hbar,0.094203,1.07153,gainer,10,2026-05-10
-world-liberty-financial,World Liberty Financial,wlfi,0.067559,-10.16696,loser,1,2026-05-10
-internet-computer,Internet Computer,icp,3.45,-7.56495,loser,2,2026-05-10
-filecoin,Filecoin,fil,1.18,-6.66466,loser,3,2026-05-10
-ondo-finance,Ondo,ondo,0.408122,-6.25053,loser,4,2026-05-10
-xdce-crowd-sale,XDC Network,xdc,0.03009572,-4.10027,loser,5,2026-05-10
-arbitrum,Arbitrum,arb,0.141247,-3.9601,loser,6,2026-05-10
-memecore,MemeCore,m,3.36,-3.37835,loser,7,2026-05-10
-virtual-protocol,Virtuals Protocol,virtual,0.902582,-2.93948,loser,8,2026-05-10
-quant-network,Quant,qnt,73.05,-2.7302,loser,9,2026-05-10
-sky,Sky,sky,0.079399,-2.71282,loser,10,2026-05-10
+uniswap,Uniswap,uni,3.98,8.95101,gainer,1,2026-05-10
+sui,Sui,sui,1.13,6.84907,gainer,2,2026-05-10
+flare-networks,Flare,flr,0.00833818,3.88837,gainer,3,2026-05-10
+hedera-hashgraph,Hedera,hbar,0.095225,2.84728,gainer,4,2026-05-10
+rain,Rain,rain,0.00757074,2.06545,gainer,5,2026-05-10
+vechain,VeChain,vet,0.00782598,2.02098,gainer,6,2026-05-10
+kaspa,Kaspa,kas,0.03706001,1.8875,gainer,7,2026-05-10
+just,JUST,jst,0.084363,1.87869,gainer,8,2026-05-10
+nexo,NEXO,nexo,0.922149,1.86658,gainer,9,2026-05-10
+crypto-com-chain,Cronos,cro,0.071988,1.24373,gainer,10,2026-05-10
+siren-2,Siren,siren,1.18,-7.82709,loser,1,2026-05-10
+world-liberty-financial,World Liberty Financial,wlfi,0.068047,-6.71183,loser,2,2026-05-10
+the-open-network,Toncoin,ton,2.4,-4.86965,loser,3,2026-05-10
+internet-computer,Internet Computer,icp,3.42,-4.63957,loser,4,2026-05-10
+canton-network,Canton,cc,0.152407,-4.56805,loser,5,2026-05-10
+filecoin,Filecoin,fil,1.17,-4.10964,loser,6,2026-05-10
+virtual-protocol,Virtuals Protocol,virtual,0.902289,-3.95416,loser,7,2026-05-10
+quant-network,Quant,qnt,73.29,-2.9325,loser,8,2026-05-10
+stable-2,​​Stable,stable,0.03388649,-2.8991,loser,9,2026-05-10
+dash,Dash,dash,48.41,-2.85254,loser,10,2026-05-10
