@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,15.75,16.25233,gainer,1,2026-05-09
-internet-computer,Internet Computer,icp,3.55,10.68675,gainer,2,2026-05-09
-jupiter-exchange-solana,Jupiter,jup,0.260711,9.17823,gainer,3,2026-05-09
-canton-network,Canton,cc,0.155695,6.56279,gainer,4,2026-05-09
-siren-2,Siren,siren,1.28,5.43107,gainer,5,2026-05-09
-stable-2,​​Stable,stable,0.03421455,4.87958,gainer,6,2026-05-09
-sui,Sui,sui,1.066,4.0835,gainer,7,2026-05-09
-aster-2,Aster,aster,0.704625,3.8664,gainer,8,2026-05-09
-gatechain-token,Gate,gt,7.5,3.23044,gainer,9,2026-05-09
-zcash,Zcash,zec,596.07,3.16197,gainer,10,2026-05-09
-ondo-finance,Ondo,ondo,0.428316,-6.91014,loser,1,2026-05-09
-the-open-network,Toncoin,ton,2.42,-6.79918,loser,2,2026-05-09
-world-liberty-financial,World Liberty Financial,wlfi,0.070035,-6.72775,loser,3,2026-05-09
-memecore,MemeCore,m,3.42,-4.96738,loser,4,2026-05-09
-sky,Sky,sky,0.079818,-3.921,loser,5,2026-05-09
-ethereum-classic,Ethereum Classic,etc,9.55,-2.69942,loser,6,2026-05-09
-render-token,Render,render,2.01,-2.64098,loser,7,2026-05-09
-vechain,VeChain,vet,0.00763782,-2.40731,loser,8,2026-05-09
-rain,Rain,rain,0.00740965,-1.79941,loser,9,2026-05-09
-polkadot,Polkadot,dot,1.35,-1.64926,loser,10,2026-05-09
+venice-token,Venice Token,vvv,15.38,8.96312,gainer,1,2026-05-10
+canton-network,Canton,cc,0.156095,3.30588,gainer,2,2026-05-10
+flare-networks,Flare,flr,0.0083171,3.26298,gainer,3,2026-05-10
+hash-2,Provenance Blockchain,hash,0.01078877,2.34109,gainer,4,2026-05-10
+just,JUST,jst,0.083759,2.01727,gainer,5,2026-05-10
+stable-2,​​Stable,stable,0.03390854,1.91967,gainer,6,2026-05-10
+kaspa,Kaspa,kas,0.03736967,1.88965,gainer,7,2026-05-10
+monero,Monero,xmr,408.4,0.74309,gainer,8,2026-05-10
+gatechain-token,Gate,gt,7.45,0.57519,gainer,9,2026-05-10
+nexo,NEXO,nexo,0.912943,0.56292,gainer,10,2026-05-10
+ondo-finance,Ondo,ondo,0.411726,-12.58622,loser,1,2026-05-10
+internet-computer,Internet Computer,icp,3.52,-12.17773,loser,2,2026-05-10
+filecoin,Filecoin,fil,1.19,-7.80681,loser,3,2026-05-10
+world-liberty-financial,World Liberty Financial,wlfi,0.069914,-7.23555,loser,4,2026-05-10
+vechain,VeChain,vet,0.00751962,-7.23182,loser,5,2026-05-10
+virtual-protocol,Virtuals Protocol,virtual,0.890796,-6.84398,loser,6,2026-05-10
+sky,Sky,sky,0.078878,-6.5065,loser,7,2026-05-10
+memecore,MemeCore,m,3.38,-5.18486,loser,8,2026-05-10
+the-open-network,Toncoin,ton,2.43,-4.74405,loser,9,2026-05-10
+ethena,Ethena,ena,0.127033,-4.74357,loser,10,2026-05-10
