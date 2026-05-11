@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sui,Sui,sui,1.33,23.57586,gainer,1,2026-05-11
-dexe,DeXe,dexe,12.84,7.51698,gainer,2,2026-05-11
-uniswap,Uniswap,uni,3.98,6.90978,gainer,3,2026-05-11
-cosmos,Cosmos Hub,atom,2.03,6.56539,gainer,4,2026-05-11
-crypto-com-chain,Cronos,cro,0.075037,6.2843,gainer,5,2026-05-11
-jupiter-exchange-solana,Jupiter,jup,0.25807,6.15548,gainer,6,2026-05-11
-aave,Aave,aave,100.97,5.97569,gainer,7,2026-05-11
-ondo-finance,Ondo,ondo,0.43492,5.66425,gainer,8,2026-05-11
-worldcoin-wld,Worldcoin,wld,0.280687,5.5397,gainer,9,2026-05-11
-bonk,Bonk,bonk,7.56e-06,5.35218,gainer,10,2026-05-11
-siren-2,Siren,siren,1.16,-6.40548,loser,1,2026-05-11
-internet-computer,Internet Computer,icp,3.34,-6.04347,loser,2,2026-05-11
-dash,Dash,dash,46.85,-4.39285,loser,3,2026-05-11
-filecoin,Filecoin,fil,1.14,-4.17161,loser,4,2026-05-11
-zcash,Zcash,zec,580.18,-3.15186,loser,5,2026-05-11
-figure-heloc,Figure Heloc,figr_heloc,1.0,-2.80335,loser,6,2026-05-11
-world-liberty-financial,World Liberty Financial,wlfi,0.068453,-2.16994,loser,7,2026-05-11
-memecore,MemeCore,m,3.32,-2.0967,loser,8,2026-05-11
-leo-token,LEO Token,leo,10.12,-1.9538,loser,9,2026-05-11
-venice-token,Venice Token,vvv,15.22,-0.99267,loser,10,2026-05-11
+venice-token,Venice Token,vvv,18.03,19.23894,gainer,1,2026-05-11
+sui,Sui,sui,1.26,10.95676,gainer,2,2026-05-11
+xdce-crowd-sale,XDC Network,xdc,0.03271226,7.96945,gainer,3,2026-05-11
+dexe,DeXe,dexe,12.82,7.29271,gainer,4,2026-05-11
+kaspa,Kaspa,kas,0.0392612,6.21814,gainer,5,2026-05-11
+hash-2,Provenance Blockchain,hash,0.01098203,6.1088,gainer,6,2026-05-11
+cosmos,Cosmos Hub,atom,2.04,5.33811,gainer,7,2026-05-11
+ondo-finance,Ondo,ondo,0.429695,5.29461,gainer,8,2026-05-11
+crypto-com-chain,Cronos,cro,0.074771,3.99488,gainer,9,2026-05-11
+aave,Aave,aave,100.52,3.73983,gainer,10,2026-05-11
+zcash,Zcash,zec,572.25,-6.29873,loser,1,2026-05-11
+the-open-network,Toncoin,ton,2.3,-5.90171,loser,2,2026-05-11
+filecoin,Filecoin,fil,1.13,-4.87128,loser,3,2026-05-11
+algorand,Algorand,algo,0.123226,-4.61383,loser,4,2026-05-11
+pump-fun,Pump.fun,pump,0.00209976,-3.88249,loser,5,2026-05-11
+memecore,MemeCore,m,3.23,-3.75624,loser,6,2026-05-11
+dash,Dash,dash,47.5,-3.25437,loser,7,2026-05-11
+hyperliquid,Hyperliquid,hype,41.9,-2.73863,loser,8,2026-05-11
+pudgy-penguins,Pudgy Penguins,pengu,0.0103177,-2.72431,loser,9,2026-05-11
+uniswap,Uniswap,uni,3.93,-2.29376,loser,10,2026-05-11
