@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sui,Sui,sui,1.35,27.06144,gainer,1,2026-05-10
-bonk,Bonk,bonk,8.05e-06,11.39447,gainer,2,2026-05-10
-flare-networks,Flare,flr,0.00888275,8.55899,gainer,3,2026-05-10
-uniswap,Uniswap,uni,4.04,8.26323,gainer,4,2026-05-10
-hedera-hashgraph,Hedera,hbar,0.098853,6.60443,gainer,5,2026-05-10
-aptos,Aptos,apt,1.18,5.90603,gainer,6,2026-05-10
-stellar,Stellar,xlm,0.17219,5.76699,gainer,7,2026-05-10
-pepe,Pepe,pepe,4.52e-06,5.72529,gainer,8,2026-05-10
-cardano,Cardano,ada,0.287243,5.51642,gainer,9,2026-05-10
-bittensor,Bittensor,tao,327.93,5.38871,gainer,10,2026-05-10
-siren-2,Siren,siren,1.14,-10.6468,loser,1,2026-05-10
-venice-token,Venice Token,vvv,14.45,-8.18013,loser,2,2026-05-10
-internet-computer,Internet Computer,icp,3.42,-3.6159,loser,3,2026-05-10
-ondo-finance,Ondo,ondo,0.413032,-3.56847,loser,4,2026-05-10
-figure-heloc,Figure Heloc,figr_heloc,1.0,-2.64476,loser,5,2026-05-10
-filecoin,Filecoin,fil,1.19,-2.61161,loser,6,2026-05-10
-memecore,MemeCore,m,3.33,-2.59753,loser,7,2026-05-10
-leo-token,LEO Token,leo,10.11,-2.11279,loser,8,2026-05-10
-virtual-protocol,Virtuals Protocol,virtual,0.920023,-2.03482,loser,9,2026-05-10
-dash,Dash,dash,49.06,-1.9422,loser,10,2026-05-10
+sui,Sui,sui,1.33,23.57586,gainer,1,2026-05-11
+dexe,DeXe,dexe,12.84,7.51698,gainer,2,2026-05-11
+uniswap,Uniswap,uni,3.98,6.90978,gainer,3,2026-05-11
+cosmos,Cosmos Hub,atom,2.03,6.56539,gainer,4,2026-05-11
+crypto-com-chain,Cronos,cro,0.075037,6.2843,gainer,5,2026-05-11
+jupiter-exchange-solana,Jupiter,jup,0.25807,6.15548,gainer,6,2026-05-11
+aave,Aave,aave,100.97,5.97569,gainer,7,2026-05-11
+ondo-finance,Ondo,ondo,0.43492,5.66425,gainer,8,2026-05-11
+worldcoin-wld,Worldcoin,wld,0.280687,5.5397,gainer,9,2026-05-11
+bonk,Bonk,bonk,7.56e-06,5.35218,gainer,10,2026-05-11
+siren-2,Siren,siren,1.16,-6.40548,loser,1,2026-05-11
+internet-computer,Internet Computer,icp,3.34,-6.04347,loser,2,2026-05-11
+dash,Dash,dash,46.85,-4.39285,loser,3,2026-05-11
+filecoin,Filecoin,fil,1.14,-4.17161,loser,4,2026-05-11
+zcash,Zcash,zec,580.18,-3.15186,loser,5,2026-05-11
+figure-heloc,Figure Heloc,figr_heloc,1.0,-2.80335,loser,6,2026-05-11
+world-liberty-financial,World Liberty Financial,wlfi,0.068453,-2.16994,loser,7,2026-05-11
+memecore,MemeCore,m,3.32,-2.0967,loser,8,2026-05-11
+leo-token,LEO Token,leo,10.12,-1.9538,loser,9,2026-05-11
+venice-token,Venice Token,vvv,15.22,-0.99267,loser,10,2026-05-11
