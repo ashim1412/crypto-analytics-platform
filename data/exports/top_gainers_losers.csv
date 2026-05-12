@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-build-on,BUILDon,b,0.651708,36.05131,gainer,1,2026-05-12
-skyai,SkyAI,skyai,0.566012,31.36777,gainer,2,2026-05-12
-stable-2,​​Stable,stable,0.0395024,14.55575,gainer,3,2026-05-12
-canton-network,Canton,cc,0.159764,4.25124,gainer,4,2026-05-12
-siren-2,Siren,siren,1.2,3.3772,gainer,5,2026-05-12
-xdce-crowd-sale,XDC Network,xdc,0.0330902,2.77605,gainer,6,2026-05-12
-midnight-3,Midnight,night,0.03532391,2.76807,gainer,7,2026-05-12
-crypto-com-chain,Cronos,cro,0.080141,2.49531,gainer,8,2026-05-12
-figure-heloc,Figure Heloc,figr_heloc,1.03,2.4139,gainer,9,2026-05-12
-world-liberty-financial,World Liberty Financial,wlfi,0.067379,2.36483,gainer,10,2026-05-12
-internet-computer,Internet Computer,icp,3.28,-5.84569,loser,1,2026-05-12
-ethena,Ethena,ena,0.122521,-5.41407,loser,2,2026-05-12
-jupiter-exchange-solana,Jupiter,jup,0.231895,-5.15917,loser,3,2026-05-12
-pump-fun,Pump.fun,pump,0.00200239,-4.2369,loser,4,2026-05-12
-bonk,Bonk,bonk,7.18e-06,-3.7219,loser,5,2026-05-12
-ondo-finance,Ondo,ondo,0.40693,-3.64067,loser,6,2026-05-12
-aptos,Aptos,apt,1.08,-3.49323,loser,7,2026-05-12
-mantle,Mantle,mnt,0.67584,-3.43286,loser,8,2026-05-12
-worldcoin-wld,Worldcoin,wld,0.269778,-3.31074,loser,9,2026-05-12
-pudgy-penguins,Pudgy Penguins,pengu,0.00988975,-3.26343,loser,10,2026-05-12
+stable-2,​​Stable,stable,0.03883851,12.19686,gainer,1,2026-05-12
+cosmos,Cosmos Hub,atom,2.13,6.05128,gainer,2,2026-05-12
+dexe,DeXe,dexe,13.09,4.57916,gainer,3,2026-05-12
+near,NEAR Protocol,near,1.61,3.77577,gainer,4,2026-05-12
+just,JUST,jst,0.090258,2.92667,gainer,5,2026-05-12
+memecore,MemeCore,m,3.35,2.04726,gainer,6,2026-05-12
+siren-2,Siren,siren,1.17,1.23475,gainer,7,2026-05-12
+build-on,BUILDon,b,0.645202,0.42563,gainer,8,2026-05-12
+united-stables,United Stables,u,0.999821,0.15808,gainer,9,2026-05-12
+figure-heloc,Figure Heloc,figr_heloc,1.032,0.09671,gainer,10,2026-05-12
+venice-token,Venice Token,vvv,16.3,-8.63742,loser,1,2026-05-12
+ondo-finance,Ondo,ondo,0.396191,-7.9816,loser,2,2026-05-12
+pudgy-penguins,Pudgy Penguins,pengu,0.00961437,-7.08077,loser,3,2026-05-12
+pump-fun,Pump.fun,pump,0.00196097,-6.93151,loser,4,2026-05-12
+ethena,Ethena,ena,0.121561,-6.46865,loser,5,2026-05-12
+aave,Aave,aave,96.08,-6.0972,loser,6,2026-05-12
+internet-computer,Internet Computer,icp,3.19,-5.97556,loser,7,2026-05-12
+bonk,Bonk,bonk,7.12e-06,-5.96413,loser,8,2026-05-12
+bittensor,Bittensor,tao,307.69,-5.82933,loser,9,2026-05-12
+midnight-3,Midnight,night,0.03407945,-5.57087,loser,10,2026-05-12
