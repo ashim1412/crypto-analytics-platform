@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-build-on,BUILDon,b,0.64241,57.52706,gainer,1,2026-05-11
-venice-token,Venice Token,vvv,17.84,23.28025,gainer,2,2026-05-11
-midnight-3,Midnight,night,0.03598265,6.61071,gainer,3,2026-05-11
-kaspa,Kaspa,kas,0.04056917,5.37938,gainer,4,2026-05-11
-crypto-com-chain,Cronos,cro,0.078806,5.10347,gainer,5,2026-05-11
-just,JUST,jst,0.087656,4.26259,gainer,6,2026-05-11
-xdce-crowd-sale,XDC Network,xdc,0.03177957,3.33876,gainer,7,2026-05-11
-figure-heloc,Figure Heloc,figr_heloc,1.031,3.14308,gainer,8,2026-05-11
-ondo-finance,Ondo,ondo,0.430113,2.92963,gainer,9,2026-05-11
-siren-2,Siren,siren,1.15,2.026,gainer,10,2026-05-11
-jupiter-exchange-solana,Jupiter,jup,0.243056,-7.72133,loser,1,2026-05-11
-ethena,Ethena,ena,0.129783,-6.34259,loser,2,2026-05-11
-pudgy-penguins,Pudgy Penguins,pengu,0.01034418,-5.90921,loser,3,2026-05-11
-bonk,Bonk,bonk,7.56e-06,-5.87295,loser,4,2026-05-11
-pump-fun,Pump.fun,pump,0.00210252,-5.84736,loser,5,2026-05-11
-dash,Dash,dash,46.51,-5.53979,loser,6,2026-05-11
-sky,Sky,sky,0.07591,-5.11092,loser,7,2026-05-11
-filecoin,Filecoin,fil,1.13,-5.03794,loser,8,2026-05-11
-algorand,Algorand,algo,0.122973,-5.01592,loser,9,2026-05-11
-render-token,Render,render,1.97,-4.95718,loser,10,2026-05-11
+build-on,BUILDon,b,0.628252,55.41461,gainer,1,2026-05-12
+venice-token,Venice Token,vvv,17.15,12.57929,gainer,2,2026-05-12
+midnight-3,Midnight,night,0.03515898,5.47096,gainer,3,2026-05-12
+xdce-crowd-sale,XDC Network,xdc,0.03170645,5.14776,gainer,4,2026-05-12
+canton-network,Canton,cc,0.162466,3.72224,gainer,5,2026-05-12
+just,JUST,jst,0.088125,3.65619,gainer,6,2026-05-12
+kaspa,Kaspa,kas,0.03991879,3.65494,gainer,7,2026-05-12
+crypto-com-chain,Cronos,cro,0.07762,3.40075,gainer,8,2026-05-12
+figure-heloc,Figure Heloc,figr_heloc,1.03,2.3989,gainer,9,2026-05-12
+flare-networks,Flare,flr,0.00872053,1.1049,gainer,10,2026-05-12
+pump-fun,Pump.fun,pump,0.00204272,-6.33617,loser,1,2026-05-12
+zcash,Zcash,zec,549.57,-5.55789,loser,2,2026-05-12
+jupiter-exchange-solana,Jupiter,jup,0.244773,-5.28482,loser,3,2026-05-12
+sky,Sky,sky,0.074615,-4.74712,loser,4,2026-05-12
+algorand,Algorand,algo,0.120906,-4.43966,loser,5,2026-05-12
+uniswap,Uniswap,uni,3.81,-4.0642,loser,6,2026-05-12
+ethena,Ethena,ena,0.124845,-3.95358,loser,7,2026-05-12
+render-token,Render,render,1.91,-3.90226,loser,8,2026-05-12
+pudgy-penguins,Pudgy Penguins,pengu,0.01004461,-3.72199,loser,9,2026-05-12
+sui,Sui,sui,1.28,-3.59486,loser,10,2026-05-12
