@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.03936173,13.93891,gainer,1,2026-05-13
-near,NEAR Protocol,near,1.68,11.02461,gainer,2,2026-05-13
-cosmos,Cosmos Hub,atom,2.14,6.29414,gainer,3,2026-05-13
-zcash,Zcash,zec,577.38,4.62134,gainer,4,2026-05-13
-official-trump,Official Trump,trump,2.5,3.90537,gainer,5,2026-05-13
-dash,Dash,dash,47.09,3.73863,gainer,6,2026-05-13
-siren-2,Siren,siren,1.18,3.47573,gainer,7,2026-05-13
-algorand,Algorand,algo,0.124682,2.79825,gainer,8,2026-05-13
-just,JUST,jst,0.090481,2.53204,gainer,9,2026-05-13
-binancecoin,BNB,bnb,678.38,2.23705,gainer,10,2026-05-13
-venice-token,Venice Token,vvv,16.01,-7.02793,loser,1,2026-05-13
-ondo-finance,Ondo,ondo,0.404764,-6.23386,loser,2,2026-05-13
-canton-network,Canton,cc,0.153773,-5.29124,loser,3,2026-05-13
-pudgy-penguins,Pudgy Penguins,pengu,0.00957583,-4.73403,loser,4,2026-05-13
-the-open-network,Toncoin,ton,2.31,-3.27107,loser,5,2026-05-13
-morpho,Morpho,morpho,2.04,-3.14038,loser,6,2026-05-13
-kaspa,Kaspa,kas,0.03873547,-2.92499,loser,7,2026-05-13
-bonk,Bonk,bonk,7.2e-06,-2.74037,loser,8,2026-05-13
-sui,Sui,sui,1.25,-2.5402,loser,9,2026-05-13
-pump-fun,Pump.fun,pump,0.00200549,-2.38406,loser,10,2026-05-13
+build-on,BUILDon,b,0.705213,12.38501,gainer,1,2026-05-13
+official-trump,Official Trump,trump,2.48,4.74505,gainer,2,2026-05-13
+near,NEAR Protocol,near,1.62,4.54042,gainer,3,2026-05-13
+cosmos,Cosmos Hub,atom,2.13,3.86344,gainer,4,2026-05-13
+polkadot,Polkadot,dot,1.4,3.54024,gainer,5,2026-05-13
+binancecoin,BNB,bnb,678.89,3.00212,gainer,6,2026-05-13
+world-liberty-financial,World Liberty Financial,wlfi,0.068608,2.79212,gainer,7,2026-05-13
+dexe,DeXe,dexe,13.02,2.61447,gainer,8,2026-05-13
+monero,Monero,xmr,414.4,2.23945,gainer,9,2026-05-13
+worldcoin-wld,Worldcoin,wld,0.279094,2.21936,gainer,10,2026-05-13
+venice-token,Venice Token,vvv,14.88,-11.29065,loser,1,2026-05-13
+the-open-network,Toncoin,ton,2.26,-6.46586,loser,2,2026-05-13
+pudgy-penguins,Pudgy Penguins,pengu,0.0094625,-5.49428,loser,3,2026-05-13
+canton-network,Canton,cc,0.153229,-5.30205,loser,4,2026-05-13
+ondo-finance,Ondo,ondo,0.397821,-4.49458,loser,5,2026-05-13
+bittensor,Bittensor,tao,304.92,-4.19676,loser,6,2026-05-13
+kaspa,Kaspa,kas,0.03772932,-3.06119,loser,7,2026-05-13
+hyperliquid,Hyperliquid,hype,40.12,-2.84677,loser,8,2026-05-13
+sui,Sui,sui,1.24,-2.34665,loser,9,2026-05-13
+leo-token,LEO Token,leo,10.0,-2.03404,loser,10,2026-05-13
