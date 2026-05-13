@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-injective-protocol,Injective,inj,5.78,18.24226,gainer,1,2026-05-13
-build-on,BUILDon,b,0.706315,9.81391,gainer,2,2026-05-13
-cosmos,Cosmos Hub,atom,2.07,3.12837,gainer,3,2026-05-13
-near,NEAR Protocol,near,1.58,2.78815,gainer,4,2026-05-13
-dexe,DeXe,dexe,12.97,2.29209,gainer,5,2026-05-13
-just,JUST,jst,0.09114,2.01062,gainer,6,2026-05-13
-binancecoin,BNB,bnb,667.37,1.54509,gainer,7,2026-05-13
-dogecoin,Dogecoin,doge,0.110571,1.46068,gainer,8,2026-05-13
-polkadot,Polkadot,dot,1.34,1.42661,gainer,9,2026-05-13
-siren-2,Siren,siren,1.2,1.32477,gainer,10,2026-05-13
-venice-token,Venice Token,vvv,14.64,-13.24402,loser,1,2026-05-13
-the-open-network,Toncoin,ton,2.13,-8.39122,loser,2,2026-05-13
-pudgy-penguins,Pudgy Penguins,pengu,0.00911837,-7.48871,loser,3,2026-05-13
-crypto-com-chain,Cronos,cro,0.0764,-5.0634,loser,4,2026-05-13
-ondo-finance,Ondo,ondo,0.385225,-4.99362,loser,5,2026-05-13
-bittensor,Bittensor,tao,297.54,-4.80201,loser,6,2026-05-13
-internet-computer,Internet Computer,icp,3.13,-4.09108,loser,7,2026-05-13
-bonk,Bonk,bonk,6.87e-06,-3.9014,loser,8,2026-05-13
-canton-network,Canton,cc,0.152822,-3.72478,loser,9,2026-05-13
-xdce-crowd-sale,XDC Network,xdc,0.03177943,-3.70458,loser,10,2026-05-13
+siren-2,Siren,siren,1.25,6.91219,gainer,1,2026-05-13
+build-on,BUILDon,b,0.669191,4.83437,gainer,2,2026-05-13
+dogecoin,Dogecoin,doge,0.11251,2.57381,gainer,3,2026-05-13
+just,JUST,jst,0.091525,1.39053,gainer,4,2026-05-13
+stable-2,​​Stable,stable,0.03947693,1.30188,gainer,5,2026-05-13
+binancecoin,BNB,bnb,669.68,1.2156,gainer,6,2026-05-13
+figure-heloc,Figure Heloc,figr_heloc,1.043,0.90741,gainer,7,2026-05-13
+canton-network,Canton,cc,0.154485,0.75486,gainer,8,2026-05-13
+official-trump,Official Trump,trump,2.35,0.59508,gainer,9,2026-05-13
+beldex,Beldex,bdx,0.079927,0.3459,gainer,10,2026-05-13
+the-open-network,Toncoin,ton,2.13,-8.64029,loser,1,2026-05-13
+venice-token,Venice Token,vvv,15.09,-7.45465,loser,2,2026-05-13
+dexe,DeXe,dexe,12.12,-7.32671,loser,3,2026-05-13
+pudgy-penguins,Pudgy Penguins,pengu,0.00905167,-5.82235,loser,4,2026-05-13
+filecoin,Filecoin,fil,1.045,-4.79709,loser,5,2026-05-13
+bittensor,Bittensor,tao,293.18,-4.71739,loser,6,2026-05-13
+dash,Dash,dash,44.02,-4.59904,loser,7,2026-05-13
+pump-fun,Pump.fun,pump,0.0018718,-4.52778,loser,8,2026-05-13
+sui,Sui,sui,1.21,-4.35192,loser,9,2026-05-13
+solana,Solana,sol,90.56,-4.3042,loser,10,2026-05-13
