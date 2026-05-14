@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,76.04,3.68714,gainer,1,2026-05-14
-memecore,MemeCore,m,3.37,2.86421,gainer,2,2026-05-14
-canton-network,Canton,cc,0.157956,2.84019,gainer,3,2026-05-14
-stable-2,​​Stable,stable,0.03895288,2.04856,gainer,4,2026-05-14
-hash-2,Provenance Blockchain,hash,0.01051949,0.99808,gainer,5,2026-05-14
-dogecoin,Dogecoin,doge,0.113221,0.82227,gainer,6,2026-05-14
-leo-token,LEO Token,leo,10.06,0.6097,gainer,7,2026-05-14
-tron,TRON,trx,0.351092,0.4103,gainer,8,2026-05-14
-mantle,Mantle,mnt,0.673726,0.25694,gainer,9,2026-05-14
-ethena-usde,Ethena USDe,usde,1.0,0.05022,gainer,10,2026-05-14
-internet-computer,Internet Computer,icp,2.96,-9.56987,loser,1,2026-05-14
-worldcoin-wld,Worldcoin,wld,0.256369,-7.86105,loser,2,2026-05-14
-pump-fun,Pump.fun,pump,0.00184482,-7.68201,loser,3,2026-05-14
-jupiter-exchange-solana,Jupiter,jup,0.220733,-7.19733,loser,4,2026-05-14
-arbitrum,Arbitrum,arb,0.130153,-6.99937,loser,5,2026-05-14
-aptos,Aptos,apt,1.033,-6.85232,loser,6,2026-05-14
-the-open-network,Toncoin,ton,2.11,-6.8169,loser,7,2026-05-14
-crypto-com-chain,Cronos,cro,0.073914,-6.63312,loser,8,2026-05-14
-venice-token,Venice Token,vvv,13.96,-6.28634,loser,9,2026-05-14
-morpho,Morpho,morpho,1.97,-6.16775,loser,10,2026-05-14
+canton-network,Canton,cc,0.167604,9.51472,gainer,1,2026-05-14
+quant-network,Quant,qnt,78.32,7.66802,gainer,2,2026-05-14
+stable-2,​​Stable,stable,0.04110464,5.96849,gainer,3,2026-05-14
+memecore,MemeCore,m,3.36,5.137,gainer,4,2026-05-14
+xdce-crowd-sale,XDC Network,xdc,0.03363977,4.68492,gainer,5,2026-05-14
+hyperliquid,Hyperliquid,hype,40.82,3.31485,gainer,6,2026-05-14
+hash-2,Provenance Blockchain,hash,0.01084097,3.26286,gainer,7,2026-05-14
+dogecoin,Dogecoin,doge,0.115713,3.09626,gainer,8,2026-05-14
+mantle,Mantle,mnt,0.678704,2.41532,gainer,9,2026-05-14
+bitget-token,Bitget Token,bgb,2.09,1.66581,gainer,10,2026-05-14
+internet-computer,Internet Computer,icp,2.92,-7.88972,loser,1,2026-05-14
+morpho,Morpho,morpho,1.95,-5.33422,loser,2,2026-05-14
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.094175,-5.1522,loser,3,2026-05-14
+worldcoin-wld,Worldcoin,wld,0.257114,-4.83755,loser,4,2026-05-14
+zcash,Zcash,zec,526.92,-4.22426,loser,5,2026-05-14
+crypto-com-chain,Cronos,cro,0.074579,-4.17612,loser,6,2026-05-14
+arbitrum,Arbitrum,arb,0.130253,-4.02619,loser,7,2026-05-14
+venice-token,Venice Token,vvv,14.04,-3.76417,loser,8,2026-05-14
+aptos,Aptos,apt,1.039,-3.66716,loser,9,2026-05-14
+sky,Sky,sky,0.072643,-2.99901,loser,10,2026-05-14
