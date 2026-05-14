@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-canton-network,Canton,cc,0.167604,9.51472,gainer,1,2026-05-14
-quant-network,Quant,qnt,78.32,7.66802,gainer,2,2026-05-14
-stable-2,​​Stable,stable,0.04110464,5.96849,gainer,3,2026-05-14
-memecore,MemeCore,m,3.36,5.137,gainer,4,2026-05-14
-xdce-crowd-sale,XDC Network,xdc,0.03363977,4.68492,gainer,5,2026-05-14
-hyperliquid,Hyperliquid,hype,40.82,3.31485,gainer,6,2026-05-14
-hash-2,Provenance Blockchain,hash,0.01084097,3.26286,gainer,7,2026-05-14
-dogecoin,Dogecoin,doge,0.115713,3.09626,gainer,8,2026-05-14
-mantle,Mantle,mnt,0.678704,2.41532,gainer,9,2026-05-14
-bitget-token,Bitget Token,bgb,2.09,1.66581,gainer,10,2026-05-14
-internet-computer,Internet Computer,icp,2.92,-7.88972,loser,1,2026-05-14
-morpho,Morpho,morpho,1.95,-5.33422,loser,2,2026-05-14
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094175,-5.1522,loser,3,2026-05-14
-worldcoin-wld,Worldcoin,wld,0.257114,-4.83755,loser,4,2026-05-14
-zcash,Zcash,zec,526.92,-4.22426,loser,5,2026-05-14
-crypto-com-chain,Cronos,cro,0.074579,-4.17612,loser,6,2026-05-14
-arbitrum,Arbitrum,arb,0.130253,-4.02619,loser,7,2026-05-14
-venice-token,Venice Token,vvv,14.04,-3.76417,loser,8,2026-05-14
-aptos,Aptos,apt,1.039,-3.66716,loser,9,2026-05-14
-sky,Sky,sky,0.072643,-2.99901,loser,10,2026-05-14
+hyperliquid,Hyperliquid,hype,44.38,13.60332,gainer,1,2026-05-14
+xdce-crowd-sale,XDC Network,xdc,0.03433235,9.2803,gainer,2,2026-05-14
+ripple,XRP,xrp,1.54,8.58665,gainer,3,2026-05-14
+flare-networks,Flare,flr,0.00933196,8.23435,gainer,4,2026-05-14
+quant-network,Quant,qnt,78.7,7.8199,gainer,5,2026-05-14
+polkadot,Polkadot,dot,1.42,7.27911,gainer,6,2026-05-14
+mantle,Mantle,mnt,0.692479,6.26373,gainer,7,2026-05-14
+stable-2,​​Stable,stable,0.04193571,6.21954,gainer,8,2026-05-14
+dexe,DeXe,dexe,12.86,6.17129,gainer,9,2026-05-14
+canton-network,Canton,cc,0.162701,5.64851,gainer,10,2026-05-14
+internet-computer,Internet Computer,icp,2.86,-7.09696,loser,1,2026-05-14
+venice-token,Venice Token,vvv,14.55,-3.40225,loser,2,2026-05-14
+just,JUST,jst,0.089777,-1.88232,loser,3,2026-05-14
+sky,Sky,sky,0.073178,-1.80785,loser,4,2026-05-14
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.09544,-1.66392,loser,5,2026-05-14
+zcash,Zcash,zec,533.97,-1.04668,loser,6,2026-05-14
+beldex,Beldex,bdx,0.079147,-0.98223,loser,7,2026-05-14
+monero,Monero,xmr,398.91,-0.87269,loser,8,2026-05-14
+figure-heloc,Figure Heloc,figr_heloc,1.034,-0.83697,loser,9,2026-05-14
+morpho,Morpho,morpho,1.98,-0.61404,loser,10,2026-05-14
