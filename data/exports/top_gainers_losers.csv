@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-unibase,Unibase,ub,0.224301,31.93411,gainer,1,2026-05-14
-stable-2,​​Stable,stable,0.0408944,3.42929,gainer,2,2026-05-14
-dogecoin,Dogecoin,doge,0.114453,2.81875,gainer,3,2026-05-14
-build-on,BUILDon,b,0.6529,2.08318,gainer,4,2026-05-14
-canton-network,Canton,cc,0.156229,1.50149,gainer,5,2026-05-14
-just,JUST,jst,0.091269,1.49137,gainer,6,2026-05-14
-leo-token,LEO Token,leo,10.06,0.78521,gainer,7,2026-05-14
-figure-heloc,Figure Heloc,figr_heloc,1.044,0.61513,gainer,8,2026-05-14
-world-liberty-financial,World Liberty Financial,wlfi,0.068085,0.36641,gainer,9,2026-05-14
-mantle,Mantle,mnt,0.673826,0.21679,gainer,10,2026-05-14
-venice-token,Venice Token,vvv,13.33,-16.44536,loser,1,2026-05-14
-the-open-network,Toncoin,ton,2.09,-9.42701,loser,2,2026-05-14
-zcash,Zcash,zec,529.22,-8.32708,loser,3,2026-05-14
-jupiter-exchange-solana,Jupiter,jup,0.222716,-7.67362,loser,4,2026-05-14
-pump-fun,Pump.fun,pump,0.00186855,-6.64156,loser,5,2026-05-14
-dexe,DeXe,dexe,12.17,-6.6013,loser,6,2026-05-14
-ondo-finance,Ondo,ondo,0.382497,-5.86035,loser,7,2026-05-14
-cosmos,Cosmos Hub,atom,2.03,-5.76492,loser,8,2026-05-14
-crypto-com-chain,Cronos,cro,0.074765,-5.39629,loser,9,2026-05-14
-official-trump,Official Trump,trump,2.37,-5.35288,loser,10,2026-05-14
+quant-network,Quant,qnt,76.04,3.68714,gainer,1,2026-05-14
+memecore,MemeCore,m,3.37,2.86421,gainer,2,2026-05-14
+canton-network,Canton,cc,0.157956,2.84019,gainer,3,2026-05-14
+stable-2,​​Stable,stable,0.03895288,2.04856,gainer,4,2026-05-14
+hash-2,Provenance Blockchain,hash,0.01051949,0.99808,gainer,5,2026-05-14
+dogecoin,Dogecoin,doge,0.113221,0.82227,gainer,6,2026-05-14
+leo-token,LEO Token,leo,10.06,0.6097,gainer,7,2026-05-14
+tron,TRON,trx,0.351092,0.4103,gainer,8,2026-05-14
+mantle,Mantle,mnt,0.673726,0.25694,gainer,9,2026-05-14
+ethena-usde,Ethena USDe,usde,1.0,0.05022,gainer,10,2026-05-14
+internet-computer,Internet Computer,icp,2.96,-9.56987,loser,1,2026-05-14
+worldcoin-wld,Worldcoin,wld,0.256369,-7.86105,loser,2,2026-05-14
+pump-fun,Pump.fun,pump,0.00184482,-7.68201,loser,3,2026-05-14
+jupiter-exchange-solana,Jupiter,jup,0.220733,-7.19733,loser,4,2026-05-14
+arbitrum,Arbitrum,arb,0.130153,-6.99937,loser,5,2026-05-14
+aptos,Aptos,apt,1.033,-6.85232,loser,6,2026-05-14
+the-open-network,Toncoin,ton,2.11,-6.8169,loser,7,2026-05-14
+crypto-com-chain,Cronos,cro,0.073914,-6.63312,loser,8,2026-05-14
+venice-token,Venice Token,vvv,13.96,-6.28634,loser,9,2026-05-14
+morpho,Morpho,morpho,1.97,-6.16775,loser,10,2026-05-14
