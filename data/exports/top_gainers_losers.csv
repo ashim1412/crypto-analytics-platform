@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-flare-networks,Flare,flr,0.00943722,7.84326,gainer,1,2026-05-15
-hyperliquid,Hyperliquid,hype,43.29,5.62061,gainer,2,2026-05-15
-hash-2,Provenance Blockchain,hash,0.0114356,5.48514,gainer,3,2026-05-15
-xdce-crowd-sale,XDC Network,xdc,0.03534167,5.01736,gainer,4,2026-05-15
-dexe,DeXe,dexe,13.12,4.14847,gainer,5,2026-05-15
-just,JUST,jst,0.090933,1.68726,gainer,6,2026-05-15
-nexo,NEXO,nexo,0.910059,0.90223,gainer,7,2026-05-15
-okb,OKB,okb,85.6,0.88895,gainer,8,2026-05-15
-binancecoin,BNB,bnb,681.71,0.85064,gainer,9,2026-05-15
-uniswap,Uniswap,uni,3.66,0.71459,gainer,10,2026-05-15
-stable-2,​​Stable,stable,0.03716926,-9.56356,loser,1,2026-05-15
-internet-computer,Internet Computer,icp,2.67,-8.45869,loser,2,2026-05-15
-sui,Sui,sui,1.12,-7.71358,loser,3,2026-05-15
-canton-network,Canton,cc,0.160097,-4.45166,loser,4,2026-05-15
-memecore,MemeCore,m,3.22,-3.99704,loser,5,2026-05-15
-the-open-network,Toncoin,ton,2.04,-3.69846,loser,6,2026-05-15
-monero,Monero,xmr,384.81,-3.47047,loser,7,2026-05-15
-pump-fun,Pump.fun,pump,0.00183468,-3.41283,loser,8,2026-05-15
-kaspa,Kaspa,kas,0.0359983,-3.38314,loser,9,2026-05-15
-tether-gold,Tether Gold,xaut,4553.5,-2.84144,loser,10,2026-05-15
+unibase,Unibase,ub,0.230378,12.29046,gainer,1,2026-05-15
+hash-2,Provenance Blockchain,hash,0.01150066,10.16859,gainer,2,2026-05-15
+dexe,DeXe,dexe,13.09,1.86929,gainer,3,2026-05-15
+just,JUST,jst,0.091124,1.43804,gainer,4,2026-05-15
+flare-networks,Flare,flr,0.00944277,1.15826,gainer,5,2026-05-15
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.49412,gainer,6,2026-05-15
+leo-token,LEO Token,leo,10.18,0.28066,gainer,7,2026-05-15
+memecore,MemeCore,m,3.29,0.16347,gainer,8,2026-05-15
+htx-dao,HTX DAO,htx,1.97e-06,0.08275,gainer,9,2026-05-15
+global-dollar,Global Dollar,usdg,0.999787,0.01795,gainer,10,2026-05-15
+stable-2,​​Stable,stable,0.0359987,-14.15788,loser,1,2026-05-15
+worldcoin-wld,Worldcoin,wld,0.245921,-9.59785,loser,2,2026-05-15
+sui,Sui,sui,1.1,-9.40932,loser,3,2026-05-15
+ethena,Ethena,ena,0.111847,-9.23599,loser,4,2026-05-15
+internet-computer,Internet Computer,icp,2.65,-7.80046,loser,5,2026-05-15
+aave,Aave,aave,93.0,-7.78503,loser,6,2026-05-15
+stellar,Stellar,xlm,0.154802,-7.74208,loser,7,2026-05-15
+ondo-finance,Ondo,ondo,0.36797,-7.58255,loser,8,2026-05-15
+aptos,Aptos,apt,0.994192,-7.40991,loser,9,2026-05-15
+the-open-network,Toncoin,ton,1.99,-7.31572,loser,10,2026-05-15
