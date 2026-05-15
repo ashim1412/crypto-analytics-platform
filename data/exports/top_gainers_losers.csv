@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,46.35,19.10497,gainer,1,2026-05-15
-flare-networks,Flare,flr,0.00955724,10.46972,gainer,2,2026-05-15
-xdce-crowd-sale,XDC Network,xdc,0.03415637,9.73444,gainer,3,2026-05-15
-canton-network,Canton,cc,0.168547,7.88438,gainer,4,2026-05-15
-venice-token,Venice Token,vvv,14.27,7.00062,gainer,5,2026-05-15
-quant-network,Quant,qnt,78.59,6.95159,gainer,6,2026-05-15
-dexe,DeXe,dexe,12.98,6.57859,gainer,7,2026-05-15
-ripple,XRP,xrp,1.49,4.05821,gainer,8,2026-05-15
-dash,Dash,dash,45.63,3.98943,gainer,9,2026-05-15
-ethena,Ethena,ena,0.121151,3.30427,gainer,10,2026-05-15
-internet-computer,Internet Computer,icp,2.83,-7.09894,loser,1,2026-05-15
-stable-2,​​Stable,stable,0.03922445,-4.11002,loser,2,2026-05-15
-near,NEAR Protocol,near,1.56,-2.12698,loser,3,2026-05-15
-sui,Sui,sui,1.19,-1.55309,loser,4,2026-05-15
-pax-gold,PAX Gold,paxg,4610.8,-1.49878,loser,5,2026-05-15
-tether-gold,Tether Gold,xaut,4612.81,-1.46126,loser,6,2026-05-15
-morpho,Morpho,morpho,1.95,-1.45799,loser,7,2026-05-15
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094524,-1.40286,loser,8,2026-05-15
-monero,Monero,xmr,395.34,-1.29234,loser,9,2026-05-15
-figure-heloc,Figure Heloc,figr_heloc,1.033,-1.02915,loser,10,2026-05-15
+hyperliquid,Hyperliquid,hype,45.7,17.21272,gainer,1,2026-05-15
+xdce-crowd-sale,XDC Network,xdc,0.0360838,10.32912,gainer,2,2026-05-15
+unibase,Unibase,ub,0.22389,9.67086,gainer,3,2026-05-15
+flare-networks,Flare,flr,0.00948974,9.56007,gainer,4,2026-05-15
+hash-2,Provenance Blockchain,hash,0.01146016,8.89501,gainer,5,2026-05-15
+dexe,DeXe,dexe,13.01,4.39841,gainer,6,2026-05-15
+dash,Dash,dash,45.45,3.58817,gainer,7,2026-05-15
+canton-network,Canton,cc,0.163669,3.41681,gainer,8,2026-05-15
+uniswap,Uniswap,uni,3.7,2.85278,gainer,9,2026-05-15
+zcash,Zcash,zec,537.89,2.71157,gainer,10,2026-05-15
+internet-computer,Internet Computer,icp,2.69,-9.22259,loser,1,2026-05-15
+sui,Sui,sui,1.15,-4.01913,loser,2,2026-05-15
+memecore,MemeCore,m,3.24,-3.75949,loser,3,2026-05-15
+pax-gold,PAX Gold,paxg,4556.29,-2.90521,loser,4,2026-05-15
+tether-gold,Tether Gold,xaut,4557.7,-2.85435,loser,5,2026-05-15
+near,NEAR Protocol,near,1.55,-2.08456,loser,6,2026-05-15
+stable-2,​​Stable,stable,0.03817942,-1.94731,loser,7,2026-05-15
+worldcoin-wld,Worldcoin,wld,0.251695,-1.92985,loser,8,2026-05-15
+ondo-finance,Ondo,ondo,0.377247,-1.77951,loser,9,2026-05-15
+arbitrum,Arbitrum,arb,0.127807,-1.74295,loser,10,2026-05-15
