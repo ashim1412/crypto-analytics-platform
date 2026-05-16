@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.0112968,6.96917,gainer,1,2026-05-16
-quant-network,Quant,qnt,80.23,1.85523,gainer,2,2026-05-16
-dexe,DeXe,dexe,13.17,1.50584,gainer,3,2026-05-16
-leo-token,LEO Token,leo,10.26,0.50616,gainer,4,2026-05-16
-just,JUST,jst,0.091058,0.35221,gainer,5,2026-05-16
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.21622,gainer,6,2026-05-16
-global-dollar,Global Dollar,usdg,0.999759,0.03619,gainer,7,2026-05-16
-usd-coin,USDC,usdc,0.999833,0.01648,gainer,8,2026-05-16
-usd1-wlfi,USD1,usd1,0.999631,0.01247,gainer,9,2026-05-16
-janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.1,0.01042,gainer,10,2026-05-16
-stable-2,​​Stable,stable,0.03485161,-11.09972,loser,1,2026-05-16
-ethena,Ethena,ena,0.11059,-8.94491,loser,2,2026-05-16
-ondo-finance,Ondo,ondo,0.359164,-8.43548,loser,3,2026-05-16
-sui,Sui,sui,1.095,-8.04492,loser,4,2026-05-16
-bittensor,Bittensor,tao,282.49,-7.92059,loser,5,2026-05-16
-internet-computer,Internet Computer,icp,2.61,-7.73879,loser,6,2026-05-16
-kaspa,Kaspa,kas,0.03510214,-7.59642,loser,7,2026-05-16
-jupiter-exchange-solana,Jupiter,jup,0.209954,-6.62839,loser,8,2026-05-16
-the-open-network,Toncoin,ton,1.97,-6.62649,loser,9,2026-05-16
-zcash,Zcash,zec,511.99,-6.53635,loser,10,2026-05-16
+quant-network,Quant,qnt,81.94,5.2266,gainer,1,2026-05-16
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.3239,gainer,2,2026-05-16
+united-stables,United Stables,u,1.0,0.07147,gainer,3,2026-05-16
+usd1-wlfi,USD1,usd1,1.0,0.06122,gainer,4,2026-05-16
+falcon-finance,Falcon USD,usdf,0.998092,0.03272,gainer,5,2026-05-16
+ylds,YLDS,ylds,0.999859,0.01493,gainer,6,2026-05-16
+usd-coin,USDC,usdc,0.999828,0.01111,gainer,7,2026-05-16
+global-dollar,Global Dollar,usdg,0.999677,0.01081,gainer,8,2026-05-16
+janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.1,0.01042,gainer,9,2026-05-16
+bfusd,BFUSD,bfusd,0.999201,0.01001,gainer,10,2026-05-16
+stable-2,​​Stable,stable,0.03227623,-15.59831,loser,1,2026-05-16
+bittensor,Bittensor,tao,272.04,-10.29947,loser,2,2026-05-16
+morpho,Morpho,morpho,1.78,-10.17821,loser,3,2026-05-16
+the-open-network,Toncoin,ton,1.89,-9.70433,loser,4,2026-05-16
+hyperliquid,Hyperliquid,hype,41.95,-9.66579,loser,5,2026-05-16
+xdce-crowd-sale,XDC Network,xdc,0.0330985,-9.62589,loser,6,2026-05-16
+ethena,Ethena,ena,0.107872,-9.56331,loser,7,2026-05-16
+zcash,Zcash,zec,497.67,-8.99432,loser,8,2026-05-16
+dash,Dash,dash,41.65,-8.55078,loser,9,2026-05-16
+ondo-finance,Ondo,ondo,0.348915,-8.1395,loser,10,2026-05-16
