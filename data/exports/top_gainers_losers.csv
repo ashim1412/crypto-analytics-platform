@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,14.31,13.89165,gainer,1,2026-05-17
-stable-2,​​Stable,stable,0.03528219,10.80003,gainer,2,2026-05-17
-canton-network,Canton,cc,0.153891,5.71702,gainer,3,2026-05-17
-cosmos,Cosmos Hub,atom,2.08,4.48345,gainer,4,2026-05-17
-hyperliquid,Hyperliquid,hype,43.07,4.48286,gainer,5,2026-05-17
-monero,Monero,xmr,394.56,4.12179,gainer,6,2026-05-17
-ondo-finance,Ondo,ondo,0.356952,3.94725,gainer,7,2026-05-17
-near,NEAR Protocol,near,1.55,3.49372,gainer,8,2026-05-17
-nexo,NEXO,nexo,0.879209,3.41347,gainer,9,2026-05-17
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.092407,3.23573,gainer,10,2026-05-17
-quant-network,Quant,qnt,79.97,-3.24711,loser,1,2026-05-17
-xdce-crowd-sale,XDC Network,xdc,0.03195433,-2.7613,loser,2,2026-05-17
-just,JUST,jst,0.089065,-1.93095,loser,3,2026-05-17
-shiba-inu,Shiba Inu,shib,5.85e-06,-0.66487,loser,4,2026-05-17
-algorand,Algorand,algo,0.11019,-0.63172,loser,5,2026-05-17
-bitget-token,Bitget Token,bgb,2.01,-0.53835,loser,6,2026-05-17
-beldex,Beldex,bdx,0.078658,-0.24736,loser,7,2026-05-17
-flare-networks,Flare,flr,0.00921227,-0.19866,loser,8,2026-05-17
-jupiter-exchange-solana,Jupiter,jup,0.200358,-0.0976,loser,9,2026-05-17
-united-stables,United Stables,u,0.999689,-0.04494,loser,10,2026-05-17
+hyperliquid,Hyperliquid,hype,44.67,8.25936,gainer,1,2026-05-17
+venice-token,Venice Token,vvv,14.19,6.40371,gainer,2,2026-05-17
+hash-2,Provenance Blockchain,hash,0.01099039,5.92544,gainer,3,2026-05-17
+dexe,DeXe,dexe,13.29,2.97655,gainer,4,2026-05-17
+rain,Rain,rain,0.00749862,2.51169,gainer,5,2026-05-17
+leo-token,LEO Token,leo,10.1,2.50159,gainer,6,2026-05-17
+cosmos,Cosmos Hub,atom,2.05,2.3157,gainer,7,2026-05-17
+canton-network,Canton,cc,0.153765,2.0756,gainer,8,2026-05-17
+monero,Monero,xmr,393.42,2.00627,gainer,9,2026-05-17
+near,NEAR Protocol,near,1.52,1.39111,gainer,10,2026-05-17
+quant-network,Quant,qnt,77.7,-5.70365,loser,1,2026-05-17
+stable-2,​​Stable,stable,0.03508616,-4.3712,loser,2,2026-05-17
+xdce-crowd-sale,XDC Network,xdc,0.03134385,-3.66738,loser,3,2026-05-17
+bittensor,Bittensor,tao,269.24,-2.31913,loser,4,2026-05-17
+algorand,Algorand,algo,0.108589,-2.30709,loser,5,2026-05-17
+internet-computer,Internet Computer,icp,2.59,-2.29095,loser,6,2026-05-17
+just,JUST,jst,0.089055,-2.25964,loser,7,2026-05-17
+jupiter-exchange-solana,Jupiter,jup,0.196407,-1.95725,loser,8,2026-05-17
+bonk,Bonk,bonk,6.16e-06,-1.91214,loser,9,2026-05-17
+filecoin,Filecoin,fil,0.957906,-1.88096,loser,10,2026-05-17
