@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,82.4,6.42607,gainer,1,2026-05-16
-cosmos,Cosmos Hub,atom,2.0,2.46553,gainer,2,2026-05-16
-figure-heloc,Figure Heloc,figr_heloc,1.032,1.21481,gainer,3,2026-05-16
-monero,Monero,xmr,386.26,1.05857,gainer,4,2026-05-16
-stable-2,​​Stable,stable,0.03668845,0.88218,gainer,5,2026-05-16
-tron,TRON,trx,0.354191,0.64593,gainer,6,2026-05-16
-htx-dao,HTX DAO,htx,1.97e-06,0.45689,gainer,7,2026-05-16
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.090824,0.11319,gainer,8,2026-05-16
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.09417,gainer,9,2026-05-16
-beldex,Beldex,bdx,0.078969,0.08049,gainer,10,2026-05-16
-hash-2,Provenance Blockchain,hash,0.01036843,-9.79252,loser,1,2026-05-16
-hyperliquid,Hyperliquid,hype,41.12,-7.34447,loser,2,2026-05-16
-canton-network,Canton,cc,0.150643,-7.12071,loser,3,2026-05-16
-world-liberty-financial,World Liberty Financial,wlfi,0.061545,-6.97742,loser,4,2026-05-16
-ondo-finance,Ondo,ondo,0.346412,-5.91746,loser,5,2026-05-16
-jupiter-exchange-solana,Jupiter,jup,0.200117,-5.45711,loser,6,2026-05-16
-bonk,Bonk,bonk,6.28e-06,-4.78539,loser,7,2026-05-16
-bittensor,Bittensor,tao,275.46,-4.55326,loser,8,2026-05-16
-arbitrum,Arbitrum,arb,0.12037,-4.50016,loser,9,2026-05-16
-xdce-crowd-sale,XDC Network,xdc,0.03253744,-4.4334,loser,10,2026-05-16
+cosmos,Cosmos Hub,atom,2.01,4.43118,gainer,1,2026-05-17
+stable-2,​​Stable,stable,0.03532663,1.60187,gainer,2,2026-05-17
+monero,Monero,xmr,385.96,0.84925,gainer,3,2026-05-17
+figure-heloc,Figure Heloc,figr_heloc,1.039,0.73188,gainer,4,2026-05-17
+rain,Rain,rain,0.00752031,0.50678,gainer,5,2026-05-17
+tron,TRON,trx,0.353481,0.4123,gainer,6,2026-05-17
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.06211,gainer,7,2026-05-17
+falcon-finance,Falcon USD,usdf,0.998165,0.05246,gainer,8,2026-05-17
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.03872,gainer,9,2026-05-17
+usual-usd,Usual USD,usd0,0.9981,0.03468,gainer,10,2026-05-17
+hash-2,Provenance Blockchain,hash,0.01036576,-8.23641,loser,1,2026-05-17
+world-liberty-financial,World Liberty Financial,wlfi,0.060398,-7.69114,loser,2,2026-05-17
+jupiter-exchange-solana,Jupiter,jup,0.19688,-6.25392,loser,3,2026-05-17
+pi-network,Pi Network,pi,0.15782,-5.58595,loser,4,2026-05-17
+ondo-finance,Ondo,ondo,0.339983,-5.33474,loser,5,2026-05-17
+shiba-inu,Shiba Inu,shib,5.79e-06,-5.33034,loser,6,2026-05-17
+bonk,Bonk,bonk,6.19e-06,-5.24362,loser,7,2026-05-17
+the-open-network,Toncoin,ton,1.87,-5.21328,loser,8,2026-05-17
+aptos,Aptos,apt,0.937387,-5.17213,loser,9,2026-05-17
+filecoin,Filecoin,fil,0.962978,-5.0408,loser,10,2026-05-17
