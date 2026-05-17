@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cosmos,Cosmos Hub,atom,2.01,4.43118,gainer,1,2026-05-17
-stable-2,​​Stable,stable,0.03532663,1.60187,gainer,2,2026-05-17
-monero,Monero,xmr,385.96,0.84925,gainer,3,2026-05-17
-figure-heloc,Figure Heloc,figr_heloc,1.039,0.73188,gainer,4,2026-05-17
-rain,Rain,rain,0.00752031,0.50678,gainer,5,2026-05-17
-tron,TRON,trx,0.353481,0.4123,gainer,6,2026-05-17
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.06211,gainer,7,2026-05-17
-falcon-finance,Falcon USD,usdf,0.998165,0.05246,gainer,8,2026-05-17
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.03872,gainer,9,2026-05-17
-usual-usd,Usual USD,usd0,0.9981,0.03468,gainer,10,2026-05-17
-hash-2,Provenance Blockchain,hash,0.01036576,-8.23641,loser,1,2026-05-17
-world-liberty-financial,World Liberty Financial,wlfi,0.060398,-7.69114,loser,2,2026-05-17
-jupiter-exchange-solana,Jupiter,jup,0.19688,-6.25392,loser,3,2026-05-17
-pi-network,Pi Network,pi,0.15782,-5.58595,loser,4,2026-05-17
-ondo-finance,Ondo,ondo,0.339983,-5.33474,loser,5,2026-05-17
-shiba-inu,Shiba Inu,shib,5.79e-06,-5.33034,loser,6,2026-05-17
-bonk,Bonk,bonk,6.19e-06,-5.24362,loser,7,2026-05-17
-the-open-network,Toncoin,ton,1.87,-5.21328,loser,8,2026-05-17
-aptos,Aptos,apt,0.937387,-5.17213,loser,9,2026-05-17
-filecoin,Filecoin,fil,0.962978,-5.0408,loser,10,2026-05-17
+stable-2,​​Stable,stable,0.03586925,11.91103,gainer,1,2026-05-17
+cosmos,Cosmos Hub,atom,2.07,6.34836,gainer,2,2026-05-17
+venice-token,Venice Token,vvv,13.78,4.51664,gainer,3,2026-05-17
+zcash,Zcash,zec,518.46,4.27404,gainer,4,2026-05-17
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092333,3.23808,gainer,5,2026-05-17
+monero,Monero,xmr,388.27,3.17652,gainer,6,2026-05-17
+internet-computer,Internet Computer,icp,2.63,2.7847,gainer,7,2026-05-17
+ondo-finance,Ondo,ondo,0.356742,2.73604,gainer,8,2026-05-17
+dexe,DeXe,dexe,13.07,2.17347,gainer,9,2026-05-17
+render-token,Render,render,1.84,2.08166,gainer,10,2026-05-17
+xdce-crowd-sale,XDC Network,xdc,0.03151726,-5.05697,loser,1,2026-05-17
+quant-network,Quant,qnt,78.71,-4.23495,loser,2,2026-05-17
+canton-network,Canton,cc,0.15362,-2.64969,loser,3,2026-05-17
+world-liberty-financial,World Liberty Financial,wlfi,0.061285,-2.35654,loser,4,2026-05-17
+shiba-inu,Shiba Inu,shib,5.85e-06,-2.17115,loser,5,2026-05-17
+jupiter-exchange-solana,Jupiter,jup,0.200413,-1.90759,loser,6,2026-05-17
+hash-2,Provenance Blockchain,hash,0.01091984,-1.80414,loser,7,2026-05-17
+just,JUST,jst,0.08929,-1.48454,loser,8,2026-05-17
+bitcoin-cash,Bitcoin Cash,bch,415.22,-1.08465,loser,9,2026-05-17
+bitget-token,Bitget Token,bgb,2.01,-1.0825,loser,10,2026-05-17
