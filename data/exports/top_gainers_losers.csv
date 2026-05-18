@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-kite-2,Kite,kite,0.228807,6.72768,gainer,1,2026-05-18
-dexe,DeXe,dexe,13.9,6.52273,gainer,2,2026-05-18
-stable-2,​​Stable,stable,0.03777863,5.8294,gainer,3,2026-05-18
-hyperliquid,Hyperliquid,hype,45.23,5.49455,gainer,4,2026-05-18
-venice-token,Venice Token,vvv,14.24,1.6779,gainer,5,2026-05-18
-zcash,Zcash,zec,526.36,1.14712,gainer,6,2026-05-18
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.61219,gainer,7,2026-05-18
-the-open-network,Toncoin,ton,1.95,0.3783,gainer,8,2026-05-18
-leo-token,LEO Token,leo,10.08,0.32344,gainer,9,2026-05-18
-tether-gold,Tether Gold,xaut,4537.69,0.17561,gainer,10,2026-05-18
-bitcoin-cash,Bitcoin Cash,bch,364.33,-12.13741,loser,1,2026-05-18
-pi-network,Pi Network,pi,0.148537,-6.63576,loser,2,2026-05-18
-dogecoin,Dogecoin,doge,0.104022,-5.88664,loser,3,2026-05-18
-ondo-finance,Ondo,ondo,0.336774,-5.08237,loser,4,2026-05-18
-render-token,Render,render,1.75,-4.86679,loser,5,2026-05-18
-arbitrum,Arbitrum,arb,0.115411,-4.64758,loser,6,2026-05-18
-worldcoin-wld,Worldcoin,wld,0.232557,-4.62731,loser,7,2026-05-18
-litecoin,Litecoin,ltc,53.66,-4.55631,loser,8,2026-05-18
-polkadot,Polkadot,dot,1.22,-4.37283,loser,9,2026-05-18
-hash-2,Provenance Blockchain,hash,0.01034418,-4.3453,loser,10,2026-05-18
+kite-2,Kite,kite,0.23824,10.87539,gainer,1,2026-05-18
+hyperliquid,Hyperliquid,hype,45.03,4.36044,gainer,2,2026-05-18
+stable-2,​​Stable,stable,0.03660269,4.31282,gainer,3,2026-05-18
+dexe,DeXe,dexe,13.76,2.81023,gainer,4,2026-05-18
+zcash,Zcash,zec,523.71,1.65068,gainer,5,2026-05-18
+htx-dao,HTX DAO,htx,1.99e-06,1.38661,gainer,6,2026-05-18
+the-open-network,Toncoin,ton,1.95,1.10074,gainer,7,2026-05-18
+world-liberty-financial,World Liberty Financial,wlfi,0.060543,0.3019,gainer,8,2026-05-18
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.29855,gainer,9,2026-05-18
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.1382,gainer,10,2026-05-18
+bitcoin-cash,Bitcoin Cash,bch,367.65,-10.65476,loser,1,2026-05-18
+flare-networks,Flare,flr,0.00856867,-6.77668,loser,2,2026-05-18
+pi-network,Pi Network,pi,0.149139,-6.05676,loser,3,2026-05-18
+dogecoin,Dogecoin,doge,0.104141,-5.9788,loser,4,2026-05-18
+morpho,Morpho,morpho,1.68,-5.43623,loser,5,2026-05-18
+hash-2,Provenance Blockchain,hash,0.01032733,-5.36088,loser,6,2026-05-18
+bittensor,Bittensor,tao,256.96,-5.10573,loser,7,2026-05-18
+uniswap,Uniswap,uni,3.38,-4.87665,loser,8,2026-05-18
+render-token,Render,render,1.74,-4.55599,loser,9,2026-05-18
+pump-fun,Pump.fun,pump,0.00166535,-4.49278,loser,10,2026-05-18
