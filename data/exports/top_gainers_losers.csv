@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,3.48,10.12515,gainer,1,2026-05-19
-ondo-finance,Ondo,ondo,0.367394,7.19085,gainer,2,2026-05-19
-near,NEAR Protocol,near,1.61,7.0285,gainer,3,2026-05-19
-zcash,Zcash,zec,555.68,5.91911,gainer,4,2026-05-19
-algorand,Algorand,algo,0.112398,5.7311,gainer,5,2026-05-19
-hyperliquid,Hyperliquid,hype,47.9,4.8524,gainer,6,2026-05-19
-xdce-crowd-sale,XDC Network,xdc,0.03232586,4.85165,gainer,7,2026-05-19
-worldcoin-wld,Worldcoin,wld,0.240796,3.31398,gainer,8,2026-05-19
-morpho,Morpho,morpho,1.75,3.04997,gainer,9,2026-05-19
-dash,Dash,dash,42.11,2.97677,gainer,10,2026-05-19
-flare-networks,Flare,flr,0.00827559,-4.6491,loser,1,2026-05-19
-stable-2,​​Stable,stable,0.03552141,-3.99533,loser,2,2026-05-19
-kite-2,Kite,kite,0.233893,-2.67093,loser,3,2026-05-19
-hash-2,Provenance Blockchain,hash,0.01005158,-2.30269,loser,4,2026-05-19
-stellar,Stellar,xlm,0.144545,-1.70655,loser,5,2026-05-19
-pax-gold,PAX Gold,paxg,4489.56,-1.48162,loser,6,2026-05-19
-tether-gold,Tether Gold,xaut,4488.41,-1.42183,loser,7,2026-05-19
-htx-dao,HTX DAO,htx,1.97e-06,-1.34838,loser,8,2026-05-19
-quant-network,Quant,qnt,74.13,-1.33527,loser,9,2026-05-19
-rain,Rain,rain,0.00731141,-1.32631,loser,10,2026-05-19
+venice-token,Venice Token,vvv,17.52,21.41997,gainer,1,2026-05-19
+memecore,MemeCore,m,3.57,11.55515,gainer,2,2026-05-19
+hyperliquid,Hyperliquid,hype,48.54,7.06678,gainer,3,2026-05-19
+xdce-crowd-sale,XDC Network,xdc,0.03249018,6.32241,gainer,4,2026-05-19
+ondo-finance,Ondo,ondo,0.365396,6.04499,gainer,5,2026-05-19
+algorand,Algorand,algo,0.112115,5.14459,gainer,6,2026-05-19
+near,NEAR Protocol,near,1.64,4.80155,gainer,7,2026-05-19
+morpho,Morpho,morpho,1.78,4.56233,gainer,8,2026-05-19
+the-open-network,Toncoin,ton,2.02,3.78708,gainer,9,2026-05-19
+pudgy-penguins,Pudgy Penguins,pengu,0.00860943,3.4814,gainer,10,2026-05-19
+vechain,VeChain,vet,0.0064791,-3.44635,loser,1,2026-05-19
+okb,OKB,okb,79.28,-2.63351,loser,2,2026-05-19
+flare-networks,Flare,flr,0.00823974,-2.16372,loser,3,2026-05-19
+quant-network,Quant,qnt,73.62,-2.14269,loser,4,2026-05-19
+bitcoin-cash,Bitcoin Cash,bch,368.1,-2.08387,loser,5,2026-05-19
+ripple,XRP,xrp,1.36,-1.72361,loser,6,2026-05-19
+stellar,Stellar,xlm,0.144083,-1.61509,loser,7,2026-05-19
+pi-network,Pi Network,pi,0.148982,-1.59691,loser,8,2026-05-19
+canton-network,Canton,cc,0.148846,-1.55005,loser,9,2026-05-19
+arbitrum,Arbitrum,arb,0.114506,-1.52464,loser,10,2026-05-19
