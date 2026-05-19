@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.383594,13.14436,gainer,1,2026-05-19
-near,NEAR Protocol,near,1.64,10.76942,gainer,2,2026-05-19
-memecore,MemeCore,m,3.42,6.96397,gainer,3,2026-05-19
-zcash,Zcash,zec,564.94,6.48103,gainer,4,2026-05-19
-worldcoin-wld,Worldcoin,wld,0.245914,5.53214,gainer,5,2026-05-19
-the-open-network,Toncoin,ton,2.05,5.47669,gainer,6,2026-05-19
-pudgy-penguins,Pudgy Penguins,pengu,0.00861999,4.96227,gainer,7,2026-05-19
-hyperliquid,Hyperliquid,hype,47.94,4.86307,gainer,8,2026-05-19
-render-token,Render,render,1.83,4.59319,gainer,9,2026-05-19
-bitcoin-cash,Bitcoin Cash,bch,379.3,4.01575,gainer,10,2026-05-19
-flare-networks,Flare,flr,0.00836815,-4.92256,loser,1,2026-05-19
-stable-2,​​Stable,stable,0.03674098,-3.76213,loser,2,2026-05-19
-quant-network,Quant,qnt,74.93,-2.18756,loser,3,2026-05-19
-canton-network,Canton,cc,0.15015,-1.68682,loser,4,2026-05-19
-midnight-3,Midnight,night,0.03150226,-1.46625,loser,5,2026-05-19
-venice-token,Venice Token,vvv,14.46,-0.87037,loser,6,2026-05-19
-mantle,Mantle,mnt,0.628557,-0.71015,loser,7,2026-05-19
-beldex,Beldex,bdx,0.078536,-0.35596,loser,8,2026-05-19
-leo-token,LEO Token,leo,10.06,-0.24686,loser,9,2026-05-19
-pax-gold,PAX Gold,paxg,4537.91,-0.24027,loser,10,2026-05-19
+memecore,MemeCore,m,3.48,10.12515,gainer,1,2026-05-19
+ondo-finance,Ondo,ondo,0.367394,7.19085,gainer,2,2026-05-19
+near,NEAR Protocol,near,1.61,7.0285,gainer,3,2026-05-19
+zcash,Zcash,zec,555.68,5.91911,gainer,4,2026-05-19
+algorand,Algorand,algo,0.112398,5.7311,gainer,5,2026-05-19
+hyperliquid,Hyperliquid,hype,47.9,4.8524,gainer,6,2026-05-19
+xdce-crowd-sale,XDC Network,xdc,0.03232586,4.85165,gainer,7,2026-05-19
+worldcoin-wld,Worldcoin,wld,0.240796,3.31398,gainer,8,2026-05-19
+morpho,Morpho,morpho,1.75,3.04997,gainer,9,2026-05-19
+dash,Dash,dash,42.11,2.97677,gainer,10,2026-05-19
+flare-networks,Flare,flr,0.00827559,-4.6491,loser,1,2026-05-19
+stable-2,​​Stable,stable,0.03552141,-3.99533,loser,2,2026-05-19
+kite-2,Kite,kite,0.233893,-2.67093,loser,3,2026-05-19
+hash-2,Provenance Blockchain,hash,0.01005158,-2.30269,loser,4,2026-05-19
+stellar,Stellar,xlm,0.144545,-1.70655,loser,5,2026-05-19
+pax-gold,PAX Gold,paxg,4489.56,-1.48162,loser,6,2026-05-19
+tether-gold,Tether Gold,xaut,4488.41,-1.42183,loser,7,2026-05-19
+htx-dao,HTX DAO,htx,1.97e-06,-1.34838,loser,8,2026-05-19
+quant-network,Quant,qnt,74.13,-1.33527,loser,9,2026-05-19
+rain,Rain,rain,0.00731141,-1.32631,loser,10,2026-05-19
