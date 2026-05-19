@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-kite-2,Kite,kite,0.231014,7.50681,gainer,1,2026-05-18
-zcash,Zcash,zec,548.03,5.35736,gainer,2,2026-05-18
-dexe,DeXe,dexe,13.87,4.07567,gainer,3,2026-05-18
-figure-heloc,Figure Heloc,figr_heloc,1.038,2.35318,gainer,4,2026-05-18
-near,NEAR Protocol,near,1.55,1.67807,gainer,5,2026-05-18
-dash,Dash,dash,41.75,1.28155,gainer,6,2026-05-18
-the-open-network,Toncoin,ton,1.94,0.61177,gainer,7,2026-05-18
-htx-dao,HTX DAO,htx,1.97e-06,0.39121,gainer,8,2026-05-18
-pax-gold,PAX Gold,paxg,4548.47,0.38994,gainer,9,2026-05-18
-tether-gold,Tether Gold,xaut,4547.18,0.37594,gainer,10,2026-05-18
-bitcoin-cash,Bitcoin Cash,bch,374.61,-9.14981,loser,1,2026-05-18
-flare-networks,Flare,flr,0.00841685,-8.25133,loser,2,2026-05-18
-dogecoin,Dogecoin,doge,0.103767,-5.97319,loser,3,2026-05-18
-hash-2,Provenance Blockchain,hash,0.01039648,-5.61959,loser,4,2026-05-18
-pi-network,Pi Network,pi,0.151356,-5.00475,loser,5,2026-05-18
-internet-computer,Internet Computer,icp,2.49,-4.48698,loser,6,2026-05-18
-bittensor,Bittensor,tao,257.3,-4.20334,loser,7,2026-05-18
-uniswap,Uniswap,uni,3.41,-4.13653,loser,8,2026-05-18
-morpho,Morpho,morpho,1.7,-4.01683,loser,9,2026-05-18
-pump-fun,Pump.fun,pump,0.0016887,-3.9251,loser,10,2026-05-18
+ondo-finance,Ondo,ondo,0.380891,11.41479,gainer,1,2026-05-19
+kite-2,Kite,kite,0.230176,9.93874,gainer,2,2026-05-19
+zcash,Zcash,zec,567.83,7.71988,gainer,3,2026-05-19
+near,NEAR Protocol,near,1.61,7.13287,gainer,4,2026-05-19
+dash,Dash,dash,42.82,5.56932,gainer,5,2026-05-19
+dexe,DeXe,dexe,13.85,4.80725,gainer,6,2026-05-19
+venice-token,Venice Token,vvv,14.64,4.50823,gainer,7,2026-05-19
+world-liberty-financial,World Liberty Financial,wlfi,0.062328,3.71194,gainer,8,2026-05-19
+just,JUST,jst,0.091093,3.58835,gainer,9,2026-05-19
+pudgy-penguins,Pudgy Penguins,pengu,0.00859169,2.84364,gainer,10,2026-05-19
+flare-networks,Flare,flr,0.00832653,-7.56366,loser,1,2026-05-19
+hash-2,Provenance Blockchain,hash,0.01036068,-5.05012,loser,2,2026-05-19
+bitcoin-cash,Bitcoin Cash,bch,375.43,-3.62064,loser,3,2026-05-19
+dogecoin,Dogecoin,doge,0.104177,-2.4405,loser,4,2026-05-19
+morpho,Morpho,morpho,1.71,-2.23377,loser,5,2026-05-19
+canton-network,Canton,cc,0.149591,-2.00808,loser,6,2026-05-19
+stellar,Stellar,xlm,0.147166,-1.67623,loser,7,2026-05-19
+mantle,Mantle,mnt,0.62436,-1.52097,loser,8,2026-05-19
+pi-network,Pi Network,pi,0.152337,-0.98472,loser,9,2026-05-19
+bittensor,Bittensor,tao,261.22,-0.86979,loser,10,2026-05-19
