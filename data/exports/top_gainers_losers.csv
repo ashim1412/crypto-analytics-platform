@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,16.28,11.21267,gainer,1,2026-05-20
-memecore,MemeCore,m,3.49,7.96734,gainer,2,2026-05-20
-xdce-crowd-sale,XDC Network,xdc,0.03262984,7.75441,gainer,3,2026-05-20
-algorand,Algorand,algo,0.114957,6.77994,gainer,4,2026-05-20
-kite-2,Kite,kite,0.246054,6.25548,gainer,5,2026-05-20
-monero,Monero,xmr,398.22,3.69755,gainer,6,2026-05-20
-morpho,Morpho,morpho,1.76,2.6216,gainer,7,2026-05-20
-zcash,Zcash,zec,579.73,2.09564,gainer,8,2026-05-20
-dexe,DeXe,dexe,14.09,1.72781,gainer,9,2026-05-20
-pudgy-penguins,Pudgy Penguins,pengu,0.00873281,1.62901,gainer,10,2026-05-20
-stable-2,​​Stable,stable,0.03458206,-4.43592,loser,1,2026-05-20
-world-liberty-financial,World Liberty Financial,wlfi,0.060115,-3.54046,loser,2,2026-05-20
-ondo-finance,Ondo,ondo,0.368405,-3.25923,loser,3,2026-05-20
-pi-network,Pi Network,pi,0.147527,-3.15763,loser,4,2026-05-20
-arbitrum,Arbitrum,arb,0.113401,-2.91134,loser,5,2026-05-20
-vechain,VeChain,vet,0.00653472,-2.88389,loser,6,2026-05-20
-stellar,Stellar,xlm,0.142939,-2.87262,loser,7,2026-05-20
-internet-computer,Internet Computer,icp,2.49,-2.76758,loser,8,2026-05-20
-okb,OKB,okb,79.51,-2.64733,loser,9,2026-05-20
-aave,Aave,aave,87.01,-2.62904,loser,10,2026-05-20
+venice-token,Venice Token,vvv,17.14,18.41479,gainer,1,2026-05-20
+xdce-crowd-sale,XDC Network,xdc,0.03574428,12.23267,gainer,2,2026-05-20
+dash,Dash,dash,44.94,5.37366,gainer,3,2026-05-20
+algorand,Algorand,algo,0.114421,3.90591,gainer,4,2026-05-20
+zcash,Zcash,zec,582.35,3.10146,gainer,5,2026-05-20
+jupiter-exchange-solana,Jupiter,jup,0.203674,2.79515,gainer,6,2026-05-20
+uniswap,Uniswap,uni,3.62,2.6592,gainer,7,2026-05-20
+pudgy-penguins,Pudgy Penguins,pengu,0.0088578,2.55085,gainer,8,2026-05-20
+morpho,Morpho,morpho,1.8,2.29423,gainer,9,2026-05-20
+render-token,Render,render,1.88,2.19575,gainer,10,2026-05-20
+stable-2,​​Stable,stable,0.03446768,-6.2277,loser,1,2026-05-20
+the-open-network,Toncoin,ton,1.96,-4.5715,loser,2,2026-05-20
+stellar,Stellar,xlm,0.143416,-2.87781,loser,3,2026-05-20
+arbitrum,Arbitrum,arb,0.113951,-2.82438,loser,4,2026-05-20
+vechain,VeChain,vet,0.00658848,-2.67113,loser,5,2026-05-20
+bitcoin-cash,Bitcoin Cash,bch,369.82,-2.52511,loser,6,2026-05-20
+worldcoin-wld,Worldcoin,wld,0.239853,-2.47891,loser,7,2026-05-20
+quant-network,Quant,qnt,73.17,-2.47158,loser,8,2026-05-20
+cosmos,Cosmos Hub,atom,2.02,-2.4115,loser,9,2026-05-20
+internet-computer,Internet Computer,icp,2.51,-2.11846,loser,10,2026-05-20
