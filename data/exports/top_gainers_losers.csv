@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,17.14,18.41479,gainer,1,2026-05-20
-xdce-crowd-sale,XDC Network,xdc,0.03574428,12.23267,gainer,2,2026-05-20
-dash,Dash,dash,44.94,5.37366,gainer,3,2026-05-20
-algorand,Algorand,algo,0.114421,3.90591,gainer,4,2026-05-20
-zcash,Zcash,zec,582.35,3.10146,gainer,5,2026-05-20
-jupiter-exchange-solana,Jupiter,jup,0.203674,2.79515,gainer,6,2026-05-20
-uniswap,Uniswap,uni,3.62,2.6592,gainer,7,2026-05-20
-pudgy-penguins,Pudgy Penguins,pengu,0.0088578,2.55085,gainer,8,2026-05-20
-morpho,Morpho,morpho,1.8,2.29423,gainer,9,2026-05-20
-render-token,Render,render,1.88,2.19575,gainer,10,2026-05-20
-stable-2,​​Stable,stable,0.03446768,-6.2277,loser,1,2026-05-20
-the-open-network,Toncoin,ton,1.96,-4.5715,loser,2,2026-05-20
-stellar,Stellar,xlm,0.143416,-2.87781,loser,3,2026-05-20
-arbitrum,Arbitrum,arb,0.113951,-2.82438,loser,4,2026-05-20
-vechain,VeChain,vet,0.00658848,-2.67113,loser,5,2026-05-20
-bitcoin-cash,Bitcoin Cash,bch,369.82,-2.52511,loser,6,2026-05-20
-worldcoin-wld,Worldcoin,wld,0.239853,-2.47891,loser,7,2026-05-20
-quant-network,Quant,qnt,73.17,-2.47158,loser,8,2026-05-20
-cosmos,Cosmos Hub,atom,2.02,-2.4115,loser,9,2026-05-20
-internet-computer,Internet Computer,icp,2.51,-2.11846,loser,10,2026-05-20
+venice-token,Venice Token,vvv,17.7,20.57637,gainer,1,2026-05-20
+dash,Dash,dash,48.87,15.76138,gainer,2,2026-05-20
+zcash,Zcash,zec,611.77,9.9727,gainer,3,2026-05-20
+xdce-crowd-sale,XDC Network,xdc,0.03515294,8.73252,gainer,4,2026-05-20
+jupiter-exchange-solana,Jupiter,jup,0.210523,7.37219,gainer,5,2026-05-20
+pudgy-penguins,Pudgy Penguins,pengu,0.00903202,6.54932,gainer,6,2026-05-20
+hyperliquid,Hyperliquid,hype,50.89,6.24455,gainer,7,2026-05-20
+render-token,Render,render,1.9,5.45794,gainer,8,2026-05-20
+ondo-finance,Ondo,ondo,0.38669,5.27817,gainer,9,2026-05-20
+morpho,Morpho,morpho,1.83,4.75017,gainer,10,2026-05-20
+memecore,MemeCore,m,3.32,-4.34119,loser,1,2026-05-20
+bitcoin-cash,Bitcoin Cash,bch,366.2,-3.67279,loser,2,2026-05-20
+stable-2,​​Stable,stable,0.03439967,-3.16516,loser,3,2026-05-20
+arbitrum,Arbitrum,arb,0.113231,-1.76353,loser,4,2026-05-20
+vechain,VeChain,vet,0.00659311,-1.47349,loser,5,2026-05-20
+gatechain-token,Gate,gt,6.97,-1.43387,loser,6,2026-05-20
+cosmos,Cosmos Hub,atom,2.01,-1.12743,loser,7,2026-05-20
+stellar,Stellar,xlm,0.143176,-1.00437,loser,8,2026-05-20
+okb,OKB,okb,80.55,-0.76095,loser,9,2026-05-20
+quant-network,Quant,qnt,73.69,-0.66393,loser,10,2026-05-20
