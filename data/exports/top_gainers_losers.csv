@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,56.34,18.48615,gainer,1,2026-05-21
-zcash,Zcash,zec,675.25,16.43236,gainer,2,2026-05-21
-dash,Dash,dash,49.25,16.26521,gainer,3,2026-05-21
-ondo-finance,Ondo,ondo,0.408182,10.60833,gainer,4,2026-05-21
-jupiter-exchange-solana,Jupiter,jup,0.212883,9.10549,gainer,5,2026-05-21
-mantle,Mantle,mnt,0.678444,8.93565,gainer,6,2026-05-21
-pudgy-penguins,Pudgy Penguins,pengu,0.00939709,7.85117,gainer,7,2026-05-21
-near,NEAR Protocol,near,1.71,7.69992,gainer,8,2026-05-21
-morpho,Morpho,morpho,1.88,7.08034,gainer,9,2026-05-21
-sui,Sui,sui,1.11,7.00441,gainer,10,2026-05-21
-memecore,MemeCore,m,2.97,-14.92426,loser,1,2026-05-21
-kite-2,Kite,kite,0.23072,-6.30679,loser,2,2026-05-21
-hash-2,Provenance Blockchain,hash,0.01018538,-2.54009,loser,3,2026-05-21
-dexe,DeXe,dexe,13.81,-1.95702,loser,4,2026-05-21
-arbitrum,Arbitrum,arb,0.111739,-1.34099,loser,5,2026-05-21
-just,JUST,jst,0.090891,-0.29599,loser,6,2026-05-21
-stable-2,​​Stable,stable,0.03450561,-0.22874,loser,7,2026-05-21
-bfusd,BFUSD,bfusd,0.998301,-0.04998,loser,8,2026-05-21
-ethena-usde,Ethena USDe,usde,0.999369,-0.02565,loser,9,2026-05-21
-usdd,USDD,usdd,0.999416,-0.02146,loser,10,2026-05-21
+hyperliquid,Hyperliquid,hype,58.47,20.22327,gainer,1,2026-05-21
+zcash,Zcash,zec,665.58,14.37047,gainer,2,2026-05-21
+worldcoin-wld,Worldcoin,wld,0.264213,10.25721,gainer,3,2026-05-21
+mantle,Mantle,mnt,0.686152,9.64864,gainer,4,2026-05-21
+bittensor,Bittensor,tao,287.41,9.41747,gainer,5,2026-05-21
+ondo-finance,Ondo,ondo,0.407724,7.91773,gainer,6,2026-05-21
+dash,Dash,dash,47.98,6.79678,gainer,7,2026-05-21
+near,NEAR Protocol,near,1.76,6.31305,gainer,8,2026-05-21
+jupiter-exchange-solana,Jupiter,jup,0.215092,5.73818,gainer,9,2026-05-21
+sui,Sui,sui,1.12,5.6968,gainer,10,2026-05-21
+memecore,MemeCore,m,2.85,-15.71368,loser,1,2026-05-21
+dexe,DeXe,dexe,13.59,-2.61927,loser,2,2026-05-21
+arbitrum,Arbitrum,arb,0.111514,-2.08329,loser,3,2026-05-21
+venice-token,Venice Token,vvv,16.91,-1.37556,loser,4,2026-05-21
+nexo,NEXO,nexo,0.875585,-0.71593,loser,5,2026-05-21
+xdce-crowd-sale,XDC Network,xdc,0.03568727,-0.28253,loser,6,2026-05-21
+hedera-hashgraph,Hedera,hbar,0.08896,-0.26589,loser,7,2026-05-21
+cardano,Cardano,ada,0.249423,-0.12569,loser,8,2026-05-21
+ethereum-classic,Ethereum Classic,etc,9.04,-0.11119,loser,9,2026-05-21
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.10818,loser,10,2026-05-21
