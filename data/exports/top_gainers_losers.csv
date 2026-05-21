@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,58.47,20.22327,gainer,1,2026-05-21
-zcash,Zcash,zec,665.58,14.37047,gainer,2,2026-05-21
-worldcoin-wld,Worldcoin,wld,0.264213,10.25721,gainer,3,2026-05-21
-mantle,Mantle,mnt,0.686152,9.64864,gainer,4,2026-05-21
-bittensor,Bittensor,tao,287.41,9.41747,gainer,5,2026-05-21
-ondo-finance,Ondo,ondo,0.407724,7.91773,gainer,6,2026-05-21
-dash,Dash,dash,47.98,6.79678,gainer,7,2026-05-21
-near,NEAR Protocol,near,1.76,6.31305,gainer,8,2026-05-21
-jupiter-exchange-solana,Jupiter,jup,0.215092,5.73818,gainer,9,2026-05-21
-sui,Sui,sui,1.12,5.6968,gainer,10,2026-05-21
-memecore,MemeCore,m,2.85,-15.71368,loser,1,2026-05-21
-dexe,DeXe,dexe,13.59,-2.61927,loser,2,2026-05-21
-arbitrum,Arbitrum,arb,0.111514,-2.08329,loser,3,2026-05-21
-venice-token,Venice Token,vvv,16.91,-1.37556,loser,4,2026-05-21
-nexo,NEXO,nexo,0.875585,-0.71593,loser,5,2026-05-21
-xdce-crowd-sale,XDC Network,xdc,0.03568727,-0.28253,loser,6,2026-05-21
-hedera-hashgraph,Hedera,hbar,0.08896,-0.26589,loser,7,2026-05-21
-cardano,Cardano,ada,0.249423,-0.12569,loser,8,2026-05-21
-ethereum-classic,Ethereum Classic,etc,9.04,-0.11119,loser,9,2026-05-21
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.10818,loser,10,2026-05-21
+hyperliquid,Hyperliquid,hype,60.73,19.47206,gainer,1,2026-05-21
+mantle,Mantle,mnt,0.681503,8.83376,gainer,2,2026-05-21
+zcash,Zcash,zec,661.76,7.86903,gainer,3,2026-05-21
+worldcoin-wld,Worldcoin,wld,0.25813,7.47046,gainer,4,2026-05-21
+morpho,Morpho,morpho,1.94,5.69431,gainer,5,2026-05-21
+canton-network,Canton,cc,0.158033,5.42919,gainer,6,2026-05-21
+aster-2,Aster,aster,0.700738,4.23819,gainer,7,2026-05-21
+ondo-finance,Ondo,ondo,0.399697,3.75036,gainer,8,2026-05-21
+bittensor,Bittensor,tao,277.57,3.64399,gainer,9,2026-05-21
+near,NEAR Protocol,near,1.73,3.54878,gainer,10,2026-05-21
+memecore,MemeCore,m,2.73,-17.88218,loser,1,2026-05-21
+ethena,Ethena,ena,0.103507,-2.99533,loser,2,2026-05-21
+arbitrum,Arbitrum,arb,0.110423,-2.69362,loser,3,2026-05-21
+dash,Dash,dash,47.96,-2.36588,loser,4,2026-05-21
+dexe,DeXe,dexe,13.77,-2.23072,loser,5,2026-05-21
+just,JUST,jst,0.092126,-2.00831,loser,6,2026-05-21
+quant-network,Quant,qnt,72.73,-1.57488,loser,7,2026-05-21
+venice-token,Venice Token,vvv,17.44,-1.3603,loser,8,2026-05-21
+kaspa,Kaspa,kas,0.033999,-1.28632,loser,9,2026-05-21
+cardano,Cardano,ada,0.247059,-1.22396,loser,10,2026-05-21
