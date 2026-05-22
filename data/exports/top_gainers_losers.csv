@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.01221544,19.33409,gainer,1,2026-05-21
-near,NEAR Protocol,near,1.88,10.77139,gainer,2,2026-05-21
-hyperliquid,Hyperliquid,hype,57.68,9.55527,gainer,3,2026-05-21
-worldcoin-wld,Worldcoin,wld,0.269958,7.69763,gainer,4,2026-05-21
-sui,Sui,sui,1.14,6.71779,gainer,5,2026-05-21
-morpho,Morpho,morpho,2.02,6.60522,gainer,6,2026-05-21
-mantle,Mantle,mnt,0.682049,5.10102,gainer,7,2026-05-21
-ondo-finance,Ondo,ondo,0.417041,4.49362,gainer,8,2026-05-21
-dexe,DeXe,dexe,14.49,4.13339,gainer,9,2026-05-21
-pump-fun,Pump.fun,pump,0.00182294,3.53604,gainer,10,2026-05-21
-memecore,MemeCore,m,2.79,-16.58682,loser,1,2026-05-21
-just,JUST,jst,0.091509,-2.65033,loser,2,2026-05-21
-zcash,Zcash,zec,664.9,-2.38203,loser,3,2026-05-21
-dash,Dash,dash,48.79,-2.10778,loser,4,2026-05-21
-algorand,Algorand,algo,0.115176,-2.01856,loser,5,2026-05-21
-nexo,NEXO,nexo,0.874013,-1.43676,loser,6,2026-05-21
-leo-token,LEO Token,leo,9.91,-1.13709,loser,7,2026-05-21
-kucoin-shares,KuCoin,kcs,7.96,-0.67469,loser,8,2026-05-21
-figure-heloc,Figure Heloc,figr_heloc,1.026,-0.65863,loser,9,2026-05-21
-stable-2,​​Stable,stable,0.03420899,-0.43786,loser,10,2026-05-21
+near,NEAR Protocol,near,2.02,18.28675,gainer,1,2026-05-22
+venice-token,Venice Token,vvv,18.77,12.83588,gainer,2,2026-05-22
+hash-2,Provenance Blockchain,hash,0.01109277,8.93544,gainer,3,2026-05-22
+worldcoin-wld,Worldcoin,wld,0.272593,8.05562,gainer,4,2026-05-22
+morpho,Morpho,morpho,2.0,6.294,gainer,5,2026-05-22
+polkadot,Polkadot,dot,1.29,2.52016,gainer,6,2026-05-22
+hyperliquid,Hyperliquid,hype,57.29,2.11578,gainer,7,2026-05-22
+filecoin,Filecoin,fil,1.001,1.92494,gainer,8,2026-05-22
+pump-fun,Pump.fun,pump,0.00181341,1.8869,gainer,9,2026-05-22
+bittensor,Bittensor,tao,279.1,1.85783,gainer,10,2026-05-22
+monero,Monero,xmr,382.07,-6.15696,loser,1,2026-05-22
+algorand,Algorand,algo,0.113156,-4.53421,loser,2,2026-05-22
+memecore,MemeCore,m,2.9,-2.68508,loser,3,2026-05-22
+zcash,Zcash,zec,656.54,-2.676,loser,4,2026-05-22
+stable-2,​​Stable,stable,0.03363172,-2.47444,loser,5,2026-05-22
+nexo,NEXO,nexo,0.875923,-2.22558,loser,6,2026-05-22
+aave,Aave,aave,87.85,-1.70845,loser,7,2026-05-22
+uniswap,Uniswap,uni,3.6,-1.59034,loser,8,2026-05-22
+sui,Sui,sui,1.097,-1.56784,loser,9,2026-05-22
+dash,Dash,dash,48.54,-1.49593,loser,10,2026-05-22
