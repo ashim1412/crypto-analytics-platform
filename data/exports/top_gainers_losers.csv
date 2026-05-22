@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-near,NEAR Protocol,near,2.02,18.28675,gainer,1,2026-05-22
-venice-token,Venice Token,vvv,18.77,12.83588,gainer,2,2026-05-22
-hash-2,Provenance Blockchain,hash,0.01109277,8.93544,gainer,3,2026-05-22
-worldcoin-wld,Worldcoin,wld,0.272593,8.05562,gainer,4,2026-05-22
-morpho,Morpho,morpho,2.0,6.294,gainer,5,2026-05-22
-polkadot,Polkadot,dot,1.29,2.52016,gainer,6,2026-05-22
-hyperliquid,Hyperliquid,hype,57.29,2.11578,gainer,7,2026-05-22
-filecoin,Filecoin,fil,1.001,1.92494,gainer,8,2026-05-22
-pump-fun,Pump.fun,pump,0.00181341,1.8869,gainer,9,2026-05-22
-bittensor,Bittensor,tao,279.1,1.85783,gainer,10,2026-05-22
-monero,Monero,xmr,382.07,-6.15696,loser,1,2026-05-22
-algorand,Algorand,algo,0.113156,-4.53421,loser,2,2026-05-22
-memecore,MemeCore,m,2.9,-2.68508,loser,3,2026-05-22
-zcash,Zcash,zec,656.54,-2.676,loser,4,2026-05-22
-stable-2,​​Stable,stable,0.03363172,-2.47444,loser,5,2026-05-22
-nexo,NEXO,nexo,0.875923,-2.22558,loser,6,2026-05-22
-aave,Aave,aave,87.85,-1.70845,loser,7,2026-05-22
-uniswap,Uniswap,uni,3.6,-1.59034,loser,8,2026-05-22
-sui,Sui,sui,1.097,-1.56784,loser,9,2026-05-22
-dash,Dash,dash,48.54,-1.49593,loser,10,2026-05-22
+near,NEAR Protocol,near,2.25,28.35152,gainer,1,2026-05-22
+worldcoin-wld,Worldcoin,wld,0.285928,8.1047,gainer,2,2026-05-22
+venice-token,Venice Token,vvv,18.11,7.45497,gainer,3,2026-05-22
+morpho,Morpho,morpho,2.0,5.15067,gainer,4,2026-05-22
+internet-computer,Internet Computer,icp,2.68,4.38212,gainer,5,2026-05-22
+polkadot,Polkadot,dot,1.32,3.50329,gainer,6,2026-05-22
+pudgy-penguins,Pudgy Penguins,pengu,0.00960926,3.23948,gainer,7,2026-05-22
+cosmos,Cosmos Hub,atom,2.13,3.16454,gainer,8,2026-05-22
+dexe,DeXe,dexe,14.06,3.07559,gainer,9,2026-05-22
+jupiter-exchange-solana,Jupiter,jup,0.221073,2.60004,gainer,10,2026-05-22
+stable-2,​​Stable,stable,0.03242259,-7.18871,loser,1,2026-05-22
+monero,Monero,xmr,385.75,-4.46998,loser,2,2026-05-22
+the-open-network,Toncoin,ton,2.0,-2.72792,loser,3,2026-05-22
+xdce-crowd-sale,XDC Network,xdc,0.03478978,-2.67079,loser,4,2026-05-22
+mantle,Mantle,mnt,0.669003,-2.46881,loser,5,2026-05-22
+zcash,Zcash,zec,650.15,-2.41965,loser,6,2026-05-22
+kite-2,Kite,kite,0.229644,-2.36411,loser,7,2026-05-22
+bittensor,Bittensor,tao,281.11,-2.34577,loser,8,2026-05-22
+world-liberty-financial,World Liberty Financial,wlfi,0.060206,-2.3223,loser,9,2026-05-22
+uniswap,Uniswap,uni,3.58,-2.29934,loser,10,2026-05-22
