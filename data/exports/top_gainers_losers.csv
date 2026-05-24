@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,63.8,15.61131,gainer,1,2026-05-24
-near,NEAR Protocol,near,2.39,15.36679,gainer,2,2026-05-24
-venice-token,Venice Token,vvv,19.66,13.71577,gainer,3,2026-05-24
-morpho,Morpho,morpho,2.19,12.68787,gainer,4,2026-05-24
-worldcoin-wld,Worldcoin,wld,0.303575,12.37626,gainer,5,2026-05-24
-zcash,Zcash,zec,651.59,11.89789,gainer,6,2026-05-24
-ondo-finance,Ondo,ondo,0.441061,10.61537,gainer,7,2026-05-24
-render-token,Render,render,1.96,8.89708,gainer,8,2026-05-24
-bittensor,Bittensor,tao,277.71,7.324,gainer,9,2026-05-24
-pump-fun,Pump.fun,pump,0.00176051,6.99424,gainer,10,2026-05-24
-hash-2,Provenance Blockchain,hash,0.01061103,-10.65393,loser,1,2026-05-24
-xdce-crowd-sale,XDC Network,xdc,0.03074247,-1.53481,loser,2,2026-05-24
-beldex,Beldex,bdx,0.078754,-0.17101,loser,3,2026-05-24
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.13984,loser,4,2026-05-24
-usdd,USDD,usdd,0.998537,-0.03613,loser,5,2026-05-24
-usd1-wlfi,USD1,usd1,0.99897,-0.0287,loser,6,2026-05-24
-falcon-finance,Falcon USD,usdf,0.996659,-0.02133,loser,7,2026-05-24
-usual-usd,Usual USD,usd0,0.998472,-0.01345,loser,8,2026-05-24
-ethena-usde,Ethena USDe,usde,0.99905,-0.0112,loser,9,2026-05-24
-hashnote-usyc,Circle USYC,usyc,1.13,-0.00978,loser,10,2026-05-24
+dexe,DeXe,dexe,15.36,12.07158,gainer,1,2026-05-24
+venice-token,Venice Token,vvv,19.88,11.00156,gainer,2,2026-05-24
+morpho,Morpho,morpho,2.29,10.32445,gainer,3,2026-05-24
+zcash,Zcash,zec,665.67,8.92768,gainer,4,2026-05-24
+hyperliquid,Hyperliquid,hype,63.39,8.19155,gainer,5,2026-05-24
+ondo-finance,Ondo,ondo,0.441204,5.58283,gainer,6,2026-05-24
+canton-network,Canton,cc,0.166334,4.15775,gainer,7,2026-05-24
+quant-network,Quant,qnt,80.17,3.93028,gainer,8,2026-05-24
+monero,Monero,xmr,393.93,3.24705,gainer,9,2026-05-24
+aster-2,Aster,aster,0.699686,3.03152,gainer,10,2026-05-24
+hash-2,Provenance Blockchain,hash,0.01042153,-7.17357,loser,1,2026-05-24
+arbitrum,Arbitrum,arb,0.10576,-3.62509,loser,2,2026-05-24
+world-liberty-financial,World Liberty Financial,wlfi,0.06071,-3.4616,loser,3,2026-05-24
+worldcoin-wld,Worldcoin,wld,0.293739,-3.28589,loser,4,2026-05-24
+filecoin,Filecoin,fil,0.95257,-2.7469,loser,5,2026-05-24
+the-open-network,Toncoin,ton,1.75,-2.70227,loser,6,2026-05-24
+cosmos,Cosmos Hub,atom,2.04,-2.27146,loser,7,2026-05-24
+aptos,Aptos,apt,0.945336,-2.22233,loser,8,2026-05-24
+algorand,Algorand,algo,0.111536,-2.09106,loser,9,2026-05-24
+ethena,Ethena,ena,0.099211,-1.99449,loser,10,2026-05-24
