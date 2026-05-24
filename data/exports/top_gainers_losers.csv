@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-near,NEAR Protocol,near,2.41,12.32554,gainer,1,2026-05-23
-worldcoin-wld,Worldcoin,wld,0.303282,8.62947,gainer,2,2026-05-23
-hash-2,Provenance Blockchain,hash,0.01123458,6.99289,gainer,3,2026-05-23
-memecore,MemeCore,m,2.89,4.81746,gainer,4,2026-05-23
-ondo-finance,Ondo,ondo,0.417583,4.80567,gainer,5,2026-05-23
-world-liberty-financial,World Liberty Financial,wlfi,0.063056,4.58794,gainer,6,2026-05-23
-morpho,Morpho,morpho,2.08,4.57546,gainer,7,2026-05-23
-midnight-3,Midnight,night,0.03342047,3.77434,gainer,8,2026-05-23
-hyperliquid,Hyperliquid,hype,58.65,3.07897,gainer,9,2026-05-23
-canton-network,Canton,cc,0.159693,2.55535,gainer,10,2026-05-23
-bitcoin-cash,Bitcoin Cash,bch,352.58,-6.15291,loser,1,2026-05-23
-the-open-network,Toncoin,ton,1.81,-5.62403,loser,2,2026-05-23
-xdce-crowd-sale,XDC Network,xdc,0.03153968,-5.33134,loser,3,2026-05-23
-chainlink,Chainlink,link,9.39,-2.65749,loser,4,2026-05-23
-uniswap,Uniswap,uni,3.44,-2.42807,loser,5,2026-05-23
-internet-computer,Internet Computer,icp,2.57,-2.20644,loser,6,2026-05-23
-pepe,Pepe,pepe,3.61e-06,-2.01739,loser,7,2026-05-23
-ethena,Ethena,ena,0.101486,-1.83725,loser,8,2026-05-23
-sui,Sui,sui,1.051,-1.82758,loser,9,2026-05-23
-shiba-inu,Shiba Inu,shib,5.63e-06,-1.82039,loser,10,2026-05-23
+near,NEAR Protocol,near,2.38,14.08113,gainer,1,2026-05-24
+ondo-finance,Ondo,ondo,0.427635,11.60047,gainer,2,2026-05-24
+worldcoin-wld,Worldcoin,wld,0.300546,11.5964,gainer,3,2026-05-24
+hyperliquid,Hyperliquid,hype,60.11,9.76516,gainer,4,2026-05-24
+render-token,Render,render,2.0,7.81478,gainer,5,2026-05-24
+morpho,Morpho,morpho,2.12,7.65623,gainer,6,2026-05-24
+zcash,Zcash,zec,636.33,7.02011,gainer,7,2026-05-24
+bittensor,Bittensor,tao,279.72,5.93043,gainer,8,2026-05-24
+venice-token,Venice Token,vvv,18.32,5.18767,gainer,9,2026-05-24
+pudgy-penguins,Pudgy Penguins,pengu,0.00911741,4.44223,gainer,10,2026-05-24
+hash-2,Provenance Blockchain,hash,0.01118961,-2.83044,loser,1,2026-05-24
+the-open-network,Toncoin,ton,1.81,-2.63998,loser,2,2026-05-24
+xdce-crowd-sale,XDC Network,xdc,0.03136581,-2.6164,loser,3,2026-05-24
+bitcoin-cash,Bitcoin Cash,bch,356.17,-1.34076,loser,4,2026-05-24
+beldex,Beldex,bdx,0.07876,-0.87869,loser,5,2026-05-24
+just,JUST,jst,0.092119,-0.85554,loser,6,2026-05-24
+htx-dao,HTX DAO,htx,2e-06,-0.61688,loser,7,2026-05-24
+figure-heloc,Figure Heloc,figr_heloc,1.03,-0.23071,loser,8,2026-05-24
+cosmos,Cosmos Hub,atom,2.11,-0.20892,loser,9,2026-05-24
+arbitrum,Arbitrum,arb,0.109375,-0.16036,loser,10,2026-05-24
