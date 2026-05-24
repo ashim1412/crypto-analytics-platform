@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-near,NEAR Protocol,near,2.37,17.42094,gainer,1,2026-05-24
-ondo-finance,Ondo,ondo,0.433602,13.85286,gainer,2,2026-05-24
-worldcoin-wld,Worldcoin,wld,0.298764,13.82318,gainer,3,2026-05-24
-morpho,Morpho,morpho,2.16,12.35984,gainer,4,2026-05-24
-hyperliquid,Hyperliquid,hype,61.8,11.32275,gainer,5,2026-05-24
-render-token,Render,render,1.96,10.149,gainer,6,2026-05-24
-quant-network,Quant,qnt,81.57,9.82147,gainer,7,2026-05-24
-jupiter-exchange-solana,Jupiter,jup,0.207059,8.4759,gainer,8,2026-05-24
-zcash,Zcash,zec,625.87,8.35111,gainer,9,2026-05-24
-bittensor,Bittensor,tao,278.29,8.26504,gainer,10,2026-05-24
-hash-2,Provenance Blockchain,hash,0.01094345,-8.35657,loser,1,2026-05-24
-bitcoin-cash,Bitcoin Cash,bch,351.97,-1.18155,loser,2,2026-05-24
-htx-dao,HTX DAO,htx,2e-06,-0.44269,loser,3,2026-05-24
-falcon-finance,Falcon USD,usdf,0.996739,-0.03611,loser,4,2026-05-24
-usd1-wlfi,USD1,usd1,0.998987,-0.03092,loser,5,2026-05-24
-global-dollar,Global Dollar,usdg,0.999587,-0.01869,loser,6,2026-05-24
-hashnote-usyc,Circle USYC,usyc,1.13,-0.00957,loser,7,2026-05-24
-stable-2,​​Stable,stable,0.03370617,-0.00832,loser,8,2026-05-24
-usual-usd,Usual USD,usd0,0.998376,-0.00811,loser,9,2026-05-24
-dai,Dai,dai,0.999513,-0.00697,loser,10,2026-05-24
+hyperliquid,Hyperliquid,hype,63.8,15.61131,gainer,1,2026-05-24
+near,NEAR Protocol,near,2.39,15.36679,gainer,2,2026-05-24
+venice-token,Venice Token,vvv,19.66,13.71577,gainer,3,2026-05-24
+morpho,Morpho,morpho,2.19,12.68787,gainer,4,2026-05-24
+worldcoin-wld,Worldcoin,wld,0.303575,12.37626,gainer,5,2026-05-24
+zcash,Zcash,zec,651.59,11.89789,gainer,6,2026-05-24
+ondo-finance,Ondo,ondo,0.441061,10.61537,gainer,7,2026-05-24
+render-token,Render,render,1.96,8.89708,gainer,8,2026-05-24
+bittensor,Bittensor,tao,277.71,7.324,gainer,9,2026-05-24
+pump-fun,Pump.fun,pump,0.00176051,6.99424,gainer,10,2026-05-24
+hash-2,Provenance Blockchain,hash,0.01061103,-10.65393,loser,1,2026-05-24
+xdce-crowd-sale,XDC Network,xdc,0.03074247,-1.53481,loser,2,2026-05-24
+beldex,Beldex,bdx,0.078754,-0.17101,loser,3,2026-05-24
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.13984,loser,4,2026-05-24
+usdd,USDD,usdd,0.998537,-0.03613,loser,5,2026-05-24
+usd1-wlfi,USD1,usd1,0.99897,-0.0287,loser,6,2026-05-24
+falcon-finance,Falcon USD,usdf,0.996659,-0.02133,loser,7,2026-05-24
+usual-usd,Usual USD,usd0,0.998472,-0.01345,loser,8,2026-05-24
+ethena-usde,Ethena USDe,usde,0.99905,-0.0112,loser,9,2026-05-24
+hashnote-usyc,Circle USYC,usyc,1.13,-0.00978,loser,10,2026-05-24
