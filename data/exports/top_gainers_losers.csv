@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-near,NEAR Protocol,near,2.38,14.08113,gainer,1,2026-05-24
-ondo-finance,Ondo,ondo,0.427635,11.60047,gainer,2,2026-05-24
-worldcoin-wld,Worldcoin,wld,0.300546,11.5964,gainer,3,2026-05-24
-hyperliquid,Hyperliquid,hype,60.11,9.76516,gainer,4,2026-05-24
-render-token,Render,render,2.0,7.81478,gainer,5,2026-05-24
-morpho,Morpho,morpho,2.12,7.65623,gainer,6,2026-05-24
-zcash,Zcash,zec,636.33,7.02011,gainer,7,2026-05-24
-bittensor,Bittensor,tao,279.72,5.93043,gainer,8,2026-05-24
-venice-token,Venice Token,vvv,18.32,5.18767,gainer,9,2026-05-24
-pudgy-penguins,Pudgy Penguins,pengu,0.00911741,4.44223,gainer,10,2026-05-24
-hash-2,Provenance Blockchain,hash,0.01118961,-2.83044,loser,1,2026-05-24
-the-open-network,Toncoin,ton,1.81,-2.63998,loser,2,2026-05-24
-xdce-crowd-sale,XDC Network,xdc,0.03136581,-2.6164,loser,3,2026-05-24
-bitcoin-cash,Bitcoin Cash,bch,356.17,-1.34076,loser,4,2026-05-24
-beldex,Beldex,bdx,0.07876,-0.87869,loser,5,2026-05-24
-just,JUST,jst,0.092119,-0.85554,loser,6,2026-05-24
-htx-dao,HTX DAO,htx,2e-06,-0.61688,loser,7,2026-05-24
-figure-heloc,Figure Heloc,figr_heloc,1.03,-0.23071,loser,8,2026-05-24
-cosmos,Cosmos Hub,atom,2.11,-0.20892,loser,9,2026-05-24
-arbitrum,Arbitrum,arb,0.109375,-0.16036,loser,10,2026-05-24
+near,NEAR Protocol,near,2.37,17.42094,gainer,1,2026-05-24
+ondo-finance,Ondo,ondo,0.433602,13.85286,gainer,2,2026-05-24
+worldcoin-wld,Worldcoin,wld,0.298764,13.82318,gainer,3,2026-05-24
+morpho,Morpho,morpho,2.16,12.35984,gainer,4,2026-05-24
+hyperliquid,Hyperliquid,hype,61.8,11.32275,gainer,5,2026-05-24
+render-token,Render,render,1.96,10.149,gainer,6,2026-05-24
+quant-network,Quant,qnt,81.57,9.82147,gainer,7,2026-05-24
+jupiter-exchange-solana,Jupiter,jup,0.207059,8.4759,gainer,8,2026-05-24
+zcash,Zcash,zec,625.87,8.35111,gainer,9,2026-05-24
+bittensor,Bittensor,tao,278.29,8.26504,gainer,10,2026-05-24
+hash-2,Provenance Blockchain,hash,0.01094345,-8.35657,loser,1,2026-05-24
+bitcoin-cash,Bitcoin Cash,bch,351.97,-1.18155,loser,2,2026-05-24
+htx-dao,HTX DAO,htx,2e-06,-0.44269,loser,3,2026-05-24
+falcon-finance,Falcon USD,usdf,0.996739,-0.03611,loser,4,2026-05-24
+usd1-wlfi,USD1,usd1,0.998987,-0.03092,loser,5,2026-05-24
+global-dollar,Global Dollar,usdg,0.999587,-0.01869,loser,6,2026-05-24
+hashnote-usyc,Circle USYC,usyc,1.13,-0.00957,loser,7,2026-05-24
+stable-2,​​Stable,stable,0.03370617,-0.00832,loser,8,2026-05-24
+usual-usd,Usual USD,usd0,0.998376,-0.00811,loser,9,2026-05-24
+dai,Dai,dai,0.999513,-0.00697,loser,10,2026-05-24
