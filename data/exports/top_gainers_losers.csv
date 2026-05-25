@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,15.18,11.05693,gainer,1,2026-05-25
-stable-2,​​Stable,stable,0.03757819,9.37635,gainer,2,2026-05-25
-venice-token,Venice Token,vvv,19.17,5.6123,gainer,3,2026-05-25
-morpho,Morpho,morpho,2.23,5.45219,gainer,4,2026-05-25
-ondo-finance,Ondo,ondo,0.440823,3.61035,gainer,5,2026-05-25
-zcash,Zcash,zec,653.45,2.62802,gainer,6,2026-05-25
-aster-2,Aster,aster,0.700324,2.38956,gainer,7,2026-05-25
-canton-network,Canton,cc,0.165035,2.21537,gainer,8,2026-05-25
-monero,Monero,xmr,396.38,2.16963,gainer,9,2026-05-25
-hash-2,Provenance Blockchain,hash,0.01137307,1.85138,gainer,10,2026-05-25
-jupiter-exchange-solana,Jupiter,jup,0.199771,-4.46045,loser,1,2026-05-25
-arbitrum,Arbitrum,arb,0.104873,-4.16282,loser,2,2026-05-25
-nexo,NEXO,nexo,0.848841,-3.96983,loser,3,2026-05-25
-polkadot,Polkadot,dot,1.24,-3.91493,loser,4,2026-05-25
-sui,Sui,sui,1.025,-3.8252,loser,5,2026-05-25
-ethena,Ethena,ena,0.098154,-3.18384,loser,6,2026-05-25
-the-open-network,Toncoin,ton,1.75,-3.13768,loser,7,2026-05-25
-bitcoin-cash,Bitcoin Cash,bch,345.1,-3.03333,loser,8,2026-05-25
-world-liberty-financial,World Liberty Financial,wlfi,0.060285,-2.78484,loser,9,2026-05-25
-worldcoin-wld,Worldcoin,wld,0.291934,-2.72007,loser,10,2026-05-25
+dexe,DeXe,dexe,17.54,20.80215,gainer,1,2026-05-25
+stable-2,​​Stable,stable,0.03901856,15.64193,gainer,2,2026-05-25
+xdce-crowd-sale,XDC Network,xdc,0.03418502,9.99962,gainer,3,2026-05-25
+morpho,Morpho,morpho,2.37,8.41814,gainer,4,2026-05-25
+memecore,MemeCore,m,3.03,5.32465,gainer,5,2026-05-25
+zcash,Zcash,zec,659.21,2.38993,gainer,6,2026-05-25
+aster-2,Aster,aster,0.714718,2.25845,gainer,7,2026-05-25
+rain,Rain,rain,0.00770325,2.10759,gainer,8,2026-05-25
+stellar,Stellar,xlm,0.152219,2.07003,gainer,9,2026-05-25
+canton-network,Canton,cc,0.166797,1.71542,gainer,10,2026-05-25
+venice-token,Venice Token,vvv,18.71,-4.12551,loser,1,2026-05-25
+kaspa,Kaspa,kas,0.03312372,-2.86966,loser,2,2026-05-25
+jupiter-exchange-solana,Jupiter,jup,0.202427,-2.82479,loser,3,2026-05-25
+uniswap,Uniswap,uni,3.37,-2.68861,loser,4,2026-05-25
+sui,Sui,sui,1.04,-2.3051,loser,5,2026-05-25
+nexo,NEXO,nexo,0.853173,-2.01799,loser,6,2026-05-25
+mantle,Mantle,mnt,0.647938,-1.94128,loser,7,2026-05-25
+quant-network,Quant,qnt,81.11,-1.67564,loser,8,2026-05-25
+midnight-3,Midnight,night,0.03298044,-1.57298,loser,9,2026-05-25
+polkadot,Polkadot,dot,1.26,-1.51316,loser,10,2026-05-25
