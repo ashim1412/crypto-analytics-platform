@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,17.23,18.55048,gainer,1,2026-05-25
-render-token,Render,render,2.19,14.09287,gainer,2,2026-05-25
-stable-2,​​Stable,stable,0.03755344,12.10927,gainer,3,2026-05-25
-injective-protocol,Injective,inj,5.69,11.65629,gainer,4,2026-05-25
-near,NEAR Protocol,near,2.65,9.29171,gainer,5,2026-05-25
-xdce-crowd-sale,XDC Network,xdc,0.03295682,8.02923,gainer,6,2026-05-25
-rain,Rain,rain,0.00797674,7.41965,gainer,7,2026-05-25
-morpho,Morpho,morpho,2.35,7.12385,gainer,8,2026-05-25
-the-open-network,Toncoin,ton,1.84,6.71243,gainer,9,2026-05-25
-internet-computer,Internet Computer,icp,2.7,5.88103,gainer,10,2026-05-25
-venice-token,Venice Token,vvv,18.7,-5.71854,loser,1,2026-05-25
-midnight-3,Midnight,night,0.03269525,-3.56905,loser,2,2026-05-25
-hash-2,Provenance Blockchain,hash,0.01043833,-3.03071,loser,3,2026-05-25
-just,JUST,jst,0.092451,-0.62909,loser,4,2026-05-25
-aster-2,Aster,aster,0.705908,-0.58797,loser,5,2026-05-25
-leo-token,LEO Token,leo,10.02,-0.41726,loser,6,2026-05-25
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.3608,loser,7,2026-05-25
-mantle,Mantle,mnt,0.651925,-0.3067,loser,8,2026-05-25
-pi-network,Pi Network,pi,0.14924,-0.09216,loser,9,2026-05-25
-usdtb,USDtb,usdtb,0.998931,-0.04802,loser,10,2026-05-25
+the-open-network,Toncoin,ton,2.02,14.82615,gainer,1,2026-05-25
+dexe,DeXe,dexe,17.49,13.591,gainer,2,2026-05-25
+worldcoin-wld,Worldcoin,wld,0.328122,11.83339,gainer,3,2026-05-25
+near,NEAR Protocol,near,2.72,11.08325,gainer,4,2026-05-25
+render-token,Render,render,2.19,10.24833,gainer,5,2026-05-25
+stable-2,​​Stable,stable,0.03738953,9.56816,gainer,6,2026-05-25
+injective-protocol,Injective,inj,5.65,8.17319,gainer,7,2026-05-25
+xdce-crowd-sale,XDC Network,xdc,0.0325972,5.79599,gainer,8,2026-05-25
+internet-computer,Internet Computer,icp,2.71,5.30512,gainer,9,2026-05-25
+rain,Rain,rain,0.0079771,5.16249,gainer,10,2026-05-25
+venice-token,Venice Token,vvv,17.97,-10.13278,loser,1,2026-05-25
+midnight-3,Midnight,night,0.03236772,-3.85257,loser,2,2026-05-25
+monero,Monero,xmr,383.93,-3.4832,loser,3,2026-05-25
+hyperliquid,Hyperliquid,hype,61.66,-3.30654,loser,4,2026-05-25
+morpho,Morpho,morpho,2.26,-2.20312,loser,5,2026-05-25
+hash-2,Provenance Blockchain,hash,0.01032628,-2.05554,loser,6,2026-05-25
+zcash,Zcash,zec,659.69,-1.59065,loser,7,2026-05-25
+dash,Dash,dash,45.65,-1.53692,loser,8,2026-05-25
+ondo-finance,Ondo,ondo,0.435111,-1.37343,loser,9,2026-05-25
+aster-2,Aster,aster,0.695168,-1.00601,loser,10,2026-05-25
