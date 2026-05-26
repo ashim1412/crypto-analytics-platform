@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.371534,22.62761,gainer,1,2026-05-26
-render-token,Render,render,2.36,18.22683,gainer,2,2026-05-26
-near,NEAR Protocol,near,2.73,14.03998,gainer,3,2026-05-26
-fetch-ai,Artificial Superintelligence Alliance,fet,0.242376,13.35203,gainer,4,2026-05-26
-okb,OKB,okb,94.21,13.04598,gainer,5,2026-05-26
-injective-protocol,Injective,inj,5.55,6.04319,gainer,6,2026-05-26
-the-open-network,Toncoin,ton,1.89,5.38296,gainer,7,2026-05-26
-rain,Rain,rain,0.00802058,4.12991,gainer,8,2026-05-26
-bittensor,Bittensor,tao,287.69,3.64984,gainer,9,2026-05-26
-internet-computer,Internet Computer,icp,2.69,3.31667,gainer,10,2026-05-26
-zcash,Zcash,zec,604.99,-8.32232,loser,1,2026-05-26
-venice-token,Venice Token,vvv,17.28,-7.84563,loser,2,2026-05-26
-morpho,Morpho,morpho,2.15,-7.2404,loser,3,2026-05-26
-stable-2,​​Stable,stable,0.03622507,-6.94105,loser,4,2026-05-26
-hyperliquid,Hyperliquid,hype,59.49,-6.58347,loser,5,2026-05-26
-xdce-crowd-sale,XDC Network,xdc,0.03218608,-5.48532,loser,6,2026-05-26
-pudgy-penguins,Pudgy Penguins,pengu,0.00865748,-4.75309,loser,7,2026-05-26
-aster-2,Aster,aster,0.682769,-4.37045,loser,8,2026-05-26
-quant-network,Quant,qnt,77.45,-4.22759,loser,9,2026-05-26
-hash-2,Provenance Blockchain,hash,0.01040431,-3.57504,loser,10,2026-05-26
+rain,Rain,rain,0.01075765,34.84033,gainer,1,2026-05-26
+worldcoin-wld,Worldcoin,wld,0.395271,30.44829,gainer,2,2026-05-26
+fetch-ai,Artificial Superintelligence Alliance,fet,0.254357,15.01948,gainer,3,2026-05-26
+okb,OKB,okb,94.53,13.13915,gainer,4,2026-05-26
+render-token,Render,render,2.41,10.54006,gainer,5,2026-05-26
+near,NEAR Protocol,near,2.89,8.36357,gainer,6,2026-05-26
+virtual-protocol,Virtuals Protocol,virtual,0.851423,8.0413,gainer,7,2026-05-26
+filecoin,Filecoin,fil,1.047,6.56207,gainer,8,2026-05-26
+cosmos,Cosmos Hub,atom,2.27,6.3196,gainer,9,2026-05-26
+the-open-network,Toncoin,ton,1.95,5.92967,gainer,10,2026-05-26
+zcash,Zcash,zec,619.68,-8.47969,loser,1,2026-05-26
+dexe,DeXe,dexe,16.22,-6.03959,loser,2,2026-05-26
+ondo-finance,Ondo,ondo,0.418166,-5.53884,loser,3,2026-05-26
+quant-network,Quant,qnt,77.3,-3.90108,loser,4,2026-05-26
+morpho,Morpho,morpho,2.28,-2.97958,loser,5,2026-05-26
+canton-network,Canton,cc,0.162575,-2.47284,loser,6,2026-05-26
+xdce-crowd-sale,XDC Network,xdc,0.03228033,-1.85149,loser,7,2026-05-26
+ethereum-classic,Ethereum Classic,etc,8.95,-1.5203,loser,8,2026-05-26
+vechain,VeChain,vet,0.00664215,-1.48841,loser,9,2026-05-26
+aster-2,Aster,aster,0.694426,-1.46315,loser,10,2026-05-26
