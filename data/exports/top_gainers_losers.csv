@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,17.38,14.39387,gainer,1,2026-05-26
-near,NEAR Protocol,near,2.69,13.79613,gainer,2,2026-05-26
-worldcoin-wld,Worldcoin,wld,0.326659,11.50565,gainer,3,2026-05-26
-injective-protocol,Injective,inj,5.63,10.86959,gainer,4,2026-05-26
-render-token,Render,render,2.17,8.76251,gainer,5,2026-05-26
-the-open-network,Toncoin,ton,1.9,8.5123,gainer,6,2026-05-26
-rain,Rain,rain,0.00805047,6.05808,gainer,7,2026-05-26
-cosmos,Cosmos Hub,atom,2.14,3.78272,gainer,8,2026-05-26
-memecore,MemeCore,m,2.97,3.50808,gainer,9,2026-05-26
-internet-computer,Internet Computer,icp,2.63,3.28505,gainer,10,2026-05-26
-venice-token,Venice Token,vvv,17.17,-10.64928,loser,1,2026-05-26
-hash-2,Provenance Blockchain,hash,0.0106675,-7.92167,loser,2,2026-05-26
-ondo-finance,Ondo,ondo,0.410648,-6.59028,loser,3,2026-05-26
-monero,Monero,xmr,379.66,-4.43511,loser,4,2026-05-26
-pudgy-penguins,Pudgy Penguins,pengu,0.00859933,-4.21459,loser,5,2026-05-26
-dash,Dash,dash,43.81,-4.17446,loser,6,2026-05-26
-morpho,Morpho,morpho,2.15,-4.00705,loser,7,2026-05-26
-zcash,Zcash,zec,632.65,-2.95429,loser,8,2026-05-26
-uniswap,Uniswap,uni,3.28,-2.61926,loser,9,2026-05-26
-hyperliquid,Hyperliquid,hype,59.53,-2.48943,loser,10,2026-05-26
+worldcoin-wld,Worldcoin,wld,0.371534,22.62761,gainer,1,2026-05-26
+render-token,Render,render,2.36,18.22683,gainer,2,2026-05-26
+near,NEAR Protocol,near,2.73,14.03998,gainer,3,2026-05-26
+fetch-ai,Artificial Superintelligence Alliance,fet,0.242376,13.35203,gainer,4,2026-05-26
+okb,OKB,okb,94.21,13.04598,gainer,5,2026-05-26
+injective-protocol,Injective,inj,5.55,6.04319,gainer,6,2026-05-26
+the-open-network,Toncoin,ton,1.89,5.38296,gainer,7,2026-05-26
+rain,Rain,rain,0.00802058,4.12991,gainer,8,2026-05-26
+bittensor,Bittensor,tao,287.69,3.64984,gainer,9,2026-05-26
+internet-computer,Internet Computer,icp,2.69,3.31667,gainer,10,2026-05-26
+zcash,Zcash,zec,604.99,-8.32232,loser,1,2026-05-26
+venice-token,Venice Token,vvv,17.28,-7.84563,loser,2,2026-05-26
+morpho,Morpho,morpho,2.15,-7.2404,loser,3,2026-05-26
+stable-2,​​Stable,stable,0.03622507,-6.94105,loser,4,2026-05-26
+hyperliquid,Hyperliquid,hype,59.49,-6.58347,loser,5,2026-05-26
+xdce-crowd-sale,XDC Network,xdc,0.03218608,-5.48532,loser,6,2026-05-26
+pudgy-penguins,Pudgy Penguins,pengu,0.00865748,-4.75309,loser,7,2026-05-26
+aster-2,Aster,aster,0.682769,-4.37045,loser,8,2026-05-26
+quant-network,Quant,qnt,77.45,-4.22759,loser,9,2026-05-26
+hash-2,Provenance Blockchain,hash,0.01040431,-3.57504,loser,10,2026-05-26
