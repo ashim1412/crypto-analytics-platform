@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01170274,47.44323,gainer,1,2026-05-26
-worldcoin-wld,Worldcoin,wld,0.378617,15.05348,gainer,2,2026-05-26
-okb,OKB,okb,90.32,8.35589,gainer,3,2026-05-26
-fetch-ai,Artificial Superintelligence Alliance,fet,0.246157,7.60549,gainer,4,2026-05-26
-render-token,Render,render,2.27,4.11677,gainer,5,2026-05-26
-midnight-3,Midnight,night,0.0333444,3.57355,gainer,6,2026-05-26
-cosmos,Cosmos Hub,atom,2.19,2.30474,gainer,7,2026-05-26
-figure-heloc,Figure Heloc,figr_heloc,1.033,1.74593,gainer,8,2026-05-26
-bitget-token,Bitget Token,bgb,2.02,1.41428,gainer,9,2026-05-26
-filecoin,Filecoin,fil,1.007,1.39823,gainer,10,2026-05-26
-zcash,Zcash,zec,582.45,-11.42383,loser,1,2026-05-26
-world-liberty-financial,World Liberty Financial,wlfi,0.056657,-8.01039,loser,2,2026-05-26
-dexe,DeXe,dexe,16.3,-6.61409,loser,3,2026-05-26
-ondo-finance,Ondo,ondo,0.405774,-6.60637,loser,4,2026-05-26
-vechain,VeChain,vet,0.00630994,-5.47303,loser,5,2026-05-26
-canton-network,Canton,cc,0.157011,-4.88086,loser,6,2026-05-26
-pi-network,Pi Network,pi,0.142136,-4.71391,loser,7,2026-05-26
-quant-network,Quant,qnt,76.11,-4.29396,loser,8,2026-05-26
-ethereum-classic,Ethereum Classic,etc,8.64,-4.24561,loser,9,2026-05-26
-sui,Sui,sui,1.008,-4.16942,loser,10,2026-05-26
+rain,Rain,rain,0.01155932,43.585,gainer,1,2026-05-27
+worldcoin-wld,Worldcoin,wld,0.363593,11.05448,gainer,2,2026-05-27
+fetch-ai,Artificial Superintelligence Alliance,fet,0.245082,8.86045,gainer,3,2026-05-27
+okb,OKB,okb,88.73,7.44166,gainer,4,2026-05-27
+render-token,Render,render,2.32,7.40124,gainer,5,2026-05-27
+morpho,Morpho,morpho,2.25,5.08763,gainer,6,2026-05-27
+filecoin,Filecoin,fil,1.018,4.62231,gainer,7,2026-05-27
+cosmos,Cosmos Hub,atom,2.22,3.62656,gainer,8,2026-05-27
+internet-computer,Internet Computer,icp,2.7,3.28213,gainer,9,2026-05-27
+pump-fun,Pump.fun,pump,0.00180381,3.26747,gainer,10,2026-05-27
+zcash,Zcash,zec,570.46,-9.69112,loser,1,2026-05-27
+world-liberty-financial,World Liberty Financial,wlfi,0.056819,-6.61475,loser,2,2026-05-27
+dexe,DeXe,dexe,16.38,-5.80272,loser,3,2026-05-27
+near,NEAR Protocol,near,2.52,-5.70364,loser,4,2026-05-27
+canton-network,Canton,cc,0.156896,-5.04324,loser,5,2026-05-27
+quant-network,Quant,qnt,75.73,-4.61189,loser,6,2026-05-27
+vechain,VeChain,vet,0.0063442,-4.29067,loser,7,2026-05-27
+pi-network,Pi Network,pi,0.142674,-2.45615,loser,8,2026-05-27
+stable-2,​​Stable,stable,0.03671193,-2.43945,loser,9,2026-05-27
+algorand,Algorand,algo,0.10882,-2.09192,loser,10,2026-05-27
