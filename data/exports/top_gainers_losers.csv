@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01155932,43.585,gainer,1,2026-05-27
-worldcoin-wld,Worldcoin,wld,0.363593,11.05448,gainer,2,2026-05-27
-fetch-ai,Artificial Superintelligence Alliance,fet,0.245082,8.86045,gainer,3,2026-05-27
-okb,OKB,okb,88.73,7.44166,gainer,4,2026-05-27
-render-token,Render,render,2.32,7.40124,gainer,5,2026-05-27
-morpho,Morpho,morpho,2.25,5.08763,gainer,6,2026-05-27
-filecoin,Filecoin,fil,1.018,4.62231,gainer,7,2026-05-27
-cosmos,Cosmos Hub,atom,2.22,3.62656,gainer,8,2026-05-27
-internet-computer,Internet Computer,icp,2.7,3.28213,gainer,9,2026-05-27
-pump-fun,Pump.fun,pump,0.00180381,3.26747,gainer,10,2026-05-27
-zcash,Zcash,zec,570.46,-9.69112,loser,1,2026-05-27
-world-liberty-financial,World Liberty Financial,wlfi,0.056819,-6.61475,loser,2,2026-05-27
-dexe,DeXe,dexe,16.38,-5.80272,loser,3,2026-05-27
-near,NEAR Protocol,near,2.52,-5.70364,loser,4,2026-05-27
-canton-network,Canton,cc,0.156896,-5.04324,loser,5,2026-05-27
-quant-network,Quant,qnt,75.73,-4.61189,loser,6,2026-05-27
-vechain,VeChain,vet,0.0063442,-4.29067,loser,7,2026-05-27
-pi-network,Pi Network,pi,0.142674,-2.45615,loser,8,2026-05-27
-stable-2,​​Stable,stable,0.03671193,-2.43945,loser,9,2026-05-27
-algorand,Algorand,algo,0.10882,-2.09192,loser,10,2026-05-27
+rain,Rain,rain,0.01160583,44.83381,gainer,1,2026-05-27
+internet-computer,Internet Computer,icp,2.95,10.38591,gainer,2,2026-05-27
+unibase,Unibase,ub,0.216471,6.21966,gainer,3,2026-05-27
+injective-protocol,Injective,inj,5.79,5.64587,gainer,4,2026-05-27
+morpho,Morpho,morpho,2.27,5.05795,gainer,5,2026-05-27
+midnight-3,Midnight,night,0.03366987,4.64755,gainer,6,2026-05-27
+hyperliquid,Hyperliquid,hype,62.1,4.30987,gainer,7,2026-05-27
+filecoin,Filecoin,fil,1.034,3.97341,gainer,8,2026-05-27
+monero,Monero,xmr,394.03,3.25384,gainer,9,2026-05-27
+memecore,MemeCore,m,3.03,2.94912,gainer,10,2026-05-27
+near,NEAR Protocol,near,2.52,-7.83709,loser,1,2026-05-27
+render-token,Render,render,2.22,-6.06911,loser,2,2026-05-27
+zcash,Zcash,zec,574.75,-5.82708,loser,3,2026-05-27
+dexe,DeXe,dexe,16.36,-5.19377,loser,4,2026-05-27
+okb,OKB,okb,89.1,-5.01206,loser,5,2026-05-27
+ethena,Ethena,ena,0.095381,-4.08387,loser,6,2026-05-27
+bittensor,Bittensor,tao,274.44,-3.932,loser,7,2026-05-27
+ondo-finance,Ondo,ondo,0.403913,-3.72568,loser,8,2026-05-27
+world-liberty-financial,World Liberty Financial,wlfi,0.057764,-3.72111,loser,9,2026-05-27
+sui,Sui,sui,0.997319,-3.34231,loser,10,2026-05-27
