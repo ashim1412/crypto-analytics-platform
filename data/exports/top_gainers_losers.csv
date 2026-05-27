@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01305284,22.14157,gainer,1,2026-05-27
-unibase,Unibase,ub,0.217566,8.03722,gainer,2,2026-05-27
-internet-computer,Internet Computer,icp,2.91,7.41436,gainer,3,2026-05-27
-stellar,Stellar,xlm,0.159169,6.68405,gainer,4,2026-05-27
-memecore,MemeCore,m,3.09,4.90397,gainer,5,2026-05-27
-filecoin,Filecoin,fil,1.056,3.06637,gainer,6,2026-05-27
-just,JUST,jst,0.095133,1.83251,gainer,7,2026-05-27
-dexe,DeXe,dexe,16.68,1.75828,gainer,8,2026-05-27
-monero,Monero,xmr,394.92,1.74956,gainer,9,2026-05-27
-midnight-3,Midnight,night,0.03402196,1.00656,gainer,10,2026-05-27
-near,NEAR Protocol,near,2.54,-10.46052,loser,1,2026-05-27
-zcash,Zcash,zec,566.75,-7.64564,loser,2,2026-05-27
-worldcoin-wld,Worldcoin,wld,0.361278,-6.98834,loser,3,2026-05-27
-jupiter-exchange-solana,Jupiter,jup,0.191652,-6.9417,loser,4,2026-05-27
-injective-protocol,Injective,inj,5.59,-6.8868,loser,5,2026-05-27
-ethena,Ethena,ena,0.095538,-6.07468,loser,6,2026-05-27
-render-token,Render,render,2.22,-6.02705,loser,7,2026-05-27
-hyperliquid,Hyperliquid,hype,59.93,-5.95513,loser,8,2026-05-27
-okb,OKB,okb,88.65,-5.40044,loser,9,2026-05-27
-algorand,Algorand,algo,0.106912,-5.11036,loser,10,2026-05-27
+rain,Rain,rain,0.01470391,25.63881,gainer,1,2026-05-27
+stellar,Stellar,xlm,0.163155,10.53787,gainer,2,2026-05-27
+internet-computer,Internet Computer,icp,2.94,9.98989,gainer,3,2026-05-27
+world-liberty-financial,World Liberty Financial,wlfi,0.059814,5.48094,gainer,4,2026-05-27
+filecoin,Filecoin,fil,1.058,4.94995,gainer,5,2026-05-27
+midnight-3,Midnight,night,0.03486486,4.38702,gainer,6,2026-05-27
+unibase,Unibase,ub,0.216534,4.24015,gainer,7,2026-05-27
+monero,Monero,xmr,394.08,4.23289,gainer,8,2026-05-27
+memecore,MemeCore,m,3.03,3.81853,gainer,9,2026-05-27
+just,JUST,jst,0.095432,2.53502,gainer,10,2026-05-27
+worldcoin-wld,Worldcoin,wld,0.348526,-8.30521,loser,1,2026-05-27
+the-open-network,Toncoin,ton,1.91,-6.2261,loser,2,2026-05-27
+zcash,Zcash,zec,553.53,-5.00069,loser,3,2026-05-27
+htx-dao,HTX DAO,htx,1.94e-06,-4.63774,loser,4,2026-05-27
+sky,Sky,sky,0.066557,-4.02575,loser,5,2026-05-27
+render-token,Render,render,2.19,-3.63789,loser,6,2026-05-27
+quant-network,Quant,qnt,73.51,-3.47262,loser,7,2026-05-27
+okb,OKB,okb,87.83,-2.90437,loser,8,2026-05-27
+morpho,Morpho,morpho,2.19,-2.84851,loser,9,2026-05-27
+bittensor,Bittensor,tao,273.11,-2.78865,loser,10,2026-05-27
