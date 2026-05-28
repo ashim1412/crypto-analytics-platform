@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01448829,25.26288,gainer,1,2026-05-28
-stellar,Stellar,xlm,0.172846,16.51828,gainer,2,2026-05-28
-stable-2,​​Stable,stable,0.03848837,5.24923,gainer,3,2026-05-28
-midnight-3,Midnight,night,0.03479451,4.6506,gainer,4,2026-05-28
-world-liberty-financial,World Liberty Financial,wlfi,0.058757,3.33636,gainer,5,2026-05-28
-monero,Monero,xmr,389.75,2.83323,gainer,6,2026-05-28
-just,JUST,jst,0.095875,2.60398,gainer,7,2026-05-28
-internet-computer,Internet Computer,icp,2.78,2.24477,gainer,8,2026-05-28
-dexe,DeXe,dexe,16.63,1.98647,gainer,9,2026-05-28
-pi-network,Pi Network,pi,0.145466,1.84543,gainer,10,2026-05-28
-render-token,Render,render,2.09,-10.23738,loser,1,2026-05-28
-worldcoin-wld,Worldcoin,wld,0.332913,-9.09202,loser,2,2026-05-28
-ondo-finance,Ondo,ondo,0.377006,-7.89053,loser,3,2026-05-28
-zcash,Zcash,zec,531.8,-7.51357,loser,4,2026-05-28
-bittensor,Bittensor,tao,262.11,-7.04616,loser,5,2026-05-28
-dash,Dash,dash,41.0,-6.8997,loser,6,2026-05-28
-jupiter-exchange-solana,Jupiter,jup,0.185587,-6.65581,loser,7,2026-05-28
-the-open-network,Toncoin,ton,1.81,-6.6525,loser,8,2026-05-28
-morpho,Morpho,morpho,2.12,-6.12009,loser,9,2026-05-28
-uniswap,Uniswap,uni,3.09,-5.54351,loser,10,2026-05-28
+rain,Rain,rain,0.01427424,23.0588,gainer,1,2026-05-28
+stellar,Stellar,xlm,0.171533,16.90658,gainer,2,2026-05-28
+stable-2,​​Stable,stable,0.0383969,3.79927,gainer,3,2026-05-28
+a7a5,A7A5,a7a5,0.01323774,3.31719,gainer,4,2026-05-28
+midnight-3,Midnight,night,0.03509857,3.11652,gainer,5,2026-05-28
+world-liberty-financial,World Liberty Financial,wlfi,0.059254,2.4147,gainer,6,2026-05-28
+just,JUST,jst,0.095349,1.2179,gainer,7,2026-05-28
+figure-heloc,Figure Heloc,figr_heloc,1.035,0.89609,gainer,8,2026-05-28
+pi-network,Pi Network,pi,0.143685,0.59955,gainer,9,2026-05-28
+hash-2,Provenance Blockchain,hash,0.01046915,0.4023,gainer,10,2026-05-28
+worldcoin-wld,Worldcoin,wld,0.307094,-13.50997,loser,1,2026-05-28
+venice-token,Venice Token,vvv,15.29,-10.74643,loser,2,2026-05-28
+internet-computer,Internet Computer,icp,2.63,-10.1137,loser,3,2026-05-28
+ondo-finance,Ondo,ondo,0.362712,-9.68676,loser,4,2026-05-28
+render-token,Render,render,2.0,-9.5508,loser,5,2026-05-28
+hyperliquid,Hyperliquid,hype,57.2,-8.7451,loser,6,2026-05-28
+morpho,Morpho,morpho,2.09,-8.55585,loser,7,2026-05-28
+filecoin,Filecoin,fil,0.962646,-8.52666,loser,8,2026-05-28
+jupiter-exchange-solana,Jupiter,jup,0.179144,-7.78467,loser,9,2026-05-28
+uniswap,Uniswap,uni,3.01,-7.64412,loser,10,2026-05-28
