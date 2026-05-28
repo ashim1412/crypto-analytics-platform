@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01470391,25.63881,gainer,1,2026-05-27
-stellar,Stellar,xlm,0.163155,10.53787,gainer,2,2026-05-27
-internet-computer,Internet Computer,icp,2.94,9.98989,gainer,3,2026-05-27
-world-liberty-financial,World Liberty Financial,wlfi,0.059814,5.48094,gainer,4,2026-05-27
-filecoin,Filecoin,fil,1.058,4.94995,gainer,5,2026-05-27
-midnight-3,Midnight,night,0.03486486,4.38702,gainer,6,2026-05-27
-unibase,Unibase,ub,0.216534,4.24015,gainer,7,2026-05-27
-monero,Monero,xmr,394.08,4.23289,gainer,8,2026-05-27
-memecore,MemeCore,m,3.03,3.81853,gainer,9,2026-05-27
-just,JUST,jst,0.095432,2.53502,gainer,10,2026-05-27
-worldcoin-wld,Worldcoin,wld,0.348526,-8.30521,loser,1,2026-05-27
-the-open-network,Toncoin,ton,1.91,-6.2261,loser,2,2026-05-27
-zcash,Zcash,zec,553.53,-5.00069,loser,3,2026-05-27
-htx-dao,HTX DAO,htx,1.94e-06,-4.63774,loser,4,2026-05-27
-sky,Sky,sky,0.066557,-4.02575,loser,5,2026-05-27
-render-token,Render,render,2.19,-3.63789,loser,6,2026-05-27
-quant-network,Quant,qnt,73.51,-3.47262,loser,7,2026-05-27
-okb,OKB,okb,87.83,-2.90437,loser,8,2026-05-27
-morpho,Morpho,morpho,2.19,-2.84851,loser,9,2026-05-27
-bittensor,Bittensor,tao,273.11,-2.78865,loser,10,2026-05-27
+rain,Rain,rain,0.01448829,25.26288,gainer,1,2026-05-28
+stellar,Stellar,xlm,0.172846,16.51828,gainer,2,2026-05-28
+stable-2,​​Stable,stable,0.03848837,5.24923,gainer,3,2026-05-28
+midnight-3,Midnight,night,0.03479451,4.6506,gainer,4,2026-05-28
+world-liberty-financial,World Liberty Financial,wlfi,0.058757,3.33636,gainer,5,2026-05-28
+monero,Monero,xmr,389.75,2.83323,gainer,6,2026-05-28
+just,JUST,jst,0.095875,2.60398,gainer,7,2026-05-28
+internet-computer,Internet Computer,icp,2.78,2.24477,gainer,8,2026-05-28
+dexe,DeXe,dexe,16.63,1.98647,gainer,9,2026-05-28
+pi-network,Pi Network,pi,0.145466,1.84543,gainer,10,2026-05-28
+render-token,Render,render,2.09,-10.23738,loser,1,2026-05-28
+worldcoin-wld,Worldcoin,wld,0.332913,-9.09202,loser,2,2026-05-28
+ondo-finance,Ondo,ondo,0.377006,-7.89053,loser,3,2026-05-28
+zcash,Zcash,zec,531.8,-7.51357,loser,4,2026-05-28
+bittensor,Bittensor,tao,262.11,-7.04616,loser,5,2026-05-28
+dash,Dash,dash,41.0,-6.8997,loser,6,2026-05-28
+jupiter-exchange-solana,Jupiter,jup,0.185587,-6.65581,loser,7,2026-05-28
+the-open-network,Toncoin,ton,1.81,-6.6525,loser,8,2026-05-28
+morpho,Morpho,morpho,2.12,-6.12009,loser,9,2026-05-28
+uniswap,Uniswap,uni,3.09,-5.54351,loser,10,2026-05-28
