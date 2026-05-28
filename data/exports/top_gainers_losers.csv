@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stellar,Stellar,xlm,0.194867,22.33375,gainer,1,2026-05-28
-rain,Rain,rain,0.01422375,8.97628,gainer,2,2026-05-28
-dexe,DeXe,dexe,17.07,2.54726,gainer,3,2026-05-28
-midnight-3,Midnight,night,0.03483586,2.45135,gainer,4,2026-05-28
-stable-2,​​Stable,stable,0.03846122,2.35266,gainer,5,2026-05-28
-pi-network,Pi Network,pi,0.14526,2.09298,gainer,6,2026-05-28
-hedera-hashgraph,Hedera,hbar,0.087174,1.58609,gainer,7,2026-05-28
-a7a5,A7A5,a7a5,0.01320748,1.22392,gainer,8,2026-05-28
-world-liberty-financial,World Liberty Financial,wlfi,0.059527,1.21335,gainer,9,2026-05-28
-figure-heloc,Figure Heloc,figr_heloc,1.035,1.00096,gainer,10,2026-05-28
-worldcoin-wld,Worldcoin,wld,0.285763,-21.67472,loser,1,2026-05-28
-venice-token,Venice Token,vvv,14.71,-17.39011,loser,2,2026-05-28
-bitcoin-cash,Bitcoin Cash,bch,295.85,-13.49594,loser,3,2026-05-28
-render-token,Render,render,1.94,-12.80025,loser,4,2026-05-28
-filecoin,Filecoin,fil,0.940327,-11.1239,loser,5,2026-05-28
-internet-computer,Internet Computer,icp,2.61,-10.97488,loser,6,2026-05-28
-jupiter-exchange-solana,Jupiter,jup,0.171918,-10.74992,loser,7,2026-05-28
-near,NEAR Protocol,near,2.29,-10.1657,loser,8,2026-05-28
-ethena,Ethena,ena,0.086861,-9.64015,loser,9,2026-05-28
-monero,Monero,xmr,356.03,-9.53548,loser,10,2026-05-28
+stellar,Stellar,xlm,0.201318,22.40358,gainer,1,2026-05-28
+midnight-3,Midnight,night,0.03649674,4.66459,gainer,2,2026-05-28
+hedera-hashgraph,Hedera,hbar,0.088519,2.97284,gainer,3,2026-05-28
+dexe,DeXe,dexe,16.95,2.52517,gainer,4,2026-05-28
+algorand,Algorand,algo,0.109617,2.35319,gainer,5,2026-05-28
+hyperliquid,Hyperliquid,hype,60.88,1.48873,gainer,6,2026-05-28
+figure-heloc,Figure Heloc,figr_heloc,1.04,1.46804,gainer,7,2026-05-28
+tether-gold,Tether Gold,xaut,4478.47,0.89049,gainer,8,2026-05-28
+pax-gold,PAX Gold,paxg,4484.86,0.7991,gainer,9,2026-05-28
+pi-network,Pi Network,pi,0.145601,0.66617,gainer,10,2026-05-28
+worldcoin-wld,Worldcoin,wld,0.282861,-18.59353,loser,1,2026-05-28
+bitcoin-cash,Bitcoin Cash,bch,299.95,-12.56013,loser,2,2026-05-28
+monero,Monero,xmr,348.69,-11.54548,loser,3,2026-05-28
+jupiter-exchange-solana,Jupiter,jup,0.175818,-10.12762,loser,4,2026-05-28
+render-token,Render,render,1.98,-9.74925,loser,5,2026-05-28
+near,NEAR Protocol,near,2.39,-9.685,loser,6,2026-05-28
+filecoin,Filecoin,fil,0.960227,-9.36411,loser,7,2026-05-28
+ethena,Ethena,ena,0.088331,-8.03264,loser,8,2026-05-28
+fetch-ai,Artificial Superintelligence Alliance,fet,0.228452,-7.02918,loser,9,2026-05-28
+ondo-finance,Ondo,ondo,0.368995,-6.95463,loser,10,2026-05-28
