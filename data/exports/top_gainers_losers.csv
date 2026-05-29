@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-injective-protocol,Injective,inj,6.16,16.14258,gainer,1,2026-05-29
-dexe,DeXe,dexe,18.6,11.17994,gainer,2,2026-05-29
-hyperliquid,Hyperliquid,hype,62.6,9.56307,gainer,3,2026-05-29
-algorand,Algorand,algo,0.111823,6.48685,gainer,4,2026-05-29
-near,NEAR Protocol,near,2.45,5.94992,gainer,5,2026-05-29
-fetch-ai,Artificial Superintelligence Alliance,fet,0.231514,3.67246,gainer,6,2026-05-29
-worldcoin-wld,Worldcoin,wld,0.29453,3.05865,gainer,7,2026-05-29
-venice-token,Venice Token,vvv,15.07,2.94055,gainer,8,2026-05-29
-mantle,Mantle,mnt,0.633909,2.58437,gainer,9,2026-05-29
-quant-network,Quant,qnt,71.23,2.31844,gainer,10,2026-05-29
-bittensor,Bittensor,tao,247.63,-3.75983,loser,1,2026-05-29
-world-liberty-financial,World Liberty Financial,wlfi,0.057596,-2.77183,loser,2,2026-05-29
-morpho,Morpho,morpho,2.0,-2.54634,loser,3,2026-05-29
-cosmos,Cosmos Hub,atom,1.98,-2.44255,loser,4,2026-05-29
-aptos,Aptos,apt,0.895733,-2.18441,loser,5,2026-05-29
-ethena,Ethena,ena,0.084979,-2.1441,loser,6,2026-05-29
-sui,Sui,sui,0.896578,-2.06851,loser,7,2026-05-29
-avalanche-2,Avalanche,avax,8.72,-1.61924,loser,8,2026-05-29
-pi-network,Pi Network,pi,0.142414,-1.61815,loser,9,2026-05-29
-uniswap,Uniswap,uni,2.96,-1.55964,loser,10,2026-05-29
+injective-protocol,Injective,inj,6.49,19.01616,gainer,1,2026-05-29
+stellar,Stellar,xlm,0.237432,17.51497,gainer,2,2026-05-29
+fetch-ai,Artificial Superintelligence Alliance,fet,0.251573,10.50531,gainer,3,2026-05-29
+hyperliquid,Hyperliquid,hype,66.14,9.12422,gainer,4,2026-05-29
+dexe,DeXe,dexe,18.3,7.9161,gainer,5,2026-05-29
+algorand,Algorand,algo,0.11821,7.7961,gainer,6,2026-05-29
+near,NEAR Protocol,near,2.54,6.63443,gainer,7,2026-05-29
+worldcoin-wld,Worldcoin,wld,0.298507,5.88168,gainer,8,2026-05-29
+monero,Monero,xmr,366.8,5.19749,gainer,9,2026-05-29
+hedera-hashgraph,Hedera,hbar,0.092704,4.89312,gainer,10,2026-05-29
+bittensor,Bittensor,tao,249.3,-4.66481,loser,1,2026-05-29
+venice-token,Venice Token,vvv,15.75,-3.79182,loser,2,2026-05-29
+midnight-3,Midnight,night,0.0350246,-3.64809,loser,3,2026-05-29
+zcash,Zcash,zec,532.31,-3.27971,loser,4,2026-05-29
+internet-computer,Internet Computer,icp,2.68,-3.23331,loser,5,2026-05-29
+sui,Sui,sui,0.904197,-2.32286,loser,6,2026-05-29
+tron,TRON,trx,0.343906,-2.31476,loser,7,2026-05-29
+htx-dao,HTX DAO,htx,1.83e-06,-1.95425,loser,8,2026-05-29
+polkadot,Polkadot,dot,1.19,-1.92803,loser,9,2026-05-29
+world-liberty-financial,World Liberty Financial,wlfi,0.058036,-1.85661,loser,10,2026-05-29
