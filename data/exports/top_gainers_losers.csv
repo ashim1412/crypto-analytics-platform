@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stellar,Stellar,xlm,0.270925,37.82263,gainer,1,2026-05-30
-hedera-hashgraph,Hedera,hbar,0.106959,19.4912,gainer,2,2026-05-30
-algorand,Algorand,algo,0.133176,16.78172,gainer,3,2026-05-30
-injective-protocol,Injective,inj,6.52,16.24323,gainer,4,2026-05-30
-monero,Monero,xmr,412.08,14.84598,gainer,5,2026-05-30
-jupiter-exchange-solana,Jupiter,jup,0.190412,7.38096,gainer,6,2026-05-30
-hyperliquid,Hyperliquid,hype,65.69,6.58402,gainer,7,2026-05-30
-dexe,DeXe,dexe,18.41,5.41992,gainer,8,2026-05-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.091431,4.68674,gainer,9,2026-05-30
-xdce-crowd-sale,XDC Network,xdc,0.0328125,4.05064,gainer,10,2026-05-30
-near,NEAR Protocol,near,2.38,-6.23522,loser,1,2026-05-30
-ondo-finance,Ondo,ondo,0.35203,-4.8743,loser,2,2026-05-30
-render-token,Render,render,1.98,-3.54612,loser,3,2026-05-30
-bittensor,Bittensor,tao,252.2,-3.3133,loser,4,2026-05-30
-cosmos,Cosmos Hub,atom,2.03,-2.68579,loser,5,2026-05-30
-htx-dao,HTX DAO,htx,1.82e-06,-2.535,loser,6,2026-05-30
-zcash,Zcash,zec,536.63,-2.49598,loser,7,2026-05-30
-tron,TRON,trx,0.344397,-2.05904,loser,8,2026-05-30
-sui,Sui,sui,0.910558,-1.8182,loser,9,2026-05-30
-internet-computer,Internet Computer,icp,2.69,-1.4281,loser,10,2026-05-30
+stellar,Stellar,xlm,0.251901,19.91128,gainer,1,2026-05-30
+xdce-crowd-sale,XDC Network,xdc,0.03455128,9.12062,gainer,2,2026-05-30
+algorand,Algorand,algo,0.127486,8.31862,gainer,3,2026-05-30
+monero,Monero,xmr,394.48,8.18773,gainer,4,2026-05-30
+vechain,VeChain,vet,0.00633574,6.81934,gainer,5,2026-05-30
+jupiter-exchange-solana,Jupiter,jup,0.18532,5.76905,gainer,6,2026-05-30
+hedera-hashgraph,Hedera,hbar,0.097072,5.52775,gainer,7,2026-05-30
+binancecoin,BNB,bnb,669.71,5.23248,gainer,8,2026-05-30
+hyperliquid,Hyperliquid,hype,66.05,4.92888,gainer,9,2026-05-30
+injective-protocol,Injective,inj,6.56,3.64931,gainer,10,2026-05-30
+memecore,MemeCore,m,2.84,-8.00261,loser,1,2026-05-30
+ondo-finance,Ondo,ondo,0.346314,-6.40372,loser,2,2026-05-30
+worldcoin-wld,Worldcoin,wld,0.29344,-4.69956,loser,3,2026-05-30
+render-token,Render,render,1.98,-3.98772,loser,4,2026-05-30
+near,NEAR Protocol,near,2.4,-3.8255,loser,5,2026-05-30
+zcash,Zcash,zec,517.48,-3.69866,loser,6,2026-05-30
+bittensor,Bittensor,tao,250.74,-3.00987,loser,7,2026-05-30
+internet-computer,Internet Computer,icp,2.69,-2.83818,loser,8,2026-05-30
+stable-2,​​Stable,stable,0.03767407,-2.64015,loser,9,2026-05-30
+sui,Sui,sui,0.900151,-2.39906,loser,10,2026-05-30
