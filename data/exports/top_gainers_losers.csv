@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stellar,Stellar,xlm,0.251901,19.91128,gainer,1,2026-05-30
-xdce-crowd-sale,XDC Network,xdc,0.03455128,9.12062,gainer,2,2026-05-30
-algorand,Algorand,algo,0.127486,8.31862,gainer,3,2026-05-30
-monero,Monero,xmr,394.48,8.18773,gainer,4,2026-05-30
-vechain,VeChain,vet,0.00633574,6.81934,gainer,5,2026-05-30
-jupiter-exchange-solana,Jupiter,jup,0.18532,5.76905,gainer,6,2026-05-30
-hedera-hashgraph,Hedera,hbar,0.097072,5.52775,gainer,7,2026-05-30
-binancecoin,BNB,bnb,669.71,5.23248,gainer,8,2026-05-30
-hyperliquid,Hyperliquid,hype,66.05,4.92888,gainer,9,2026-05-30
-injective-protocol,Injective,inj,6.56,3.64931,gainer,10,2026-05-30
-memecore,MemeCore,m,2.84,-8.00261,loser,1,2026-05-30
-ondo-finance,Ondo,ondo,0.346314,-6.40372,loser,2,2026-05-30
-worldcoin-wld,Worldcoin,wld,0.29344,-4.69956,loser,3,2026-05-30
-render-token,Render,render,1.98,-3.98772,loser,4,2026-05-30
-near,NEAR Protocol,near,2.4,-3.8255,loser,5,2026-05-30
-zcash,Zcash,zec,517.48,-3.69866,loser,6,2026-05-30
-bittensor,Bittensor,tao,250.74,-3.00987,loser,7,2026-05-30
-internet-computer,Internet Computer,icp,2.69,-2.83818,loser,8,2026-05-30
-stable-2,​​Stable,stable,0.03767407,-2.64015,loser,9,2026-05-30
-sui,Sui,sui,0.900151,-2.39906,loser,10,2026-05-30
+lab,LAB,lab,7.53,27.41951,gainer,1,2026-05-30
+stellar,Stellar,xlm,0.247012,21.30688,gainer,2,2026-05-30
+humanity,Humanity,h,0.316806,17.05965,gainer,3,2026-05-30
+fetch-ai,Artificial Superintelligence Alliance,fet,0.268213,14.09613,gainer,4,2026-05-30
+injective-protocol,Injective,inj,6.69,12.01216,gainer,5,2026-05-30
+algorand,Algorand,algo,0.126524,11.47519,gainer,6,2026-05-30
+hedera-hashgraph,Hedera,hbar,0.100195,11.47273,gainer,7,2026-05-30
+hyperliquid,Hyperliquid,hype,68.05,9.85911,gainer,8,2026-05-30
+midnight-3,Midnight,night,0.03784339,7.71971,gainer,9,2026-05-30
+xdce-crowd-sale,XDC Network,xdc,0.03366689,6.5344,gainer,10,2026-05-30
+memecore,MemeCore,m,2.85,-5.84789,loser,1,2026-05-30
+ondo-finance,Ondo,ondo,0.346744,-3.56067,loser,2,2026-05-30
+stable-2,​​Stable,stable,0.03763899,-2.06449,loser,3,2026-05-30
+zcash,Zcash,zec,522.63,-1.76854,loser,4,2026-05-30
+canton-network,Canton,cc,0.15448,-1.33089,loser,5,2026-05-30
+sky,Sky,sky,0.064849,-1.32667,loser,6,2026-05-30
+near,NEAR Protocol,near,2.4,-1.24475,loser,7,2026-05-30
+rain,Rain,rain,0.0143805,-0.96784,loser,8,2026-05-30
+flare-networks,Flare,flr,0.00771255,-0.60779,loser,9,2026-05-30
+sui,Sui,sui,0.899134,-0.49486,loser,10,2026-05-30
