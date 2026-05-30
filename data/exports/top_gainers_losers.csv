@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,7.53,27.41951,gainer,1,2026-05-30
-stellar,Stellar,xlm,0.247012,21.30688,gainer,2,2026-05-30
-humanity,Humanity,h,0.316806,17.05965,gainer,3,2026-05-30
-fetch-ai,Artificial Superintelligence Alliance,fet,0.268213,14.09613,gainer,4,2026-05-30
-injective-protocol,Injective,inj,6.69,12.01216,gainer,5,2026-05-30
-algorand,Algorand,algo,0.126524,11.47519,gainer,6,2026-05-30
-hedera-hashgraph,Hedera,hbar,0.100195,11.47273,gainer,7,2026-05-30
-hyperliquid,Hyperliquid,hype,68.05,9.85911,gainer,8,2026-05-30
-midnight-3,Midnight,night,0.03784339,7.71971,gainer,9,2026-05-30
-xdce-crowd-sale,XDC Network,xdc,0.03366689,6.5344,gainer,10,2026-05-30
-memecore,MemeCore,m,2.85,-5.84789,loser,1,2026-05-30
-ondo-finance,Ondo,ondo,0.346744,-3.56067,loser,2,2026-05-30
-stable-2,​​Stable,stable,0.03763899,-2.06449,loser,3,2026-05-30
-zcash,Zcash,zec,522.63,-1.76854,loser,4,2026-05-30
-canton-network,Canton,cc,0.15448,-1.33089,loser,5,2026-05-30
-sky,Sky,sky,0.064849,-1.32667,loser,6,2026-05-30
-near,NEAR Protocol,near,2.4,-1.24475,loser,7,2026-05-30
-rain,Rain,rain,0.0143805,-0.96784,loser,8,2026-05-30
-flare-networks,Flare,flr,0.00771255,-0.60779,loser,9,2026-05-30
-sui,Sui,sui,0.899134,-0.49486,loser,10,2026-05-30
+humanity,Humanity,h,0.395574,53.69691,gainer,1,2026-05-30
+lab,LAB,lab,7.96,32.81598,gainer,2,2026-05-30
+worldcoin-wld,Worldcoin,wld,0.364788,21.73099,gainer,3,2026-05-30
+stellar,Stellar,xlm,0.2475,13.43847,gainer,4,2026-05-30
+binancecoin,BNB,bnb,710.1,11.19197,gainer,5,2026-05-30
+midnight-3,Midnight,night,0.03863963,10.05518,gainer,6,2026-05-30
+algorand,Algorand,algo,0.128768,9.30663,gainer,7,2026-05-30
+aster-2,Aster,aster,0.73897,9.10663,gainer,8,2026-05-30
+fetch-ai,Artificial Superintelligence Alliance,fet,0.272639,7.84733,gainer,9,2026-05-30
+hedera-hashgraph,Hedera,hbar,0.097699,6.95856,gainer,10,2026-05-30
+near,NEAR Protocol,near,2.32,-9.30178,loser,1,2026-05-30
+stable-2,​​Stable,stable,0.03663626,-6.14627,loser,2,2026-05-30
+memecore,MemeCore,m,2.89,-3.78869,loser,3,2026-05-30
+ondo-finance,Ondo,ondo,0.353539,-2.7428,loser,4,2026-05-30
+rain,Rain,rain,0.01438737,-1.17291,loser,5,2026-05-30
+sky,Sky,sky,0.064518,-0.85234,loser,6,2026-05-30
+htx-dao,HTX DAO,htx,1.82e-06,-0.82246,loser,7,2026-05-30
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.67659,loser,8,2026-05-30
+polkadot,Polkadot,dot,1.2,-0.61419,loser,9,2026-05-30
+tether-gold,Tether Gold,xaut,4505.97,-0.49602,loser,10,2026-05-30
