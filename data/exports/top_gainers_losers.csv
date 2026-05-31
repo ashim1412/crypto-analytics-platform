@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-humanity,Humanity,h,0.395574,53.69691,gainer,1,2026-05-30
-lab,LAB,lab,7.96,32.81598,gainer,2,2026-05-30
-worldcoin-wld,Worldcoin,wld,0.364788,21.73099,gainer,3,2026-05-30
-stellar,Stellar,xlm,0.2475,13.43847,gainer,4,2026-05-30
-binancecoin,BNB,bnb,710.1,11.19197,gainer,5,2026-05-30
-midnight-3,Midnight,night,0.03863963,10.05518,gainer,6,2026-05-30
-algorand,Algorand,algo,0.128768,9.30663,gainer,7,2026-05-30
-aster-2,Aster,aster,0.73897,9.10663,gainer,8,2026-05-30
-fetch-ai,Artificial Superintelligence Alliance,fet,0.272639,7.84733,gainer,9,2026-05-30
-hedera-hashgraph,Hedera,hbar,0.097699,6.95856,gainer,10,2026-05-30
-near,NEAR Protocol,near,2.32,-9.30178,loser,1,2026-05-30
-stable-2,​​Stable,stable,0.03663626,-6.14627,loser,2,2026-05-30
-memecore,MemeCore,m,2.89,-3.78869,loser,3,2026-05-30
-ondo-finance,Ondo,ondo,0.353539,-2.7428,loser,4,2026-05-30
-rain,Rain,rain,0.01438737,-1.17291,loser,5,2026-05-30
-sky,Sky,sky,0.064518,-0.85234,loser,6,2026-05-30
-htx-dao,HTX DAO,htx,1.82e-06,-0.82246,loser,7,2026-05-30
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.67659,loser,8,2026-05-30
-polkadot,Polkadot,dot,1.2,-0.61419,loser,9,2026-05-30
-tether-gold,Tether Gold,xaut,4505.97,-0.49602,loser,10,2026-05-30
+humanity,Humanity,h,0.361171,28.92309,gainer,1,2026-05-31
+lab,LAB,lab,8.29,24.24348,gainer,2,2026-05-31
+worldcoin-wld,Worldcoin,wld,0.341353,16.17849,gainer,3,2026-05-31
+bitget-token,Bitget Token,bgb,2.23,11.94528,gainer,4,2026-05-31
+binancecoin,BNB,bnb,726.78,11.14429,gainer,5,2026-05-31
+fetch-ai,Artificial Superintelligence Alliance,fet,0.27322,11.02191,gainer,6,2026-05-31
+aster-2,Aster,aster,0.745942,9.44481,gainer,7,2026-05-31
+midnight-3,Midnight,night,0.03850904,9.05256,gainer,8,2026-05-31
+morpho,Morpho,morpho,2.21,7.99875,gainer,9,2026-05-31
+gatechain-token,Gate,gt,7.32,7.31976,gainer,10,2026-05-31
+stellar,Stellar,xlm,0.237914,-12.26773,loser,1,2026-05-31
+hedera-hashgraph,Hedera,hbar,0.095543,-10.30501,loser,2,2026-05-31
+monero,Monero,xmr,372.21,-9.87168,loser,3,2026-05-31
+algorand,Algorand,algo,0.124575,-7.72864,loser,4,2026-05-31
+stable-2,​​Stable,stable,0.03665944,-6.04892,loser,5,2026-05-31
+near,NEAR Protocol,near,2.25,-5.81939,loser,6,2026-05-31
+just,JUST,jst,0.091908,-3.96862,loser,7,2026-05-31
+canton-network,Canton,cc,0.154455,-2.22507,loser,8,2026-05-31
+sky,Sky,sky,0.06419,-2.15226,loser,9,2026-05-31
+aptos,Aptos,apt,0.94209,-1.91689,loser,10,2026-05-31
