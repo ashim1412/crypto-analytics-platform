@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bianrensheng,币安人生 (BinanceLife),币安人生,0.614078,17.91367,gainer,1,2026-05-31
-stable-2,​​Stable,stable,0.03962798,8.21943,gainer,2,2026-05-31
-venice-token,Venice Token,vvv,17.91,7.85283,gainer,3,2026-05-31
-lab,LAB,lab,8.47,5.2458,gainer,4,2026-05-31
-dexe,DeXe,dexe,19.09,4.10389,gainer,5,2026-05-31
-okb,OKB,okb,92.73,4.08884,gainer,6,2026-05-31
-gatechain-token,Gate,gt,7.19,2.99832,gainer,7,2026-05-31
-memecore,MemeCore,m,2.97,2.88572,gainer,8,2026-05-31
-sky,Sky,sky,0.066355,2.87177,gainer,9,2026-05-31
-htx-dao,HTX DAO,htx,1.85e-06,1.71246,gainer,10,2026-05-31
-worldcoin-wld,Worldcoin,wld,0.333904,-8.77232,loser,1,2026-05-31
-hash-2,Provenance Blockchain,hash,0.01064832,-6.14888,loser,2,2026-05-31
-filecoin,Filecoin,fil,0.925019,-5.74965,loser,3,2026-05-31
-cosmos,Cosmos Hub,atom,1.93,-5.31136,loser,4,2026-05-31
-aster-2,Aster,aster,0.716129,-4.23371,loser,5,2026-05-31
-injective-protocol,Injective,inj,6.42,-4.15745,loser,6,2026-05-31
-near,NEAR Protocol,near,2.23,-3.85709,loser,7,2026-05-31
-monero,Monero,xmr,362.28,-3.82313,loser,8,2026-05-31
-just,JUST,jst,0.093117,-3.74554,loser,9,2026-05-31
-arbitrum,Arbitrum,arb,0.101147,-3.38674,loser,10,2026-05-31
+humanity,Humanity,h,0.661146,86.29094,gainer,1,2026-06-01
+bianrensheng,币安人生 (BinanceLife),币安人生,0.630996,24.40324,gainer,2,2026-06-01
+lab,LAB,lab,9.74,16.44877,gainer,3,2026-06-01
+stellar,Stellar,xlm,0.266958,11.28906,gainer,4,2026-06-01
+venice-token,Venice Token,vvv,18.74,8.59719,gainer,5,2026-06-01
+worldcoin-wld,Worldcoin,wld,0.372248,8.51038,gainer,6,2026-06-01
+sky,Sky,sky,0.06868,6.94647,gainer,7,2026-06-01
+dexe,DeXe,dexe,19.23,6.36326,gainer,8,2026-06-01
+stable-2,​​Stable,stable,0.03901246,6.31356,gainer,9,2026-06-01
+zcash,Zcash,zec,573.51,5.92143,gainer,10,2026-06-01
+bitget-token,Bitget Token,bgb,2.1,-6.76567,loser,1,2026-06-01
+morpho,Morpho,morpho,2.07,-5.89429,loser,2,2026-06-01
+aster-2,Aster,aster,0.716064,-4.80117,loser,3,2026-06-01
+binancecoin,BNB,bnb,700.19,-4.12321,loser,4,2026-06-01
+filecoin,Filecoin,fil,0.937845,-3.78361,loser,5,2026-06-01
+monero,Monero,xmr,359.01,-3.70479,loser,6,2026-06-01
+sui,Sui,sui,0.888691,-3.34762,loser,7,2026-06-01
+mantle,Mantle,mnt,0.656191,-3.33065,loser,8,2026-06-01
+cosmos,Cosmos Hub,atom,1.95,-2.99562,loser,9,2026-06-01
+gatechain-token,Gate,gt,7.11,-2.61863,loser,10,2026-06-01
