@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-humanity,Humanity,h,0.72515,90.21674,gainer,1,2026-06-01
-lab,LAB,lab,13.67,81.03699,gainer,2,2026-06-01
-bianrensheng,币安人生 (BinanceLife),币安人生,0.627135,26.92295,gainer,3,2026-06-01
-worldcoin-wld,Worldcoin,wld,0.380799,14.31632,gainer,4,2026-06-01
-stellar,Stellar,xlm,0.263955,7.91839,gainer,5,2026-06-01
-stable-2,​​Stable,stable,0.03968692,7.53536,gainer,6,2026-06-01
-hyperliquid,Hyperliquid,hype,72.59,6.38193,gainer,7,2026-06-01
-sky,Sky,sky,0.069783,5.90577,gainer,8,2026-06-01
-jupiter-exchange-solana,Jupiter,jup,0.192919,4.95873,gainer,9,2026-06-01
-hash-2,Provenance Blockchain,hash,0.0112268,4.81443,gainer,10,2026-06-01
-morpho,Morpho,morpho,1.99,-7.43955,loser,1,2026-06-01
-bitcoin-cash,Bitcoin Cash,bch,284.22,-7.34131,loser,2,2026-06-01
-midnight-3,Midnight,night,0.03834753,-5.68455,loser,3,2026-06-01
-algorand,Algorand,algo,0.121416,-5.53576,loser,4,2026-06-01
-aster-2,Aster,aster,0.699077,-4.8159,loser,5,2026-06-01
-filecoin,Filecoin,fil,0.922409,-4.04952,loser,6,2026-06-01
-mantle,Mantle,mnt,0.646734,-3.64841,loser,7,2026-06-01
-ethena,Ethena,ena,0.086649,-3.62,loser,8,2026-06-01
-kucoin-shares,KuCoin,kcs,7.73,-3.19401,loser,9,2026-06-01
-bittensor,Bittensor,tao,251.06,-2.96848,loser,10,2026-06-01
+lab,LAB,lab,15.59,85.80581,gainer,1,2026-06-01
+humanity,Humanity,h,0.536776,37.36616,gainer,2,2026-06-01
+worldcoin-wld,Worldcoin,wld,0.404033,23.80543,gainer,3,2026-06-01
+the-open-network,Toncoin,ton,2.19,18.30972,gainer,4,2026-06-01
+bianrensheng,币安人生 (BinanceLife),币安人生,0.647902,16.01071,gainer,5,2026-06-01
+internet-computer,Internet Computer,icp,2.94,12.03547,gainer,6,2026-06-01
+injective-protocol,Injective,inj,7.11,11.96433,gainer,7,2026-06-01
+near,NEAR Protocol,near,2.47,9.45919,gainer,8,2026-06-01
+hyperliquid,Hyperliquid,hype,72.71,6.84059,gainer,9,2026-06-01
+jupiter-exchange-solana,Jupiter,jup,0.194935,6.42447,gainer,10,2026-06-01
+rain,Rain,rain,0.01360855,-4.72443,loser,1,2026-06-01
+mantle,Mantle,mnt,0.630268,-4.26199,loser,2,2026-06-01
+binancecoin,BNB,bnb,683.68,-3.86252,loser,3,2026-06-01
+gatechain-token,Gate,gt,6.96,-3.29031,loser,4,2026-06-01
+aster-2,Aster,aster,0.692302,-3.24443,loser,5,2026-06-01
+bitcoin-cash,Bitcoin Cash,bch,288.52,-3.16771,loser,6,2026-06-01
+algorand,Algorand,algo,0.121232,-3.10734,loser,7,2026-06-01
+bitcoin,Bitcoin,btc,71492.0,-2.59202,loser,8,2026-06-01
+okb,OKB,okb,89.32,-2.49189,loser,9,2026-06-01
+bitget-token,Bitget Token,bgb,2.03,-2.48138,loser,10,2026-06-01
