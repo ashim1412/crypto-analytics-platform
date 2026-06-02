@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,19.24,30.86212,gainer,1,2026-06-02
-memecore,MemeCore,m,3.32,13.74545,gainer,2,2026-06-02
-near,NEAR Protocol,near,2.62,12.59586,gainer,3,2026-06-02
-injective-protocol,Injective,inj,7.22,9.59489,gainer,4,2026-06-02
-worldcoin-wld,Worldcoin,wld,0.409177,8.84155,gainer,5,2026-06-02
-humanity,Humanity,h,0.779505,7.97105,gainer,6,2026-06-02
-internet-computer,Internet Computer,icp,2.95,7.37375,gainer,7,2026-06-02
-render-token,Render,render,2.16,5.75976,gainer,8,2026-06-02
-jupiter-exchange-solana,Jupiter,jup,0.200922,5.60567,gainer,9,2026-06-02
-the-open-network,Toncoin,ton,2.01,4.2086,gainer,10,2026-06-02
-stellar,Stellar,xlm,0.228678,-10.05969,loser,1,2026-06-02
-dexe,DeXe,dexe,17.73,-6.01423,loser,2,2026-06-02
-stable-2,​​Stable,stable,0.03753094,-5.66669,loser,3,2026-06-02
-bianrensheng,币安人生 (BinanceLife),币安人生,0.615536,-5.65976,loser,4,2026-06-02
-monero,Monero,xmr,343.89,-5.2362,loser,5,2026-06-02
-binancecoin,BNB,bnb,676.19,-4.97407,loser,6,2026-06-02
-okb,OKB,okb,87.14,-4.94837,loser,7,2026-06-02
-aster-2,Aster,aster,0.681654,-4.9049,loser,8,2026-06-02
-bitcoin,Bitcoin,btc,69343.0,-4.7371,loser,9,2026-06-02
-aave,Aave,aave,77.38,-4.72211,loser,10,2026-06-02
+lab,LAB,lab,20.03,33.32629,gainer,1,2026-06-02
+memecore,MemeCore,m,3.27,11.22326,gainer,2,2026-06-02
+zcash,Zcash,zec,566.42,6.85059,gainer,3,2026-06-02
+internet-computer,Internet Computer,icp,2.94,4.42517,gainer,4,2026-06-02
+worldcoin-wld,Worldcoin,wld,0.400191,3.8732,gainer,5,2026-06-02
+ondo-finance,Ondo,ondo,0.360184,3.74531,gainer,6,2026-06-02
+rain,Rain,rain,0.01409533,2.9788,gainer,7,2026-06-02
+near,NEAR Protocol,near,2.48,2.86087,gainer,8,2026-06-02
+render-token,Render,render,2.03,2.40234,gainer,9,2026-06-02
+jupiter-exchange-solana,Jupiter,jup,0.192248,2.26931,gainer,10,2026-06-02
+stellar,Stellar,xlm,0.217043,-13.22441,loser,1,2026-06-02
+stable-2,​​Stable,stable,0.03519179,-12.15303,loser,2,2026-06-02
+humanity,Humanity,h,0.645121,-8.30701,loser,3,2026-06-02
+aptos,Aptos,apt,0.847892,-7.11205,loser,4,2026-06-02
+the-open-network,Toncoin,ton,1.94,-6.33139,loser,5,2026-06-02
+morpho,Morpho,morpho,1.93,-6.2504,loser,6,2026-06-02
+arbitrum,Arbitrum,arb,0.093639,-6.11538,loser,7,2026-06-02
+aave,Aave,aave,74.91,-6.08537,loser,8,2026-06-02
+monero,Monero,xmr,338.18,-5.69101,loser,9,2026-06-02
+hash-2,Provenance Blockchain,hash,0.0099213,-5.6132,loser,10,2026-06-02
