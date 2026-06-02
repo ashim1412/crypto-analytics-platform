@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-humanity,Humanity,h,0.677254,73.94735,gainer,1,2026-06-01
-lab,LAB,lab,15.35,64.67842,gainer,2,2026-06-01
-worldcoin-wld,Worldcoin,wld,0.429932,27.37923,gainer,3,2026-06-01
-near,NEAR Protocol,near,2.64,16.83829,gainer,4,2026-06-01
-the-open-network,Toncoin,ton,2.13,14.09214,gainer,5,2026-06-01
-memecore,MemeCore,m,3.25,9.26128,gainer,6,2026-06-01
-internet-computer,Internet Computer,icp,2.95,8.67752,gainer,7,2026-06-01
-injective-protocol,Injective,inj,6.86,6.31586,gainer,8,2026-06-01
-midnight-3,Midnight,night,0.03921823,4.91821,gainer,9,2026-06-01
-jupiter-exchange-solana,Jupiter,jup,0.196928,4.22086,gainer,10,2026-06-01
-bianrensheng,币安人生 (BinanceLife),币安人生,0.617771,-6.31788,loser,1,2026-06-01
-algorand,Algorand,algo,0.120285,-6.3058,loser,2,2026-06-01
-aster-2,Aster,aster,0.685193,-5.11441,loser,3,2026-06-01
-rain,Rain,rain,0.01359225,-4.8074,loser,4,2026-06-01
-mantle,Mantle,mnt,0.634596,-4.51612,loser,5,2026-06-01
-hedera-hashgraph,Hedera,hbar,0.092869,-3.74038,loser,6,2026-06-01
-fetch-ai,Artificial Superintelligence Alliance,fet,0.269904,-3.72232,loser,7,2026-06-01
-okb,OKB,okb,89.06,-3.50417,loser,8,2026-06-01
-bitcoin,Bitcoin,btc,71066.0,-3.44676,loser,9,2026-06-01
-morpho,Morpho,morpho,2.07,-3.42107,loser,10,2026-06-01
+lab,LAB,lab,16.58,70.61442,gainer,1,2026-06-02
+worldcoin-wld,Worldcoin,wld,0.433963,16.51911,gainer,2,2026-06-02
+memecore,MemeCore,m,3.35,14.06672,gainer,3,2026-06-02
+near,NEAR Protocol,near,2.57,12.15612,gainer,4,2026-06-02
+the-open-network,Toncoin,ton,2.04,6.69194,gainer,5,2026-06-02
+injective-protocol,Injective,inj,6.88,5.67626,gainer,6,2026-06-02
+midnight-3,Midnight,night,0.039645,4.04276,gainer,7,2026-06-02
+humanity,Humanity,h,0.686758,3.86874,gainer,8,2026-06-02
+jupiter-exchange-solana,Jupiter,jup,0.197351,3.39342,gainer,9,2026-06-02
+figure-heloc,Figure Heloc,figr_heloc,1.042,2.11861,gainer,10,2026-06-02
+stellar,Stellar,xlm,0.234296,-12.2722,loser,1,2026-06-02
+hash-2,Provenance Blockchain,hash,0.00983991,-12.2597,loser,2,2026-06-02
+bianrensheng,币安人生 (BinanceLife),币安人生,0.576259,-8.67474,loser,3,2026-06-02
+rain,Rain,rain,0.01327128,-7.06282,loser,4,2026-06-02
+zcash,Zcash,zec,533.9,-6.80571,loser,5,2026-06-02
+dexe,DeXe,dexe,18.08,-5.97734,loser,6,2026-06-02
+venice-token,Venice Token,vvv,17.69,-5.89505,loser,7,2026-06-02
+monero,Monero,xmr,338.72,-5.65102,loser,8,2026-06-02
+algorand,Algorand,algo,0.117697,-5.50243,loser,9,2026-06-02
+ondo-finance,Ondo,ondo,0.345996,-5.20074,loser,10,2026-06-02
