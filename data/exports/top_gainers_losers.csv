@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,16.58,70.61442,gainer,1,2026-06-02
-worldcoin-wld,Worldcoin,wld,0.433963,16.51911,gainer,2,2026-06-02
-memecore,MemeCore,m,3.35,14.06672,gainer,3,2026-06-02
-near,NEAR Protocol,near,2.57,12.15612,gainer,4,2026-06-02
-the-open-network,Toncoin,ton,2.04,6.69194,gainer,5,2026-06-02
-injective-protocol,Injective,inj,6.88,5.67626,gainer,6,2026-06-02
-midnight-3,Midnight,night,0.039645,4.04276,gainer,7,2026-06-02
-humanity,Humanity,h,0.686758,3.86874,gainer,8,2026-06-02
-jupiter-exchange-solana,Jupiter,jup,0.197351,3.39342,gainer,9,2026-06-02
-figure-heloc,Figure Heloc,figr_heloc,1.042,2.11861,gainer,10,2026-06-02
-stellar,Stellar,xlm,0.234296,-12.2722,loser,1,2026-06-02
-hash-2,Provenance Blockchain,hash,0.00983991,-12.2597,loser,2,2026-06-02
-bianrensheng,币安人生 (BinanceLife),币安人生,0.576259,-8.67474,loser,3,2026-06-02
-rain,Rain,rain,0.01327128,-7.06282,loser,4,2026-06-02
-zcash,Zcash,zec,533.9,-6.80571,loser,5,2026-06-02
-dexe,DeXe,dexe,18.08,-5.97734,loser,6,2026-06-02
-venice-token,Venice Token,vvv,17.69,-5.89505,loser,7,2026-06-02
-monero,Monero,xmr,338.72,-5.65102,loser,8,2026-06-02
-algorand,Algorand,algo,0.117697,-5.50243,loser,9,2026-06-02
-ondo-finance,Ondo,ondo,0.345996,-5.20074,loser,10,2026-06-02
+lab,LAB,lab,19.24,30.86212,gainer,1,2026-06-02
+memecore,MemeCore,m,3.32,13.74545,gainer,2,2026-06-02
+near,NEAR Protocol,near,2.62,12.59586,gainer,3,2026-06-02
+injective-protocol,Injective,inj,7.22,9.59489,gainer,4,2026-06-02
+worldcoin-wld,Worldcoin,wld,0.409177,8.84155,gainer,5,2026-06-02
+humanity,Humanity,h,0.779505,7.97105,gainer,6,2026-06-02
+internet-computer,Internet Computer,icp,2.95,7.37375,gainer,7,2026-06-02
+render-token,Render,render,2.16,5.75976,gainer,8,2026-06-02
+jupiter-exchange-solana,Jupiter,jup,0.200922,5.60567,gainer,9,2026-06-02
+the-open-network,Toncoin,ton,2.01,4.2086,gainer,10,2026-06-02
+stellar,Stellar,xlm,0.228678,-10.05969,loser,1,2026-06-02
+dexe,DeXe,dexe,17.73,-6.01423,loser,2,2026-06-02
+stable-2,​​Stable,stable,0.03753094,-5.66669,loser,3,2026-06-02
+bianrensheng,币安人生 (BinanceLife),币安人生,0.615536,-5.65976,loser,4,2026-06-02
+monero,Monero,xmr,343.89,-5.2362,loser,5,2026-06-02
+binancecoin,BNB,bnb,676.19,-4.97407,loser,6,2026-06-02
+okb,OKB,okb,87.14,-4.94837,loser,7,2026-06-02
+aster-2,Aster,aster,0.681654,-4.9049,loser,8,2026-06-02
+bitcoin,Bitcoin,btc,69343.0,-4.7371,loser,9,2026-06-02
+aave,Aave,aave,77.38,-4.72211,loser,10,2026-06-02
