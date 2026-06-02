@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,20.03,33.32629,gainer,1,2026-06-02
-memecore,MemeCore,m,3.27,11.22326,gainer,2,2026-06-02
-zcash,Zcash,zec,566.42,6.85059,gainer,3,2026-06-02
-internet-computer,Internet Computer,icp,2.94,4.42517,gainer,4,2026-06-02
-worldcoin-wld,Worldcoin,wld,0.400191,3.8732,gainer,5,2026-06-02
-ondo-finance,Ondo,ondo,0.360184,3.74531,gainer,6,2026-06-02
-rain,Rain,rain,0.01409533,2.9788,gainer,7,2026-06-02
-near,NEAR Protocol,near,2.48,2.86087,gainer,8,2026-06-02
-render-token,Render,render,2.03,2.40234,gainer,9,2026-06-02
-jupiter-exchange-solana,Jupiter,jup,0.192248,2.26931,gainer,10,2026-06-02
-stellar,Stellar,xlm,0.217043,-13.22441,loser,1,2026-06-02
-stable-2,​​Stable,stable,0.03519179,-12.15303,loser,2,2026-06-02
-humanity,Humanity,h,0.645121,-8.30701,loser,3,2026-06-02
-aptos,Aptos,apt,0.847892,-7.11205,loser,4,2026-06-02
-the-open-network,Toncoin,ton,1.94,-6.33139,loser,5,2026-06-02
-morpho,Morpho,morpho,1.93,-6.2504,loser,6,2026-06-02
-arbitrum,Arbitrum,arb,0.093639,-6.11538,loser,7,2026-06-02
-aave,Aave,aave,74.91,-6.08537,loser,8,2026-06-02
-monero,Monero,xmr,338.18,-5.69101,loser,9,2026-06-02
-hash-2,Provenance Blockchain,hash,0.0099213,-5.6132,loser,10,2026-06-02
+lab,LAB,lab,24.64,66.78476,gainer,1,2026-06-02
+ondo-finance,Ondo,ondo,0.380147,6.64482,gainer,2,2026-06-02
+zcash,Zcash,zec,586.55,4.80042,gainer,3,2026-06-02
+quant-network,Quant,qnt,74.13,3.49189,gainer,4,2026-06-02
+rain,Rain,rain,0.01401678,2.87056,gainer,5,2026-06-02
+memecore,MemeCore,m,3.31,2.84632,gainer,6,2026-06-02
+ethena,Ethena,ena,0.090891,2.79941,gainer,7,2026-06-02
+internet-computer,Internet Computer,icp,3.07,2.72168,gainer,8,2026-06-02
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.54518,gainer,9,2026-06-02
+leo-token,LEO Token,leo,10.04,0.31204,gainer,10,2026-06-02
+aptos,Aptos,apt,0.838199,-10.92169,loser,1,2026-06-02
+stellar,Stellar,xlm,0.22044,-10.89802,loser,2,2026-06-02
+fetch-ai,Artificial Superintelligence Alliance,fet,0.243675,-10.8129,loser,3,2026-06-02
+the-open-network,Toncoin,ton,1.95,-10.47156,loser,4,2026-06-02
+filecoin,Filecoin,fil,0.862518,-10.43713,loser,5,2026-06-02
+pump-fun,Pump.fun,pump,0.00165101,-9.69751,loser,6,2026-06-02
+arbitrum,Arbitrum,arb,0.093767,-8.95233,loser,7,2026-06-02
+stable-2,​​Stable,stable,0.03582482,-8.9204,loser,8,2026-06-02
+morpho,Morpho,morpho,1.93,-8.33023,loser,9,2026-06-02
+bittensor,Bittensor,tao,234.14,-8.21138,loser,10,2026-06-02
