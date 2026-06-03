@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,24.64,66.78476,gainer,1,2026-06-02
-ondo-finance,Ondo,ondo,0.380147,6.64482,gainer,2,2026-06-02
-zcash,Zcash,zec,586.55,4.80042,gainer,3,2026-06-02
-quant-network,Quant,qnt,74.13,3.49189,gainer,4,2026-06-02
-rain,Rain,rain,0.01401678,2.87056,gainer,5,2026-06-02
-memecore,MemeCore,m,3.31,2.84632,gainer,6,2026-06-02
-ethena,Ethena,ena,0.090891,2.79941,gainer,7,2026-06-02
-internet-computer,Internet Computer,icp,3.07,2.72168,gainer,8,2026-06-02
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,0.54518,gainer,9,2026-06-02
-leo-token,LEO Token,leo,10.04,0.31204,gainer,10,2026-06-02
-aptos,Aptos,apt,0.838199,-10.92169,loser,1,2026-06-02
-stellar,Stellar,xlm,0.22044,-10.89802,loser,2,2026-06-02
-fetch-ai,Artificial Superintelligence Alliance,fet,0.243675,-10.8129,loser,3,2026-06-02
-the-open-network,Toncoin,ton,1.95,-10.47156,loser,4,2026-06-02
-filecoin,Filecoin,fil,0.862518,-10.43713,loser,5,2026-06-02
-pump-fun,Pump.fun,pump,0.00165101,-9.69751,loser,6,2026-06-02
-arbitrum,Arbitrum,arb,0.093767,-8.95233,loser,7,2026-06-02
-stable-2,​​Stable,stable,0.03582482,-8.9204,loser,8,2026-06-02
-morpho,Morpho,morpho,1.93,-8.33023,loser,9,2026-06-02
-bittensor,Bittensor,tao,234.14,-8.21138,loser,10,2026-06-02
+dexe,DeXe,dexe,22.58,24.85704,gainer,1,2026-06-03
+bianrensheng,币安人生 (BinanceLife),币安人生,0.667865,14.76344,gainer,2,2026-06-03
+zcash,Zcash,zec,623.57,13.14482,gainer,3,2026-06-03
+ondo-finance,Ondo,ondo,0.384684,9.66376,gainer,4,2026-06-03
+venice-token,Venice Token,vvv,19.29,7.9822,gainer,5,2026-06-03
+internet-computer,Internet Computer,icp,3.07,7.28909,gainer,6,2026-06-03
+ethena,Ethena,ena,0.09121,5.03095,gainer,7,2026-06-03
+quant-network,Quant,qnt,73.87,4.18033,gainer,8,2026-06-03
+rain,Rain,rain,0.01379536,3.57478,gainer,9,2026-06-03
+render-token,Render,render,2.15,2.28631,gainer,10,2026-06-03
+lab,LAB,lab,14.1,-19.88195,loser,1,2026-06-03
+worldcoin-wld,Worldcoin,wld,0.392515,-10.54255,loser,2,2026-06-03
+bitcoin-cash,Bitcoin Cash,bch,260.47,-10.41633,loser,3,2026-06-03
+aptos,Aptos,apt,0.826595,-9.85825,loser,4,2026-06-03
+bittensor,Bittensor,tao,226.0,-9.03472,loser,5,2026-06-03
+arbitrum,Arbitrum,arb,0.091419,-8.9346,loser,6,2026-06-03
+injective-protocol,Injective,inj,6.38,-8.9303,loser,7,2026-06-03
+stable-2,​​Stable,stable,0.03583899,-8.7125,loser,8,2026-06-03
+pump-fun,Pump.fun,pump,0.00165752,-8.12307,loser,9,2026-06-03
+dogecoin,Dogecoin,doge,0.092516,-7.94487,loser,10,2026-06-03
