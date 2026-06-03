@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,21.51,22.08631,gainer,1,2026-06-03
-ethena,Ethena,ena,0.104638,21.05582,gainer,2,2026-06-03
-ondo-finance,Ondo,ondo,0.416347,16.89706,gainer,3,2026-06-03
-worldcoin-wld,Worldcoin,wld,0.472595,11.45555,gainer,4,2026-06-03
-venice-token,Venice Token,vvv,19.52,10.65615,gainer,5,2026-06-03
-hash-2,Provenance Blockchain,hash,0.01059546,9.55609,gainer,6,2026-06-03
-zcash,Zcash,zec,606.68,7.27619,gainer,7,2026-06-03
-near,NEAR Protocol,near,2.84,6.72822,gainer,8,2026-06-03
-kaspa,Kaspa,kas,0.03110772,5.24397,gainer,9,2026-06-03
-bianrensheng,币安人生 (BinanceLife),币安人生,0.638391,3.54822,gainer,10,2026-06-03
-humanity,Humanity,h,0.593412,-19.85355,loser,1,2026-06-03
-bitcoin-cash,Bitcoin Cash,bch,251.38,-11.14507,loser,2,2026-06-03
-lab,LAB,lab,16.96,-10.4439,loser,3,2026-06-03
-just,JUST,jst,0.086827,-8.84901,loser,4,2026-06-03
-injective-protocol,Injective,inj,6.71,-7.29886,loser,5,2026-06-03
-aptos,Aptos,apt,0.853483,-6.24142,loser,6,2026-06-03
-bittensor,Bittensor,tao,232.43,-6.22004,loser,7,2026-06-03
-midnight-3,Midnight,night,0.03689554,-6.1075,loser,8,2026-06-03
-binancecoin,BNB,bnb,641.81,-5.25156,loser,9,2026-06-03
-algorand,Algorand,algo,0.112036,-5.07643,loser,10,2026-06-03
+ethena,Ethena,ena,0.114033,36.79899,gainer,1,2026-06-03
+worldcoin-wld,Worldcoin,wld,0.511159,27.36009,gainer,2,2026-06-03
+venice-token,Venice Token,vvv,20.3,17.17199,gainer,3,2026-06-03
+near,NEAR Protocol,near,2.88,16.90205,gainer,4,2026-06-03
+ondo-finance,Ondo,ondo,0.422855,16.19262,gainer,5,2026-06-03
+stable-2,​​Stable,stable,0.03860962,10.17713,gainer,6,2026-06-03
+kaspa,Kaspa,kas,0.03194762,10.08632,gainer,7,2026-06-03
+filecoin,Filecoin,fil,0.969485,9.57669,gainer,8,2026-06-03
+jupiter-exchange-solana,Jupiter,jup,0.21016,7.64968,gainer,9,2026-06-03
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.094673,5.65608,gainer,10,2026-06-03
+lab,LAB,lab,16.97,-18.05574,loser,1,2026-06-03
+just,JUST,jst,0.079487,-16.14137,loser,2,2026-06-03
+bitcoin-cash,Bitcoin Cash,bch,246.06,-13.33134,loser,3,2026-06-03
+humanity,Humanity,h,0.601943,-13.08493,loser,4,2026-06-03
+algorand,Algorand,algo,0.10895,-6.21561,loser,5,2026-06-03
+binancecoin,BNB,bnb,626.35,-5.6349,loser,6,2026-06-03
+bittensor,Bittensor,tao,226.44,-5.23692,loser,7,2026-06-03
+solana,Solana,sol,73.12,-4.39031,loser,8,2026-06-03
+ethereum,Ethereum,eth,1833.34,-4.29387,loser,9,2026-06-03
+okb,OKB,okb,82.05,-3.51641,loser,10,2026-06-03
