@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,0.728332,24.89654,gainer,1,2026-06-04
-bianrensheng,币安人生 (BinanceLife),币安人生,0.691619,10.6776,gainer,2,2026-06-04
-worldcoin-wld,Worldcoin,wld,0.516112,10.44975,gainer,3,2026-06-04
-lab,LAB,lab,18.2,9.21288,gainer,4,2026-06-04
-monero,Monero,xmr,341.91,1.55742,gainer,5,2026-06-04
-beldex,Beldex,bdx,0.079366,1.27287,gainer,6,2026-06-04
-canton-network,Canton,cc,0.15227,0.64776,gainer,7,2026-06-04
-pax-gold,PAX Gold,paxg,4455.0,0.45874,gainer,8,2026-06-04
-tether-gold,Tether Gold,xaut,4436.93,0.42827,gainer,9,2026-06-04
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.07789,gainer,10,2026-06-04
-near,NEAR Protocol,near,2.33,-17.77422,loser,1,2026-06-04
-the-open-network,Toncoin,ton,1.69,-15.64137,loser,2,2026-06-04
-render-token,Render,render,1.86,-15.04319,loser,3,2026-06-04
-jupiter-exchange-solana,Jupiter,jup,0.173035,-14.76906,loser,4,2026-06-04
-dexe,DeXe,dexe,18.44,-14.43996,loser,5,2026-06-04
-ondo-finance,Ondo,ondo,0.354456,-13.96074,loser,6,2026-06-04
-just,JUST,jst,0.077191,-13.50342,loser,7,2026-06-04
-internet-computer,Internet Computer,icp,2.64,-13.2263,loser,8,2026-06-04
-cardano,Cardano,ada,0.188537,-12.66149,loser,9,2026-06-04
-aptos,Aptos,apt,0.740628,-12.62958,loser,10,2026-06-04
+siren-2,Siren,siren,0.710184,20.23423,gainer,1,2026-06-04
+bianrensheng,币安人生 (BinanceLife),币安人生,0.684597,11.67124,gainer,2,2026-06-04
+lab,LAB,lab,17.68,8.01909,gainer,3,2026-06-04
+world-liberty-financial,World Liberty Financial,wlfi,0.062524,3.0665,gainer,4,2026-06-04
+rain,Rain,rain,0.01431428,1.93433,gainer,5,2026-06-04
+beldex,Beldex,bdx,0.07999,1.58759,gainer,6,2026-06-04
+bitcoin-cash,Bitcoin Cash,bch,248.23,1.54562,gainer,7,2026-06-04
+pax-gold,PAX Gold,paxg,4478.63,0.85598,gainer,8,2026-06-04
+tether-gold,Tether Gold,xaut,4458.58,0.79403,gainer,9,2026-06-04
+flare-networks,Flare,flr,0.00724042,0.44969,gainer,10,2026-06-04
+near,NEAR Protocol,near,2.39,-20.09242,loser,1,2026-06-04
+ethena,Ethena,ena,0.093294,-17.08676,loser,2,2026-06-04
+zcash,Zcash,zec,521.69,-15.78738,loser,3,2026-06-04
+venice-token,Venice Token,vvv,17.42,-15.76745,loser,4,2026-06-04
+injective-protocol,Injective,inj,5.73,-15.02805,loser,5,2026-06-04
+the-open-network,Toncoin,ton,1.77,-14.6413,loser,6,2026-06-04
+internet-computer,Internet Computer,icp,2.7,-13.85305,loser,7,2026-06-04
+jupiter-exchange-solana,Jupiter,jup,0.182744,-12.37674,loser,8,2026-06-04
+render-token,Render,render,1.92,-12.03349,loser,9,2026-06-04
+cardano,Cardano,ada,0.188394,-11.75788,loser,10,2026-06-04
