@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.498828,27.56278,gainer,1,2026-06-04
-lab,LAB,lab,16.81,27.31457,gainer,2,2026-06-04
-ethena,Ethena,ena,0.10665,17.01586,gainer,3,2026-06-04
-monero,Monero,xmr,358.66,6.3963,gainer,4,2026-06-04
-hyperliquid,Hyperliquid,hype,72.98,5.4109,gainer,5,2026-06-04
-kaspa,Kaspa,kas,0.03005635,4.03846,gainer,6,2026-06-04
-memecore,MemeCore,m,3.37,2.81257,gainer,7,2026-06-04
-ondo-finance,Ondo,ondo,0.396803,2.69035,gainer,8,2026-06-04
-pump-fun,Pump.fun,pump,0.00169922,2.58106,gainer,9,2026-06-04
-near,NEAR Protocol,near,2.76,2.53709,gainer,10,2026-06-04
-just,JUST,jst,0.073493,-22.08177,loser,1,2026-06-04
-dexe,DeXe,dexe,17.79,-20.2999,loser,2,2026-06-04
-humanity,Humanity,h,0.555292,-17.56049,loser,3,2026-06-04
-kucoin-shares,KuCoin,kcs,6.55,-12.70192,loser,4,2026-06-04
-the-open-network,Toncoin,ton,1.77,-11.20941,loser,5,2026-06-04
-okb,OKB,okb,75.56,-9.98643,loser,6,2026-06-04
-jupiter-exchange-solana,Jupiter,jup,0.180861,-8.50218,loser,7,2026-06-04
-cardano,Cardano,ada,0.194209,-8.44056,loser,8,2026-06-04
-bitcoin-cash,Bitcoin Cash,bch,239.76,-8.12876,loser,9,2026-06-04
-morpho,Morpho,morpho,1.81,-7.82621,loser,10,2026-06-04
+siren-2,Siren,siren,0.728332,24.89654,gainer,1,2026-06-04
+bianrensheng,币安人生 (BinanceLife),币安人生,0.691619,10.6776,gainer,2,2026-06-04
+worldcoin-wld,Worldcoin,wld,0.516112,10.44975,gainer,3,2026-06-04
+lab,LAB,lab,18.2,9.21288,gainer,4,2026-06-04
+monero,Monero,xmr,341.91,1.55742,gainer,5,2026-06-04
+beldex,Beldex,bdx,0.079366,1.27287,gainer,6,2026-06-04
+canton-network,Canton,cc,0.15227,0.64776,gainer,7,2026-06-04
+pax-gold,PAX Gold,paxg,4455.0,0.45874,gainer,8,2026-06-04
+tether-gold,Tether Gold,xaut,4436.93,0.42827,gainer,9,2026-06-04
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,0.07789,gainer,10,2026-06-04
+near,NEAR Protocol,near,2.33,-17.77422,loser,1,2026-06-04
+the-open-network,Toncoin,ton,1.69,-15.64137,loser,2,2026-06-04
+render-token,Render,render,1.86,-15.04319,loser,3,2026-06-04
+jupiter-exchange-solana,Jupiter,jup,0.173035,-14.76906,loser,4,2026-06-04
+dexe,DeXe,dexe,18.44,-14.43996,loser,5,2026-06-04
+ondo-finance,Ondo,ondo,0.354456,-13.96074,loser,6,2026-06-04
+just,JUST,jst,0.077191,-13.50342,loser,7,2026-06-04
+internet-computer,Internet Computer,icp,2.64,-13.2263,loser,8,2026-06-04
+cardano,Cardano,ada,0.188537,-12.66149,loser,9,2026-06-04
+aptos,Aptos,apt,0.740628,-12.62958,loser,10,2026-06-04
