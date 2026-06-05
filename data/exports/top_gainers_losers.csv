@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.536652,5.29284,gainer,1,2026-06-05
-just,JUST,jst,0.080434,3.82805,gainer,2,2026-06-05
-figure-heloc,Figure Heloc,figr_heloc,1.019,1.80135,gainer,3,2026-06-05
-htx-dao,HTX DAO,htx,1.76e-06,0.89582,gainer,4,2026-06-05
-a7a5,A7A5,a7a5,0.01309483,0.49546,gainer,5,2026-06-05
-ethena-usde,Ethena USDe,usde,0.999471,0.06988,gainer,6,2026-06-05
-falcon-finance,Falcon USD,usdf,0.995217,0.06665,gainer,7,2026-06-05
-usd1-wlfi,USD1,usd1,0.999401,0.05555,gainer,8,2026-06-05
-tether,Tether,usdt,0.999268,0.02733,gainer,9,2026-06-05
-united-stables,United Stables,u,0.999998,0.02003,gainer,10,2026-06-05
-zcash,Zcash,zec,327.01,-37.56901,loser,1,2026-06-05
-lab,LAB,lab,11.87,-34.12024,loser,2,2026-06-05
-midnight-3,Midnight,night,0.03129437,-16.85691,loser,3,2026-06-05
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.077211,-15.13766,loser,4,2026-06-05
-cardano,Cardano,ada,0.161644,-14.25817,loser,5,2026-06-05
-near,NEAR Protocol,near,2.05,-14.02797,loser,6,2026-06-05
-the-open-network,Toncoin,ton,1.53,-13.88924,loser,7,2026-06-05
-algorand,Algorand,algo,0.090934,-13.55425,loser,8,2026-06-05
-internet-computer,Internet Computer,icp,2.36,-13.02733,loser,9,2026-06-05
-render-token,Render,render,1.69,-12.68635,loser,10,2026-06-05
+just,JUST,jst,0.079203,3.52331,gainer,1,2026-06-05
+figure-heloc,Figure Heloc,figr_heloc,1.034,3.25143,gainer,2,2026-06-05
+humanity,Humanity,h,0.589644,1.78225,gainer,3,2026-06-05
+a7a5,A7A5,a7a5,0.01309391,1.58418,gainer,4,2026-06-05
+usdtb,USDtb,usdtb,0.999776,0.09038,gainer,5,2026-06-05
+ethena-usde,Ethena USDe,usde,0.999443,0.07473,gainer,6,2026-06-05
+falcon-finance,Falcon USD,usdf,0.995672,0.06851,gainer,7,2026-06-05
+tether,Tether,usdt,0.999353,0.05737,gainer,8,2026-06-05
+bfusd,BFUSD,bfusd,0.998978,0.03786,gainer,9,2026-06-05
+usd1-wlfi,USD1,usd1,0.999016,0.02725,gainer,10,2026-06-05
+zcash,Zcash,zec,317.36,-40.77302,loser,1,2026-06-05
+lab,LAB,lab,10.4,-24.80629,loser,2,2026-06-05
+internet-computer,Internet Computer,icp,2.16,-22.4958,loser,3,2026-06-05
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.071786,-20.99462,loser,4,2026-06-05
+near,NEAR Protocol,near,1.88,-20.64437,loser,5,2026-06-05
+filecoin,Filecoin,fil,0.710358,-20.41352,loser,6,2026-06-05
+midnight-3,Midnight,night,0.03066479,-19.59206,loser,7,2026-06-05
+render-token,Render,render,1.58,-19.44258,loser,8,2026-06-05
+jupiter-exchange-solana,Jupiter,jup,0.152357,-18.64321,loser,9,2026-06-05
+aave,Aave,aave,59.69,-17.52172,loser,10,2026-06-05
