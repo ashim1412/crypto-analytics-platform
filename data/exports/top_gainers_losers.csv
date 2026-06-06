@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,371.9,17.03689,gainer,1,2026-06-06
-audiera,Audiera,beat,1.84,14.06976,gainer,2,2026-06-06
-ethena,Ethena,ena,0.092727,7.07885,gainer,3,2026-06-06
-stellar,Stellar,xlm,0.201743,6.7621,gainer,4,2026-06-06
-siren-2,Siren,siren,0.75018,6.56091,gainer,5,2026-06-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.696814,6.2295,gainer,6,2026-06-06
-just,JUST,jst,0.083106,6.08347,gainer,7,2026-06-06
-venice-token,Venice Token,vvv,16.18,5.11945,gainer,8,2026-06-06
-canton-network,Canton,cc,0.150843,3.03074,gainer,9,2026-06-06
-injective-protocol,Injective,inj,5.24,2.91028,gainer,10,2026-06-06
-lab,LAB,lab,8.89,-19.70454,loser,1,2026-06-06
-worldcoin-wld,Worldcoin,wld,0.42763,-19.14848,loser,2,2026-06-06
-memecore,MemeCore,m,2.82,-16.28734,loser,3,2026-06-06
-stable-2,​​Stable,stable,0.03179057,-9.80428,loser,4,2026-06-06
-aave,Aave,aave,61.55,-9.36764,loser,5,2026-06-06
-filecoin,Filecoin,fil,0.726399,-8.29533,loser,6,2026-06-06
-ondo-finance,Ondo,ondo,0.329829,-7.63661,loser,7,2026-06-06
-avalanche-2,Avalanche,avax,6.67,-7.61107,loser,8,2026-06-06
-aster-2,Aster,aster,0.610726,-7.42375,loser,9,2026-06-06
-monero,Monero,xmr,305.13,-7.23377,loser,10,2026-06-06
+audiera,Audiera,beat,2.09,28.68951,gainer,1,2026-06-06
+siren-2,Siren,siren,0.825893,24.86585,gainer,2,2026-06-06
+zcash,Zcash,zec,373.28,16.84281,gainer,3,2026-06-06
+stellar,Stellar,xlm,0.201691,6.83356,gainer,4,2026-06-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.72803,6.73717,gainer,5,2026-06-06
+ethena,Ethena,ena,0.09208,6.01471,gainer,6,2026-06-06
+canton-network,Canton,cc,0.152609,5.08315,gainer,7,2026-06-06
+hash-2,Provenance Blockchain,hash,0.00981059,4.41736,gainer,8,2026-06-06
+just,JUST,jst,0.083277,3.92548,gainer,9,2026-06-06
+injective-protocol,Injective,inj,5.15,2.70729,gainer,10,2026-06-06
+worldcoin-wld,Worldcoin,wld,0.412468,-21.75972,loser,1,2026-06-06
+lab,LAB,lab,8.61,-21.18838,loser,2,2026-06-06
+monero,Monero,xmr,299.43,-8.68964,loser,3,2026-06-06
+stable-2,​​Stable,stable,0.03251991,-7.9371,loser,4,2026-06-06
+ondo-finance,Ondo,ondo,0.327002,-7.37945,loser,5,2026-06-06
+filecoin,Filecoin,fil,0.731642,-6.8055,loser,6,2026-06-06
+aster-2,Aster,aster,0.618129,-6.76247,loser,7,2026-06-06
+near,NEAR Protocol,near,1.91,-6.46924,loser,8,2026-06-06
+kucoin-shares,KuCoin,kcs,6.17,-6.24357,loser,9,2026-06-06
+memecore,MemeCore,m,2.85,-6.09534,loser,10,2026-06-06
