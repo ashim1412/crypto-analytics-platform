@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.09,28.68951,gainer,1,2026-06-06
-siren-2,Siren,siren,0.825893,24.86585,gainer,2,2026-06-06
-zcash,Zcash,zec,373.28,16.84281,gainer,3,2026-06-06
-stellar,Stellar,xlm,0.201691,6.83356,gainer,4,2026-06-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.72803,6.73717,gainer,5,2026-06-06
-ethena,Ethena,ena,0.09208,6.01471,gainer,6,2026-06-06
-canton-network,Canton,cc,0.152609,5.08315,gainer,7,2026-06-06
-hash-2,Provenance Blockchain,hash,0.00981059,4.41736,gainer,8,2026-06-06
-just,JUST,jst,0.083277,3.92548,gainer,9,2026-06-06
-injective-protocol,Injective,inj,5.15,2.70729,gainer,10,2026-06-06
-worldcoin-wld,Worldcoin,wld,0.412468,-21.75972,loser,1,2026-06-06
-lab,LAB,lab,8.61,-21.18838,loser,2,2026-06-06
-monero,Monero,xmr,299.43,-8.68964,loser,3,2026-06-06
-stable-2,​​Stable,stable,0.03251991,-7.9371,loser,4,2026-06-06
-ondo-finance,Ondo,ondo,0.327002,-7.37945,loser,5,2026-06-06
-filecoin,Filecoin,fil,0.731642,-6.8055,loser,6,2026-06-06
-aster-2,Aster,aster,0.618129,-6.76247,loser,7,2026-06-06
-near,NEAR Protocol,near,1.91,-6.46924,loser,8,2026-06-06
-kucoin-shares,KuCoin,kcs,6.17,-6.24357,loser,9,2026-06-06
-memecore,MemeCore,m,2.85,-6.09534,loser,10,2026-06-06
+audiera,Audiera,beat,2.2,28.78189,gainer,1,2026-06-06
+siren-2,Siren,siren,0.848648,21.58077,gainer,2,2026-06-06
+zcash,Zcash,zec,358.91,12.79397,gainer,3,2026-06-06
+canton-network,Canton,cc,0.157974,12.1838,gainer,4,2026-06-06
+stellar,Stellar,xlm,0.208146,9.39577,gainer,5,2026-06-06
+the-open-network,Toncoin,ton,1.6,9.13449,gainer,6,2026-06-06
+venice-token,Venice Token,vvv,15.9,6.65431,gainer,7,2026-06-06
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.07606,6.437,gainer,8,2026-06-06
+ethena,Ethena,ena,0.090313,6.07533,gainer,9,2026-06-06
+internet-computer,Internet Computer,icp,2.28,5.98852,gainer,10,2026-06-06
+worldcoin-wld,Worldcoin,wld,0.407691,-18.9923,loser,1,2026-06-06
+sky,Sky,sky,0.055424,-4.36037,loser,2,2026-06-06
+monero,Monero,xmr,297.11,-3.23316,loser,3,2026-06-06
+kucoin-shares,KuCoin,kcs,6.1,-2.91588,loser,4,2026-06-06
+leo-token,LEO Token,leo,9.52,-2.41038,loser,5,2026-06-06
+avalanche-2,Avalanche,avax,6.63,-1.63143,loser,6,2026-06-06
+solana,Solana,sol,61.74,-1.56792,loser,7,2026-06-06
+near,NEAR Protocol,near,1.87,-1.50951,loser,8,2026-06-06
+memecore,MemeCore,m,2.85,-1.50327,loser,9,2026-06-06
+humanity,Humanity,h,0.586456,-1.26,loser,10,2026-06-06
