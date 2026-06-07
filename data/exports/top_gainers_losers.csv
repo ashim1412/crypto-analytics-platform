@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-siren-2,Siren,siren,1.28,55.20899,gainer,1,2026-06-07
-lab,LAB,lab,12.89,46.62362,gainer,2,2026-06-07
-audiera,Audiera,beat,2.64,27.2559,gainer,3,2026-06-07
-humanity,Humanity,h,0.753332,22.71534,gainer,4,2026-06-07
-bianrensheng,币安人生 (BinanceLife),币安人生,0.846907,18.43591,gainer,5,2026-06-07
-memecore,MemeCore,m,3.14,10.90681,gainer,6,2026-06-07
-canton-network,Canton,cc,0.169641,10.68243,gainer,7,2026-06-07
-zcash,Zcash,zec,403.02,8.8315,gainer,8,2026-06-07
-the-open-network,Toncoin,ton,1.68,7.06977,gainer,9,2026-06-07
-quant-network,Quant,qnt,69.2,6.97375,gainer,10,2026-06-07
-ethena,Ethena,ena,0.089511,-3.7009,loser,1,2026-06-07
-just,JUST,jst,0.079933,-3.11315,loser,2,2026-06-07
-litecoin,Litecoin,ltc,41.84,-2.45637,loser,3,2026-06-07
-hyperliquid,Hyperliquid,hype,57.73,-2.44033,loser,4,2026-06-07
-avalanche-2,Avalanche,avax,6.64,-2.0411,loser,5,2026-06-07
-near,NEAR Protocol,near,1.89,-0.8983,loser,6,2026-06-07
-kaspa,Kaspa,kas,0.0302226,-0.83837,loser,7,2026-06-07
-beldex,Beldex,bdx,0.078526,-0.688,loser,8,2026-06-07
-leo-token,LEO Token,leo,9.51,-0.50982,loser,9,2026-06-07
-dexe,DeXe,dexe,19.7,-0.37515,loser,10,2026-06-07
+audiera,Audiera,beat,3.1,40.77072,gainer,1,2026-06-07
+siren-2,Siren,siren,1.19,39.21581,gainer,2,2026-06-07
+humanity,Humanity,h,0.791629,36.10742,gainer,3,2026-06-07
+lab,LAB,lab,13.39,21.20868,gainer,4,2026-06-07
+worldcoin-wld,Worldcoin,wld,0.478082,17.21234,gainer,5,2026-06-07
+zcash,Zcash,zec,412.18,14.84245,gainer,6,2026-06-07
+bianrensheng,币安人生 (BinanceLife),币安人生,0.81602,10.27333,gainer,7,2026-06-07
+near,NEAR Protocol,near,2.02,8.48504,gainer,8,2026-06-07
+memecore,MemeCore,m,3.08,8.10992,gainer,9,2026-06-07
+bittensor,Bittensor,tao,208.81,7.42018,gainer,10,2026-06-07
+just,JUST,jst,0.078464,-4.51287,loser,1,2026-06-07
+ethena,Ethena,ena,0.088848,-1.62154,loser,2,2026-06-07
+dexe,DeXe,dexe,19.88,-1.34639,loser,3,2026-06-07
+litecoin,Litecoin,ltc,41.92,-0.6606,loser,4,2026-06-07
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.51622,loser,5,2026-06-07
+world-liberty-financial,World Liberty Financial,wlfi,0.055157,-0.50131,loser,6,2026-06-07
+stellar,Stellar,xlm,0.205654,-0.3664,loser,7,2026-06-07
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,-0.02604,loser,8,2026-06-07
+paypal-usd,PayPal USD,pyusd,0.999782,-0.01297,loser,9,2026-06-07
+united-stables,United Stables,u,0.999904,-0.0096,loser,10,2026-06-07
