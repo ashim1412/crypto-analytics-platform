@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.2,28.78189,gainer,1,2026-06-06
-siren-2,Siren,siren,0.848648,21.58077,gainer,2,2026-06-06
-zcash,Zcash,zec,358.91,12.79397,gainer,3,2026-06-06
-canton-network,Canton,cc,0.157974,12.1838,gainer,4,2026-06-06
-stellar,Stellar,xlm,0.208146,9.39577,gainer,5,2026-06-06
-the-open-network,Toncoin,ton,1.6,9.13449,gainer,6,2026-06-06
-venice-token,Venice Token,vvv,15.9,6.65431,gainer,7,2026-06-06
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.07606,6.437,gainer,8,2026-06-06
-ethena,Ethena,ena,0.090313,6.07533,gainer,9,2026-06-06
-internet-computer,Internet Computer,icp,2.28,5.98852,gainer,10,2026-06-06
-worldcoin-wld,Worldcoin,wld,0.407691,-18.9923,loser,1,2026-06-06
-sky,Sky,sky,0.055424,-4.36037,loser,2,2026-06-06
-monero,Monero,xmr,297.11,-3.23316,loser,3,2026-06-06
-kucoin-shares,KuCoin,kcs,6.1,-2.91588,loser,4,2026-06-06
-leo-token,LEO Token,leo,9.52,-2.41038,loser,5,2026-06-06
-avalanche-2,Avalanche,avax,6.63,-1.63143,loser,6,2026-06-06
-solana,Solana,sol,61.74,-1.56792,loser,7,2026-06-06
-near,NEAR Protocol,near,1.87,-1.50951,loser,8,2026-06-06
-memecore,MemeCore,m,2.85,-1.50327,loser,9,2026-06-06
-humanity,Humanity,h,0.586456,-1.26,loser,10,2026-06-06
+lab,LAB,lab,14.11,53.00678,gainer,1,2026-06-07
+audiera,Audiera,beat,2.32,37.37289,gainer,2,2026-06-07
+siren-2,Siren,siren,0.900009,22.37521,gainer,3,2026-06-07
+bianrensheng,币安人生 (BinanceLife),币安人生,0.846823,20.31574,gainer,4,2026-06-07
+the-open-network,Toncoin,ton,1.76,15.80189,gainer,5,2026-06-07
+humanity,Humanity,h,0.670601,14.46207,gainer,6,2026-06-07
+stable-2,​​Stable,stable,0.0340992,10.02809,gainer,7,2026-06-07
+memecore,MemeCore,m,3.1,9.92406,gainer,8,2026-06-07
+canton-network,Canton,cc,0.163849,9.60767,gainer,9,2026-06-07
+stellar,Stellar,xlm,0.213058,7.91345,gainer,10,2026-06-07
+venice-token,Venice Token,vvv,16.21,-9.95108,loser,1,2026-06-07
+worldcoin-wld,Worldcoin,wld,0.459611,-7.18549,loser,2,2026-06-07
+sky,Sky,sky,0.055915,-4.38457,loser,3,2026-06-07
+monero,Monero,xmr,294.02,-4.13618,loser,4,2026-06-07
+litecoin,Litecoin,ltc,42.01,-3.13947,loser,5,2026-06-07
+leo-token,LEO Token,leo,9.4,-2.22652,loser,6,2026-06-07
+hyperliquid,Hyperliquid,hype,58.15,-1.82357,loser,7,2026-06-07
+near,NEAR Protocol,near,1.94,-1.7395,loser,8,2026-06-07
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-1.61372,loser,9,2026-06-07
+kaspa,Kaspa,kas,0.03039213,-1.35094,loser,10,2026-06-07
