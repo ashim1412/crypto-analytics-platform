@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,13.0,47.43084,gainer,1,2026-06-07
-humanity,Humanity,h,0.728562,23.57714,gainer,2,2026-06-07
-audiera,Audiera,beat,2.28,20.22185,gainer,3,2026-06-07
-bianrensheng,币安人生 (BinanceLife),币安人生,0.825834,19.29295,gainer,4,2026-06-07
-siren-2,Siren,siren,0.856658,11.28777,gainer,5,2026-06-07
-memecore,MemeCore,m,3.11,10.75286,gainer,6,2026-06-07
-the-open-network,Toncoin,ton,1.73,10.18835,gainer,7,2026-06-07
-bittensor,Bittensor,tao,213.18,8.65829,gainer,8,2026-06-07
-canton-network,Canton,cc,0.165436,8.42785,gainer,9,2026-06-07
-quant-network,Quant,qnt,69.38,7.86354,gainer,10,2026-06-07
-litecoin,Litecoin,ltc,41.99,-2.98647,loser,1,2026-06-07
-sky,Sky,sky,0.057788,-1.84083,loser,2,2026-06-07
-ethena,Ethena,ena,0.092415,-1.63021,loser,3,2026-06-07
-monero,Monero,xmr,305.37,-0.97258,loser,4,2026-06-07
-near,NEAR Protocol,near,1.92,-0.74154,loser,5,2026-06-07
-bitcoin-cash,Bitcoin Cash,bch,224.2,-0.46117,loser,6,2026-06-07
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.29697,loser,7,2026-06-07
-beldex,Beldex,bdx,0.078591,-0.2359,loser,8,2026-06-07
-hyperliquid,Hyperliquid,hype,60.28,-0.03559,loser,9,2026-06-07
-leo-token,LEO Token,leo,9.63,-0.03488,loser,10,2026-06-07
+siren-2,Siren,siren,1.28,55.20899,gainer,1,2026-06-07
+lab,LAB,lab,12.89,46.62362,gainer,2,2026-06-07
+audiera,Audiera,beat,2.64,27.2559,gainer,3,2026-06-07
+humanity,Humanity,h,0.753332,22.71534,gainer,4,2026-06-07
+bianrensheng,币安人生 (BinanceLife),币安人生,0.846907,18.43591,gainer,5,2026-06-07
+memecore,MemeCore,m,3.14,10.90681,gainer,6,2026-06-07
+canton-network,Canton,cc,0.169641,10.68243,gainer,7,2026-06-07
+zcash,Zcash,zec,403.02,8.8315,gainer,8,2026-06-07
+the-open-network,Toncoin,ton,1.68,7.06977,gainer,9,2026-06-07
+quant-network,Quant,qnt,69.2,6.97375,gainer,10,2026-06-07
+ethena,Ethena,ena,0.089511,-3.7009,loser,1,2026-06-07
+just,JUST,jst,0.079933,-3.11315,loser,2,2026-06-07
+litecoin,Litecoin,ltc,41.84,-2.45637,loser,3,2026-06-07
+hyperliquid,Hyperliquid,hype,57.73,-2.44033,loser,4,2026-06-07
+avalanche-2,Avalanche,avax,6.64,-2.0411,loser,5,2026-06-07
+near,NEAR Protocol,near,1.89,-0.8983,loser,6,2026-06-07
+kaspa,Kaspa,kas,0.0302226,-0.83837,loser,7,2026-06-07
+beldex,Beldex,bdx,0.078526,-0.688,loser,8,2026-06-07
+leo-token,LEO Token,leo,9.51,-0.50982,loser,9,2026-06-07
+dexe,DeXe,dexe,19.7,-0.37515,loser,10,2026-06-07
