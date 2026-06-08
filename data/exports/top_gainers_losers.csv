@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,4.11,68.98259,gainer,1,2026-06-08
-siren-2,Siren,siren,1.18,32.04884,gainer,2,2026-06-08
-near,NEAR Protocol,near,2.17,14.10699,gainer,3,2026-06-08
-dexe,DeXe,dexe,22.23,11.47332,gainer,4,2026-06-08
-hash-2,Provenance Blockchain,hash,0.01014809,10.79215,gainer,5,2026-06-08
-worldcoin-wld,Worldcoin,wld,0.463001,9.78617,gainer,6,2026-06-08
-zcash,Zcash,zec,427.49,8.57658,gainer,7,2026-06-08
-injective-protocol,Injective,inj,5.64,7.9082,gainer,8,2026-06-08
-kaspa,Kaspa,kas,0.03297197,7.70797,gainer,9,2026-06-08
-ondo-finance,Ondo,ondo,0.362369,5.65834,gainer,10,2026-06-08
-bianrensheng,币安人生 (BinanceLife),币安人生,0.767456,-13.48417,loser,1,2026-06-08
-canton-network,Canton,cc,0.153368,-8.91842,loser,2,2026-06-08
-bitcoin-cash,Bitcoin Cash,bch,206.58,-8.29948,loser,3,2026-06-08
-memecore,MemeCore,m,3.02,-6.30704,loser,4,2026-06-08
-just,JUST,jst,0.078723,-4.18707,loser,5,2026-06-08
-ethena,Ethena,ena,0.087199,-3.55592,loser,6,2026-06-08
-world-liberty-financial,World Liberty Financial,wlfi,0.055296,-2.89736,loser,7,2026-06-08
-stellar,Stellar,xlm,0.200973,-2.59831,loser,8,2026-06-08
-quant-network,Quant,qnt,68.55,-2.44309,loser,9,2026-06-08
-stable-2,​​Stable,stable,0.0331892,-1.41264,loser,10,2026-06-08
+audiera,Audiera,beat,4.32,54.27498,gainer,1,2026-06-08
+dexe,DeXe,dexe,23.19,17.5351,gainer,2,2026-06-08
+hyperliquid,Hyperliquid,hype,65.04,11.09513,gainer,3,2026-06-08
+morpho,Morpho,morpho,1.87,10.4824,gainer,4,2026-06-08
+near,NEAR Protocol,near,2.19,8.86392,gainer,5,2026-06-08
+midnight-3,Midnight,night,0.0323485,8.55351,gainer,6,2026-06-08
+pump-fun,Pump.fun,pump,0.00162087,7.6287,gainer,7,2026-06-08
+kaspa,Kaspa,kas,0.03277784,7.10205,gainer,8,2026-06-08
+injective-protocol,Injective,inj,5.71,6.60927,gainer,9,2026-06-08
+venice-token,Venice Token,vvv,18.23,6.09325,gainer,10,2026-06-08
+humanity,Humanity,h,0.667399,-15.63716,loser,1,2026-06-08
+bianrensheng,币安人生 (BinanceLife),币安人生,0.726878,-10.70228,loser,2,2026-06-08
+siren-2,Siren,siren,1.16,-9.73307,loser,3,2026-06-08
+canton-network,Canton,cc,0.156747,-7.19069,loser,4,2026-06-08
+bitcoin-cash,Bitcoin Cash,bch,212.22,-5.36161,loser,5,2026-06-08
+ethena,Ethena,ena,0.088932,-2.42116,loser,6,2026-06-08
+stable-2,​​Stable,stable,0.03298682,-2.02959,loser,7,2026-06-08
+worldcoin-wld,Worldcoin,wld,0.481814,-1.4163,loser,8,2026-06-08
+lab,LAB,lab,12.82,-1.33341,loser,9,2026-06-08
+quant-network,Quant,qnt,68.66,-1.16422,loser,10,2026-06-08
