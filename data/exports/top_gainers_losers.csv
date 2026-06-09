@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,478.8,12.50803,gainer,1,2026-06-09
-worldcoin-wld,Worldcoin,wld,0.516391,9.5372,gainer,2,2026-06-09
-morpho,Morpho,morpho,1.8,5.82466,gainer,3,2026-06-09
-midnight-3,Midnight,night,0.03204591,5.25918,gainer,4,2026-06-09
-ondo-finance,Ondo,ondo,0.371947,4.56738,gainer,5,2026-06-09
-injective-protocol,Injective,inj,5.7,4.5197,gainer,6,2026-06-09
-cardano,Cardano,ada,0.169317,4.21182,gainer,7,2026-06-09
-monero,Monero,xmr,325.54,4.06842,gainer,8,2026-06-09
-bitcoin-cash,Bitcoin Cash,bch,209.14,4.02711,gainer,9,2026-06-09
-just,JUST,jst,0.082211,3.77825,gainer,10,2026-06-09
-lab,LAB,lab,10.89,-18.88033,loser,1,2026-06-09
-bianrensheng,币安人生 (BinanceLife),币安人生,0.683167,-11.29418,loser,2,2026-06-09
-venice-token,Venice Token,vvv,15.81,-7.39907,loser,3,2026-06-09
-stable-2,​​Stable,stable,0.03120901,-6.47781,loser,4,2026-06-09
-ethena,Ethena,ena,0.081424,-6.11992,loser,5,2026-06-09
-kaspa,Kaspa,kas,0.0318693,-3.64601,loser,6,2026-06-09
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.075963,-3.64467,loser,7,2026-06-09
-leo-token,LEO Token,leo,9.39,-2.97417,loser,8,2026-06-09
-audiera,Audiera,beat,4.18,-2.91735,loser,9,2026-06-09
-rain,Rain,rain,0.01300246,-1.63409,loser,10,2026-06-09
+hash-2,Provenance Blockchain,hash,0.01197582,19.02786,gainer,1,2026-06-09
+audiera,Audiera,beat,4.67,12.99241,gainer,2,2026-06-09
+worldcoin-wld,Worldcoin,wld,0.536894,12.28633,gainer,3,2026-06-09
+zcash,Zcash,zec,463.06,6.42576,gainer,4,2026-06-09
+canton-network,Canton,cc,0.165978,4.99577,gainer,5,2026-06-09
+injective-protocol,Injective,inj,5.76,2.99883,gainer,6,2026-06-09
+just,JUST,jst,0.081383,2.31204,gainer,7,2026-06-09
+figure-heloc,Figure Heloc,figr_heloc,1.027,2.21834,gainer,8,2026-06-09
+monero,Monero,xmr,322.54,2.11843,gainer,9,2026-06-09
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,1.61571,gainer,10,2026-06-09
+lab,LAB,lab,10.22,-20.8594,loser,1,2026-06-09
+venice-token,Venice Token,vvv,15.97,-11.4151,loser,2,2026-06-09
+hyperliquid,Hyperliquid,hype,59.97,-7.16125,loser,3,2026-06-09
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075392,-6.48567,loser,4,2026-06-09
+memecore,MemeCore,m,2.97,-6.30137,loser,5,2026-06-09
+dexe,DeXe,dexe,21.74,-5.44475,loser,6,2026-06-09
+stable-2,​​Stable,stable,0.03128941,-4.94461,loser,7,2026-06-09
+ethena,Ethena,ena,0.082966,-4.89618,loser,8,2026-06-09
+kaspa,Kaspa,kas,0.03105135,-4.85539,loser,9,2026-06-09
+pump-fun,Pump.fun,pump,0.00153456,-4.69253,loser,10,2026-06-09
