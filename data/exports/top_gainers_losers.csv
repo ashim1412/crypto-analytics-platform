@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,5.43,27.27111,gainer,1,2026-06-10
-stable-2,​​Stable,stable,0.0354399,13.55185,gainer,2,2026-06-10
-whitebit,WhiteBIT Coin,wbt,50.4,12.79825,gainer,3,2026-06-10
-morpho,Morpho,morpho,1.97,11.1167,gainer,4,2026-06-10
-world-liberty-financial,World Liberty Financial,wlfi,0.058568,5.62604,gainer,5,2026-06-10
-cosmos,Cosmos Hub,atom,1.81,3.67732,gainer,6,2026-06-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.710549,3.02576,gainer,7,2026-06-10
-aster-2,Aster,aster,0.626893,1.62288,gainer,8,2026-06-10
-hash-2,Provenance Blockchain,hash,0.00995035,1.24556,gainer,9,2026-06-10
-leo-token,LEO Token,leo,9.46,0.67979,gainer,10,2026-06-10
-siren-2,Siren,siren,0.762973,-36.75529,loser,1,2026-06-10
-dexe,DeXe,dexe,19.16,-14.44909,loser,2,2026-06-10
-lab,LAB,lab,9.41,-13.82908,loser,3,2026-06-10
-hyperliquid,Hyperliquid,hype,55.8,-10.35831,loser,4,2026-06-10
-zcash,Zcash,zec,425.64,-9.74953,loser,5,2026-06-10
-injective-protocol,Injective,inj,5.14,-9.6192,loser,6,2026-06-10
-venice-token,Venice Token,vvv,14.09,-9.37314,loser,7,2026-06-10
-stellar,Stellar,xlm,0.183405,-7.08485,loser,8,2026-06-10
-pump-fun,Pump.fun,pump,0.0014597,-6.08794,loser,9,2026-06-10
-memecore,MemeCore,m,2.86,-5.19802,loser,10,2026-06-10
+audiera,Audiera,beat,5.77,22.77996,gainer,1,2026-06-10
+morpho,Morpho,morpho,2.11,16.67032,gainer,2,2026-06-10
+whitebit,WhiteBIT Coin,wbt,50.85,16.61888,gainer,3,2026-06-10
+stable-2,​​Stable,stable,0.03452534,10.15992,gainer,4,2026-06-10
+world-liberty-financial,World Liberty Financial,wlfi,0.059507,8.35389,gainer,5,2026-06-10
+rain,Rain,rain,0.01327194,4.42219,gainer,6,2026-06-10
+nexo,NEXO,nexo,0.790855,3.82481,gainer,7,2026-06-10
+aave,Aave,aave,62.59,3.47045,gainer,8,2026-06-10
+cosmos,Cosmos Hub,atom,1.79,3.12938,gainer,9,2026-06-10
+kucoin-shares,KuCoin,kcs,6.5,3.09229,gainer,10,2026-06-10
+siren-2,Siren,siren,0.762956,-33.03298,loser,1,2026-06-10
+lab,LAB,lab,7.81,-25.22262,loser,2,2026-06-10
+dexe,DeXe,dexe,18.27,-14.99212,loser,3,2026-06-10
+venice-token,Venice Token,vvv,13.73,-13.46177,loser,4,2026-06-10
+injective-protocol,Injective,inj,5.25,-6.69335,loser,5,2026-06-10
+zcash,Zcash,zec,435.7,-5.60375,loser,6,2026-06-10
+stellar,Stellar,xlm,0.188224,-4.9847,loser,7,2026-06-10
+worldcoin-wld,Worldcoin,wld,0.498631,-3.94227,loser,8,2026-06-10
+tether-gold,Tether Gold,xaut,4138.58,-2.98551,loser,9,2026-06-10
+ethena,Ethena,ena,0.078668,-2.94875,loser,10,2026-06-10
