@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-whitebit,WhiteBIT Coin,wbt,50.96,13.96051,gainer,1,2026-06-10
-audiera,Audiera,beat,4.82,10.69113,gainer,2,2026-06-10
-morpho,Morpho,morpho,1.93,8.85529,gainer,3,2026-06-10
-stable-2,​​Stable,stable,0.03488891,7.67267,gainer,4,2026-06-10
-near,NEAR Protocol,near,2.18,4.17508,gainer,5,2026-06-10
-worldcoin-wld,Worldcoin,wld,0.510984,3.8837,gainer,6,2026-06-10
-cosmos,Cosmos Hub,atom,1.8,3.35502,gainer,7,2026-06-10
-xdce-crowd-sale,XDC Network,xdc,0.03163386,2.06596,gainer,8,2026-06-10
-aptos,Aptos,apt,0.664762,1.88712,gainer,9,2026-06-10
-just,JUST,jst,0.081608,1.5691,gainer,10,2026-06-10
-lab,LAB,lab,9.04,-25.70985,loser,1,2026-06-10
-siren-2,Siren,siren,0.891121,-24.15168,loser,2,2026-06-10
-dexe,DeXe,dexe,19.33,-11.84325,loser,3,2026-06-10
-hyperliquid,Hyperliquid,hype,57.31,-8.68163,loser,4,2026-06-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.69186,-7.2347,loser,5,2026-06-10
-kaspa,Kaspa,kas,0.03026507,-5.27793,loser,6,2026-06-10
-stellar,Stellar,xlm,0.190274,-4.52546,loser,7,2026-06-10
-venice-token,Venice Token,vvv,15.3,-3.80813,loser,8,2026-06-10
-memecore,MemeCore,m,2.91,-3.67513,loser,9,2026-06-10
-pump-fun,Pump.fun,pump,0.0015158,-3.64123,loser,10,2026-06-10
+audiera,Audiera,beat,5.43,27.27111,gainer,1,2026-06-10
+stable-2,​​Stable,stable,0.0354399,13.55185,gainer,2,2026-06-10
+whitebit,WhiteBIT Coin,wbt,50.4,12.79825,gainer,3,2026-06-10
+morpho,Morpho,morpho,1.97,11.1167,gainer,4,2026-06-10
+world-liberty-financial,World Liberty Financial,wlfi,0.058568,5.62604,gainer,5,2026-06-10
+cosmos,Cosmos Hub,atom,1.81,3.67732,gainer,6,2026-06-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.710549,3.02576,gainer,7,2026-06-10
+aster-2,Aster,aster,0.626893,1.62288,gainer,8,2026-06-10
+hash-2,Provenance Blockchain,hash,0.00995035,1.24556,gainer,9,2026-06-10
+leo-token,LEO Token,leo,9.46,0.67979,gainer,10,2026-06-10
+siren-2,Siren,siren,0.762973,-36.75529,loser,1,2026-06-10
+dexe,DeXe,dexe,19.16,-14.44909,loser,2,2026-06-10
+lab,LAB,lab,9.41,-13.82908,loser,3,2026-06-10
+hyperliquid,Hyperliquid,hype,55.8,-10.35831,loser,4,2026-06-10
+zcash,Zcash,zec,425.64,-9.74953,loser,5,2026-06-10
+injective-protocol,Injective,inj,5.14,-9.6192,loser,6,2026-06-10
+venice-token,Venice Token,vvv,14.09,-9.37314,loser,7,2026-06-10
+stellar,Stellar,xlm,0.183405,-7.08485,loser,8,2026-06-10
+pump-fun,Pump.fun,pump,0.0014597,-6.08794,loser,9,2026-06-10
+memecore,MemeCore,m,2.86,-5.19802,loser,10,2026-06-10
