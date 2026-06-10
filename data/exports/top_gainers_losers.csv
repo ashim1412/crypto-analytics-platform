@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,5.77,22.77996,gainer,1,2026-06-10
-morpho,Morpho,morpho,2.11,16.67032,gainer,2,2026-06-10
-whitebit,WhiteBIT Coin,wbt,50.85,16.61888,gainer,3,2026-06-10
-stable-2,​​Stable,stable,0.03452534,10.15992,gainer,4,2026-06-10
-world-liberty-financial,World Liberty Financial,wlfi,0.059507,8.35389,gainer,5,2026-06-10
-rain,Rain,rain,0.01327194,4.42219,gainer,6,2026-06-10
-nexo,NEXO,nexo,0.790855,3.82481,gainer,7,2026-06-10
-aave,Aave,aave,62.59,3.47045,gainer,8,2026-06-10
-cosmos,Cosmos Hub,atom,1.79,3.12938,gainer,9,2026-06-10
-kucoin-shares,KuCoin,kcs,6.5,3.09229,gainer,10,2026-06-10
-siren-2,Siren,siren,0.762956,-33.03298,loser,1,2026-06-10
-lab,LAB,lab,7.81,-25.22262,loser,2,2026-06-10
-dexe,DeXe,dexe,18.27,-14.99212,loser,3,2026-06-10
-venice-token,Venice Token,vvv,13.73,-13.46177,loser,4,2026-06-10
-injective-protocol,Injective,inj,5.25,-6.69335,loser,5,2026-06-10
-zcash,Zcash,zec,435.7,-5.60375,loser,6,2026-06-10
-stellar,Stellar,xlm,0.188224,-4.9847,loser,7,2026-06-10
-worldcoin-wld,Worldcoin,wld,0.498631,-3.94227,loser,8,2026-06-10
-tether-gold,Tether Gold,xaut,4138.58,-2.98551,loser,9,2026-06-10
-ethena,Ethena,ena,0.078668,-2.94875,loser,10,2026-06-10
+audiera,Audiera,beat,6.56,42.71129,gainer,1,2026-06-10
+hash-2,Provenance Blockchain,hash,0.01106456,9.59513,gainer,2,2026-06-10
+world-liberty-financial,World Liberty Financial,wlfi,0.059241,7.73134,gainer,3,2026-06-10
+monero,Monero,xmr,325.49,5.90388,gainer,4,2026-06-10
+morpho,Morpho,morpho,2.02,3.7603,gainer,5,2026-06-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.706957,3.05327,gainer,6,2026-06-10
+rain,Rain,rain,0.01315697,2.86633,gainer,7,2026-06-10
+kucoin-shares,KuCoin,kcs,6.51,2.86462,gainer,8,2026-06-10
+nexo,NEXO,nexo,0.787784,2.01849,gainer,9,2026-06-10
+canton-network,Canton,cc,0.164078,1.29024,gainer,10,2026-06-10
+siren-2,Siren,siren,0.742186,-17.99867,loser,1,2026-06-10
+lab,LAB,lab,7.9,-17.83152,loser,2,2026-06-10
+venice-token,Venice Token,vvv,13.43,-13.2551,loser,3,2026-06-10
+ethena,Ethena,ena,0.0722,-11.35569,loser,4,2026-06-10
+worldcoin-wld,Worldcoin,wld,0.449193,-11.07276,loser,5,2026-06-10
+injective-protocol,Injective,inj,5.05,-10.15908,loser,6,2026-06-10
+near,NEAR Protocol,near,2.01,-9.79831,loser,7,2026-06-10
+dexe,DeXe,dexe,17.87,-8.4114,loser,8,2026-06-10
+hyperliquid,Hyperliquid,hype,53.97,-7.72373,loser,9,2026-06-10
+ondo-finance,Ondo,ondo,0.333619,-7.68329,loser,10,2026-06-10
