@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,9.14,56.73606,gainer,1,2026-06-11
-lab,LAB,lab,9.64,22.43795,gainer,2,2026-06-11
-dexe,DeXe,dexe,21.16,15.98467,gainer,3,2026-06-11
-midnight-3,Midnight,night,0.03371406,9.14665,gainer,4,2026-06-11
-monero,Monero,xmr,350.55,8.12833,gainer,5,2026-06-11
-cosmos,Cosmos Hub,atom,1.94,7.62679,gainer,6,2026-06-11
-a7a5,A7A5,a7a5,0.01339061,3.06906,gainer,7,2026-06-11
-sky,Sky,sky,0.057495,2.76507,gainer,8,2026-06-11
-gatechain-token,Gate,gt,6.42,1.99414,gainer,9,2026-06-11
-jupiter-exchange-solana,Jupiter,jup,0.155677,1.80065,gainer,10,2026-06-11
-morpho,Morpho,morpho,1.92,-7.93524,loser,1,2026-06-11
-just,JUST,jst,0.075021,-5.89194,loser,2,2026-06-11
-zcash,Zcash,zec,419.99,-4.4268,loser,3,2026-06-11
-the-open-network,Toncoin,ton,1.62,-4.12264,loser,4,2026-06-11
-near,NEAR Protocol,near,2.03,-3.85131,loser,5,2026-06-11
-ethena,Ethena,ena,0.076226,-2.96713,loser,6,2026-06-11
-kaspa,Kaspa,kas,0.03045075,-2.952,loser,7,2026-06-11
-algorand,Algorand,algo,0.087217,-2.82855,loser,8,2026-06-11
-aptos,Aptos,apt,0.633926,-2.81023,loser,9,2026-06-11
-hedera-hashgraph,Hedera,hbar,0.077688,-2.28955,loser,10,2026-06-11
+velvet,Velvet,velvet,1.44,105.43332,gainer,1,2026-06-11
+audiera,Audiera,beat,9.65,47.38521,gainer,2,2026-06-11
+dexe,DeXe,dexe,21.33,19.35187,gainer,3,2026-06-11
+monero,Monero,xmr,369.57,14.23077,gainer,4,2026-06-11
+cosmos,Cosmos Hub,atom,1.99,11.61851,gainer,5,2026-06-11
+midnight-3,Midnight,night,0.03336573,10.44899,gainer,6,2026-06-11
+worldcoin-wld,Worldcoin,wld,0.495208,10.24334,gainer,7,2026-06-11
+flare-networks,Flare,flr,0.00747815,9.16726,gainer,8,2026-06-11
+hyperliquid,Hyperliquid,hype,58.71,8.99116,gainer,9,2026-06-11
+ondo-finance,Ondo,ondo,0.361169,8.42084,gainer,10,2026-06-11
+hash-2,Provenance Blockchain,hash,0.01006373,-9.02155,loser,1,2026-06-11
+just,JUST,jst,0.07388,-7.79268,loser,2,2026-06-11
+morpho,Morpho,morpho,1.93,-4.3381,loser,3,2026-06-11
+htx-dao,HTX DAO,htx,1.66e-06,-3.39084,loser,4,2026-06-11
+bianrensheng,币安人生 (BinanceLife),币安人生,0.686322,-2.9189,loser,5,2026-06-11
+tron,TRON,trx,0.312965,-2.60621,loser,6,2026-06-11
+algorand,Algorand,algo,0.087646,-1.19419,loser,7,2026-06-11
+xdce-crowd-sale,XDC Network,xdc,0.03071975,-1.1144,loser,8,2026-06-11
+canton-network,Canton,cc,0.162665,-0.78984,loser,9,2026-06-11
+leo-token,LEO Token,leo,9.44,-0.62043,loser,10,2026-06-11
