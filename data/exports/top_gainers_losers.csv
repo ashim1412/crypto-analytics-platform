@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.77,120.95007,gainer,1,2026-06-12
-lab,LAB,lab,10.01,30.52801,gainer,2,2026-06-12
-jupiter-exchange-solana,Jupiter,jup,0.166784,7.95271,gainer,3,2026-06-12
-venice-token,Venice Token,vvv,14.99,7.7561,gainer,4,2026-06-12
-flare-networks,Flare,flr,0.00749023,7.53076,gainer,5,2026-06-12
-cosmos,Cosmos Hub,atom,1.99,7.5055,gainer,6,2026-06-12
-near,NEAR Protocol,near,2.13,6.7214,gainer,7,2026-06-12
-render-token,Render,render,1.67,6.17948,gainer,8,2026-06-12
-hyperliquid,Hyperliquid,hype,59.19,5.75239,gainer,9,2026-06-12
-injective-protocol,Injective,inj,5.45,5.55172,gainer,10,2026-06-12
-bianrensheng,币安人生 (BinanceLife),币安人生,0.667222,-7.55566,loser,1,2026-06-12
-just,JUST,jst,0.073863,-4.94078,loser,2,2026-06-12
-morpho,Morpho,morpho,1.96,-4.13388,loser,3,2026-06-12
-tron,TRON,trx,0.312456,-2.99376,loser,4,2026-06-12
-htx-dao,HTX DAO,htx,1.66e-06,-2.75997,loser,5,2026-06-12
-xdce-crowd-sale,XDC Network,xdc,0.03016857,-2.40178,loser,6,2026-06-12
-canton-network,Canton,cc,0.162426,-1.32756,loser,7,2026-06-12
-rain,Rain,rain,0.01318177,-0.76041,loser,8,2026-06-12
-internet-computer,Internet Computer,icp,2.27,-0.54916,loser,9,2026-06-12
-aster-2,Aster,aster,0.626801,-0.53867,loser,10,2026-06-12
+velvet,Velvet,velvet,1.64,90.86197,gainer,1,2026-06-12
+flare-networks,Flare,flr,0.00752579,8.38008,gainer,2,2026-06-12
+memecore,MemeCore,m,3.08,7.67221,gainer,3,2026-06-12
+venice-token,Venice Token,vvv,14.47,7.60297,gainer,4,2026-06-12
+jupiter-exchange-solana,Jupiter,jup,0.166082,7.18863,gainer,5,2026-06-12
+the-open-network,Toncoin,ton,1.74,6.99782,gainer,6,2026-06-12
+render-token,Render,render,1.65,6.0453,gainer,7,2026-06-12
+monero,Monero,xmr,372.53,6.03395,gainer,8,2026-06-12
+ethena,Ethena,ena,0.080191,5.99696,gainer,9,2026-06-12
+lab,LAB,lab,9.89,5.8785,gainer,10,2026-06-12
+beldex,Beldex,bdx,0.073073,-7.69971,loser,1,2026-06-12
+worldcoin-wld,Worldcoin,wld,0.473511,-4.41731,loser,2,2026-06-12
+morpho,Morpho,morpho,1.92,-3.84187,loser,3,2026-06-12
+bianrensheng,币安人生 (BinanceLife),币安人生,0.667727,-3.70558,loser,4,2026-06-12
+xdce-crowd-sale,XDC Network,xdc,0.03004562,-2.7854,loser,5,2026-06-12
+htx-dao,HTX DAO,htx,1.66e-06,-2.58313,loser,6,2026-06-12
+tron,TRON,trx,0.312996,-2.5112,loser,7,2026-06-12
+canton-network,Canton,cc,0.164913,-1.75082,loser,8,2026-06-12
+just,JUST,jst,0.074261,-1.55528,loser,9,2026-06-12
+nexo,NEXO,nexo,0.794174,-1.41407,loser,10,2026-06-12
