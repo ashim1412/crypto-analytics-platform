@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.44,105.43332,gainer,1,2026-06-11
-audiera,Audiera,beat,9.65,47.38521,gainer,2,2026-06-11
-dexe,DeXe,dexe,21.33,19.35187,gainer,3,2026-06-11
-monero,Monero,xmr,369.57,14.23077,gainer,4,2026-06-11
-cosmos,Cosmos Hub,atom,1.99,11.61851,gainer,5,2026-06-11
-midnight-3,Midnight,night,0.03336573,10.44899,gainer,6,2026-06-11
-worldcoin-wld,Worldcoin,wld,0.495208,10.24334,gainer,7,2026-06-11
-flare-networks,Flare,flr,0.00747815,9.16726,gainer,8,2026-06-11
-hyperliquid,Hyperliquid,hype,58.71,8.99116,gainer,9,2026-06-11
-ondo-finance,Ondo,ondo,0.361169,8.42084,gainer,10,2026-06-11
-hash-2,Provenance Blockchain,hash,0.01006373,-9.02155,loser,1,2026-06-11
-just,JUST,jst,0.07388,-7.79268,loser,2,2026-06-11
-morpho,Morpho,morpho,1.93,-4.3381,loser,3,2026-06-11
-htx-dao,HTX DAO,htx,1.66e-06,-3.39084,loser,4,2026-06-11
-bianrensheng,币安人生 (BinanceLife),币安人生,0.686322,-2.9189,loser,5,2026-06-11
-tron,TRON,trx,0.312965,-2.60621,loser,6,2026-06-11
-algorand,Algorand,algo,0.087646,-1.19419,loser,7,2026-06-11
-xdce-crowd-sale,XDC Network,xdc,0.03071975,-1.1144,loser,8,2026-06-11
-canton-network,Canton,cc,0.162665,-0.78984,loser,9,2026-06-11
-leo-token,LEO Token,leo,9.44,-0.62043,loser,10,2026-06-11
+velvet,Velvet,velvet,1.79,115.1297,gainer,1,2026-06-12
+monero,Monero,xmr,438.27,28.97051,gainer,2,2026-06-12
+lab,LAB,lab,9.51,21.8502,gainer,3,2026-06-12
+audiera,Audiera,beat,8.69,18.0315,gainer,4,2026-06-12
+dexe,DeXe,dexe,21.27,14.03578,gainer,5,2026-06-12
+venice-token,Venice Token,vvv,14.55,10.58613,gainer,6,2026-06-12
+worldcoin-wld,Worldcoin,wld,0.497161,9.8396,gainer,7,2026-06-12
+cosmos,Cosmos Hub,atom,1.97,9.13113,gainer,8,2026-06-12
+flare-networks,Flare,flr,0.00756793,8.88078,gainer,9,2026-06-12
+ethena,Ethena,ena,0.078693,8.06326,gainer,10,2026-06-12
+bianrensheng,币安人生 (BinanceLife),币安人生,0.67201,-7.0489,loser,1,2026-06-12
+just,JUST,jst,0.073987,-6.41711,loser,2,2026-06-12
+htx-dao,HTX DAO,htx,1.67e-06,-2.25566,loser,3,2026-06-12
+tron,TRON,trx,0.31494,-2.03935,loser,4,2026-06-12
+world-liberty-financial,World Liberty Financial,wlfi,0.058701,-1.76136,loser,5,2026-06-12
+xdce-crowd-sale,XDC Network,xdc,0.03060701,-0.50108,loser,6,2026-06-12
+morpho,Morpho,morpho,1.97,-0.37724,loser,7,2026-06-12
+rain,Rain,rain,0.01322548,-0.31997,loser,8,2026-06-12
+usdd,USDD,usdd,0.998884,-0.07529,loser,9,2026-06-12
+usd1-wlfi,USD1,usd1,0.998128,-0.07212,loser,10,2026-06-12
