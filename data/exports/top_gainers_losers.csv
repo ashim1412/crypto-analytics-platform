@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.64,90.86197,gainer,1,2026-06-12
-flare-networks,Flare,flr,0.00752579,8.38008,gainer,2,2026-06-12
-memecore,MemeCore,m,3.08,7.67221,gainer,3,2026-06-12
-venice-token,Venice Token,vvv,14.47,7.60297,gainer,4,2026-06-12
-jupiter-exchange-solana,Jupiter,jup,0.166082,7.18863,gainer,5,2026-06-12
-the-open-network,Toncoin,ton,1.74,6.99782,gainer,6,2026-06-12
-render-token,Render,render,1.65,6.0453,gainer,7,2026-06-12
-monero,Monero,xmr,372.53,6.03395,gainer,8,2026-06-12
-ethena,Ethena,ena,0.080191,5.99696,gainer,9,2026-06-12
-lab,LAB,lab,9.89,5.8785,gainer,10,2026-06-12
-beldex,Beldex,bdx,0.073073,-7.69971,loser,1,2026-06-12
-worldcoin-wld,Worldcoin,wld,0.473511,-4.41731,loser,2,2026-06-12
-morpho,Morpho,morpho,1.92,-3.84187,loser,3,2026-06-12
-bianrensheng,币安人生 (BinanceLife),币安人生,0.667727,-3.70558,loser,4,2026-06-12
-xdce-crowd-sale,XDC Network,xdc,0.03004562,-2.7854,loser,5,2026-06-12
-htx-dao,HTX DAO,htx,1.66e-06,-2.58313,loser,6,2026-06-12
-tron,TRON,trx,0.312996,-2.5112,loser,7,2026-06-12
-canton-network,Canton,cc,0.164913,-1.75082,loser,8,2026-06-12
-just,JUST,jst,0.074261,-1.55528,loser,9,2026-06-12
-nexo,NEXO,nexo,0.794174,-1.41407,loser,10,2026-06-12
+beldex,Beldex,bdx,0.078971,30.87101,gainer,1,2026-06-12
+lab,LAB,lab,10.01,19.83797,gainer,2,2026-06-12
+memecore,MemeCore,m,3.08,5.74389,gainer,3,2026-06-12
+stable-2,​​Stable,stable,0.03506892,4.7409,gainer,4,2026-06-12
+jupiter-exchange-solana,Jupiter,jup,0.167059,4.71995,gainer,5,2026-06-12
+pump-fun,Pump.fun,pump,0.00153983,4.52095,gainer,6,2026-06-12
+render-token,Render,render,1.67,3.23838,gainer,7,2026-06-12
+just,JUST,jst,0.076197,3.00691,gainer,8,2026-06-12
+ethena,Ethena,ena,0.079652,2.77192,gainer,9,2026-06-12
+hyperliquid,Hyperliquid,hype,60.69,2.12869,gainer,10,2026-06-12
+audiera,Audiera,beat,8.78,-8.04757,loser,1,2026-06-12
+worldcoin-wld,Worldcoin,wld,0.466611,-6.30616,loser,2,2026-06-12
+hash-2,Provenance Blockchain,hash,0.00960038,-5.59626,loser,3,2026-06-12
+zcash,Zcash,zec,414.75,-4.81347,loser,4,2026-06-12
+kucoin-shares,KuCoin,kcs,6.58,-3.79196,loser,5,2026-06-12
+sky,Sky,sky,0.056312,-3.26712,loser,6,2026-06-12
+monero,Monero,xmr,359.04,-2.79567,loser,7,2026-06-12
+rain,Rain,rain,0.01304162,-2.60023,loser,8,2026-06-12
+canton-network,Canton,cc,0.15952,-2.34768,loser,9,2026-06-12
+dexe,DeXe,dexe,20.82,-2.19674,loser,10,2026-06-12
