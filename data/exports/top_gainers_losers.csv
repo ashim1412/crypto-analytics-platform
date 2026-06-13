@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.077118,42.57048,gainer,1,2026-06-13
-official-trump,Official Trump,trump,2.33,33.60674,gainer,2,2026-06-13
-venice-token,Venice Token,vvv,15.67,7.87749,gainer,3,2026-06-13
-midnight-3,Midnight,night,0.03513457,6.88543,gainer,4,2026-06-13
-stable-2,​​Stable,stable,0.03584797,6.41337,gainer,5,2026-06-13
-pump-fun,Pump.fun,pump,0.00152759,5.95458,gainer,6,2026-06-13
-jupiter-exchange-solana,Jupiter,jup,0.170668,5.89943,gainer,7,2026-06-13
-lab,LAB,lab,9.95,5.69759,gainer,8,2026-06-13
-hash-2,Provenance Blockchain,hash,0.01008234,5.17107,gainer,9,2026-06-13
-flare-networks,Flare,flr,0.00792564,5.09327,gainer,10,2026-06-13
-monero,Monero,xmr,346.51,-18.67741,loser,1,2026-06-13
-dexe,DeXe,dexe,19.03,-10.50963,loser,2,2026-06-13
-audiera,Audiera,beat,7.77,-8.8378,loser,3,2026-06-13
-worldcoin-wld,Worldcoin,wld,0.475405,-4.87957,loser,4,2026-06-13
-quant-network,Quant,qnt,66.52,-3.67314,loser,5,2026-06-13
-near,NEAR Protocol,near,2.01,-2.32203,loser,6,2026-06-13
-the-open-network,Toncoin,ton,1.68,-2.09611,loser,7,2026-06-13
-zcash,Zcash,zec,416.97,-2.07292,loser,8,2026-06-13
-canton-network,Canton,cc,0.162146,-1.9126,loser,9,2026-06-13
-ondo-finance,Ondo,ondo,0.3577,-1.90063,loser,10,2026-06-13
+beldex,Beldex,bdx,0.077113,18.0054,gainer,1,2026-06-13
+audiera,Audiera,beat,9.22,13.17878,gainer,2,2026-06-13
+venice-token,Venice Token,vvv,16.74,13.13198,gainer,3,2026-06-13
+bittensor,Bittensor,tao,236.17,11.3873,gainer,4,2026-06-13
+stable-2,​​Stable,stable,0.0369139,8.85418,gainer,5,2026-06-13
+internet-computer,Internet Computer,icp,2.41,7.47129,gainer,6,2026-06-13
+render-token,Render,render,1.75,6.54108,gainer,7,2026-06-13
+jupiter-exchange-solana,Jupiter,jup,0.175213,6.00562,gainer,8,2026-06-13
+flare-networks,Flare,flr,0.00789275,5.9325,gainer,9,2026-06-13
+hash-2,Provenance Blockchain,hash,0.01005086,4.68137,gainer,10,2026-06-13
+dexe,DeXe,dexe,17.35,-16.56543,loser,1,2026-06-13
+monero,Monero,xmr,342.13,-4.4973,loser,2,2026-06-13
+near,NEAR Protocol,near,2.04,-3.73713,loser,3,2026-06-13
+zcash,Zcash,zec,416.34,-3.53448,loser,4,2026-06-13
+memecore,MemeCore,m,2.95,-1.96552,loser,5,2026-06-13
+lab,LAB,lab,9.71,-1.74392,loser,6,2026-06-13
+sky,Sky,sky,0.056412,-1.54869,loser,7,2026-06-13
+nexo,NEXO,nexo,0.795424,-1.36742,loser,8,2026-06-13
+hedera-hashgraph,Hedera,hbar,0.078121,-1.29552,loser,9,2026-06-13
+stellar,Stellar,xlm,0.190244,-1.04223,loser,10,2026-06-13
