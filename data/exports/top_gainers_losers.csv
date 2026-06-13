@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.077113,18.0054,gainer,1,2026-06-13
-audiera,Audiera,beat,9.22,13.17878,gainer,2,2026-06-13
-venice-token,Venice Token,vvv,16.74,13.13198,gainer,3,2026-06-13
-bittensor,Bittensor,tao,236.17,11.3873,gainer,4,2026-06-13
-stable-2,​​Stable,stable,0.0369139,8.85418,gainer,5,2026-06-13
-internet-computer,Internet Computer,icp,2.41,7.47129,gainer,6,2026-06-13
-render-token,Render,render,1.75,6.54108,gainer,7,2026-06-13
-jupiter-exchange-solana,Jupiter,jup,0.175213,6.00562,gainer,8,2026-06-13
-flare-networks,Flare,flr,0.00789275,5.9325,gainer,9,2026-06-13
-hash-2,Provenance Blockchain,hash,0.01005086,4.68137,gainer,10,2026-06-13
-dexe,DeXe,dexe,17.35,-16.56543,loser,1,2026-06-13
-monero,Monero,xmr,342.13,-4.4973,loser,2,2026-06-13
-near,NEAR Protocol,near,2.04,-3.73713,loser,3,2026-06-13
-zcash,Zcash,zec,416.34,-3.53448,loser,4,2026-06-13
-memecore,MemeCore,m,2.95,-1.96552,loser,5,2026-06-13
-lab,LAB,lab,9.71,-1.74392,loser,6,2026-06-13
-sky,Sky,sky,0.056412,-1.54869,loser,7,2026-06-13
-nexo,NEXO,nexo,0.795424,-1.36742,loser,8,2026-06-13
-hedera-hashgraph,Hedera,hbar,0.078121,-1.29552,loser,9,2026-06-13
-stellar,Stellar,xlm,0.190244,-1.04223,loser,10,2026-06-13
+beldex,Beldex,bdx,0.078114,18.67603,gainer,1,2026-06-13
+bittensor,Bittensor,tao,250.73,17.69063,gainer,2,2026-06-13
+venice-token,Venice Token,vvv,16.98,15.26811,gainer,3,2026-06-13
+internet-computer,Internet Computer,icp,2.47,8.60839,gainer,4,2026-06-13
+render-token,Render,render,1.78,7.68346,gainer,5,2026-06-13
+worldcoin-wld,Worldcoin,wld,0.506507,6.62456,gainer,6,2026-06-13
+hash-2,Provenance Blockchain,hash,0.0100666,5.33467,gainer,7,2026-06-13
+pump-fun,Pump.fun,pump,0.00154753,5.08069,gainer,8,2026-06-13
+jupiter-exchange-solana,Jupiter,jup,0.173634,5.00071,gainer,9,2026-06-13
+filecoin,Filecoin,fil,0.78778,4.83811,gainer,10,2026-06-13
+dexe,DeXe,dexe,17.74,-17.4589,loser,1,2026-06-13
+monero,Monero,xmr,338.08,-10.30181,loser,2,2026-06-13
+lab,LAB,lab,9.38,-4.94685,loser,3,2026-06-13
+world-liberty-financial,World Liberty Financial,wlfi,0.059245,-3.6337,loser,4,2026-06-13
+zcash,Zcash,zec,416.93,-3.48029,loser,5,2026-06-13
+memecore,MemeCore,m,2.96,-3.27938,loser,6,2026-06-13
+sky,Sky,sky,0.055821,-2.37446,loser,7,2026-06-13
+the-open-network,Toncoin,ton,1.7,-2.10314,loser,8,2026-06-13
+near,NEAR Protocol,near,2.06,-1.64187,loser,9,2026-06-13
+canton-network,Canton,cc,0.162989,-1.56684,loser,10,2026-06-13
