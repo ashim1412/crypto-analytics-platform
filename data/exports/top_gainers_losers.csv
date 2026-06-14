@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,9.88,5.7616,gainer,1,2026-06-14
-bittensor,Bittensor,tao,264.38,5.2996,gainer,2,2026-06-14
-pi-network,Pi Network,pi,0.131835,2.89102,gainer,3,2026-06-14
-beldex,Beldex,bdx,0.080029,2.35758,gainer,4,2026-06-14
-hyperliquid,Hyperliquid,hype,60.82,2.12188,gainer,5,2026-06-14
-algorand,Algorand,algo,0.0907,2.06642,gainer,6,2026-06-14
-mantle,Mantle,mnt,0.556744,2.03481,gainer,7,2026-06-14
-quant-network,Quant,qnt,68.08,1.7312,gainer,8,2026-06-14
-monero,Monero,xmr,344.44,1.52914,gainer,9,2026-06-14
-gatechain-token,Gate,gt,6.73,1.50537,gainer,10,2026-06-14
-audiera,Audiera,beat,5.64,-33.38999,loser,1,2026-06-14
-midnight-3,Midnight,night,0.03134886,-7.77491,loser,2,2026-06-14
-ondo-finance,Ondo,ondo,0.349771,-6.22971,loser,3,2026-06-14
-venice-token,Venice Token,vvv,15.94,-6.01956,loser,4,2026-06-14
-ethena,Ethena,ena,0.081494,-4.12679,loser,5,2026-06-14
-stable-2,​​Stable,stable,0.03472639,-3.83507,loser,6,2026-06-14
-stellar,Stellar,xlm,0.182462,-3.76603,loser,7,2026-06-14
-canton-network,Canton,cc,0.157421,-3.39641,loser,8,2026-06-14
-cardano,Cardano,ada,0.168116,-3.15097,loser,9,2026-06-14
-jupiter-exchange-solana,Jupiter,jup,0.168471,-3.12554,loser,10,2026-06-14
+humanity,Humanity,h,0.311643,20.91743,gainer,1,2026-06-14
+dexe,DeXe,dexe,17.83,5.23621,gainer,2,2026-06-14
+bittensor,Bittensor,tao,262.54,2.78378,gainer,3,2026-06-14
+lab,LAB,lab,9.55,2.24526,gainer,4,2026-06-14
+zcash,Zcash,zec,423.26,2.21891,gainer,5,2026-06-14
+just,JUST,jst,0.076764,2.03915,gainer,6,2026-06-14
+algorand,Algorand,algo,0.089535,1.91195,gainer,7,2026-06-14
+worldcoin-wld,Worldcoin,wld,0.50326,1.74893,gainer,8,2026-06-14
+cosmos,Cosmos Hub,atom,1.99,1.66183,gainer,9,2026-06-14
+crypto-com-chain,Cronos,cro,0.060514,1.11718,gainer,10,2026-06-14
+audiera,Audiera,beat,5.26,-24.97464,loser,1,2026-06-14
+internet-computer,Internet Computer,icp,2.42,-6.83967,loser,2,2026-06-14
+ethena,Ethena,ena,0.079673,-5.94721,loser,3,2026-06-14
+ondo-finance,Ondo,ondo,0.346185,-5.352,loser,4,2026-06-14
+avalanche-2,Avalanche,avax,6.4,-4.50105,loser,5,2026-06-14
+bitcoin-cash,Bitcoin Cash,bch,198.47,-4.00078,loser,6,2026-06-14
+filecoin,Filecoin,fil,0.755861,-3.99086,loser,7,2026-06-14
+hash-2,Provenance Blockchain,hash,0.00964793,-3.73134,loser,8,2026-06-14
+cardano,Cardano,ada,0.165985,-3.57952,loser,9,2026-06-14
+aptos,Aptos,apt,0.647964,-3.3853,loser,10,2026-06-14
