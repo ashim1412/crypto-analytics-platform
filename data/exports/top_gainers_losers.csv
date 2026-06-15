@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,533.28,26.82407,gainer,1,2026-06-15
-stellar,Stellar,xlm,0.230298,25.59628,gainer,2,2026-06-15
-near,NEAR Protocol,near,2.48,19.8185,gainer,3,2026-06-15
-jupiter-exchange-solana,Jupiter,jup,0.19978,18.52622,gainer,4,2026-06-15
-aave,Aave,aave,76.4,16.39555,gainer,5,2026-06-15
-worldcoin-wld,Worldcoin,wld,0.570006,13.72805,gainer,6,2026-06-15
-injective-protocol,Injective,inj,5.72,13.23602,gainer,7,2026-06-15
-hyperliquid,Hyperliquid,hype,67.95,13.0782,gainer,8,2026-06-15
-ripple,XRP,xrp,1.28,12.81637,gainer,9,2026-06-15
-cardano,Cardano,ada,0.188394,12.7186,gainer,10,2026-06-15
-audiera,Audiera,beat,3.76,-32.05221,loser,1,2026-06-15
-stable-2,​​Stable,stable,0.03554581,-1.27047,loser,2,2026-06-15
-memecore,MemeCore,m,2.92,-1.14145,loser,3,2026-06-15
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.87594,loser,4,2026-06-15
-monero,Monero,xmr,341.13,-0.29328,loser,5,2026-06-15
-usdtb,USDtb,usdtb,0.999929,-0.03242,loser,6,2026-06-15
-usd1-wlfi,USD1,usd1,1.0,-0.02538,loser,7,2026-06-15
-united-stables,United Stables,u,0.9998,-0.02051,loser,8,2026-06-15
-ylds,YLDS,ylds,0.999728,-0.00863,loser,9,2026-06-15
-usdd,USDD,usdd,0.999415,-0.00776,loser,10,2026-06-15
+zcash,Zcash,zec,523.22,22.63986,gainer,1,2026-06-15
+stellar,Stellar,xlm,0.222244,21.65854,gainer,2,2026-06-15
+worldcoin-wld,Worldcoin,wld,0.592377,17.79007,gainer,3,2026-06-15
+near,NEAR Protocol,near,2.48,17.23295,gainer,4,2026-06-15
+jupiter-exchange-solana,Jupiter,jup,0.194188,13.95819,gainer,5,2026-06-15
+injective-protocol,Injective,inj,5.69,13.68093,gainer,6,2026-06-15
+bitcoin-cash,Bitcoin Cash,bch,226.36,13.02442,gainer,7,2026-06-15
+aave,Aave,aave,74.49,12.80456,gainer,8,2026-06-15
+ripple,XRP,xrp,1.27,11.88849,gainer,9,2026-06-15
+hyperliquid,Hyperliquid,hype,67.53,11.40029,gainer,10,2026-06-15
+audiera,Audiera,beat,4.03,-21.86352,loser,1,2026-06-15
+cosmos,Cosmos Hub,atom,1.96,-1.80674,loser,2,2026-06-15
+venice-token,Venice Token,vvv,16.02,-1.49939,loser,3,2026-06-15
+memecore,MemeCore,m,2.94,-0.69813,loser,4,2026-06-15
+lab,LAB,lab,9.72,-0.6719,loser,5,2026-06-15
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.32301,loser,6,2026-06-15
+falcon-finance,Falcon USD,usdf,0.995079,-0.07131,loser,7,2026-06-15
+usdtb,USDtb,usdtb,0.999739,-0.06296,loser,8,2026-06-15
+usd1-wlfi,USD1,usd1,1.0,-0.03521,loser,9,2026-06-15
+ripple-usd,Ripple USD,rlusd,0.999615,-0.03082,loser,10,2026-06-15
