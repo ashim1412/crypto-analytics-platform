@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,535.62,26.4733,gainer,1,2026-06-15
-worldcoin-wld,Worldcoin,wld,0.617395,23.25593,gainer,2,2026-06-15
-near,NEAR Protocol,near,2.48,17.55661,gainer,3,2026-06-15
-aave,Aave,aave,73.82,11.91037,gainer,4,2026-06-15
-hyperliquid,Hyperliquid,hype,68.36,11.88542,gainer,5,2026-06-15
-jupiter-exchange-solana,Jupiter,jup,0.189624,11.25404,gainer,6,2026-06-15
-bitcoin-cash,Bitcoin Cash,bch,223.49,9.43377,gainer,7,2026-06-15
-cardano,Cardano,ada,0.184295,8.33973,gainer,8,2026-06-15
-ondo-finance,Ondo,ondo,0.384379,7.27696,gainer,9,2026-06-15
-sui,Sui,sui,0.80996,6.60775,gainer,10,2026-06-15
-humanity,Humanity,h,0.405329,-32.31562,loser,1,2026-06-15
-audiera,Audiera,beat,4.24,-24.49972,loser,2,2026-06-15
-memecore,MemeCore,m,2.93,-1.05087,loser,3,2026-06-15
-stable-2,​​Stable,stable,0.03509236,-0.47944,loser,4,2026-06-15
-usdtb,USDtb,usdtb,1.0,-0.03468,loser,5,2026-06-15
-united-stables,United Stables,u,0.999796,-0.02031,loser,6,2026-06-15
-global-dollar,Global Dollar,usdg,0.999878,-0.01789,loser,7,2026-06-15
-ethena-usde,Ethena USDe,usde,0.999401,-0.01563,loser,8,2026-06-15
-usdd,USDD,usdd,0.99941,-0.01328,loser,9,2026-06-15
-bfusd,BFUSD,bfusd,0.999009,-0.00921,loser,10,2026-06-15
+zcash,Zcash,zec,533.28,26.82407,gainer,1,2026-06-15
+stellar,Stellar,xlm,0.230298,25.59628,gainer,2,2026-06-15
+near,NEAR Protocol,near,2.48,19.8185,gainer,3,2026-06-15
+jupiter-exchange-solana,Jupiter,jup,0.19978,18.52622,gainer,4,2026-06-15
+aave,Aave,aave,76.4,16.39555,gainer,5,2026-06-15
+worldcoin-wld,Worldcoin,wld,0.570006,13.72805,gainer,6,2026-06-15
+injective-protocol,Injective,inj,5.72,13.23602,gainer,7,2026-06-15
+hyperliquid,Hyperliquid,hype,67.95,13.0782,gainer,8,2026-06-15
+ripple,XRP,xrp,1.28,12.81637,gainer,9,2026-06-15
+cardano,Cardano,ada,0.188394,12.7186,gainer,10,2026-06-15
+audiera,Audiera,beat,3.76,-32.05221,loser,1,2026-06-15
+stable-2,​​Stable,stable,0.03554581,-1.27047,loser,2,2026-06-15
+memecore,MemeCore,m,2.92,-1.14145,loser,3,2026-06-15
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.87594,loser,4,2026-06-15
+monero,Monero,xmr,341.13,-0.29328,loser,5,2026-06-15
+usdtb,USDtb,usdtb,0.999929,-0.03242,loser,6,2026-06-15
+usd1-wlfi,USD1,usd1,1.0,-0.02538,loser,7,2026-06-15
+united-stables,United Stables,u,0.9998,-0.02051,loser,8,2026-06-15
+ylds,YLDS,ylds,0.999728,-0.00863,loser,9,2026-06-15
+usdd,USDD,usdd,0.999415,-0.00776,loser,10,2026-06-15
