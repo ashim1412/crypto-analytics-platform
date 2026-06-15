@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-humanity,Humanity,h,0.351965,23.19202,gainer,1,2026-06-15
-lab,LAB,lab,10.76,14.90676,gainer,2,2026-06-15
-zcash,Zcash,zec,480.23,13.29972,gainer,3,2026-06-15
-worldcoin-wld,Worldcoin,wld,0.557433,9.82227,gainer,4,2026-06-15
-jupiter-exchange-solana,Jupiter,jup,0.184731,6.45466,gainer,5,2026-06-15
-hyperliquid,Hyperliquid,hype,64.09,5.17456,gainer,6,2026-06-15
-cardano,Cardano,ada,0.181758,4.94229,gainer,7,2026-06-15
-near,NEAR Protocol,near,2.25,4.66141,gainer,8,2026-06-15
-hedera-hashgraph,Hedera,hbar,0.081985,4.17081,gainer,9,2026-06-15
-bittensor,Bittensor,tao,282.87,3.75292,gainer,10,2026-06-15
-audiera,Audiera,beat,5.59,-23.1535,loser,1,2026-06-15
-dexe,DeXe,dexe,17.43,-3.39537,loser,2,2026-06-15
-stable-2,​​Stable,stable,0.03548418,-3.04058,loser,3,2026-06-15
-pi-network,Pi Network,pi,0.133554,-2.75578,loser,4,2026-06-15
-midnight-3,Midnight,night,0.03221461,-1.20709,loser,5,2026-06-15
-venice-token,Venice Token,vvv,16.58,-0.96044,loser,6,2026-06-15
-ethena,Ethena,ena,0.083946,-0.95117,loser,7,2026-06-15
-bianrensheng,币安人生 (BinanceLife),币安人生,0.663648,-0.77994,loser,8,2026-06-15
-memecore,MemeCore,m,2.99,-0.67741,loser,9,2026-06-15
-xdce-crowd-sale,XDC Network,xdc,0.03020498,-0.4373,loser,10,2026-06-15
+zcash,Zcash,zec,535.62,26.4733,gainer,1,2026-06-15
+worldcoin-wld,Worldcoin,wld,0.617395,23.25593,gainer,2,2026-06-15
+near,NEAR Protocol,near,2.48,17.55661,gainer,3,2026-06-15
+aave,Aave,aave,73.82,11.91037,gainer,4,2026-06-15
+hyperliquid,Hyperliquid,hype,68.36,11.88542,gainer,5,2026-06-15
+jupiter-exchange-solana,Jupiter,jup,0.189624,11.25404,gainer,6,2026-06-15
+bitcoin-cash,Bitcoin Cash,bch,223.49,9.43377,gainer,7,2026-06-15
+cardano,Cardano,ada,0.184295,8.33973,gainer,8,2026-06-15
+ondo-finance,Ondo,ondo,0.384379,7.27696,gainer,9,2026-06-15
+sui,Sui,sui,0.80996,6.60775,gainer,10,2026-06-15
+humanity,Humanity,h,0.405329,-32.31562,loser,1,2026-06-15
+audiera,Audiera,beat,4.24,-24.49972,loser,2,2026-06-15
+memecore,MemeCore,m,2.93,-1.05087,loser,3,2026-06-15
+stable-2,​​Stable,stable,0.03509236,-0.47944,loser,4,2026-06-15
+usdtb,USDtb,usdtb,1.0,-0.03468,loser,5,2026-06-15
+united-stables,United Stables,u,0.999796,-0.02031,loser,6,2026-06-15
+global-dollar,Global Dollar,usdg,0.999878,-0.01789,loser,7,2026-06-15
+ethena-usde,Ethena USDe,usde,0.999401,-0.01563,loser,8,2026-06-15
+usdd,USDD,usdd,0.99941,-0.01328,loser,9,2026-06-15
+bfusd,BFUSD,bfusd,0.999009,-0.00921,loser,10,2026-06-15
