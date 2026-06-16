@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stellar,Stellar,xlm,0.208983,10.84189,gainer,1,2026-06-16
-uniswap,Uniswap,uni,2.83,9.74848,gainer,2,2026-06-16
-dexe,DeXe,dexe,18.96,8.79136,gainer,3,2026-06-16
-injective-protocol,Injective,inj,5.46,6.83262,gainer,4,2026-06-16
-zcash,Zcash,zec,511.75,6.53479,gainer,5,2026-06-16
-worldcoin-wld,Worldcoin,wld,0.594132,6.23816,gainer,6,2026-06-16
-aave,Aave,aave,72.65,5.75868,gainer,7,2026-06-16
-hyperliquid,Hyperliquid,hype,67.24,4.67048,gainer,8,2026-06-16
-rain,Rain,rain,0.01370866,4.59193,gainer,9,2026-06-16
-bitcoin-cash,Bitcoin Cash,bch,220.94,4.44252,gainer,10,2026-06-16
-audiera,Audiera,beat,4.23,-25.42953,loser,1,2026-06-16
-venice-token,Venice Token,vvv,14.85,-9.87489,loser,2,2026-06-16
-lab,LAB,lab,9.8,-8.97139,loser,3,2026-06-16
-bittensor,Bittensor,tao,259.89,-8.53726,loser,4,2026-06-16
-internet-computer,Internet Computer,icp,2.39,-4.71815,loser,5,2026-06-16
-morpho,Morpho,morpho,1.93,-4.36067,loser,6,2026-06-16
-render-token,Render,render,1.75,-3.88596,loser,7,2026-06-16
-the-open-network,Gram (prev. Toncoin),gram,1.68,-3.83603,loser,8,2026-06-16
-cardano,Cardano,ada,0.17608,-2.7254,loser,9,2026-06-16
-pump-fun,Pump.fun,pump,0.00153628,-2.64937,loser,10,2026-06-16
+stellar,Stellar,xlm,0.223674,16.80807,gainer,1,2026-06-16
+uniswap,Uniswap,uni,3.04,15.99544,gainer,2,2026-06-16
+injective-protocol,Injective,inj,6.0,14.33206,gainer,3,2026-06-16
+hyperliquid,Hyperliquid,hype,75.35,11.70731,gainer,4,2026-06-16
+worldcoin-wld,Worldcoin,wld,0.653305,11.52782,gainer,5,2026-06-16
+lab,LAB,lab,10.87,9.80049,gainer,6,2026-06-16
+jupiter-exchange-solana,Jupiter,jup,0.201286,7.28978,gainer,7,2026-06-16
+quant-network,Quant,qnt,72.89,6.06553,gainer,8,2026-06-16
+aster-2,Aster,aster,0.664866,5.83446,gainer,9,2026-06-16
+near,NEAR Protocol,near,2.53,5.70588,gainer,10,2026-06-16
+audiera,Audiera,beat,3.18,-26.87268,loser,1,2026-06-16
+the-open-network,Gram (prev. Toncoin),gram,1.67,-5.2773,loser,2,2026-06-16
+internet-computer,Internet Computer,icp,2.45,-3.77881,loser,3,2026-06-16
+venice-token,Venice Token,vvv,15.67,-1.78285,loser,4,2026-06-16
+bianrensheng,币安人生 (BinanceLife),币安人生,0.67443,-1.44224,loser,5,2026-06-16
+render-token,Render,render,1.81,-1.28207,loser,6,2026-06-16
+morpho,Morpho,morpho,1.96,-1.20959,loser,7,2026-06-16
+bittensor,Bittensor,tao,267.73,-0.9428,loser,8,2026-06-16
+tron,TRON,trx,0.317693,-0.63971,loser,9,2026-06-16
+flare-networks,Flare,flr,0.00795358,-0.6086,loser,10,2026-06-16
