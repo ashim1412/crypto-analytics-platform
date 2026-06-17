@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,3.63,22.4123,gainer,1,2026-06-17
-lab,LAB,lab,13.06,21.0628,gainer,2,2026-06-17
-venice-token,Venice Token,vvv,16.14,4.62772,gainer,3,2026-06-17
-just,JUST,jst,0.081785,1.6159,gainer,4,2026-06-17
-aave,Aave,aave,75.72,1.27636,gainer,5,2026-06-17
-nexo,NEXO,nexo,0.826197,1.23817,gainer,6,2026-06-17
-algorand,Algorand,algo,0.096553,0.83966,gainer,7,2026-06-17
-tron,TRON,trx,0.320231,0.82883,gainer,8,2026-06-17
-rain,Rain,rain,0.01407139,0.81015,gainer,9,2026-06-17
-figure-heloc,Figure Heloc,figr_heloc,1.035,0.76451,gainer,10,2026-06-17
-audiera,Audiera,beat,1.89,-41.7979,loser,1,2026-06-17
-injective-protocol,Injective,inj,5.42,-9.19841,loser,2,2026-06-17
-near,NEAR Protocol,near,2.28,-9.12466,loser,3,2026-06-17
-kaspa,Kaspa,kas,0.032056,-6.98228,loser,4,2026-06-17
-bittensor,Bittensor,tao,251.53,-6.62805,loser,5,2026-06-17
-render-token,Render,render,1.7,-6.14043,loser,6,2026-06-17
-stable-2,​​Stable,stable,0.03394356,-6.03291,loser,7,2026-06-17
-cardano,Cardano,ada,0.169042,-6.0055,loser,8,2026-06-17
-hedera-hashgraph,Hedera,hbar,0.079848,-5.21439,loser,9,2026-06-17
-bitcoin-cash,Bitcoin Cash,bch,213.75,-5.04529,loser,10,2026-06-17
+aster-2,Aster,aster,0.761526,16.45832,gainer,1,2026-06-17
+uniswap,Uniswap,uni,3.21,7.8893,gainer,2,2026-06-17
+venice-token,Venice Token,vvv,16.22,7.67197,gainer,3,2026-06-17
+ethena,Ethena,ena,0.091532,7.43765,gainer,4,2026-06-17
+filecoin,Filecoin,fil,0.814412,4.43863,gainer,5,2026-06-17
+worldcoin-wld,Worldcoin,wld,0.665009,4.21145,gainer,6,2026-06-17
+algorand,Algorand,algo,0.096609,3.77684,gainer,7,2026-06-17
+sky,Sky,sky,0.058939,3.59085,gainer,8,2026-06-17
+stellar,Stellar,xlm,0.225544,3.16244,gainer,9,2026-06-17
+arbitrum,Arbitrum,arb,0.086308,2.56591,gainer,10,2026-06-17
+audiera,Audiera,beat,1.79,-35.09047,loser,1,2026-06-17
+dexe,DeXe,dexe,15.69,-16.21634,loser,2,2026-06-17
+midnight-3,Midnight,night,0.03131485,-7.12981,loser,3,2026-06-17
+stable-2,​​Stable,stable,0.03372157,-6.19354,loser,4,2026-06-17
+injective-protocol,Injective,inj,5.4,-5.95336,loser,5,2026-06-17
+hyperliquid,Hyperliquid,hype,71.79,-3.1024,loser,6,2026-06-17
+cardano,Cardano,ada,0.168493,-2.85837,loser,7,2026-06-17
+mantle,Mantle,mnt,0.550917,-2.65382,loser,8,2026-06-17
+crypto-com-chain,Cronos,cro,0.059206,-2.25928,loser,9,2026-06-17
+memecore,MemeCore,m,3.05,-2.24565,loser,10,2026-06-17
