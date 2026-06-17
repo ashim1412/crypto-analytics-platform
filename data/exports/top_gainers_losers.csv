@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,13.43,36.36505,gainer,1,2026-06-17
-humanity,Humanity,h,0.327013,28.01598,gainer,2,2026-06-17
-uniswap,Uniswap,uni,3.57,25.97733,gainer,3,2026-06-17
-worldcoin-wld,Worldcoin,wld,0.691995,16.18723,gainer,4,2026-06-17
-hyperliquid,Hyperliquid,hype,74.58,10.56168,gainer,5,2026-06-17
-venice-token,Venice Token,vvv,16.34,9.32249,gainer,6,2026-06-17
-stellar,Stellar,xlm,0.227998,9.00045,gainer,7,2026-06-17
-memecore,MemeCore,m,3.16,7.90241,gainer,8,2026-06-17
-aave,Aave,aave,77.65,6.80278,gainer,9,2026-06-17
-arbitrum,Arbitrum,arb,0.089415,4.82972,gainer,10,2026-06-17
-audiera,Audiera,beat,2.59,-38.70055,loser,1,2026-06-17
-dexe,DeXe,dexe,18.29,-3.48341,loser,2,2026-06-17
-crypto-com-chain,Cronos,cro,0.060153,-2.63828,loser,3,2026-06-17
-canton-network,Canton,cc,0.161053,-2.18567,loser,4,2026-06-17
-mantle,Mantle,mnt,0.560496,-2.0384,loser,5,2026-06-17
-bitcoin-cash,Bitcoin Cash,bch,216.86,-1.9915,loser,6,2026-06-17
-the-open-network,Gram (prev. Toncoin),gram,1.66,-1.72118,loser,7,2026-06-17
-stable-2,​​Stable,stable,0.03538719,-1.35508,loser,8,2026-06-17
-flare-networks,Flare,flr,0.00778325,-1.22826,loser,9,2026-06-17
-cardano,Cardano,ada,0.17443,-0.94792,loser,10,2026-06-17
+uniswap,Uniswap,uni,3.63,22.4123,gainer,1,2026-06-17
+lab,LAB,lab,13.06,21.0628,gainer,2,2026-06-17
+venice-token,Venice Token,vvv,16.14,4.62772,gainer,3,2026-06-17
+just,JUST,jst,0.081785,1.6159,gainer,4,2026-06-17
+aave,Aave,aave,75.72,1.27636,gainer,5,2026-06-17
+nexo,NEXO,nexo,0.826197,1.23817,gainer,6,2026-06-17
+algorand,Algorand,algo,0.096553,0.83966,gainer,7,2026-06-17
+tron,TRON,trx,0.320231,0.82883,gainer,8,2026-06-17
+rain,Rain,rain,0.01407139,0.81015,gainer,9,2026-06-17
+figure-heloc,Figure Heloc,figr_heloc,1.035,0.76451,gainer,10,2026-06-17
+audiera,Audiera,beat,1.89,-41.7979,loser,1,2026-06-17
+injective-protocol,Injective,inj,5.42,-9.19841,loser,2,2026-06-17
+near,NEAR Protocol,near,2.28,-9.12466,loser,3,2026-06-17
+kaspa,Kaspa,kas,0.032056,-6.98228,loser,4,2026-06-17
+bittensor,Bittensor,tao,251.53,-6.62805,loser,5,2026-06-17
+render-token,Render,render,1.7,-6.14043,loser,6,2026-06-17
+stable-2,​​Stable,stable,0.03394356,-6.03291,loser,7,2026-06-17
+cardano,Cardano,ada,0.169042,-6.0055,loser,8,2026-06-17
+hedera-hashgraph,Hedera,hbar,0.079848,-5.21439,loser,9,2026-06-17
+bitcoin-cash,Bitcoin Cash,bch,213.75,-5.04529,loser,10,2026-06-17
