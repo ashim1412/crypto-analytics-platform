@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-aster-2,Aster,aster,0.761526,16.45832,gainer,1,2026-06-17
-uniswap,Uniswap,uni,3.21,7.8893,gainer,2,2026-06-17
-venice-token,Venice Token,vvv,16.22,7.67197,gainer,3,2026-06-17
-ethena,Ethena,ena,0.091532,7.43765,gainer,4,2026-06-17
-filecoin,Filecoin,fil,0.814412,4.43863,gainer,5,2026-06-17
-worldcoin-wld,Worldcoin,wld,0.665009,4.21145,gainer,6,2026-06-17
-algorand,Algorand,algo,0.096609,3.77684,gainer,7,2026-06-17
-sky,Sky,sky,0.058939,3.59085,gainer,8,2026-06-17
-stellar,Stellar,xlm,0.225544,3.16244,gainer,9,2026-06-17
-arbitrum,Arbitrum,arb,0.086308,2.56591,gainer,10,2026-06-17
-audiera,Audiera,beat,1.79,-35.09047,loser,1,2026-06-17
-dexe,DeXe,dexe,15.69,-16.21634,loser,2,2026-06-17
-midnight-3,Midnight,night,0.03131485,-7.12981,loser,3,2026-06-17
-stable-2,​​Stable,stable,0.03372157,-6.19354,loser,4,2026-06-17
-injective-protocol,Injective,inj,5.4,-5.95336,loser,5,2026-06-17
-hyperliquid,Hyperliquid,hype,71.79,-3.1024,loser,6,2026-06-17
-cardano,Cardano,ada,0.168493,-2.85837,loser,7,2026-06-17
-mantle,Mantle,mnt,0.550917,-2.65382,loser,8,2026-06-17
-crypto-com-chain,Cronos,cro,0.059206,-2.25928,loser,9,2026-06-17
-memecore,MemeCore,m,3.05,-2.24565,loser,10,2026-06-17
+aster-2,Aster,aster,0.726588,11.11842,gainer,1,2026-06-17
+ethena,Ethena,ena,0.090834,5.09358,gainer,2,2026-06-17
+venice-token,Venice Token,vvv,15.78,3.44294,gainer,3,2026-06-17
+lab,LAB,lab,13.08,2.87685,gainer,4,2026-06-17
+rain,Rain,rain,0.01454486,2.81194,gainer,5,2026-06-17
+algorand,Algorand,algo,0.096312,1.94367,gainer,6,2026-06-17
+htx-dao,HTX DAO,htx,1.71e-06,1.7576,gainer,7,2026-06-17
+world-liberty-financial,World Liberty Financial,wlfi,0.060912,1.39501,gainer,8,2026-06-17
+sky,Sky,sky,0.057853,1.18976,gainer,9,2026-06-17
+tron,TRON,trx,0.319764,1.05444,gainer,10,2026-06-17
+dexe,DeXe,dexe,15.03,-17.90126,loser,1,2026-06-17
+stable-2,​​Stable,stable,0.03311116,-6.89048,loser,2,2026-06-17
+injective-protocol,Injective,inj,5.38,-5.31882,loser,3,2026-06-17
+okb,OKB,okb,72.76,-4.57425,loser,4,2026-06-17
+memecore,MemeCore,m,2.98,-4.56134,loser,5,2026-06-17
+kaspa,Kaspa,kas,0.03135331,-4.52993,loser,6,2026-06-17
+cardano,Cardano,ada,0.165843,-4.4241,loser,7,2026-06-17
+bitcoin-cash,Bitcoin Cash,bch,209.3,-4.30506,loser,8,2026-06-17
+pump-fun,Pump.fun,pump,0.00147009,-3.90563,loser,9,2026-06-17
+monero,Monero,xmr,334.38,-3.8107,loser,10,2026-06-17
