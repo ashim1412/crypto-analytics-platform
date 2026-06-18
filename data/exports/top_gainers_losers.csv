@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,15.65,21.47539,gainer,1,2026-06-18
-hash-2,Provenance Blockchain,hash,0.00996372,15.73631,gainer,2,2026-06-18
-stellar,Stellar,xlm,0.240059,9.56616,gainer,3,2026-06-18
-ethena,Ethena,ena,0.094914,8.7001,gainer,4,2026-06-18
-bianrensheng,币安人生 (BinanceLife),币安人生,0.717242,6.85348,gainer,5,2026-06-18
-algorand,Algorand,algo,0.101394,5.54612,gainer,6,2026-06-18
-morpho,Morpho,morpho,2.0,4.00737,gainer,7,2026-06-18
-rain,Rain,rain,0.01455477,3.42887,gainer,8,2026-06-18
-beldex,Beldex,bdx,0.08197,3.23035,gainer,9,2026-06-18
-canton-network,Canton,cc,0.164375,2.43682,gainer,10,2026-06-18
-dexe,DeXe,dexe,14.61,-14.98715,loser,1,2026-06-18
-uniswap,Uniswap,uni,3.13,-13.9418,loser,2,2026-06-18
-zcash,Zcash,zec,470.15,-7.91823,loser,3,2026-06-18
-cosmos,Cosmos Hub,atom,1.86,-5.44584,loser,4,2026-06-18
-venice-token,Venice Token,vvv,15.33,-5.09442,loser,5,2026-06-18
-sui,Sui,sui,0.752029,-4.80755,loser,6,2026-06-18
-bittensor,Bittensor,tao,240.43,-4.54693,loser,7,2026-06-18
-internet-computer,Internet Computer,icp,2.3,-3.95528,loser,8,2026-06-18
-worldcoin-wld,Worldcoin,wld,0.62657,-3.53997,loser,9,2026-06-18
-monero,Monero,xmr,332.42,-3.303,loser,10,2026-06-18
+lab,LAB,lab,16.14,22.60099,gainer,1,2026-06-18
+hash-2,Provenance Blockchain,hash,0.01046192,22.11764,gainer,2,2026-06-18
+stellar,Stellar,xlm,0.248431,9.68769,gainer,3,2026-06-18
+bianrensheng,币安人生 (BinanceLife),币安人生,0.729281,8.43299,gainer,4,2026-06-18
+algorand,Algorand,algo,0.101464,5.07083,gainer,5,2026-06-18
+rain,Rain,rain,0.01455057,3.97029,gainer,6,2026-06-18
+beldex,Beldex,bdx,0.081848,2.52632,gainer,7,2026-06-18
+ethena,Ethena,ena,0.092931,1.59089,gainer,8,2026-06-18
+morpho,Morpho,morpho,1.99,1.54832,gainer,9,2026-06-18
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.07803,1.14918,gainer,10,2026-06-18
+aster-2,Aster,aster,0.668312,-11.92946,loser,1,2026-06-18
+cosmos,Cosmos Hub,atom,1.84,-8.31474,loser,2,2026-06-18
+dexe,DeXe,dexe,14.58,-7.72352,loser,3,2026-06-18
+venice-token,Venice Token,vvv,15.09,-7.29435,loser,4,2026-06-18
+sui,Sui,sui,0.739968,-6.23525,loser,5,2026-06-18
+internet-computer,Internet Computer,icp,2.28,-6.20217,loser,6,2026-06-18
+worldcoin-wld,Worldcoin,wld,0.621117,-6.02374,loser,7,2026-06-18
+bittensor,Bittensor,tao,240.15,-5.21204,loser,8,2026-06-18
+kaspa,Kaspa,kas,0.0305191,-5.15813,loser,9,2026-06-18
+shiba-inu,Shiba Inu,shib,4.77e-06,-3.87998,loser,10,2026-06-18
