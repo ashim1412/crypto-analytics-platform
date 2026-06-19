@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,17.15,32.30726,gainer,1,2026-06-18
-hash-2,Provenance Blockchain,hash,0.01045496,22.39265,gainer,2,2026-06-18
-audiera,Audiera,beat,1.9,17.93396,gainer,3,2026-06-18
-stellar,Stellar,xlm,0.237215,7.62032,gainer,4,2026-06-18
-bianrensheng,币安人生 (BinanceLife),币安人生,0.717549,6.74285,gainer,5,2026-06-18
-algorand,Algorand,algo,0.099959,3.46149,gainer,6,2026-06-18
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.078372,2.83771,gainer,7,2026-06-18
-dexe,DeXe,dexe,15.33,2.44855,gainer,8,2026-06-18
-jupiter-exchange-solana,Jupiter,jup,0.190885,1.9357,gainer,9,2026-06-18
-stable-2,​​Stable,stable,0.03335834,1.68244,gainer,10,2026-06-18
-aster-2,Aster,aster,0.641453,-11.83153,loser,1,2026-06-18
-venice-token,Venice Token,vvv,14.33,-10.15677,loser,2,2026-06-18
-cosmos,Cosmos Hub,atom,1.81,-6.80358,loser,3,2026-06-18
-sui,Sui,sui,0.723227,-6.71016,loser,4,2026-06-18
-zcash,Zcash,zec,454.52,-5.82642,loser,5,2026-06-18
-uniswap,Uniswap,uni,3.02,-5.64569,loser,6,2026-06-18
-bitcoin-cash,Bitcoin Cash,bch,198.57,-5.5432,loser,7,2026-06-18
-hyperliquid,Hyperliquid,hype,68.57,-5.50433,loser,8,2026-06-18
-avalanche-2,Avalanche,avax,6.37,-5.48226,loser,9,2026-06-18
-bittensor,Bittensor,tao,236.78,-4.51866,loser,10,2026-06-18
+lab,LAB,lab,18.38,35.20897,gainer,1,2026-06-19
+dexe,DeXe,dexe,16.52,20.17124,gainer,2,2026-06-19
+beldex,Beldex,bdx,0.081778,2.57384,gainer,3,2026-06-19
+midnight-3,Midnight,night,0.03106546,2.11413,gainer,4,2026-06-19
+sky,Sky,sky,0.058394,1.94238,gainer,5,2026-06-19
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.07826,1.16539,gainer,6,2026-06-19
+hash-2,Provenance Blockchain,hash,0.0100426,0.87177,gainer,7,2026-06-19
+render-token,Render,render,1.73,0.85231,gainer,8,2026-06-19
+jupiter-exchange-solana,Jupiter,jup,0.192529,0.8308,gainer,9,2026-06-19
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.52312,gainer,10,2026-06-19
+aster-2,Aster,aster,0.635994,-11.33303,loser,1,2026-06-19
+venice-token,Venice Token,vvv,14.45,-8.34333,loser,2,2026-06-19
+avalanche-2,Avalanche,avax,6.25,-7.83462,loser,3,2026-06-19
+bitcoin-cash,Bitcoin Cash,bch,197.77,-7.79983,loser,4,2026-06-19
+zcash,Zcash,zec,450.35,-7.34778,loser,5,2026-06-19
+hyperliquid,Hyperliquid,hype,67.21,-6.86929,loser,6,2026-06-19
+world-liberty-financial,World Liberty Financial,wlfi,0.058071,-6.38838,loser,7,2026-06-19
+uniswap,Uniswap,uni,3.09,-6.36686,loser,8,2026-06-19
+bittensor,Bittensor,tao,232.87,-6.01619,loser,9,2026-06-19
+sui,Sui,sui,0.726116,-5.67087,loser,10,2026-06-19
