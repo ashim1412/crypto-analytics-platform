@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,1.97,17.82128,gainer,1,2026-06-20
-pi-network,Pi Network,pi,0.138738,5.46799,gainer,2,2026-06-20
-zcash,Zcash,zec,470.74,4.07907,gainer,3,2026-06-20
-ethereum-classic,Ethereum Classic,etc,7.56,4.0759,gainer,4,2026-06-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.081194,3.39335,gainer,5,2026-06-20
-okb,OKB,okb,75.39,3.38618,gainer,6,2026-06-20
-bianrensheng,币安人生 (BinanceLife),币安人生,0.714336,2.59263,gainer,7,2026-06-20
-hyperliquid,Hyperliquid,hype,69.27,2.56464,gainer,8,2026-06-20
-figure-heloc,Figure Heloc,figr_heloc,1.034,2.12524,gainer,9,2026-06-20
-quant-network,Quant,qnt,71.07,0.82095,gainer,10,2026-06-20
-lab,LAB,lab,12.08,-32.5354,loser,1,2026-06-20
-stellar,Stellar,xlm,0.212515,-8.34794,loser,2,2026-06-20
-worldcoin-wld,Worldcoin,wld,0.603675,-7.03149,loser,3,2026-06-20
-ethena,Ethena,ena,0.08732,-6.83807,loser,4,2026-06-20
-the-open-network,Gram (prev. Toncoin),gram,1.58,-5.97604,loser,5,2026-06-20
-avalanche-2,Avalanche,avax,5.94,-5.74436,loser,6,2026-06-20
-canton-network,Canton,cc,0.15325,-4.42101,loser,7,2026-06-20
-arbitrum,Arbitrum,arb,0.083418,-3.18908,loser,8,2026-06-20
-ondo-finance,Ondo,ondo,0.351448,-3.14543,loser,9,2026-06-20
-bittensor,Bittensor,tao,228.03,-2.95918,loser,10,2026-06-20
+just,JUST,jst,0.082506,7.34404,gainer,1,2026-06-20
+audiera,Audiera,beat,1.87,7.05697,gainer,2,2026-06-20
+jupiter-exchange-solana,Jupiter,jup,0.198606,5.9221,gainer,3,2026-06-20
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.082454,5.79593,gainer,4,2026-06-20
+ethereum-classic,Ethereum Classic,etc,7.52,5.50885,gainer,5,2026-06-20
+aster-2,Aster,aster,0.650034,4.62996,gainer,6,2026-06-20
+render-token,Render,render,1.74,4.25321,gainer,7,2026-06-20
+zcash,Zcash,zec,469.49,4.15434,gainer,8,2026-06-20
+solana,Solana,sol,71.42,4.11662,gainer,9,2026-06-20
+okb,OKB,okb,75.76,4.11547,gainer,10,2026-06-20
+lab,LAB,lab,12.15,-21.68196,loser,1,2026-06-20
+worldcoin-wld,Worldcoin,wld,0.602586,-6.91078,loser,2,2026-06-20
+monero,Monero,xmr,313.56,-5.3455,loser,3,2026-06-20
+dexe,DeXe,dexe,15.82,-4.55246,loser,4,2026-06-20
+morpho,Morpho,morpho,1.87,-4.1749,loser,5,2026-06-20
+stable-2,​​Stable,stable,0.03230866,-3.87438,loser,6,2026-06-20
+memecore,MemeCore,m,2.85,-2.72176,loser,7,2026-06-20
+uniswap,Uniswap,uni,2.98,-2.39074,loser,8,2026-06-20
+stellar,Stellar,xlm,0.215014,-2.3278,loser,9,2026-06-20
+the-open-network,Gram (prev. Toncoin),gram,1.6,-1.82398,loser,10,2026-06-20
