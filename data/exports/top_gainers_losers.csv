@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-just,JUST,jst,0.083251,7.57256,gainer,1,2026-06-20
-jupiter-exchange-solana,Jupiter,jup,0.197861,6.66096,gainer,2,2026-06-20
-zcash,Zcash,zec,471.36,5.10302,gainer,3,2026-06-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.08127,4.52841,gainer,4,2026-06-20
-okb,OKB,okb,76.31,4.52373,gainer,5,2026-06-20
-midnight-3,Midnight,night,0.0325306,4.35153,gainer,6,2026-06-20
-solana,Solana,sol,71.45,4.34374,gainer,7,2026-06-20
-hyperliquid,Hyperliquid,hype,70.42,4.16668,gainer,8,2026-06-20
-ethereum-classic,Ethereum Classic,etc,7.6,3.02974,gainer,9,2026-06-20
-aave,Aave,aave,74.43,2.34581,gainer,10,2026-06-20
-lab,LAB,lab,11.98,-22.43887,loser,1,2026-06-20
-dexe,DeXe,dexe,15.3,-7.35441,loser,2,2026-06-20
-stable-2,​​Stable,stable,0.03229357,-4.09764,loser,3,2026-06-20
-memecore,MemeCore,m,2.83,-3.97499,loser,4,2026-06-20
-cosmos,Cosmos Hub,atom,1.78,-2.58043,loser,5,2026-06-20
-canton-network,Canton,cc,0.151309,-2.34492,loser,6,2026-06-20
-stellar,Stellar,xlm,0.214595,-1.97149,loser,7,2026-06-20
-worldcoin-wld,Worldcoin,wld,0.607118,-1.92308,loser,8,2026-06-20
-beldex,Beldex,bdx,0.081749,-1.86092,loser,9,2026-06-20
-morpho,Morpho,morpho,1.86,-1.75993,loser,10,2026-06-20
+jupiter-exchange-solana,Jupiter,jup,0.201907,8.99846,gainer,1,2026-06-20
+just,JUST,jst,0.084055,4.80767,gainer,2,2026-06-20
+midnight-3,Midnight,night,0.03198401,4.59089,gainer,3,2026-06-20
+solana,Solana,sol,71.7,3.94727,gainer,4,2026-06-20
+audiera,Audiera,beat,1.87,3.93299,gainer,5,2026-06-20
+avalanche-2,Avalanche,avax,6.09,3.40374,gainer,6,2026-06-20
+aster-2,Aster,aster,0.644926,3.19619,gainer,7,2026-06-20
+zcash,Zcash,zec,468.32,3.14394,gainer,8,2026-06-20
+the-open-network,Gram (prev. Toncoin),gram,1.61,2.23487,gainer,9,2026-06-20
+figure-heloc,Figure Heloc,figr_heloc,1.034,2.20946,gainer,10,2026-06-20
+dexe,DeXe,dexe,15.6,-6.78398,loser,1,2026-06-20
+ondo-finance,Ondo,ondo,0.337756,-4.06899,loser,2,2026-06-20
+morpho,Morpho,morpho,1.82,-3.83627,loser,3,2026-06-20
+stellar,Stellar,xlm,0.212023,-3.72317,loser,4,2026-06-20
+ethereum-classic,Ethereum Classic,etc,7.43,-3.29989,loser,5,2026-06-20
+worldcoin-wld,Worldcoin,wld,0.602126,-2.66729,loser,6,2026-06-20
+memecore,MemeCore,m,2.82,-2.52609,loser,7,2026-06-20
+bianrensheng,币安人生 (BinanceLife),币安人生,0.700096,-2.41789,loser,8,2026-06-20
+algorand,Algorand,algo,0.092858,-2.20622,loser,9,2026-06-20
+stable-2,​​Stable,stable,0.03279061,-2.09004,loser,10,2026-06-20
