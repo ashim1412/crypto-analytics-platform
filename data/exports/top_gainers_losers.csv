@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.201907,8.99846,gainer,1,2026-06-20
-just,JUST,jst,0.084055,4.80767,gainer,2,2026-06-20
-midnight-3,Midnight,night,0.03198401,4.59089,gainer,3,2026-06-20
-solana,Solana,sol,71.7,3.94727,gainer,4,2026-06-20
-audiera,Audiera,beat,1.87,3.93299,gainer,5,2026-06-20
-avalanche-2,Avalanche,avax,6.09,3.40374,gainer,6,2026-06-20
-aster-2,Aster,aster,0.644926,3.19619,gainer,7,2026-06-20
-zcash,Zcash,zec,468.32,3.14394,gainer,8,2026-06-20
-the-open-network,Gram (prev. Toncoin),gram,1.61,2.23487,gainer,9,2026-06-20
-figure-heloc,Figure Heloc,figr_heloc,1.034,2.20946,gainer,10,2026-06-20
-dexe,DeXe,dexe,15.6,-6.78398,loser,1,2026-06-20
-ondo-finance,Ondo,ondo,0.337756,-4.06899,loser,2,2026-06-20
-morpho,Morpho,morpho,1.82,-3.83627,loser,3,2026-06-20
-stellar,Stellar,xlm,0.212023,-3.72317,loser,4,2026-06-20
-ethereum-classic,Ethereum Classic,etc,7.43,-3.29989,loser,5,2026-06-20
-worldcoin-wld,Worldcoin,wld,0.602126,-2.66729,loser,6,2026-06-20
-memecore,MemeCore,m,2.82,-2.52609,loser,7,2026-06-20
-bianrensheng,币安人生 (BinanceLife),币安人生,0.700096,-2.41789,loser,8,2026-06-20
-algorand,Algorand,algo,0.092858,-2.20622,loser,9,2026-06-20
-stable-2,​​Stable,stable,0.03279061,-2.09004,loser,10,2026-06-20
+jupiter-exchange-solana,Jupiter,jup,0.218414,15.15531,gainer,1,2026-06-21
+aerodrome-finance,Aerodrome Finance,aero,0.542518,13.39564,gainer,2,2026-06-21
+lab,LAB,lab,12.69,8.9371,gainer,3,2026-06-21
+avalanche-2,Avalanche,avax,6.23,5.30685,gainer,4,2026-06-21
+solana,Solana,sol,73.08,5.1813,gainer,5,2026-06-21
+aptos,Aptos,apt,0.650958,4.21812,gainer,6,2026-06-21
+stable-2,​​Stable,stable,0.03429523,4.00453,gainer,7,2026-06-21
+the-open-network,Gram (prev. Toncoin),gram,1.62,3.51049,gainer,8,2026-06-21
+aave,Aave,aave,75.68,3.46283,gainer,9,2026-06-21
+midnight-3,Midnight,night,0.03231876,3.3751,gainer,10,2026-06-21
+dexe,DeXe,dexe,14.96,-8.23986,loser,1,2026-06-21
+morpho,Morpho,morpho,1.8,-4.81974,loser,2,2026-06-21
+render-token,Render,render,1.69,-3.22584,loser,3,2026-06-21
+ondo-finance,Ondo,ondo,0.338212,-3.17574,loser,4,2026-06-21
+ethereum-classic,Ethereum Classic,etc,7.42,-1.8098,loser,5,2026-06-21
+pi-network,Pi Network,pi,0.135185,-1.76887,loser,6,2026-06-21
+uniswap,Uniswap,uni,2.97,-1.44767,loser,7,2026-06-21
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.07953,-1.43155,loser,8,2026-06-21
+monero,Monero,xmr,310.61,-1.19045,loser,9,2026-06-21
+bianrensheng,币安人生 (BinanceLife),币安人生,0.708983,-1.10352,loser,10,2026-06-21
