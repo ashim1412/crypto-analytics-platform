@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.218414,15.15531,gainer,1,2026-06-21
-aerodrome-finance,Aerodrome Finance,aero,0.542518,13.39564,gainer,2,2026-06-21
-lab,LAB,lab,12.69,8.9371,gainer,3,2026-06-21
-avalanche-2,Avalanche,avax,6.23,5.30685,gainer,4,2026-06-21
-solana,Solana,sol,73.08,5.1813,gainer,5,2026-06-21
-aptos,Aptos,apt,0.650958,4.21812,gainer,6,2026-06-21
-stable-2,​​Stable,stable,0.03429523,4.00453,gainer,7,2026-06-21
-the-open-network,Gram (prev. Toncoin),gram,1.62,3.51049,gainer,8,2026-06-21
-aave,Aave,aave,75.68,3.46283,gainer,9,2026-06-21
-midnight-3,Midnight,night,0.03231876,3.3751,gainer,10,2026-06-21
-dexe,DeXe,dexe,14.96,-8.23986,loser,1,2026-06-21
-morpho,Morpho,morpho,1.8,-4.81974,loser,2,2026-06-21
-render-token,Render,render,1.69,-3.22584,loser,3,2026-06-21
-ondo-finance,Ondo,ondo,0.338212,-3.17574,loser,4,2026-06-21
-ethereum-classic,Ethereum Classic,etc,7.42,-1.8098,loser,5,2026-06-21
-pi-network,Pi Network,pi,0.135185,-1.76887,loser,6,2026-06-21
-uniswap,Uniswap,uni,2.97,-1.44767,loser,7,2026-06-21
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.07953,-1.43155,loser,8,2026-06-21
-monero,Monero,xmr,310.61,-1.19045,loser,9,2026-06-21
-bianrensheng,币安人生 (BinanceLife),币安人生,0.708983,-1.10352,loser,10,2026-06-21
+lab,LAB,lab,15.28,23.28629,gainer,1,2026-06-21
+jupiter-exchange-solana,Jupiter,jup,0.21917,9.87525,gainer,2,2026-06-21
+hash-2,Provenance Blockchain,hash,0.01020225,9.69964,gainer,3,2026-06-21
+pump-fun,Pump.fun,pump,0.0014905,8.26353,gainer,4,2026-06-21
+stable-2,​​Stable,stable,0.03489274,7.9923,gainer,5,2026-06-21
+the-open-network,Gram (prev. Toncoin),gram,1.68,5.48825,gainer,6,2026-06-21
+near,NEAR Protocol,near,2.24,4.78881,gainer,7,2026-06-21
+ethena,Ethena,ena,0.091369,3.66498,gainer,8,2026-06-21
+solana,Solana,sol,73.51,3.11152,gainer,9,2026-06-21
+aptos,Aptos,apt,0.658451,2.9622,gainer,10,2026-06-21
+dexe,DeXe,dexe,14.51,-7.90474,loser,1,2026-06-21
+venice-token,Venice Token,vvv,14.14,-4.27968,loser,2,2026-06-21
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.079198,-4.08869,loser,3,2026-06-21
+ondo-finance,Ondo,ondo,0.336609,-3.88164,loser,4,2026-06-21
+render-token,Render,render,1.68,-3.48298,loser,5,2026-06-21
+zcash,Zcash,zec,455.31,-3.42435,loser,6,2026-06-21
+hyperliquid,Hyperliquid,hype,67.97,-3.22017,loser,7,2026-06-21
+beldex,Beldex,bdx,0.079714,-2.3611,loser,8,2026-06-21
+ethereum-classic,Ethereum Classic,etc,7.39,-2.1743,loser,9,2026-06-21
+kaspa,Kaspa,kas,0.02966612,-2.05445,loser,10,2026-06-21
