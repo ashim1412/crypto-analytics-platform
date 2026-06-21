@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,15.36,26.77083,gainer,1,2026-06-21
-jupiter-exchange-solana,Jupiter,jup,0.222561,13.27452,gainer,2,2026-06-21
-aerodrome-finance,Aerodrome Finance,aero,0.544815,13.05068,gainer,3,2026-06-21
-hash-2,Provenance Blockchain,hash,0.01020645,9.79502,gainer,4,2026-06-21
-stable-2,​​Stable,stable,0.03473126,7.58046,gainer,5,2026-06-21
-ethena,Ethena,ena,0.091,4.75308,gainer,6,2026-06-21
-the-open-network,Gram (prev. Toncoin),gram,1.69,4.55464,gainer,7,2026-06-21
-filecoin,Filecoin,fil,0.815895,4.38367,gainer,8,2026-06-21
-aptos,Aptos,apt,0.654747,3.73919,gainer,9,2026-06-21
-solana,Solana,sol,73.45,3.4077,gainer,10,2026-06-21
-dexe,DeXe,dexe,14.45,-5.9835,loser,1,2026-06-21
-zcash,Zcash,zec,451.06,-3.32353,loser,2,2026-06-21
-beldex,Beldex,bdx,0.079825,-2.85524,loser,3,2026-06-21
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.079043,-2.61811,loser,4,2026-06-21
-hyperliquid,Hyperliquid,hype,67.68,-2.54773,loser,5,2026-06-21
-ethereum-classic,Ethereum Classic,etc,7.35,-2.50636,loser,6,2026-06-21
-render-token,Render,render,1.69,-1.70826,loser,7,2026-06-21
-ondo-finance,Ondo,ondo,0.338787,-1.24752,loser,8,2026-06-21
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.69025,loser,9,2026-06-21
-gatechain-token,Gate,gt,6.64,-0.59061,loser,10,2026-06-21
+pump-fun,Pump.fun,pump,0.00152394,12.07128,gainer,1,2026-06-21
+jupiter-exchange-solana,Jupiter,jup,0.218132,8.10401,gainer,2,2026-06-21
+venice-token,Venice Token,vvv,15.39,7.36865,gainer,3,2026-06-21
+worldcoin-wld,Worldcoin,wld,0.637625,5.89492,gainer,4,2026-06-21
+world-liberty-financial,World Liberty Financial,wlfi,0.060777,4.96794,gainer,5,2026-06-21
+lab,LAB,lab,13.71,4.95273,gainer,6,2026-06-21
+stable-2,​​Stable,stable,0.03437777,4.85097,gainer,7,2026-06-21
+the-open-network,Gram (prev. Toncoin),gram,1.68,4.16132,gainer,8,2026-06-21
+aptos,Aptos,apt,0.656173,3.86262,gainer,9,2026-06-21
+ethena,Ethena,ena,0.090492,3.78715,gainer,10,2026-06-21
+dexe,DeXe,dexe,14.07,-9.44774,loser,1,2026-06-21
+zcash,Zcash,zec,452.8,-3.31541,loser,2,2026-06-21
+hyperliquid,Hyperliquid,hype,68.14,-2.26538,loser,3,2026-06-21
+render-token,Render,render,1.68,-1.58044,loser,4,2026-06-21
+algorand,Algorand,algo,0.091454,-1.51211,loser,5,2026-06-21
+cosmos,Cosmos Hub,atom,1.77,-1.21538,loser,6,2026-06-21
+aster-2,Aster,aster,0.640344,-0.79262,loser,7,2026-06-21
+kaspa,Kaspa,kas,0.02984037,-0.70944,loser,8,2026-06-21
+just,JUST,jst,0.083419,-0.65808,loser,9,2026-06-21
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.57175,loser,10,2026-06-21
