@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,16.76,17.99333,gainer,1,2026-06-22
-venice-token,Venice Token,vvv,15.53,8.01983,gainer,2,2026-06-22
-ethena,Ethena,ena,0.095808,4.5053,gainer,3,2026-06-22
-worldcoin-wld,Worldcoin,wld,0.626403,4.38565,gainer,4,2026-06-22
-adi-token,ADI,adi,4.25,3.40388,gainer,5,2026-06-22
-kucoin-shares,KuCoin,kcs,7.43,3.33159,gainer,6,2026-06-22
-gatechain-token,Gate,gt,6.82,3.2482,gainer,7,2026-06-22
-memecore,MemeCore,m,2.92,3.08111,gainer,8,2026-06-22
-monero,Monero,xmr,331.21,2.85263,gainer,9,2026-06-22
-aave,Aave,aave,76.35,2.81456,gainer,10,2026-06-22
-lab,LAB,lab,14.98,-5.03339,loser,1,2026-06-22
-jupiter-exchange-solana,Jupiter,jup,0.211162,-4.84406,loser,2,2026-06-22
-near,NEAR Protocol,near,2.15,-4.24556,loser,3,2026-06-22
-morpho,Morpho,morpho,1.81,-3.48764,loser,4,2026-06-22
-canton-network,Canton,cc,0.150392,-2.05398,loser,5,2026-06-22
-algorand,Algorand,algo,0.090912,-1.94626,loser,6,2026-06-22
-the-open-network,Gram (prev. Toncoin),gram,1.66,-1.32202,loser,7,2026-06-22
-xdce-crowd-sale,XDC Network,xdc,0.0291967,-1.21307,loser,8,2026-06-22
-bianrensheng,币安人生 (BinanceLife),币安人生,0.698053,-1.12559,loser,9,2026-06-22
-render-token,Render,render,1.68,-0.98882,loser,10,2026-06-22
+dexe,DeXe,dexe,18.19,28.73762,gainer,1,2026-06-22
+lab,LAB,lab,15.01,12.56766,gainer,2,2026-06-22
+memecore,MemeCore,m,2.98,5.30618,gainer,3,2026-06-22
+stable-2,​​Stable,stable,0.03582641,4.62703,gainer,4,2026-06-22
+monero,Monero,xmr,331.96,4.44187,gainer,5,2026-06-22
+okb,OKB,okb,79.42,4.39781,gainer,6,2026-06-22
+ethena,Ethena,ena,0.095209,3.87192,gainer,7,2026-06-22
+adi-token,ADI,adi,4.29,3.30889,gainer,8,2026-06-22
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.081564,2.38492,gainer,9,2026-06-22
+beldex,Beldex,bdx,0.0814,2.26891,gainer,10,2026-06-22
+jupiter-exchange-solana,Jupiter,jup,0.205486,-7.74336,loser,1,2026-06-22
+stellar,Stellar,xlm,0.206728,-3.42432,loser,2,2026-06-22
+bittensor,Bittensor,tao,229.42,-2.7064,loser,3,2026-06-22
+near,NEAR Protocol,near,2.12,-2.67555,loser,4,2026-06-22
+morpho,Morpho,morpho,1.82,-2.21621,loser,5,2026-06-22
+ondo-finance,Ondo,ondo,0.332908,-2.21459,loser,6,2026-06-22
+the-open-network,Gram (prev. Toncoin),gram,1.67,-1.69145,loser,7,2026-06-22
+hyperliquid,Hyperliquid,hype,67.29,-1.6575,loser,8,2026-06-22
+xdce-crowd-sale,XDC Network,xdc,0.02916613,-1.61984,loser,9,2026-06-22
+flare-networks,Flare,flr,0.00731576,-1.61539,loser,10,2026-06-22
