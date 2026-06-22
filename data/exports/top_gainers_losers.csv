@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,18.19,28.73762,gainer,1,2026-06-22
-lab,LAB,lab,15.01,12.56766,gainer,2,2026-06-22
-memecore,MemeCore,m,2.98,5.30618,gainer,3,2026-06-22
-stable-2,​​Stable,stable,0.03582641,4.62703,gainer,4,2026-06-22
-monero,Monero,xmr,331.96,4.44187,gainer,5,2026-06-22
-okb,OKB,okb,79.42,4.39781,gainer,6,2026-06-22
-ethena,Ethena,ena,0.095209,3.87192,gainer,7,2026-06-22
-adi-token,ADI,adi,4.29,3.30889,gainer,8,2026-06-22
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.081564,2.38492,gainer,9,2026-06-22
-beldex,Beldex,bdx,0.0814,2.26891,gainer,10,2026-06-22
-jupiter-exchange-solana,Jupiter,jup,0.205486,-7.74336,loser,1,2026-06-22
-stellar,Stellar,xlm,0.206728,-3.42432,loser,2,2026-06-22
-bittensor,Bittensor,tao,229.42,-2.7064,loser,3,2026-06-22
-near,NEAR Protocol,near,2.12,-2.67555,loser,4,2026-06-22
-morpho,Morpho,morpho,1.82,-2.21621,loser,5,2026-06-22
-ondo-finance,Ondo,ondo,0.332908,-2.21459,loser,6,2026-06-22
-the-open-network,Gram (prev. Toncoin),gram,1.67,-1.69145,loser,7,2026-06-22
-hyperliquid,Hyperliquid,hype,67.29,-1.6575,loser,8,2026-06-22
-xdce-crowd-sale,XDC Network,xdc,0.02916613,-1.61984,loser,9,2026-06-22
-flare-networks,Flare,flr,0.00731576,-1.61539,loser,10,2026-06-22
+dexe,DeXe,dexe,18.03,27.58627,gainer,1,2026-06-22
+lab,LAB,lab,16.71,24.17862,gainer,2,2026-06-22
+rain,Rain,rain,0.01605232,11.72379,gainer,3,2026-06-22
+okb,OKB,okb,80.85,5.48369,gainer,4,2026-06-22
+monero,Monero,xmr,332.43,5.32562,gainer,5,2026-06-22
+stable-2,​​Stable,stable,0.03590162,4.11868,gainer,6,2026-06-22
+adi-token,ADI,adi,4.3,3.63019,gainer,7,2026-06-22
+ethena,Ethena,ena,0.092663,3.3372,gainer,8,2026-06-22
+sui,Sui,sui,0.723823,2.11553,gainer,9,2026-06-22
+beldex,Beldex,bdx,0.081019,1.74769,gainer,10,2026-06-22
+stellar,Stellar,xlm,0.203752,-5.04831,loser,1,2026-06-22
+jupiter-exchange-solana,Jupiter,jup,0.208712,-3.9089,loser,2,2026-06-22
+world-liberty-financial,World Liberty Financial,wlfi,0.058391,-3.82976,loser,3,2026-06-22
+near,NEAR Protocol,near,2.1,-2.9389,loser,4,2026-06-22
+bittensor,Bittensor,tao,230.37,-2.4638,loser,5,2026-06-22
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.079432,-2.3746,loser,6,2026-06-22
+ethereum-classic,Ethereum Classic,etc,7.22,-2.13428,loser,7,2026-06-22
+ondo-finance,Ondo,ondo,0.33146,-2.02481,loser,8,2026-06-22
+solana,Solana,sol,72.53,-1.9794,loser,9,2026-06-22
+worldcoin-wld,Worldcoin,wld,0.621982,-1.94256,loser,10,2026-06-22
