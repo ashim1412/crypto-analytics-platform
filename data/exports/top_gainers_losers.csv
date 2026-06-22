@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00152394,12.07128,gainer,1,2026-06-21
-jupiter-exchange-solana,Jupiter,jup,0.218132,8.10401,gainer,2,2026-06-21
-venice-token,Venice Token,vvv,15.39,7.36865,gainer,3,2026-06-21
-worldcoin-wld,Worldcoin,wld,0.637625,5.89492,gainer,4,2026-06-21
-world-liberty-financial,World Liberty Financial,wlfi,0.060777,4.96794,gainer,5,2026-06-21
-lab,LAB,lab,13.71,4.95273,gainer,6,2026-06-21
-stable-2,​​Stable,stable,0.03437777,4.85097,gainer,7,2026-06-21
-the-open-network,Gram (prev. Toncoin),gram,1.68,4.16132,gainer,8,2026-06-21
-aptos,Aptos,apt,0.656173,3.86262,gainer,9,2026-06-21
-ethena,Ethena,ena,0.090492,3.78715,gainer,10,2026-06-21
-dexe,DeXe,dexe,14.07,-9.44774,loser,1,2026-06-21
-zcash,Zcash,zec,452.8,-3.31541,loser,2,2026-06-21
-hyperliquid,Hyperliquid,hype,68.14,-2.26538,loser,3,2026-06-21
-render-token,Render,render,1.68,-1.58044,loser,4,2026-06-21
-algorand,Algorand,algo,0.091454,-1.51211,loser,5,2026-06-21
-cosmos,Cosmos Hub,atom,1.77,-1.21538,loser,6,2026-06-21
-aster-2,Aster,aster,0.640344,-0.79262,loser,7,2026-06-21
-kaspa,Kaspa,kas,0.02984037,-0.70944,loser,8,2026-06-21
-just,JUST,jst,0.083419,-0.65808,loser,9,2026-06-21
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.57175,loser,10,2026-06-21
+lab,LAB,lab,15.21,19.21699,gainer,1,2026-06-22
+pump-fun,Pump.fun,pump,0.00154286,8.2338,gainer,2,2026-06-22
+venice-token,Venice Token,vvv,15.63,7.99728,gainer,3,2026-06-22
+worldcoin-wld,Worldcoin,wld,0.637456,6.54093,gainer,4,2026-06-22
+ethena,Ethena,ena,0.09309,5.49403,gainer,5,2026-06-22
+midnight-3,Midnight,night,0.03348934,3.70161,gainer,6,2026-06-22
+monero,Monero,xmr,321.5,3.55865,gainer,7,2026-06-22
+filecoin,Filecoin,fil,0.812342,3.38684,gainer,8,2026-06-22
+world-liberty-financial,World Liberty Financial,wlfi,0.060052,2.96938,gainer,9,2026-06-22
+uniswap,Uniswap,uni,3.05,2.83398,gainer,10,2026-06-22
+dexe,DeXe,dexe,13.59,-8.95144,loser,1,2026-06-22
+zcash,Zcash,zec,446.51,-4.57958,loser,2,2026-06-22
+algorand,Algorand,algo,0.090701,-3.28267,loser,3,2026-06-22
+hyperliquid,Hyperliquid,hype,68.46,-2.69142,loser,4,2026-06-22
+xdce-crowd-sale,XDC Network,xdc,0.02937337,-1.33716,loser,5,2026-06-22
+cardano,Cardano,ada,0.160367,-1.16977,loser,6,2026-06-22
+hedera-hashgraph,Hedera,hbar,0.079221,-1.16074,loser,7,2026-06-22
+bianrensheng,币安人生 (BinanceLife),币安人生,0.701872,-1.02715,loser,8,2026-06-22
+canton-network,Canton,cc,0.152567,-0.82785,loser,9,2026-06-22
+polkadot,Polkadot,dot,0.959962,-0.75229,loser,10,2026-06-22
