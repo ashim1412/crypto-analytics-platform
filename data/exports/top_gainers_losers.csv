@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,23.06,47.31954,gainer,1,2026-06-23
-hash-2,Provenance Blockchain,hash,0.0104446,26.72794,gainer,2,2026-06-23
-lab,LAB,lab,16.45,9.89062,gainer,3,2026-06-23
-rain,Rain,rain,0.01583195,9.86266,gainer,4,2026-06-23
-adi-token,ADI,adi,4.39,3.71807,gainer,5,2026-06-23
-bianrensheng,币安人生 (BinanceLife),币安人生,0.71,2.15503,gainer,6,2026-06-23
-stable-2,​​Stable,stable,0.03469236,2.15181,gainer,7,2026-06-23
-beldex,Beldex,bdx,0.082467,2.06938,gainer,8,2026-06-23
-okb,OKB,okb,77.76,1.89807,gainer,9,2026-06-23
-kaspa,Kaspa,kas,0.03003602,1.55644,gainer,10,2026-06-23
-worldcoin-wld,Worldcoin,wld,0.571048,-10.33882,loser,1,2026-06-23
-ethena,Ethena,ena,0.085806,-10.11163,loser,2,2026-06-23
-venice-token,Venice Token,vvv,14.04,-10.04567,loser,3,2026-06-23
-stellar,Stellar,xlm,0.192682,-8.73782,loser,4,2026-06-23
-near,NEAR Protocol,near,1.98,-8.25149,loser,5,2026-06-23
-render-token,Render,render,1.55,-7.78964,loser,6,2026-06-23
-kucoin-shares,KuCoin,kcs,6.85,-7.51247,loser,7,2026-06-23
-polkadot,Polkadot,dot,0.890351,-7.48404,loser,8,2026-06-23
-filecoin,Filecoin,fil,0.746681,-7.39526,loser,9,2026-06-23
-aptos,Aptos,apt,0.622559,-7.08623,loser,10,2026-06-23
+dexe,DeXe,dexe,22.29,24.39977,gainer,1,2026-06-23
+rain,Rain,rain,0.01578716,8.32513,gainer,2,2026-06-23
+audiera,Audiera,beat,1.83,6.87357,gainer,3,2026-06-23
+algorand,Algorand,algo,0.095874,3.85889,gainer,4,2026-06-23
+adi-token,ADI,adi,4.38,2.9529,gainer,5,2026-06-23
+hash-2,Provenance Blockchain,hash,0.00946803,2.78442,gainer,6,2026-06-23
+figure-heloc,Figure Heloc,figr_heloc,1.035,1.44354,gainer,7,2026-06-23
+canton-network,Canton,cc,0.151955,0.97891,gainer,8,2026-06-23
+lab,LAB,lab,15.21,0.95925,gainer,9,2026-06-23
+beldex,Beldex,bdx,0.082153,0.63977,gainer,10,2026-06-23
+venice-token,Venice Token,vvv,13.58,-13.94062,loser,1,2026-06-23
+ethena,Ethena,ena,0.08604,-11.06341,loser,2,2026-06-23
+worldcoin-wld,Worldcoin,wld,0.570644,-10.6179,loser,3,2026-06-23
+morpho,Morpho,morpho,1.68,-9.53277,loser,4,2026-06-23
+stellar,Stellar,xlm,0.193849,-9.14063,loser,5,2026-06-23
+hyperliquid,Hyperliquid,hype,63.3,-8.14239,loser,6,2026-06-23
+bittensor,Bittensor,tao,215.48,-8.10991,loser,7,2026-06-23
+ondo-finance,Ondo,ondo,0.313171,-7.90864,loser,8,2026-06-23
+zcash,Zcash,zec,423.39,-7.63531,loser,9,2026-06-23
+sky,Sky,sky,0.055482,-7.0556,loser,10,2026-06-23
