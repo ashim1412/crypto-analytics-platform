@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,21.73,59.15055,gainer,1,2026-06-23
-rain,Rain,rain,0.01601676,11.30544,gainer,2,2026-06-23
-lab,LAB,lab,16.64,10.88067,gainer,3,2026-06-23
-hash-2,Provenance Blockchain,hash,0.01039742,9.62884,gainer,4,2026-06-23
-stable-2,​​Stable,stable,0.03639418,6.81845,gainer,5,2026-06-23
-adi-token,ADI,adi,4.39,5.24865,gainer,6,2026-06-23
-okb,OKB,okb,79.19,3.33314,gainer,7,2026-06-23
-the-open-network,Gram (prev. Toncoin),gram,1.67,2.10371,gainer,8,2026-06-23
-monero,Monero,xmr,328.19,1.74373,gainer,9,2026-06-23
-tron,TRON,trx,0.33326,1.72952,gainer,10,2026-06-23
-stellar,Stellar,xlm,0.199383,-7.14206,loser,1,2026-06-23
-near,NEAR Protocol,near,2.04,-5.76867,loser,2,2026-06-23
-render-token,Render,render,1.61,-4.59845,loser,3,2026-06-23
-worldcoin-wld,Worldcoin,wld,0.612438,-4.26867,loser,4,2026-06-23
-ondo-finance,Ondo,ondo,0.325773,-4.05155,loser,5,2026-06-23
-solana,Solana,sol,71.62,-3.67467,loser,6,2026-06-23
-midnight-3,Midnight,night,0.03239788,-3.55824,loser,7,2026-06-23
-polkadot,Polkadot,dot,0.93126,-3.13796,loser,8,2026-06-23
-hyperliquid,Hyperliquid,hype,66.25,-3.11814,loser,9,2026-06-23
-ethereum-classic,Ethereum Classic,etc,7.14,-3.04215,loser,10,2026-06-23
+dexe,DeXe,dexe,23.06,47.31954,gainer,1,2026-06-23
+hash-2,Provenance Blockchain,hash,0.0104446,26.72794,gainer,2,2026-06-23
+lab,LAB,lab,16.45,9.89062,gainer,3,2026-06-23
+rain,Rain,rain,0.01583195,9.86266,gainer,4,2026-06-23
+adi-token,ADI,adi,4.39,3.71807,gainer,5,2026-06-23
+bianrensheng,币安人生 (BinanceLife),币安人生,0.71,2.15503,gainer,6,2026-06-23
+stable-2,​​Stable,stable,0.03469236,2.15181,gainer,7,2026-06-23
+beldex,Beldex,bdx,0.082467,2.06938,gainer,8,2026-06-23
+okb,OKB,okb,77.76,1.89807,gainer,9,2026-06-23
+kaspa,Kaspa,kas,0.03003602,1.55644,gainer,10,2026-06-23
+worldcoin-wld,Worldcoin,wld,0.571048,-10.33882,loser,1,2026-06-23
+ethena,Ethena,ena,0.085806,-10.11163,loser,2,2026-06-23
+venice-token,Venice Token,vvv,14.04,-10.04567,loser,3,2026-06-23
+stellar,Stellar,xlm,0.192682,-8.73782,loser,4,2026-06-23
+near,NEAR Protocol,near,1.98,-8.25149,loser,5,2026-06-23
+render-token,Render,render,1.55,-7.78964,loser,6,2026-06-23
+kucoin-shares,KuCoin,kcs,6.85,-7.51247,loser,7,2026-06-23
+polkadot,Polkadot,dot,0.890351,-7.48404,loser,8,2026-06-23
+filecoin,Filecoin,fil,0.746681,-7.39526,loser,9,2026-06-23
+aptos,Aptos,apt,0.622559,-7.08623,loser,10,2026-06-23
