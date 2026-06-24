@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.26,32.55714,gainer,1,2026-06-24
-jupiter-exchange-solana,Jupiter,jup,0.211904,6.16951,gainer,2,2026-06-24
-avalanche-2,Avalanche,avax,6.4,4.87337,gainer,3,2026-06-24
-monero,Monero,xmr,327.21,4.13585,gainer,4,2026-06-24
-kucoin-shares,KuCoin,kcs,7.12,4.04586,gainer,5,2026-06-24
-render-token,Render,render,1.61,3.97916,gainer,6,2026-06-24
-filecoin,Filecoin,fil,0.775111,3.74882,gainer,7,2026-06-24
-aptos,Aptos,apt,0.646553,3.70669,gainer,8,2026-06-24
-world-liberty-financial,World Liberty Financial,wlfi,0.059009,3.32211,gainer,9,2026-06-24
-just,JUST,jst,0.084085,3.18456,gainer,10,2026-06-24
-hash-2,Provenance Blockchain,hash,0.00944714,-9.551,loser,1,2026-06-24
-worldcoin-wld,Worldcoin,wld,0.52746,-8.69678,loser,2,2026-06-24
-midnight-3,Midnight,night,0.03063614,-5.70266,loser,3,2026-06-24
-kaspa,Kaspa,kas,0.02846996,-5.24537,loser,4,2026-06-24
-venice-token,Venice Token,vvv,13.3,-5.23972,loser,5,2026-06-24
-morpho,Morpho,morpho,1.65,-4.10075,loser,6,2026-06-24
-cosmos,Cosmos Hub,atom,1.68,-3.49535,loser,7,2026-06-24
-litecoin,Litecoin,ltc,42.1,-2.83873,loser,8,2026-06-24
-sky,Sky,sky,0.055337,-2.70089,loser,9,2026-06-24
-lab,LAB,lab,16.1,-2.24848,loser,10,2026-06-24
+lab,LAB,lab,18.5,21.09188,gainer,1,2026-06-24
+jupiter-exchange-solana,Jupiter,jup,0.214293,6.04045,gainer,2,2026-06-24
+hash-2,Provenance Blockchain,hash,0.00993421,4.92647,gainer,3,2026-06-24
+dexe,DeXe,dexe,23.01,3.57203,gainer,4,2026-06-24
+aave,Aave,aave,74.4,2.76451,gainer,5,2026-06-24
+rain,Rain,rain,0.01596805,1.20691,gainer,6,2026-06-24
+just,JUST,jst,0.083068,0.81304,gainer,7,2026-06-24
+avalanche-2,Avalanche,avax,6.31,0.80802,gainer,8,2026-06-24
+beldex,Beldex,bdx,0.082717,0.79095,gainer,9,2026-06-24
+aster-2,Aster,aster,0.621482,0.45806,gainer,10,2026-06-24
+worldcoin-wld,Worldcoin,wld,0.530823,-7.94737,loser,1,2026-06-24
+algorand,Algorand,algo,0.088966,-6.4263,loser,2,2026-06-24
+cosmos,Cosmos Hub,atom,1.64,-6.38723,loser,3,2026-06-24
+pepe,Pepe,pepe,2.59e-06,-5.23132,loser,4,2026-06-24
+quant-network,Quant,qnt,68.27,-4.85773,loser,5,2026-06-24
+cardano,Cardano,ada,0.145312,-4.12851,loser,6,2026-06-24
+litecoin,Litecoin,ltc,41.6,-4.0942,loser,7,2026-06-24
+ondo-finance,Ondo,ondo,0.301162,-4.06039,loser,8,2026-06-24
+hyperliquid,Hyperliquid,hype,60.81,-3.67109,loser,9,2026-06-24
+sui,Sui,sui,0.683233,-3.62599,loser,10,2026-06-24
