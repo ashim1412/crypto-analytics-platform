@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,15.83,3.48461,gainer,1,2026-06-24
-aave,Aave,aave,74.48,3.47559,gainer,2,2026-06-24
-morpho,Morpho,morpho,1.7,3.46219,gainer,3,2026-06-24
-stable-2,​​Stable,stable,0.03509615,2.6887,gainer,4,2026-06-24
-jupiter-exchange-solana,Jupiter,jup,0.204101,1.20891,gainer,5,2026-06-24
-rain,Rain,rain,0.01576829,0.89544,gainer,6,2026-06-24
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.66942,gainer,7,2026-06-24
-the-open-network,Gram (prev. Toncoin),gram,1.56,0.62142,gainer,8,2026-06-24
-beldex,Beldex,bdx,0.08198,0.42782,gainer,9,2026-06-24
-usdd,USDD,usdd,1.0,0.08035,gainer,10,2026-06-24
-venice-token,Venice Token,vvv,12.22,-12.14843,loser,1,2026-06-24
-filecoin,Filecoin,fil,0.70909,-8.32135,loser,2,2026-06-24
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.071425,-8.05832,loser,3,2026-06-24
-pepe,Pepe,pepe,2.47e-06,-7.94951,loser,4,2026-06-24
-algorand,Algorand,algo,0.086794,-7.4717,loser,5,2026-06-24
-cardano,Cardano,ada,0.140237,-6.57271,loser,6,2026-06-24
-shiba-inu,Shiba Inu,shib,4.24e-06,-6.40597,loser,7,2026-06-24
-dogecoin,Dogecoin,doge,0.073659,-6.11647,loser,8,2026-06-24
-cosmos,Cosmos Hub,atom,1.62,-6.07458,loser,9,2026-06-24
-ethena,Ethena,ena,0.08054,-5.88391,loser,10,2026-06-24
+lab,LAB,lab,16.43,18.38645,gainer,1,2026-06-25
+aave,Aave,aave,80.87,11.37057,gainer,2,2026-06-25
+morpho,Morpho,morpho,1.73,6.16536,gainer,3,2026-06-25
+jupiter-exchange-solana,Jupiter,jup,0.220343,5.78944,gainer,4,2026-06-25
+ondo-finance,Ondo,ondo,0.318713,2.09878,gainer,5,2026-06-25
+stable-2,​​Stable,stable,0.03516954,1.89283,gainer,6,2026-06-25
+the-open-network,Gram (prev. Toncoin),gram,1.6,1.81485,gainer,7,2026-06-25
+rain,Rain,rain,0.01586892,1.27894,gainer,8,2026-06-25
+hyperliquid,Hyperliquid,hype,63.31,1.26833,gainer,9,2026-06-25
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.22785,gainer,10,2026-06-25
+memecore,MemeCore,m,0.883496,-69.2989,loser,1,2026-06-25
+pepe,Pepe,pepe,2.52e-06,-6.8003,loser,2,2026-06-25
+algorand,Algorand,algo,0.089584,-6.21926,loser,3,2026-06-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.073122,-6.10132,loser,4,2026-06-25
+filecoin,Filecoin,fil,0.745105,-5.6164,loser,5,2026-06-25
+cosmos,Cosmos Hub,atom,1.64,-4.98611,loser,6,2026-06-25
+venice-token,Venice Token,vvv,13.08,-4.94957,loser,7,2026-06-25
+kaspa,Kaspa,kas,0.02798499,-4.26589,loser,8,2026-06-25
+shiba-inu,Shiba Inu,shib,4.39e-06,-4.16091,loser,9,2026-06-25
+dogecoin,Dogecoin,doge,0.076222,-4.09624,loser,10,2026-06-25
