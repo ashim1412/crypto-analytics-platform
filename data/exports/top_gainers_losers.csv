@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.03656678,8.41725,gainer,1,2026-06-25
-aave,Aave,aave,78.98,6.07896,gainer,2,2026-06-25
-beldex,Beldex,bdx,0.087151,5.34549,gainer,3,2026-06-25
-audiera,Audiera,beat,1.85,3.98364,gainer,4,2026-06-25
-dexe,DeXe,dexe,23.49,2.08074,gainer,5,2026-06-25
-morpho,Morpho,morpho,1.69,2.05865,gainer,6,2026-06-25
-adi-token,ADI,adi,4.46,1.63839,gainer,7,2026-06-25
-world-liberty-financial,World Liberty Financial,wlfi,0.058647,1.61279,gainer,8,2026-06-25
-midnight-3,Midnight,night,0.03127815,0.26504,gainer,9,2026-06-25
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.18545,gainer,10,2026-06-25
-memecore,MemeCore,m,0.777592,-72.45168,loser,1,2026-06-25
-pepe,Pepe,pepe,2.35e-06,-9.58815,loser,2,2026-06-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.069219,-8.22216,loser,3,2026-06-25
-hash-2,Provenance Blockchain,hash,0.00913707,-8.0242,loser,4,2026-06-25
-venice-token,Venice Token,vvv,12.18,-7.85282,loser,5,2026-06-25
-worldcoin-wld,Worldcoin,wld,0.489503,-7.78425,loser,6,2026-06-25
-shiba-inu,Shiba Inu,shib,4.16e-06,-6.85986,loser,7,2026-06-25
-filecoin,Filecoin,fil,0.706034,-6.61021,loser,8,2026-06-25
-stellar,Stellar,xlm,0.176741,-5.81834,loser,9,2026-06-25
-solana,Solana,sol,64.97,-5.65134,loser,10,2026-06-25
+lab,LAB,lab,19.58,23.37354,gainer,1,2026-06-25
+venice-token,Venice Token,vvv,13.59,10.69994,gainer,2,2026-06-25
+audiera,Audiera,beat,1.86,9.19488,gainer,3,2026-06-25
+beldex,Beldex,bdx,0.088739,8.30101,gainer,4,2026-06-25
+jupiter-exchange-solana,Jupiter,jup,0.219876,7.86758,gainer,5,2026-06-25
+aave,Aave,aave,80.07,7.51938,gainer,6,2026-06-25
+stable-2,​​Stable,stable,0.03687035,4.91268,gainer,7,2026-06-25
+ethereum-classic,Ethereum Classic,etc,7.12,4.74663,gainer,8,2026-06-25
+aster-2,Aster,aster,0.616564,4.18164,gainer,9,2026-06-25
+hyperliquid,Hyperliquid,hype,62.59,3.75672,gainer,10,2026-06-25
+memecore,MemeCore,m,0.913241,-66.60615,loser,1,2026-06-25
+mantle,Mantle,mnt,0.445328,-10.30873,loser,2,2026-06-25
+pepe,Pepe,pepe,2.32e-06,-6.27047,loser,3,2026-06-25
+stellar,Stellar,xlm,0.175099,-4.41285,loser,4,2026-06-25
+worldcoin-wld,Worldcoin,wld,0.49231,-4.04176,loser,5,2026-06-25
+near,NEAR Protocol,near,1.83,-3.66167,loser,6,2026-06-25
+algorand,Algorand,algo,0.084267,-2.99394,loser,7,2026-06-25
+polkadot,Polkadot,dot,0.83929,-2.87617,loser,8,2026-06-25
+cosmos,Cosmos Hub,atom,1.59,-2.67088,loser,9,2026-06-25
+monero,Monero,xmr,302.36,-2.42962,loser,10,2026-06-25
