@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-aave,Aave,aave,81.69,14.02752,gainer,1,2026-06-25
-jupiter-exchange-solana,Jupiter,jup,0.231861,10.00423,gainer,2,2026-06-25
-morpho,Morpho,morpho,1.75,6.15914,gainer,3,2026-06-25
-lab,LAB,lab,17.05,6.05059,gainer,4,2026-06-25
-midnight-3,Midnight,night,0.03207102,5.12046,gainer,5,2026-06-25
-stable-2,​​Stable,stable,0.03608862,4.59384,gainer,6,2026-06-25
-world-liberty-financial,World Liberty Financial,wlfi,0.061354,3.77528,gainer,7,2026-06-25
-internet-computer,Internet Computer,icp,2.26,3.64706,gainer,8,2026-06-25
-beldex,Beldex,bdx,0.085403,3.4476,gainer,9,2026-06-25
-ondo-finance,Ondo,ondo,0.316774,3.22244,gainer,10,2026-06-25
-memecore,MemeCore,m,0.80746,-71.57626,loser,1,2026-06-25
-pepe,Pepe,pepe,2.53e-06,-4.79531,loser,2,2026-06-25
-hedera-hashgraph,Hedera,hbar,0.073936,-4.20052,loser,3,2026-06-25
-monero,Monero,xmr,315.09,-3.64751,loser,4,2026-06-25
-render-token,Render,render,1.56,-3.19742,loser,5,2026-06-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.074179,-3.11007,loser,6,2026-06-25
-shiba-inu,Shiba Inu,shib,4.43e-06,-2.93836,loser,7,2026-06-25
-stellar,Stellar,xlm,0.185754,-2.84801,loser,8,2026-06-25
-just,JUST,jst,0.081825,-2.62003,loser,9,2026-06-25
-gatechain-token,Gate,gt,6.51,-2.45027,loser,10,2026-06-25
+stable-2,​​Stable,stable,0.03656678,8.41725,gainer,1,2026-06-25
+aave,Aave,aave,78.98,6.07896,gainer,2,2026-06-25
+beldex,Beldex,bdx,0.087151,5.34549,gainer,3,2026-06-25
+audiera,Audiera,beat,1.85,3.98364,gainer,4,2026-06-25
+dexe,DeXe,dexe,23.49,2.08074,gainer,5,2026-06-25
+morpho,Morpho,morpho,1.69,2.05865,gainer,6,2026-06-25
+adi-token,ADI,adi,4.46,1.63839,gainer,7,2026-06-25
+world-liberty-financial,World Liberty Financial,wlfi,0.058647,1.61279,gainer,8,2026-06-25
+midnight-3,Midnight,night,0.03127815,0.26504,gainer,9,2026-06-25
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.18545,gainer,10,2026-06-25
+memecore,MemeCore,m,0.777592,-72.45168,loser,1,2026-06-25
+pepe,Pepe,pepe,2.35e-06,-9.58815,loser,2,2026-06-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.069219,-8.22216,loser,3,2026-06-25
+hash-2,Provenance Blockchain,hash,0.00913707,-8.0242,loser,4,2026-06-25
+venice-token,Venice Token,vvv,12.18,-7.85282,loser,5,2026-06-25
+worldcoin-wld,Worldcoin,wld,0.489503,-7.78425,loser,6,2026-06-25
+shiba-inu,Shiba Inu,shib,4.16e-06,-6.85986,loser,7,2026-06-25
+filecoin,Filecoin,fil,0.706034,-6.61021,loser,8,2026-06-25
+stellar,Stellar,xlm,0.176741,-5.81834,loser,9,2026-06-25
+solana,Solana,sol,64.97,-5.65134,loser,10,2026-06-25
