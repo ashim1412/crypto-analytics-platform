@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.43,44.53226,gainer,1,2026-06-26
-memecore,MemeCore,m,0.881436,14.87745,gainer,2,2026-06-26
-lab,LAB,lab,18.51,7.84389,gainer,3,2026-06-26
-aave,Aave,aave,85.61,4.80202,gainer,4,2026-06-26
-beldex,Beldex,bdx,0.089368,4.68813,gainer,5,2026-06-26
-adi-token,ADI,adi,4.5,2.91487,gainer,6,2026-06-26
-bianrensheng,币安人生 (BinanceLife),币安人生,0.730237,2.86759,gainer,7,2026-06-26
-venice-token,Venice Token,vvv,13.71,2.51216,gainer,8,2026-06-26
-hyperliquid,Hyperliquid,hype,64.32,1.22135,gainer,9,2026-06-26
-pi-network,Pi Network,pi,0.128056,1.11142,gainer,10,2026-06-26
-mantle,Mantle,mnt,0.42839,-15.67228,loser,1,2026-06-26
-worldcoin-wld,Worldcoin,wld,0.475554,-8.04666,loser,2,2026-06-26
-ethena,Ethena,ena,0.079471,-7.76397,loser,3,2026-06-26
-near,NEAR Protocol,near,1.82,-6.93013,loser,4,2026-06-26
-pepe,Pepe,pepe,2.36e-06,-6.76323,loser,5,2026-06-26
-algorand,Algorand,algo,0.083755,-6.4255,loser,6,2026-06-26
-quant-network,Quant,qnt,63.94,-5.8917,loser,7,2026-06-26
-polkadot,Polkadot,dot,0.836296,-5.85672,loser,8,2026-06-26
-ethereum,Ethereum,eth,1565.01,-5.21361,loser,9,2026-06-26
-shiba-inu,Shiba Inu,shib,4.21e-06,-4.99585,loser,10,2026-06-26
+audiera,Audiera,beat,2.36,27.57407,gainer,1,2026-06-26
+venice-token,Venice Token,vvv,13.49,11.35873,gainer,2,2026-06-26
+memecore,MemeCore,m,0.862729,10.21991,gainer,3,2026-06-26
+aave,Aave,aave,86.94,9.72523,gainer,4,2026-06-26
+solana,Solana,sol,69.97,7.28667,gainer,5,2026-06-26
+lab,LAB,lab,18.84,6.86105,gainer,6,2026-06-26
+aster-2,Aster,aster,0.625426,5.01504,gainer,7,2026-06-26
+bianrensheng,币安人生 (BinanceLife),币安人生,0.73038,4.40373,gainer,8,2026-06-26
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.072715,4.31309,gainer,9,2026-06-26
+hyperliquid,Hyperliquid,hype,63.04,4.25933,gainer,10,2026-06-26
+mantle,Mantle,mnt,0.421215,-14.39082,loser,1,2026-06-26
+worldcoin-wld,Worldcoin,wld,0.464622,-5.87782,loser,2,2026-06-26
+near,NEAR Protocol,near,1.78,-4.10895,loser,3,2026-06-26
+midnight-3,Midnight,night,0.03031586,-3.01599,loser,4,2026-06-26
+ethena,Ethena,ena,0.078029,-2.91872,loser,5,2026-06-26
+algorand,Algorand,algo,0.082366,-2.59257,loser,6,2026-06-26
+sky,Sky,sky,0.050006,-2.42528,loser,7,2026-06-26
+beldex,Beldex,bdx,0.085251,-2.20314,loser,8,2026-06-26
+stellar,Stellar,xlm,0.174209,-2.00051,loser,9,2026-06-26
+tron,TRON,trx,0.318928,-1.6351,loser,10,2026-06-26
