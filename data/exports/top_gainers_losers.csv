@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.58,17.50263,gainer,1,2026-06-27
-aave,Aave,aave,94.81,15.26772,gainer,2,2026-06-27
-pump-fun,Pump.fun,pump,0.00131541,10.43774,gainer,3,2026-06-27
-render-token,Render,render,1.61,7.72787,gainer,4,2026-06-27
-avalanche-2,Avalanche,avax,6.53,6.57532,gainer,5,2026-06-27
-solana,Solana,sol,71.43,6.1928,gainer,6,2026-06-27
-morpho,Morpho,morpho,1.78,6.0257,gainer,7,2026-06-27
-adi-token,ADI,adi,4.77,6.02452,gainer,8,2026-06-27
-monero,Monero,xmr,320.48,4.54721,gainer,9,2026-06-27
-quant-network,Quant,qnt,66.92,4.34343,gainer,10,2026-06-27
-memecore,MemeCore,m,0.716033,-15.52946,loser,1,2026-06-27
-beldex,Beldex,bdx,0.080537,-11.99625,loser,2,2026-06-27
-dexe,DeXe,dexe,21.46,-8.01595,loser,3,2026-06-27
-worldcoin-wld,Worldcoin,wld,0.465555,-4.10393,loser,4,2026-06-27
-sky,Sky,sky,0.04980304,-3.47923,loser,5,2026-06-27
-ethena,Ethena,ena,0.079013,-3.42546,loser,6,2026-06-27
-cosmos,Cosmos Hub,atom,1.58,-1.59064,loser,7,2026-06-27
-xdce-crowd-sale,XDC Network,xdc,0.02793983,-1.45063,loser,8,2026-06-27
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.071111,-1.20485,loser,9,2026-06-27
-tron,TRON,trx,0.319979,-0.88744,loser,10,2026-06-27
+aave,Aave,aave,95.89,12.27889,gainer,1,2026-06-27
+hash-2,Provenance Blockchain,hash,0.00994156,7.30606,gainer,2,2026-06-27
+render-token,Render,render,1.62,7.30192,gainer,3,2026-06-27
+pump-fun,Pump.fun,pump,0.00131232,6.58507,gainer,4,2026-06-27
+morpho,Morpho,morpho,1.78,6.38786,gainer,5,2026-06-27
+adi-token,ADI,adi,4.79,6.3056,gainer,6,2026-06-27
+avalanche-2,Avalanche,avax,6.56,4.90281,gainer,7,2026-06-27
+okb,OKB,okb,78.53,4.74837,gainer,8,2026-06-27
+lab,LAB,lab,19.57,4.66596,gainer,9,2026-06-27
+ethereum-classic,Ethereum Classic,etc,7.3,4.60865,gainer,10,2026-06-27
+audiera,Audiera,beat,2.11,-13.45854,loser,1,2026-06-27
+memecore,MemeCore,m,0.740503,-12.82547,loser,2,2026-06-27
+beldex,Beldex,bdx,0.083152,-7.38178,loser,3,2026-06-27
+dexe,DeXe,dexe,20.8,-6.88358,loser,4,2026-06-27
+sky,Sky,sky,0.0489291,-5.75167,loser,5,2026-06-27
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.071602,-4.25687,loser,6,2026-06-27
+worldcoin-wld,Worldcoin,wld,0.463231,-3.13933,loser,7,2026-06-27
+venice-token,Venice Token,vvv,13.43,-1.99051,loser,8,2026-06-27
+cosmos,Cosmos Hub,atom,1.59,-1.93779,loser,9,2026-06-27
+hedera-hashgraph,Hedera,hbar,0.072232,-1.75567,loser,10,2026-06-27
