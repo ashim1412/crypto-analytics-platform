@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.41,29.20103,gainer,1,2026-06-26
-aave,Aave,aave,95.07,20.28238,gainer,2,2026-06-26
-pump-fun,Pump.fun,pump,0.00130336,12.57823,gainer,3,2026-06-26
-solana,Solana,sol,73.13,11.24109,gainer,4,2026-06-26
-uniswap,Uniswap,uni,3.0,6.48152,gainer,5,2026-06-26
-bitcoin-cash,Bitcoin Cash,bch,198.3,6.03317,gainer,6,2026-06-26
-hash-2,Provenance Blockchain,hash,0.00939555,5.91156,gainer,7,2026-06-26
-zcash,Zcash,zec,415.47,5.41539,gainer,8,2026-06-26
-avalanche-2,Avalanche,avax,6.41,5.32335,gainer,9,2026-06-26
-adi-token,ADI,adi,4.71,4.92095,gainer,10,2026-06-26
-memecore,MemeCore,m,0.7878,-14.27744,loser,1,2026-06-26
-dexe,DeXe,dexe,21.2,-8.0602,loser,2,2026-06-26
-beldex,Beldex,bdx,0.08211,-7.35264,loser,3,2026-06-26
-worldcoin-wld,Worldcoin,wld,0.468081,-4.25323,loser,4,2026-06-26
-sky,Sky,sky,0.0498753,-3.72459,loser,5,2026-06-26
-mantle,Mantle,mnt,0.435697,-2.17856,loser,6,2026-06-26
-figure-heloc,Figure Heloc,figr_heloc,1.016,-1.34788,loser,7,2026-06-26
-xdce-crowd-sale,XDC Network,xdc,0.02786769,-1.33292,loser,8,2026-06-26
-leo-token,LEO Token,leo,9.29,-1.32542,loser,9,2026-06-26
-world-liberty-financial,World Liberty Financial,wlfi,0.05797,-1.32044,loser,10,2026-06-26
+audiera,Audiera,beat,2.58,17.50263,gainer,1,2026-06-27
+aave,Aave,aave,94.81,15.26772,gainer,2,2026-06-27
+pump-fun,Pump.fun,pump,0.00131541,10.43774,gainer,3,2026-06-27
+render-token,Render,render,1.61,7.72787,gainer,4,2026-06-27
+avalanche-2,Avalanche,avax,6.53,6.57532,gainer,5,2026-06-27
+solana,Solana,sol,71.43,6.1928,gainer,6,2026-06-27
+morpho,Morpho,morpho,1.78,6.0257,gainer,7,2026-06-27
+adi-token,ADI,adi,4.77,6.02452,gainer,8,2026-06-27
+monero,Monero,xmr,320.48,4.54721,gainer,9,2026-06-27
+quant-network,Quant,qnt,66.92,4.34343,gainer,10,2026-06-27
+memecore,MemeCore,m,0.716033,-15.52946,loser,1,2026-06-27
+beldex,Beldex,bdx,0.080537,-11.99625,loser,2,2026-06-27
+dexe,DeXe,dexe,21.46,-8.01595,loser,3,2026-06-27
+worldcoin-wld,Worldcoin,wld,0.465555,-4.10393,loser,4,2026-06-27
+sky,Sky,sky,0.04980304,-3.47923,loser,5,2026-06-27
+ethena,Ethena,ena,0.079013,-3.42546,loser,6,2026-06-27
+cosmos,Cosmos Hub,atom,1.58,-1.59064,loser,7,2026-06-27
+xdce-crowd-sale,XDC Network,xdc,0.02793983,-1.45063,loser,8,2026-06-27
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.071111,-1.20485,loser,9,2026-06-27
+tron,TRON,trx,0.319979,-0.88744,loser,10,2026-06-27
