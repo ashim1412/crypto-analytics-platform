@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.39,125.1402,gainer,1,2026-06-27
-aave,Aave,aave,96.66,12.4149,gainer,2,2026-06-27
-pump-fun,Pump.fun,pump,0.00131976,8.88985,gainer,3,2026-06-27
-adi-token,ADI,adi,4.92,8.20069,gainer,4,2026-06-27
-render-token,Render,render,1.59,7.86141,gainer,5,2026-06-27
-stable-2,​​Stable,stable,0.0386886,7.46907,gainer,6,2026-06-27
-avalanche-2,Avalanche,avax,6.53,7.0418,gainer,7,2026-06-27
-morpho,Morpho,morpho,1.78,6.67167,gainer,8,2026-06-27
-algorand,Algorand,algo,0.086847,5.92794,gainer,9,2026-06-27
-litecoin,Litecoin,ltc,42.72,5.53239,gainer,10,2026-06-27
-lab,LAB,lab,14.68,-23.52873,loser,1,2026-06-27
-dexe,DeXe,dexe,21.88,-6.22704,loser,2,2026-06-27
-memecore,MemeCore,m,0.823325,-5.19252,loser,3,2026-06-27
-sky,Sky,sky,0.04874698,-2.78181,loser,4,2026-06-27
-beldex,Beldex,bdx,0.083817,-1.37566,loser,5,2026-06-27
-figure-heloc,Figure Heloc,figr_heloc,1.028,-0.4642,loser,6,2026-06-27
-bianrensheng,币安人生 (BinanceLife),币安人生,0.722537,-0.34518,loser,7,2026-06-27
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.34247,loser,8,2026-06-27
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.15,-0.30991,loser,9,2026-06-27
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.30991,loser,10,2026-06-27
+velvet,Velvet,velvet,1.39,102.42156,gainer,1,2026-06-27
+pump-fun,Pump.fun,pump,0.00137982,7.96193,gainer,2,2026-06-27
+okb,OKB,okb,79.74,6.06268,gainer,3,2026-06-27
+adi-token,ADI,adi,4.92,5.92571,gainer,4,2026-06-27
+just,JUST,jst,0.085276,4.67855,gainer,5,2026-06-27
+pi-network,Pi Network,pi,0.132505,4.47967,gainer,6,2026-06-27
+near,NEAR Protocol,near,1.88,4.45993,gainer,7,2026-06-27
+morpho,Morpho,morpho,1.76,3.66908,gainer,8,2026-06-27
+render-token,Render,render,1.59,3.41145,gainer,9,2026-06-27
+kaspa,Kaspa,kas,0.02912938,3.17282,gainer,10,2026-06-27
+lab,LAB,lab,15.78,-17.26435,loser,1,2026-06-27
+memecore,MemeCore,m,0.739693,-9.40211,loser,2,2026-06-27
+audiera,Audiera,beat,2.36,-3.4006,loser,3,2026-06-27
+polkadot,Polkadot,dot,0.832686,-2.48238,loser,4,2026-06-27
+quant-network,Quant,qnt,65.81,-2.28545,loser,5,2026-06-27
+ethena,Ethena,ena,0.07792,-2.2023,loser,6,2026-06-27
+zcash,Zcash,zec,404.38,-1.82317,loser,7,2026-06-27
+hyperliquid,Hyperliquid,hype,62.95,-1.79415,loser,8,2026-06-27
+stellar,Stellar,xlm,0.174739,-1.75753,loser,9,2026-06-27
+cosmos,Cosmos Hub,atom,1.58,-1.68261,loser,10,2026-06-27
