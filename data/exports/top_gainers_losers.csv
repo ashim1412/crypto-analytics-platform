@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.39,102.42156,gainer,1,2026-06-27
-pump-fun,Pump.fun,pump,0.00137982,7.96193,gainer,2,2026-06-27
-okb,OKB,okb,79.74,6.06268,gainer,3,2026-06-27
-adi-token,ADI,adi,4.92,5.92571,gainer,4,2026-06-27
-just,JUST,jst,0.085276,4.67855,gainer,5,2026-06-27
-pi-network,Pi Network,pi,0.132505,4.47967,gainer,6,2026-06-27
-near,NEAR Protocol,near,1.88,4.45993,gainer,7,2026-06-27
-morpho,Morpho,morpho,1.76,3.66908,gainer,8,2026-06-27
-render-token,Render,render,1.59,3.41145,gainer,9,2026-06-27
-kaspa,Kaspa,kas,0.02912938,3.17282,gainer,10,2026-06-27
-lab,LAB,lab,15.78,-17.26435,loser,1,2026-06-27
-memecore,MemeCore,m,0.739693,-9.40211,loser,2,2026-06-27
-audiera,Audiera,beat,2.36,-3.4006,loser,3,2026-06-27
-polkadot,Polkadot,dot,0.832686,-2.48238,loser,4,2026-06-27
-quant-network,Quant,qnt,65.81,-2.28545,loser,5,2026-06-27
-ethena,Ethena,ena,0.07792,-2.2023,loser,6,2026-06-27
-zcash,Zcash,zec,404.38,-1.82317,loser,7,2026-06-27
-hyperliquid,Hyperliquid,hype,62.95,-1.79415,loser,8,2026-06-27
-stellar,Stellar,xlm,0.174739,-1.75753,loser,9,2026-06-27
-cosmos,Cosmos Hub,atom,1.58,-1.68261,loser,10,2026-06-27
+velvet,Velvet,velvet,1.57,108.89638,gainer,1,2026-06-28
+audiera,Audiera,beat,2.74,5.6705,gainer,2,2026-06-28
+near,NEAR Protocol,near,1.9,5.64078,gainer,3,2026-06-28
+just,JUST,jst,0.085821,4.35829,gainer,4,2026-06-28
+beldex,Beldex,bdx,0.083825,4.0708,gainer,5,2026-06-28
+pump-fun,Pump.fun,pump,0.00136054,3.66917,gainer,6,2026-06-28
+algorand,Algorand,algo,0.087137,3.22147,gainer,7,2026-06-28
+adi-token,ADI,adi,4.92,3.15281,gainer,8,2026-06-28
+dexe,DeXe,dexe,22.22,3.09296,gainer,9,2026-06-28
+okb,OKB,okb,78.76,2.80122,gainer,10,2026-06-28
+lab,LAB,lab,17.19,-10.88845,loser,1,2026-06-28
+worldcoin-wld,Worldcoin,wld,0.440582,-5.22224,loser,2,2026-06-28
+polkadot,Polkadot,dot,0.809598,-4.36605,loser,3,2026-06-28
+zcash,Zcash,zec,399.69,-4.18841,loser,4,2026-06-28
+jupiter-exchange-solana,Jupiter,jup,0.21903,-3.43764,loser,5,2026-06-28
+bianrensheng,币安人生 (BinanceLife),币安人生,0.700004,-3.38624,loser,6,2026-06-28
+render-token,Render,render,1.56,-2.94487,loser,7,2026-06-28
+morpho,Morpho,morpho,1.73,-2.74196,loser,8,2026-06-28
+sui,Sui,sui,0.684269,-2.42717,loser,9,2026-06-28
+monero,Monero,xmr,313.2,-2.36535,loser,10,2026-06-28
