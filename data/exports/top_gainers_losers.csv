@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.59,72.66813,gainer,1,2026-06-28
-audiera,Audiera,beat,2.82,33.41684,gainer,2,2026-06-28
-pump-fun,Pump.fun,pump,0.00147411,12.45709,gainer,3,2026-06-28
-dexe,DeXe,dexe,22.4,8.37236,gainer,4,2026-06-28
-near,NEAR Protocol,near,1.87,3.91052,gainer,5,2026-06-28
-adi-token,ADI,adi,4.93,2.97353,gainer,6,2026-06-28
-algorand,Algorand,algo,0.088051,2.91767,gainer,7,2026-06-28
-sky,Sky,sky,0.050086,2.38366,gainer,8,2026-06-28
-just,JUST,jst,0.086294,1.7741,gainer,9,2026-06-28
-figure-heloc,Figure Heloc,figr_heloc,1.044,1.52095,gainer,10,2026-06-28
-bianrensheng,币安人生 (BinanceLife),币安人生,0.513173,-29.4227,loser,1,2026-06-28
-lab,LAB,lab,17.74,-9.36042,loser,2,2026-06-28
-memecore,MemeCore,m,0.690072,-8.50989,loser,3,2026-06-28
-zcash,Zcash,zec,385.03,-5.74664,loser,4,2026-06-28
-jupiter-exchange-solana,Jupiter,jup,0.213595,-4.94565,loser,5,2026-06-28
-aave,Aave,aave,91.1,-4.62332,loser,6,2026-06-28
-avalanche-2,Avalanche,avax,6.31,-3.8639,loser,7,2026-06-28
-render-token,Render,render,1.56,-3.56791,loser,8,2026-06-28
-polkadot,Polkadot,dot,0.814474,-3.32371,loser,9,2026-06-28
-sui,Sui,sui,0.683671,-3.17529,loser,10,2026-06-28
+velvet,Velvet,velvet,1.77,29.03589,gainer,1,2026-06-28
+lab,LAB,lab,17.23,16.99253,gainer,2,2026-06-28
+pump-fun,Pump.fun,pump,0.00147528,11.82845,gainer,3,2026-06-28
+just,JUST,jst,0.087909,3.32055,gainer,4,2026-06-28
+audiera,Audiera,beat,2.56,1.94909,gainer,5,2026-06-28
+dexe,DeXe,dexe,22.31,1.94686,gainer,6,2026-06-28
+sky,Sky,sky,0.04960143,1.79406,gainer,7,2026-06-28
+near,NEAR Protocol,near,1.85,1.64165,gainer,8,2026-06-28
+figure-heloc,Figure Heloc,figr_heloc,1.044,1.5196,gainer,9,2026-06-28
+tron,TRON,trx,0.323739,1.08063,gainer,10,2026-06-28
+memecore,MemeCore,m,0.680096,-16.90216,loser,1,2026-06-28
+aave,Aave,aave,89.06,-7.7715,loser,2,2026-06-28
+zcash,Zcash,zec,383.49,-6.20163,loser,3,2026-06-28
+bianrensheng,币安人生 (BinanceLife),币安人生,0.684031,-5.22789,loser,4,2026-06-28
+polkadot,Polkadot,dot,0.805907,-4.34525,loser,5,2026-06-28
+ethena,Ethena,ena,0.075251,-4.2461,loser,6,2026-06-28
+worldcoin-wld,Worldcoin,wld,0.444665,-3.94387,loser,7,2026-06-28
+avalanche-2,Avalanche,avax,6.29,-3.7671,loser,8,2026-06-28
+jupiter-exchange-solana,Jupiter,jup,0.214645,-3.41389,loser,9,2026-06-28
+mantle,Mantle,mnt,0.4239,-3.352,loser,10,2026-06-28
