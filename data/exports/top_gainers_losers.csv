@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-velvet,Velvet,velvet,1.8,29.37144,gainer,1,2026-06-28
-lab,LAB,lab,17.14,8.76476,gainer,2,2026-06-28
-audiera,Audiera,beat,2.47,4.45084,gainer,3,2026-06-28
-just,JUST,jst,0.08863,3.82285,gainer,4,2026-06-28
-dexe,DeXe,dexe,22.66,3.78376,gainer,5,2026-06-28
-pump-fun,Pump.fun,pump,0.00142922,3.58692,gainer,6,2026-06-28
-usdtb,USDtb,usdtb,1.027,2.70105,gainer,7,2026-06-28
-beldex,Beldex,bdx,0.085969,2.39487,gainer,8,2026-06-28
-adi-token,ADI,adi,5.03,2.35399,gainer,9,2026-06-28
-figure-heloc,Figure Heloc,figr_heloc,1.044,1.38957,gainer,10,2026-06-28
-jupiter-exchange-solana,Jupiter,jup,0.210647,-7.83784,loser,1,2026-06-28
-pi-network,Pi Network,pi,0.125115,-5.65167,loser,2,2026-06-28
-worldcoin-wld,Worldcoin,wld,0.43722,-5.45367,loser,3,2026-06-28
-stable-2,​​Stable,stable,0.03605031,-5.25175,loser,4,2026-06-28
-aave,Aave,aave,89.69,-5.04476,loser,5,2026-06-28
-kaspa,Kaspa,kas,0.02769137,-4.86929,loser,6,2026-06-28
-zcash,Zcash,zec,385.1,-4.61321,loser,7,2026-06-28
-bitcoin-cash,Bitcoin Cash,bch,190.46,-3.9008,loser,8,2026-06-28
-venice-token,Venice Token,vvv,13.16,-3.76892,loser,9,2026-06-28
-mantle,Mantle,mnt,0.425559,-3.75773,loser,10,2026-06-28
+velvet,Velvet,velvet,1.9,20.91394,gainer,1,2026-06-29
+pump-fun,Pump.fun,pump,0.00142227,4.52337,gainer,2,2026-06-29
+just,JUST,jst,0.088198,2.74039,gainer,3,2026-06-29
+adi-token,ADI,adi,5.03,2.22045,gainer,4,2026-06-29
+avalanche-2,Avalanche,avax,6.51,1.7547,gainer,5,2026-06-29
+litecoin,Litecoin,ltc,42.82,1.51515,gainer,6,2026-06-29
+beldex,Beldex,bdx,0.084989,1.39627,gainer,7,2026-06-29
+algorand,Algorand,algo,0.088271,1.39191,gainer,8,2026-06-29
+morpho,Morpho,morpho,1.75,1.09036,gainer,9,2026-06-29
+the-open-network,Gram (prev. Toncoin),gram,1.58,1.00067,gainer,10,2026-06-29
+lab,LAB,lab,15.07,-11.89731,loser,1,2026-06-29
+memecore,MemeCore,m,0.648317,-10.87048,loser,2,2026-06-29
+zcash,Zcash,zec,374.11,-6.3634,loser,3,2026-06-29
+pi-network,Pi Network,pi,0.122712,-5.27282,loser,4,2026-06-29
+jupiter-exchange-solana,Jupiter,jup,0.20811,-4.99083,loser,5,2026-06-29
+stable-2,​​Stable,stable,0.03546731,-4.86669,loser,6,2026-06-29
+venice-token,Venice Token,vvv,13.01,-4.55909,loser,7,2026-06-29
+aave,Aave,aave,91.22,-3.79093,loser,8,2026-06-29
+near,NEAR Protocol,near,1.84,-2.968,loser,9,2026-06-29
+bitcoin-cash,Bitcoin Cash,bch,191.18,-2.94401,loser,10,2026-06-29
