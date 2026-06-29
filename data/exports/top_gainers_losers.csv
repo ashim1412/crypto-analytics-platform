@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bianrensheng,币安人生 (BinanceLife),币安人生,0.709657,26.89078,gainer,1,2026-06-29
-avalanche-2,Avalanche,avax,6.61,4.18543,gainer,2,2026-06-29
-ethena,Ethena,ena,0.079154,3.85561,gainer,3,2026-06-29
-beldex,Beldex,bdx,0.086393,2.75571,gainer,4,2026-06-29
-the-open-network,Gram (prev. Toncoin),gram,1.6,2.6892,gainer,5,2026-06-29
-solana,Solana,sol,73.27,2.60055,gainer,6,2026-06-29
-velvet,Velvet,velvet,1.67,2.35491,gainer,7,2026-06-29
-aster-2,Aster,aster,0.632691,2.06574,gainer,8,2026-06-29
-bitcoin-cash,Bitcoin Cash,bch,197.16,1.91465,gainer,9,2026-06-29
-aave,Aave,aave,91.87,1.85363,gainer,10,2026-06-29
-memecore,MemeCore,m,0.596563,-13.00481,loser,1,2026-06-29
-lab,LAB,lab,15.41,-12.24953,loser,2,2026-06-29
-worldcoin-wld,Worldcoin,wld,0.429986,-5.07243,loser,3,2026-06-29
-canton-network,Canton,cc,0.145181,-4.96657,loser,4,2026-06-29
-pi-network,Pi Network,pi,0.121014,-4.45943,loser,5,2026-06-29
-venice-token,Venice Token,vvv,13.21,-3.58325,loser,6,2026-06-29
-pump-fun,Pump.fun,pump,0.00141963,-3.40885,loser,7,2026-06-29
-jupiter-exchange-solana,Jupiter,jup,0.213014,-2.1828,loser,8,2026-06-29
-dexe,DeXe,dexe,21.83,-1.98186,loser,9,2026-06-29
-flare-networks,Flare,flr,0.00657849,-1.74481,loser,10,2026-06-29
+adi-token,ADI,adi,5.51,11.31153,gainer,1,2026-06-29
+audiera,Audiera,beat,2.77,10.87646,gainer,2,2026-06-29
+ethena,Ethena,ena,0.080019,5.06659,gainer,3,2026-06-29
+the-open-network,Gram (prev. Toncoin),gram,1.61,3.49732,gainer,4,2026-06-29
+avalanche-2,Avalanche,avax,6.54,3.41406,gainer,5,2026-06-29
+sky,Sky,sky,0.05126,3.30493,gainer,6,2026-06-29
+morpho,Morpho,morpho,1.79,2.72774,gainer,7,2026-06-29
+stable-2,​​Stable,stable,0.03816522,2.26085,gainer,8,2026-06-29
+solana,Solana,sol,73.31,2.19818,gainer,9,2026-06-29
+hyperliquid,Hyperliquid,hype,64.02,1.77181,gainer,10,2026-06-29
+memecore,MemeCore,m,0.560753,-21.2866,loser,1,2026-06-29
+lab,LAB,lab,15.45,-11.70684,loser,2,2026-06-29
+pi-network,Pi Network,pi,0.116393,-8.29861,loser,3,2026-06-29
+venice-token,Venice Token,vvv,12.69,-7.0515,loser,4,2026-06-29
+worldcoin-wld,Worldcoin,wld,0.42148,-4.78757,loser,5,2026-06-29
+velvet,Velvet,velvet,1.69,-4.46297,loser,6,2026-06-29
+canton-network,Canton,cc,0.144778,-4.25611,loser,7,2026-06-29
+pump-fun,Pump.fun,pump,0.00141146,-3.57156,loser,8,2026-06-29
+bittensor,Bittensor,tao,201.56,-3.21791,loser,9,2026-06-29
+pepe,Pepe,pepe,2.33e-06,-2.74036,loser,10,2026-06-29
