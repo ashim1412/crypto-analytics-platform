@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.68,9.08717,gainer,1,2026-06-29
-adi-token,ADI,adi,5.48,8.6759,gainer,2,2026-06-29
-kaspa,Kaspa,kas,0.02969253,7.45879,gainer,3,2026-06-29
-stable-2,​​Stable,stable,0.03853934,7.39384,gainer,4,2026-06-29
-solana,Solana,sol,75.82,6.94469,gainer,5,2026-06-29
-sky,Sky,sky,0.053106,6.90498,gainer,6,2026-06-29
-hyperliquid,Hyperliquid,hype,66.22,6.81067,gainer,7,2026-06-29
-pump-fun,Pump.fun,pump,0.00150954,6.55495,gainer,8,2026-06-29
-avalanche-2,Avalanche,avax,6.72,6.41852,gainer,9,2026-06-29
-zcash,Zcash,zec,408.28,6.26472,gainer,10,2026-06-29
-memecore,MemeCore,m,0.58554,-18.17068,loser,1,2026-06-29
-lab,LAB,lab,15.21,-10.23234,loser,2,2026-06-29
-velvet,Velvet,velvet,1.67,-7.47026,loser,3,2026-06-29
-pi-network,Pi Network,pi,0.116881,-6.56386,loser,4,2026-06-29
-canton-network,Canton,cc,0.1455,-3.28067,loser,5,2026-06-29
-worldcoin-wld,Worldcoin,wld,0.430272,-1.75548,loser,6,2026-06-29
-just,JUST,jst,0.086929,-1.62816,loser,7,2026-06-29
-pax-gold,PAX Gold,paxg,4005.87,-1.5125,loser,8,2026-06-29
-tether-gold,Tether Gold,xaut,4004.65,-1.49665,loser,9,2026-06-29
-cosmos,Cosmos Hub,atom,1.55,-1.26482,loser,10,2026-06-29
+kaspa,Kaspa,kas,0.03068066,10.50733,gainer,1,2026-06-30
+adi-token,ADI,adi,5.56,10.47345,gainer,2,2026-06-30
+stable-2,​​Stable,stable,0.03873531,9.23489,gainer,3,2026-06-30
+morpho,Morpho,morpho,1.9,8.80053,gainer,4,2026-06-30
+hyperliquid,Hyperliquid,hype,66.16,6.89877,gainer,5,2026-06-30
+zcash,Zcash,zec,398.22,6.15574,gainer,6,2026-06-30
+sky,Sky,sky,0.052483,5.92451,gainer,7,2026-06-30
+beldex,Beldex,bdx,0.089892,5.79091,gainer,8,2026-06-30
+dexe,DeXe,dexe,23.13,5.34461,gainer,9,2026-06-30
+pump-fun,Pump.fun,pump,0.00148765,4.44662,gainer,10,2026-06-30
+velvet,Velvet,velvet,1.62,-16.14658,loser,1,2026-06-30
+worldcoin-wld,Worldcoin,wld,0.410028,-6.30096,loser,2,2026-06-30
+pi-network,Pi Network,pi,0.115702,-6.28932,loser,3,2026-06-30
+bianrensheng,币安人生 (BinanceLife),币安人生,0.663285,-6.28504,loser,4,2026-06-30
+memecore,MemeCore,m,0.612102,-5.45873,loser,5,2026-06-30
+lab,LAB,lab,14.5,-3.81823,loser,6,2026-06-30
+cosmos,Cosmos Hub,atom,1.51,-3.70055,loser,7,2026-06-30
+algorand,Algorand,algo,0.085065,-3.69344,loser,8,2026-06-30
+canton-network,Canton,cc,0.144267,-2.96387,loser,9,2026-06-30
+pax-gold,PAX Gold,paxg,3961.03,-2.24803,loser,10,2026-06-30
