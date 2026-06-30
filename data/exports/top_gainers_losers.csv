@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.682329,19.72537,gainer,1,2026-06-30
-kaspa,Kaspa,kas,0.03115749,10.77991,gainer,2,2026-06-30
-adi-token,ADI,adi,5.53,8.98914,gainer,3,2026-06-30
-dexe,DeXe,dexe,23.19,6.27638,gainer,4,2026-06-30
-sky,Sky,sky,0.054014,5.79884,gainer,5,2026-06-30
-zcash,Zcash,zec,392.78,3.67406,gainer,6,2026-06-30
-morpho,Morpho,morpho,1.85,3.57356,gainer,7,2026-06-30
-monero,Monero,xmr,312.55,2.95817,gainer,8,2026-06-30
-stable-2,​​Stable,stable,0.03892977,2.86173,gainer,9,2026-06-30
-hyperliquid,Hyperliquid,hype,64.86,2.37866,gainer,10,2026-06-30
-lab,LAB,lab,13.01,-16.40524,loser,1,2026-06-30
-ethena,Ethena,ena,0.071803,-10.9106,loser,2,2026-06-30
-pi-network,Pi Network,pi,0.112022,-5.97975,loser,3,2026-06-30
-aave,Aave,aave,85.9,-5.90144,loser,4,2026-06-30
-uniswap,Uniswap,uni,2.76,-5.8447,loser,5,2026-06-30
-canton-network,Canton,cc,0.137611,-5.58795,loser,6,2026-06-30
-velvet,Velvet,velvet,1.59,-5.13519,loser,7,2026-06-30
-jupiter-exchange-solana,Jupiter,jup,0.203122,-4.80978,loser,8,2026-06-30
-worldcoin-wld,Worldcoin,wld,0.406713,-3.96477,loser,9,2026-06-30
-algorand,Algorand,algo,0.083491,-3.62809,loser,10,2026-06-30
+memecore,MemeCore,m,0.691564,17.87761,gainer,1,2026-06-30
+stellar,Stellar,xlm,0.184299,4.18212,gainer,2,2026-06-30
+audiera,Audiera,beat,2.8,3.91766,gainer,3,2026-06-30
+morpho,Morpho,morpho,1.89,3.40073,gainer,4,2026-06-30
+dexe,DeXe,dexe,23.04,2.50853,gainer,5,2026-06-30
+adi-token,ADI,adi,5.52,0.73351,gainer,6,2026-06-30
+pax-gold,PAX Gold,paxg,4014.85,0.26588,gainer,7,2026-06-30
+tether-gold,Tether Gold,xaut,4012.03,0.16707,gainer,8,2026-06-30
+usd1-wlfi,USD1,usd1,0.99906,0.03507,gainer,9,2026-06-30
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.13,0.02848,gainer,10,2026-06-30
+venice-token,Venice Token,vvv,12.31,-10.21408,loser,1,2026-06-30
+ethena,Ethena,ena,0.070804,-10.09424,loser,2,2026-06-30
+lab,LAB,lab,13.85,-9.00004,loser,3,2026-06-30
+aave,Aave,aave,85.22,-8.28256,loser,4,2026-06-30
+velvet,Velvet,velvet,1.55,-7.7439,loser,5,2026-06-30
+uniswap,Uniswap,uni,2.79,-6.47792,loser,6,2026-06-30
+near,NEAR Protocol,near,1.8,-5.35393,loser,7,2026-06-30
+worldcoin-wld,Worldcoin,wld,0.407615,-5.3413,loser,8,2026-06-30
+algorand,Algorand,algo,0.082357,-4.59321,loser,9,2026-06-30
+the-open-network,Gram (prev. Toncoin),gram,1.55,-4.5904,loser,10,2026-06-30
