@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-kaspa,Kaspa,kas,0.03068066,10.50733,gainer,1,2026-06-30
-adi-token,ADI,adi,5.56,10.47345,gainer,2,2026-06-30
-stable-2,​​Stable,stable,0.03873531,9.23489,gainer,3,2026-06-30
-morpho,Morpho,morpho,1.9,8.80053,gainer,4,2026-06-30
-hyperliquid,Hyperliquid,hype,66.16,6.89877,gainer,5,2026-06-30
-zcash,Zcash,zec,398.22,6.15574,gainer,6,2026-06-30
-sky,Sky,sky,0.052483,5.92451,gainer,7,2026-06-30
-beldex,Beldex,bdx,0.089892,5.79091,gainer,8,2026-06-30
-dexe,DeXe,dexe,23.13,5.34461,gainer,9,2026-06-30
-pump-fun,Pump.fun,pump,0.00148765,4.44662,gainer,10,2026-06-30
-velvet,Velvet,velvet,1.62,-16.14658,loser,1,2026-06-30
-worldcoin-wld,Worldcoin,wld,0.410028,-6.30096,loser,2,2026-06-30
-pi-network,Pi Network,pi,0.115702,-6.28932,loser,3,2026-06-30
-bianrensheng,币安人生 (BinanceLife),币安人生,0.663285,-6.28504,loser,4,2026-06-30
-memecore,MemeCore,m,0.612102,-5.45873,loser,5,2026-06-30
-lab,LAB,lab,14.5,-3.81823,loser,6,2026-06-30
-cosmos,Cosmos Hub,atom,1.51,-3.70055,loser,7,2026-06-30
-algorand,Algorand,algo,0.085065,-3.69344,loser,8,2026-06-30
-canton-network,Canton,cc,0.144267,-2.96387,loser,9,2026-06-30
-pax-gold,PAX Gold,paxg,3961.03,-2.24803,loser,10,2026-06-30
+memecore,MemeCore,m,0.669644,11.8093,gainer,1,2026-06-30
+adi-token,ADI,adi,5.51,10.30401,gainer,2,2026-06-30
+kaspa,Kaspa,kas,0.03054402,7.67162,gainer,3,2026-06-30
+sky,Sky,sky,0.05356,6.97048,gainer,4,2026-06-30
+stable-2,​​Stable,stable,0.03885289,6.18384,gainer,5,2026-06-30
+audiera,Audiera,beat,2.8,5.04512,gainer,6,2026-06-30
+hyperliquid,Hyperliquid,hype,65.25,4.50364,gainer,7,2026-06-30
+dexe,DeXe,dexe,22.96,4.47152,gainer,8,2026-06-30
+morpho,Morpho,morpho,1.88,4.36029,gainer,9,2026-06-30
+beldex,Beldex,bdx,0.089632,4.03276,gainer,10,2026-06-30
+lab,LAB,lab,14.06,-8.51198,loser,1,2026-06-30
+ethena,Ethena,ena,0.07241,-7.28153,loser,2,2026-06-30
+pi-network,Pi Network,pi,0.112927,-6.4055,loser,3,2026-06-30
+velvet,Velvet,velvet,1.59,-5.81182,loser,4,2026-06-30
+cosmos,Cosmos Hub,atom,1.51,-3.8852,loser,5,2026-06-30
+uniswap,Uniswap,uni,2.82,-3.75711,loser,6,2026-06-30
+canton-network,Canton,cc,0.140004,-3.62213,loser,7,2026-06-30
+worldcoin-wld,Worldcoin,wld,0.41213,-3.23374,loser,8,2026-06-30
+jupiter-exchange-solana,Jupiter,jup,0.202989,-3.14435,loser,9,2026-06-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.069633,-2.89084,loser,10,2026-06-30
