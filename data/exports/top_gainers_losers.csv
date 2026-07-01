@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.051,53.38452,gainer,1,2026-07-01
-jupiter-exchange-solana,Jupiter,jup,0.238329,15.6411,gainer,2,2026-07-01
-whitebit,WhiteBIT Coin,wbt,54.09,15.40989,gainer,3,2026-07-01
-morpho,Morpho,morpho,2.12,13.31244,gainer,4,2026-07-01
-stellar,Stellar,xlm,0.197114,11.89971,gainer,5,2026-07-01
-cardano,Cardano,ada,0.153407,6.09643,gainer,6,2026-07-01
-bitcoin-cash,Bitcoin Cash,bch,207.73,5.47615,gainer,7,2026-07-01
-canton-network,Canton,cc,0.144546,4.42589,gainer,8,2026-07-01
-solana,Solana,sol,75.86,4.35793,gainer,9,2026-07-01
-polkadot,Polkadot,dot,0.839585,3.77654,gainer,10,2026-07-01
-lab,LAB,lab,9.03,-31.36173,loser,1,2026-07-01
-velvet,Velvet,velvet,1.43,-10.11513,loser,2,2026-07-01
-audiera,Audiera,beat,2.52,-8.78658,loser,3,2026-07-01
-bianrensheng,币安人生 (BinanceLife),币安人生,0.641584,-6.85716,loser,4,2026-07-01
-stable-2,​​Stable,stable,0.0364519,-6.43328,loser,5,2026-07-01
-worldcoin-wld,Worldcoin,wld,0.394024,-3.46028,loser,6,2026-07-01
-monero,Monero,xmr,304.98,-3.0381,loser,7,2026-07-01
-figure-heloc,Figure Heloc,figr_heloc,1.014,-3.02605,loser,8,2026-07-01
-sky,Sky,sky,0.052887,-2.64575,loser,9,2026-07-01
-bittensor,Bittensor,tao,199.88,-2.25469,loser,10,2026-07-01
+memecore,MemeCore,m,1.19,72.43203,gainer,1,2026-07-01
+whitebit,WhiteBIT Coin,wbt,54.93,17.78064,gainer,2,2026-07-01
+morpho,Morpho,morpho,2.11,11.78257,gainer,3,2026-07-01
+venice-token,Venice Token,vvv,13.79,11.56638,gainer,4,2026-07-01
+jupiter-exchange-solana,Jupiter,jup,0.233637,11.38179,gainer,5,2026-07-01
+stellar,Stellar,xlm,0.199669,8.17075,gainer,6,2026-07-01
+bitcoin-cash,Bitcoin Cash,bch,213.57,7.24434,gainer,7,2026-07-01
+cardano,Cardano,ada,0.154152,6.61072,gainer,8,2026-07-01
+kaspa,Kaspa,kas,0.03120575,6.06604,gainer,9,2026-07-01
+solana,Solana,sol,77.39,5.44631,gainer,10,2026-07-01
+lab,LAB,lab,8.95,-35.99145,loser,1,2026-07-01
+stable-2,​​Stable,stable,0.03325912,-13.69153,loser,2,2026-07-01
+worldcoin-wld,Worldcoin,wld,0.365094,-10.50798,loser,3,2026-07-01
+velvet,Velvet,velvet,1.5,-3.1274,loser,4,2026-07-01
+hyperliquid,Hyperliquid,hype,63.81,-1.53039,loser,5,2026-07-01
+flare-networks,Flare,flr,0.00640036,-1.26714,loser,6,2026-07-01
+rain,Rain,rain,0.01559771,-0.86548,loser,7,2026-07-01
+canton-network,Canton,cc,0.139986,-0.68262,loser,8,2026-07-01
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.41191,loser,9,2026-07-01
+the-open-network,Gram (prev. Toncoin),gram,1.54,-0.39964,loser,10,2026-07-01
