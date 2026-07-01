@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.691564,17.87761,gainer,1,2026-06-30
-stellar,Stellar,xlm,0.184299,4.18212,gainer,2,2026-06-30
-audiera,Audiera,beat,2.8,3.91766,gainer,3,2026-06-30
-morpho,Morpho,morpho,1.89,3.40073,gainer,4,2026-06-30
-dexe,DeXe,dexe,23.04,2.50853,gainer,5,2026-06-30
-adi-token,ADI,adi,5.52,0.73351,gainer,6,2026-06-30
-pax-gold,PAX Gold,paxg,4014.85,0.26588,gainer,7,2026-06-30
-tether-gold,Tether Gold,xaut,4012.03,0.16707,gainer,8,2026-06-30
-usd1-wlfi,USD1,usd1,0.99906,0.03507,gainer,9,2026-06-30
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.13,0.02848,gainer,10,2026-06-30
-venice-token,Venice Token,vvv,12.31,-10.21408,loser,1,2026-06-30
-ethena,Ethena,ena,0.070804,-10.09424,loser,2,2026-06-30
-lab,LAB,lab,13.85,-9.00004,loser,3,2026-06-30
-aave,Aave,aave,85.22,-8.28256,loser,4,2026-06-30
-velvet,Velvet,velvet,1.55,-7.7439,loser,5,2026-06-30
-uniswap,Uniswap,uni,2.79,-6.47792,loser,6,2026-06-30
-near,NEAR Protocol,near,1.8,-5.35393,loser,7,2026-06-30
-worldcoin-wld,Worldcoin,wld,0.407615,-5.3413,loser,8,2026-06-30
-algorand,Algorand,algo,0.082357,-4.59321,loser,9,2026-06-30
-the-open-network,Gram (prev. Toncoin),gram,1.55,-4.5904,loser,10,2026-06-30
+memecore,MemeCore,m,0.757884,22.40575,gainer,1,2026-07-01
+whitebit,WhiteBIT Coin,wbt,54.02,13.63923,gainer,2,2026-07-01
+stellar,Stellar,xlm,0.20007,12.02704,gainer,3,2026-07-01
+audiera,Audiera,beat,2.89,3.70951,gainer,4,2026-07-01
+dexe,DeXe,dexe,23.23,1.04369,gainer,5,2026-07-01
+polkadot,Polkadot,dot,0.822367,0.91953,gainer,6,2026-07-01
+bitcoin-cash,Bitcoin Cash,bch,200.49,0.89423,gainer,7,2026-07-01
+aster-2,Aster,aster,0.626249,0.72811,gainer,8,2026-07-01
+morpho,Morpho,morpho,1.91,0.6863,gainer,9,2026-07-01
+cardano,Cardano,ada,0.144724,0.48362,gainer,10,2026-07-01
+bianrensheng,币安人生 (BinanceLife),币安人生,0.613187,-10.28594,loser,1,2026-07-01
+lab,LAB,lab,13.32,-8.59262,loser,2,2026-07-01
+ethena,Ethena,ena,0.071662,-7.81876,loser,3,2026-07-01
+pump-fun,Pump.fun,pump,0.00138316,-6.75803,loser,4,2026-07-01
+beldex,Beldex,bdx,0.084358,-6.1494,loser,5,2026-07-01
+mantle,Mantle,mnt,0.406576,-4.9675,loser,6,2026-07-01
+aave,Aave,aave,86.04,-4.96512,loser,7,2026-07-01
+venice-token,Venice Token,vvv,12.31,-4.8451,loser,8,2026-07-01
+the-open-network,Gram (prev. Toncoin),gram,1.52,-4.73188,loser,9,2026-07-01
+near,NEAR Protocol,near,1.77,-3.58949,loser,10,2026-07-01
