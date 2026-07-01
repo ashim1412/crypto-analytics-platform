@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-whitebit,WhiteBIT Coin,wbt,54.15,14.84718,gainer,1,2026-07-01
-jupiter-exchange-solana,Jupiter,jup,0.232377,13.80031,gainer,2,2026-07-01
-memecore,MemeCore,m,0.764907,13.38095,gainer,3,2026-07-01
-stellar,Stellar,xlm,0.201477,12.24692,gainer,4,2026-07-01
-canton-network,Canton,cc,0.148471,5.97834,gainer,5,2026-07-01
-cardano,Cardano,ada,0.150725,4.45436,gainer,6,2026-07-01
-just,JUST,jst,0.088569,3.95194,gainer,7,2026-07-01
-morpho,Morpho,morpho,1.96,3.93983,gainer,8,2026-07-01
-polkadot,Polkadot,dot,0.836265,3.10253,gainer,9,2026-07-01
-bitcoin-cash,Bitcoin Cash,bch,204.52,2.59126,gainer,10,2026-07-01
-lab,LAB,lab,9.79,-29.28867,loser,1,2026-07-01
-audiera,Audiera,beat,2.6,-6.64786,loser,2,2026-07-01
-venice-token,Venice Token,vvv,12.36,-6.25187,loser,3,2026-07-01
-mantle,Mantle,mnt,0.403971,-5.33659,loser,4,2026-07-01
-bianrensheng,币安人生 (BinanceLife),币安人生,0.658824,-4.72617,loser,5,2026-07-01
-beldex,Beldex,bdx,0.085581,-4.44498,loser,6,2026-07-01
-worldcoin-wld,Worldcoin,wld,0.395932,-4.23437,loser,7,2026-07-01
-kucoin-shares,KuCoin,kcs,6.7,-3.43706,loser,8,2026-07-01
-leo-token,LEO Token,leo,9.21,-3.03356,loser,9,2026-07-01
-figure-heloc,Figure Heloc,figr_heloc,1.014,-3.00095,loser,10,2026-07-01
+memecore,MemeCore,m,1.051,53.38452,gainer,1,2026-07-01
+jupiter-exchange-solana,Jupiter,jup,0.238329,15.6411,gainer,2,2026-07-01
+whitebit,WhiteBIT Coin,wbt,54.09,15.40989,gainer,3,2026-07-01
+morpho,Morpho,morpho,2.12,13.31244,gainer,4,2026-07-01
+stellar,Stellar,xlm,0.197114,11.89971,gainer,5,2026-07-01
+cardano,Cardano,ada,0.153407,6.09643,gainer,6,2026-07-01
+bitcoin-cash,Bitcoin Cash,bch,207.73,5.47615,gainer,7,2026-07-01
+canton-network,Canton,cc,0.144546,4.42589,gainer,8,2026-07-01
+solana,Solana,sol,75.86,4.35793,gainer,9,2026-07-01
+polkadot,Polkadot,dot,0.839585,3.77654,gainer,10,2026-07-01
+lab,LAB,lab,9.03,-31.36173,loser,1,2026-07-01
+velvet,Velvet,velvet,1.43,-10.11513,loser,2,2026-07-01
+audiera,Audiera,beat,2.52,-8.78658,loser,3,2026-07-01
+bianrensheng,币安人生 (BinanceLife),币安人生,0.641584,-6.85716,loser,4,2026-07-01
+stable-2,​​Stable,stable,0.0364519,-6.43328,loser,5,2026-07-01
+worldcoin-wld,Worldcoin,wld,0.394024,-3.46028,loser,6,2026-07-01
+monero,Monero,xmr,304.98,-3.0381,loser,7,2026-07-01
+figure-heloc,Figure Heloc,figr_heloc,1.014,-3.02605,loser,8,2026-07-01
+sky,Sky,sky,0.052887,-2.64575,loser,9,2026-07-01
+bittensor,Bittensor,tao,199.88,-2.25469,loser,10,2026-07-01
