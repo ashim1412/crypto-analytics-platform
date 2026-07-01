@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.757884,22.40575,gainer,1,2026-07-01
-whitebit,WhiteBIT Coin,wbt,54.02,13.63923,gainer,2,2026-07-01
-stellar,Stellar,xlm,0.20007,12.02704,gainer,3,2026-07-01
-audiera,Audiera,beat,2.89,3.70951,gainer,4,2026-07-01
-dexe,DeXe,dexe,23.23,1.04369,gainer,5,2026-07-01
-polkadot,Polkadot,dot,0.822367,0.91953,gainer,6,2026-07-01
-bitcoin-cash,Bitcoin Cash,bch,200.49,0.89423,gainer,7,2026-07-01
-aster-2,Aster,aster,0.626249,0.72811,gainer,8,2026-07-01
-morpho,Morpho,morpho,1.91,0.6863,gainer,9,2026-07-01
-cardano,Cardano,ada,0.144724,0.48362,gainer,10,2026-07-01
-bianrensheng,币安人生 (BinanceLife),币安人生,0.613187,-10.28594,loser,1,2026-07-01
-lab,LAB,lab,13.32,-8.59262,loser,2,2026-07-01
-ethena,Ethena,ena,0.071662,-7.81876,loser,3,2026-07-01
-pump-fun,Pump.fun,pump,0.00138316,-6.75803,loser,4,2026-07-01
-beldex,Beldex,bdx,0.084358,-6.1494,loser,5,2026-07-01
-mantle,Mantle,mnt,0.406576,-4.9675,loser,6,2026-07-01
-aave,Aave,aave,86.04,-4.96512,loser,7,2026-07-01
-venice-token,Venice Token,vvv,12.31,-4.8451,loser,8,2026-07-01
-the-open-network,Gram (prev. Toncoin),gram,1.52,-4.73188,loser,9,2026-07-01
-near,NEAR Protocol,near,1.77,-3.58949,loser,10,2026-07-01
+whitebit,WhiteBIT Coin,wbt,54.15,14.84718,gainer,1,2026-07-01
+jupiter-exchange-solana,Jupiter,jup,0.232377,13.80031,gainer,2,2026-07-01
+memecore,MemeCore,m,0.764907,13.38095,gainer,3,2026-07-01
+stellar,Stellar,xlm,0.201477,12.24692,gainer,4,2026-07-01
+canton-network,Canton,cc,0.148471,5.97834,gainer,5,2026-07-01
+cardano,Cardano,ada,0.150725,4.45436,gainer,6,2026-07-01
+just,JUST,jst,0.088569,3.95194,gainer,7,2026-07-01
+morpho,Morpho,morpho,1.96,3.93983,gainer,8,2026-07-01
+polkadot,Polkadot,dot,0.836265,3.10253,gainer,9,2026-07-01
+bitcoin-cash,Bitcoin Cash,bch,204.52,2.59126,gainer,10,2026-07-01
+lab,LAB,lab,9.79,-29.28867,loser,1,2026-07-01
+audiera,Audiera,beat,2.6,-6.64786,loser,2,2026-07-01
+venice-token,Venice Token,vvv,12.36,-6.25187,loser,3,2026-07-01
+mantle,Mantle,mnt,0.403971,-5.33659,loser,4,2026-07-01
+bianrensheng,币安人生 (BinanceLife),币安人生,0.658824,-4.72617,loser,5,2026-07-01
+beldex,Beldex,bdx,0.085581,-4.44498,loser,6,2026-07-01
+worldcoin-wld,Worldcoin,wld,0.395932,-4.23437,loser,7,2026-07-01
+kucoin-shares,KuCoin,kcs,6.7,-3.43706,loser,8,2026-07-01
+leo-token,LEO Token,leo,9.21,-3.03356,loser,9,2026-07-01
+figure-heloc,Figure Heloc,figr_heloc,1.014,-3.00095,loser,10,2026-07-01
