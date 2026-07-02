@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.29,69.29173,gainer,1,2026-07-02
-lighter,Lighter,lit,2.15,15.4886,gainer,2,2026-07-02
-near,NEAR Protocol,near,1.93,8.83909,gainer,3,2026-07-02
-morpho,Morpho,morpho,2.1,8.73329,gainer,4,2026-07-02
-ethena,Ethena,ena,0.076627,7.97511,gainer,5,2026-07-02
-pump-fun,Pump.fun,pump,0.0015024,7.41944,gainer,6,2026-07-02
-ondo-finance,Ondo,ondo,0.331784,7.36228,gainer,7,2026-07-02
-mantle,Mantle,mnt,0.428711,6.63258,gainer,8,2026-07-02
-venice-token,Venice Token,vvv,13.19,6.3699,gainer,9,2026-07-02
-filecoin,Filecoin,fil,0.762814,6.34725,gainer,10,2026-07-02
-lab,LAB,lab,9.26,-11.41023,loser,1,2026-07-02
-stable-2,​​Stable,stable,0.03481579,-8.15468,loser,2,2026-07-02
-worldcoin-wld,Worldcoin,wld,0.370621,-5.26206,loser,3,2026-07-02
-canton-network,Canton,cc,0.139242,-5.20156,loser,4,2026-07-02
-dexe,DeXe,dexe,22.25,-2.66118,loser,5,2026-07-02
-okb,OKB,okb,78.79,-2.06182,loser,6,2026-07-02
-stellar,Stellar,xlm,0.196854,-1.43862,loser,7,2026-07-02
-world-liberty-financial,World Liberty Financial,wlfi,0.058149,-0.9599,loser,8,2026-07-02
-rain,Rain,rain,0.01543913,-0.90127,loser,9,2026-07-02
-aave,Aave,aave,84.94,-0.74234,loser,10,2026-07-02
+memecore,MemeCore,m,1.64,63.10704,gainer,1,2026-07-02
+audiera,Audiera,beat,2.84,21.66062,gainer,2,2026-07-02
+lighter,Lighter,lit,2.18,16.5804,gainer,3,2026-07-02
+uniswap,Uniswap,uni,3.14,14.62049,gainer,4,2026-07-02
+zcash,Zcash,zec,447.61,11.49918,gainer,5,2026-07-02
+pump-fun,Pump.fun,pump,0.00156879,11.41657,gainer,6,2026-07-02
+ethena,Ethena,ena,0.078297,9.71939,gainer,7,2026-07-02
+venice-token,Venice Token,vvv,13.55,9.69377,gainer,8,2026-07-02
+nexo,NEXO,nexo,0.767865,9.14956,gainer,9,2026-07-02
+ondo-finance,Ondo,ondo,0.336113,8.66458,gainer,10,2026-07-02
+stable-2,​​Stable,stable,0.03403905,-7.4931,loser,1,2026-07-02
+dexe,DeXe,dexe,22.3,-3.3601,loser,2,2026-07-02
+canton-network,Canton,cc,0.140464,-3.16535,loser,3,2026-07-02
+worldcoin-wld,Worldcoin,wld,0.381936,-1.82438,loser,4,2026-07-02
+leo-token,LEO Token,leo,9.08,-1.56408,loser,5,2026-07-02
+morpho,Morpho,morpho,2.09,-1.30937,loser,6,2026-07-02
+just,JUST,jst,0.087914,-0.53102,loser,7,2026-07-02
+rain,Rain,rain,0.01551282,-0.30533,loser,8,2026-07-02
+usd1-wlfi,USD1,usd1,0.998425,-0.06735,loser,9,2026-07-02
+usdd,USDD,usdd,0.998627,-0.02703,loser,10,2026-07-02
