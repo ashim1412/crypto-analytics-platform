@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.19,72.43203,gainer,1,2026-07-01
-whitebit,WhiteBIT Coin,wbt,54.93,17.78064,gainer,2,2026-07-01
-morpho,Morpho,morpho,2.11,11.78257,gainer,3,2026-07-01
-venice-token,Venice Token,vvv,13.79,11.56638,gainer,4,2026-07-01
-jupiter-exchange-solana,Jupiter,jup,0.233637,11.38179,gainer,5,2026-07-01
-stellar,Stellar,xlm,0.199669,8.17075,gainer,6,2026-07-01
-bitcoin-cash,Bitcoin Cash,bch,213.57,7.24434,gainer,7,2026-07-01
-cardano,Cardano,ada,0.154152,6.61072,gainer,8,2026-07-01
-kaspa,Kaspa,kas,0.03120575,6.06604,gainer,9,2026-07-01
-solana,Solana,sol,77.39,5.44631,gainer,10,2026-07-01
-lab,LAB,lab,8.95,-35.99145,loser,1,2026-07-01
-stable-2,​​Stable,stable,0.03325912,-13.69153,loser,2,2026-07-01
-worldcoin-wld,Worldcoin,wld,0.365094,-10.50798,loser,3,2026-07-01
-velvet,Velvet,velvet,1.5,-3.1274,loser,4,2026-07-01
-hyperliquid,Hyperliquid,hype,63.81,-1.53039,loser,5,2026-07-01
-flare-networks,Flare,flr,0.00640036,-1.26714,loser,6,2026-07-01
-rain,Rain,rain,0.01559771,-0.86548,loser,7,2026-07-01
-canton-network,Canton,cc,0.139986,-0.68262,loser,8,2026-07-01
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.2,-0.41191,loser,9,2026-07-01
-the-open-network,Gram (prev. Toncoin),gram,1.54,-0.39964,loser,10,2026-07-01
+memecore,MemeCore,m,1.21,60.08136,gainer,1,2026-07-02
+bianrensheng,币安人生 (BinanceLife),币安人生,0.696382,13.27135,gainer,2,2026-07-02
+jupiter-exchange-solana,Jupiter,jup,0.237477,12.42028,gainer,3,2026-07-02
+morpho,Morpho,morpho,2.15,12.08371,gainer,4,2026-07-02
+ondo-finance,Ondo,ondo,0.335401,8.56665,gainer,5,2026-07-02
+bitcoin-cash,Bitcoin Cash,bch,215.03,7.17235,gainer,6,2026-07-02
+cardano,Cardano,ada,0.154534,6.79847,gainer,7,2026-07-02
+near,NEAR Protocol,near,1.88,6.45139,gainer,8,2026-07-02
+solana,Solana,sol,78.05,5.61246,gainer,9,2026-07-02
+venice-token,Venice Token,vvv,13.06,5.56646,gainer,10,2026-07-02
+lab,LAB,lab,8.96,-33.14464,loser,1,2026-07-02
+stable-2,​​Stable,stable,0.03477108,-10.11962,loser,2,2026-07-02
+worldcoin-wld,Worldcoin,wld,0.36914,-9.22311,loser,3,2026-07-02
+velvet,Velvet,velvet,1.49,-6.54402,loser,4,2026-07-02
+audiera,Audiera,beat,2.79,-3.11374,loser,5,2026-07-02
+hyperliquid,Hyperliquid,hype,62.78,-2.48232,loser,6,2026-07-02
+stellar,Stellar,xlm,0.195846,-2.02417,loser,7,2026-07-02
+aave,Aave,aave,84.26,-1.96407,loser,8,2026-07-02
+rain,Rain,rain,0.01555433,-1.33038,loser,9,2026-07-02
+dexe,DeXe,dexe,23.03,-0.85184,loser,10,2026-07-02
