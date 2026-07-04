@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pepe,Pepe,pepe,2.74e-06,11.47045,gainer,1,2026-07-04
-crypto-com-chain,Cronos,cro,0.060809,7.71071,gainer,2,2026-07-04
-cardano,Cardano,ada,0.177314,7.25021,gainer,3,2026-07-04
-zcash,Zcash,zec,458.62,5.32879,gainer,4,2026-07-04
-hyperliquid,Hyperliquid,hype,70.21,5.05631,gainer,5,2026-07-04
-flare-networks,Flare,flr,0.00699543,4.8609,gainer,6,2026-07-04
-pump-fun,Pump.fun,pump,0.00160689,4.00651,gainer,7,2026-07-04
-ripple,XRP,xrp,1.14,3.86557,gainer,8,2026-07-04
-midnight-3,Midnight,night,0.03320799,3.74065,gainer,9,2026-07-04
-just,JUST,jst,0.090914,3.20742,gainer,10,2026-07-04
-lab,LAB,lab,6.04,-48.58633,loser,1,2026-07-04
-audiera,Audiera,beat,2.69,-15.68567,loser,2,2026-07-04
-venice-token,Venice Token,vvv,12.21,-10.92542,loser,3,2026-07-04
-memecore,MemeCore,m,1.55,-5.24414,loser,4,2026-07-04
-world-liberty-financial,World Liberty Financial,wlfi,0.05637,-3.20748,loser,5,2026-07-04
-morpho,Morpho,morpho,1.98,-2.98461,loser,6,2026-07-04
-figure-heloc,Figure Heloc,figr_heloc,1.009,-2.89133,loser,7,2026-07-04
-sky,Sky,sky,0.0587,-1.9511,loser,8,2026-07-04
-render-token,Render,render,1.59,-1.28594,loser,9,2026-07-04
-jupiter-exchange-solana,Jupiter,jup,0.240958,-1.12032,loser,10,2026-07-04
+lab,LAB,lab,9.69,23.25792,gainer,1,2026-07-04
+pepe,Pepe,pepe,2.72e-06,10.04102,gainer,2,2026-07-04
+the-open-network,Gram (prev. Toncoin),gram,1.8,7.63355,gainer,3,2026-07-04
+cardano,Cardano,ada,0.175933,6.74148,gainer,4,2026-07-04
+crypto-com-chain,Cronos,cro,0.060399,5.97688,gainer,5,2026-07-04
+lighter,Lighter,lit,2.17,5.88795,gainer,6,2026-07-04
+audiera,Audiera,beat,3.01,5.65885,gainer,7,2026-07-04
+hyperliquid,Hyperliquid,hype,71.26,5.58531,gainer,8,2026-07-04
+zcash,Zcash,zec,461.79,4.818,gainer,9,2026-07-04
+flare-networks,Flare,flr,0.00698592,4.60442,gainer,10,2026-07-04
+memecore,MemeCore,m,1.61,-7.46956,loser,1,2026-07-04
+venice-token,Venice Token,vvv,13.03,-6.85103,loser,2,2026-07-04
+stable-2,​​Stable,stable,0.03436644,-3.08404,loser,3,2026-07-04
+figure-heloc,Figure Heloc,figr_heloc,1.009,-2.90174,loser,4,2026-07-04
+jupiter-exchange-solana,Jupiter,jup,0.236272,-2.9004,loser,5,2026-07-04
+world-liberty-financial,World Liberty Financial,wlfi,0.055592,-2.75105,loser,6,2026-07-04
+pi-network,Pi Network,pi,0.116097,-1.63218,loser,7,2026-07-04
+morpho,Morpho,morpho,1.96,-1.603,loser,8,2026-07-04
+sky,Sky,sky,0.058205,-1.18017,loser,9,2026-07-04
+render-token,Render,render,1.59,-1.16423,loser,10,2026-07-04
