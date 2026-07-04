@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cardano,Cardano,ada,0.17943,12.25279,gainer,1,2026-07-03
-worldcoin-wld,Worldcoin,wld,0.430365,9.33669,gainer,2,2026-07-03
-crypto-com-chain,Cronos,cro,0.06108,8.41914,gainer,3,2026-07-03
-pepe,Pepe,pepe,2.57e-06,6.04291,gainer,4,2026-07-03
-midnight-3,Midnight,night,0.03299026,5.86926,gainer,5,2026-07-03
-hyperliquid,Hyperliquid,hype,70.4,5.3382,gainer,6,2026-07-03
-pump-fun,Pump.fun,pump,0.00163118,4.88409,gainer,7,2026-07-03
-polkadot,Polkadot,dot,0.881959,4.36154,gainer,8,2026-07-03
-zcash,Zcash,zec,460.74,4.25903,gainer,9,2026-07-03
-flare-networks,Flare,flr,0.00696676,3.769,gainer,10,2026-07-03
-lab,LAB,lab,5.9,-42.60454,loser,1,2026-07-03
-audiera,Audiera,beat,2.73,-9.59264,loser,2,2026-07-03
-morpho,Morpho,morpho,1.95,-7.33793,loser,3,2026-07-03
-memecore,MemeCore,m,1.53,-3.26435,loser,4,2026-07-03
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.073042,-2.41694,loser,5,2026-07-03
-world-liberty-financial,World Liberty Financial,wlfi,0.056553,-2.09896,loser,6,2026-07-03
-nexo,NEXO,nexo,0.761466,-1.59542,loser,7,2026-07-03
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.64485,loser,8,2026-07-03
-hedera-hashgraph,Hedera,hbar,0.072536,-0.53817,loser,9,2026-07-03
-mantle,Mantle,mnt,0.439446,-0.44812,loser,10,2026-07-03
+pepe,Pepe,pepe,2.74e-06,11.47045,gainer,1,2026-07-04
+crypto-com-chain,Cronos,cro,0.060809,7.71071,gainer,2,2026-07-04
+cardano,Cardano,ada,0.177314,7.25021,gainer,3,2026-07-04
+zcash,Zcash,zec,458.62,5.32879,gainer,4,2026-07-04
+hyperliquid,Hyperliquid,hype,70.21,5.05631,gainer,5,2026-07-04
+flare-networks,Flare,flr,0.00699543,4.8609,gainer,6,2026-07-04
+pump-fun,Pump.fun,pump,0.00160689,4.00651,gainer,7,2026-07-04
+ripple,XRP,xrp,1.14,3.86557,gainer,8,2026-07-04
+midnight-3,Midnight,night,0.03320799,3.74065,gainer,9,2026-07-04
+just,JUST,jst,0.090914,3.20742,gainer,10,2026-07-04
+lab,LAB,lab,6.04,-48.58633,loser,1,2026-07-04
+audiera,Audiera,beat,2.69,-15.68567,loser,2,2026-07-04
+venice-token,Venice Token,vvv,12.21,-10.92542,loser,3,2026-07-04
+memecore,MemeCore,m,1.55,-5.24414,loser,4,2026-07-04
+world-liberty-financial,World Liberty Financial,wlfi,0.05637,-3.20748,loser,5,2026-07-04
+morpho,Morpho,morpho,1.98,-2.98461,loser,6,2026-07-04
+figure-heloc,Figure Heloc,figr_heloc,1.009,-2.89133,loser,7,2026-07-04
+sky,Sky,sky,0.0587,-1.9511,loser,8,2026-07-04
+render-token,Render,render,1.59,-1.28594,loser,9,2026-07-04
+jupiter-exchange-solana,Jupiter,jup,0.240958,-1.12032,loser,10,2026-07-04
