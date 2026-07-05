@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lab,LAB,lab,16.37,71.7703,gainer,1,2026-07-05
-bianrensheng,币安人生 (BinanceLife),币安人生,0.765845,11.03241,gainer,2,2026-07-05
-cardano,Cardano,ada,0.192707,9.54813,gainer,3,2026-07-05
-bitcoin-cash,Bitcoin Cash,bch,241.04,6.80365,gainer,4,2026-07-05
-lighter,Lighter,lit,2.28,5.03577,gainer,5,2026-07-05
-world-liberty-financial,World Liberty Financial,wlfi,0.057934,3.86387,gainer,6,2026-07-05
-hedera-hashgraph,Hedera,hbar,0.074972,3.49205,gainer,7,2026-07-05
-midnight-3,Midnight,night,0.03340353,2.76165,gainer,8,2026-07-05
-just,JUST,jst,0.092707,2.72967,gainer,9,2026-07-05
-aerodrome-finance,Aerodrome Finance,aero,0.577513,2.62291,gainer,10,2026-07-05
-memecore,MemeCore,m,1.41,-11.04528,loser,1,2026-07-05
-audiera,Audiera,beat,2.76,-6.88503,loser,2,2026-07-05
-sky,Sky,sky,0.055234,-5.16986,loser,3,2026-07-05
-pump-fun,Pump.fun,pump,0.00152868,-4.98418,loser,4,2026-07-05
-stellar,Stellar,xlm,0.198981,-3.71425,loser,5,2026-07-05
-hyperliquid,Hyperliquid,hype,68.6,-3.6948,loser,6,2026-07-05
-solana,Solana,sol,80.49,-2.4134,loser,7,2026-07-05
-the-open-network,Gram (prev. Toncoin),gram,1.76,-2.17502,loser,8,2026-07-05
-worldcoin-wld,Worldcoin,wld,0.414791,-2.11614,loser,9,2026-07-05
-pepe,Pepe,pepe,2.67e-06,-1.85024,loser,10,2026-07-05
+lab,LAB,lab,16.19,24.19265,gainer,1,2026-07-05
+lighter,Lighter,lit,2.38,7.10204,gainer,2,2026-07-05
+bianrensheng,币安人生 (BinanceLife),币安人生,0.758202,6.81737,gainer,3,2026-07-05
+bitcoin-cash,Bitcoin Cash,bch,241.16,6.74959,gainer,4,2026-07-05
+cardano,Cardano,ada,0.187566,5.58386,gainer,5,2026-07-05
+world-liberty-financial,World Liberty Financial,wlfi,0.059096,4.9226,gainer,6,2026-07-05
+dexe,DeXe,dexe,24.61,4.07578,gainer,7,2026-07-05
+midnight-3,Midnight,night,0.03382617,3.68339,gainer,8,2026-07-05
+htx-dao,HTX DAO,htx,1.76e-06,3.65294,gainer,9,2026-07-05
+hedera-hashgraph,Hedera,hbar,0.075126,2.14108,gainer,10,2026-07-05
+audiera,Audiera,beat,2.81,-6.77804,loser,1,2026-07-05
+memecore,MemeCore,m,1.4,-4.958,loser,2,2026-07-05
+sky,Sky,sky,0.05497,-4.57281,loser,3,2026-07-05
+venice-token,Venice Token,vvv,11.81,-3.42285,loser,4,2026-07-05
+worldcoin-wld,Worldcoin,wld,0.410893,-3.38819,loser,5,2026-07-05
+the-open-network,Gram (prev. Toncoin),gram,1.77,-3.17813,loser,6,2026-07-05
+ethereum-classic,Ethereum Classic,etc,7.1,-3.00825,loser,7,2026-07-05
+pi-network,Pi Network,pi,0.113337,-2.43938,loser,8,2026-07-05
+cosmos,Cosmos Hub,atom,1.56,-2.4179,loser,9,2026-07-05
+hyperliquid,Hyperliquid,hype,69.19,-2.31352,loser,10,2026-07-05
