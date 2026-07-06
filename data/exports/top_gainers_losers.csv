@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,28.45,16.14026,gainer,1,2026-07-06
-lighter,Lighter,lit,2.53,7.51677,gainer,2,2026-07-06
-lab,LAB,lab,17.15,6.80132,gainer,3,2026-07-06
-aave,Aave,aave,92.94,4.56568,gainer,4,2026-07-06
-beldex,Beldex,bdx,0.091972,2.93235,gainer,5,2026-07-06
-leo-token,LEO Token,leo,9.39,2.17606,gainer,6,2026-07-06
-near,NEAR Protocol,near,2.0,1.54857,gainer,7,2026-07-06
-cosmos,Cosmos Hub,atom,1.57,1.17792,gainer,8,2026-07-06
-pump-fun,Pump.fun,pump,0.00159613,1.03609,gainer,9,2026-07-06
-adi-token,ADI,adi,5.84,0.79813,gainer,10,2026-07-06
-memecore,MemeCore,m,1.13,-19.16376,loser,1,2026-07-06
-audiera,Audiera,beat,2.46,-15.24646,loser,2,2026-07-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.705823,-6.14969,loser,3,2026-07-06
-bitget-token,Bitget Token,bgb,1.64,-4.66439,loser,4,2026-07-06
-cardano,Cardano,ada,0.181268,-4.17076,loser,5,2026-07-06
-world-liberty-financial,World Liberty Financial,wlfi,0.057757,-3.54366,loser,6,2026-07-06
-zcash,Zcash,zec,447.06,-3.31045,loser,7,2026-07-06
-kaspa,Kaspa,kas,0.03006339,-3.24748,loser,8,2026-07-06
-nexo,NEXO,nexo,0.738208,-3.22476,loser,9,2026-07-06
-algorand,Algorand,algo,0.087191,-3.12689,loser,10,2026-07-06
+dexe,DeXe,dexe,28.13,17.57739,gainer,1,2026-07-06
+aave,Aave,aave,96.15,8.72883,gainer,2,2026-07-06
+lighter,Lighter,lit,2.61,8.2224,gainer,3,2026-07-06
+near,NEAR Protocol,near,2.08,4.58372,gainer,4,2026-07-06
+aerodrome-finance,Aerodrome Finance,aero,0.579811,3.67297,gainer,5,2026-07-06
+morpho,Morpho,morpho,1.98,3.34622,gainer,6,2026-07-06
+beldex,Beldex,bdx,0.092015,2.78489,gainer,7,2026-07-06
+ondo-finance,Ondo,ondo,0.338154,2.74307,gainer,8,2026-07-06
+hyperliquid,Hyperliquid,hype,71.54,2.71434,gainer,9,2026-07-06
+pump-fun,Pump.fun,pump,0.00164883,2.60998,gainer,10,2026-07-06
+memecore,MemeCore,m,1.15,-17.11115,loser,1,2026-07-06
+audiera,Audiera,beat,2.53,-7.31209,loser,2,2026-07-06
+lab,LAB,lab,15.83,-6.68445,loser,3,2026-07-06
+canton-network,Canton,cc,0.13757,-2.55575,loser,4,2026-07-06
+cardano,Cardano,ada,0.184254,-2.40163,loser,5,2026-07-06
+kaspa,Kaspa,kas,0.03028606,-2.27435,loser,6,2026-07-06
+sky,Sky,sky,0.055799,-2.22025,loser,7,2026-07-06
+algorand,Algorand,algo,0.088889,-2.14811,loser,8,2026-07-06
+venice-token,Venice Token,vvv,12.03,-2.13508,loser,9,2026-07-06
+rain,Rain,rain,0.01504958,-1.74755,loser,10,2026-07-06
