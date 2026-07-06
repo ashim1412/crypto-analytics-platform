@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,2.56,16.81842,gainer,1,2026-07-06
-pump-fun,Pump.fun,pump,0.00164816,7.69432,gainer,2,2026-07-06
-htx-dao,HTX DAO,htx,1.79e-06,5.3018,gainer,3,2026-07-06
-dexe,DeXe,dexe,24.49,5.28712,gainer,4,2026-07-06
-venice-token,Venice Token,vvv,11.83,5.25694,gainer,5,2026-07-06
-hyperliquid,Hyperliquid,hype,71.82,4.40342,gainer,6,2026-07-06
-jupiter-exchange-solana,Jupiter,jup,0.245101,4.18647,gainer,7,2026-07-06
-canton-network,Canton,cc,0.143952,3.96993,gainer,8,2026-07-06
-binancecoin,BNB,bnb,588.81,3.05613,gainer,9,2026-07-06
-sky,Sky,sky,0.057631,3.01727,gainer,10,2026-07-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.731538,-5.8207,loser,1,2026-07-06
-mantle,Mantle,mnt,0.440833,-1.74202,loser,2,2026-07-06
-rain,Rain,rain,0.01510224,-1.69399,loser,3,2026-07-06
-stellar,Stellar,xlm,0.201492,-1.21523,loser,4,2026-07-06
-audiera,Audiera,beat,2.78,-1.21477,loser,5,2026-07-06
-pi-network,Pi Network,pi,0.113933,-1.09097,loser,6,2026-07-06
-internet-computer,Internet Computer,icp,2.2,-0.99654,loser,7,2026-07-06
-lab,LAB,lab,15.87,-0.99619,loser,8,2026-07-06
-ethereum-classic,Ethereum Classic,etc,7.16,-0.98299,loser,9,2026-07-06
-xdce-crowd-sale,XDC Network,xdc,0.02830748,-0.95175,loser,10,2026-07-06
+dexe,DeXe,dexe,27.47,14.45663,gainer,1,2026-07-06
+lighter,Lighter,lit,2.48,10.24826,gainer,2,2026-07-06
+pump-fun,Pump.fun,pump,0.0016045,5.4565,gainer,3,2026-07-06
+aave,Aave,aave,90.37,3.31172,gainer,4,2026-07-06
+htx-dao,HTX DAO,htx,1.76e-06,2.75673,gainer,5,2026-07-06
+stellar,Stellar,xlm,0.203057,2.36406,gainer,6,2026-07-06
+beldex,Beldex,bdx,0.090267,2.34822,gainer,7,2026-07-06
+cosmos,Cosmos Hub,atom,1.58,2.02485,gainer,8,2026-07-06
+hyperliquid,Hyperliquid,hype,69.82,2.02311,gainer,9,2026-07-06
+near,NEAR Protocol,near,1.97,1.91771,gainer,10,2026-07-06
+audiera,Audiera,beat,2.46,-12.31317,loser,1,2026-07-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.710575,-6.72495,loser,2,2026-07-06
+memecore,MemeCore,m,1.34,-4.345,loser,3,2026-07-06
+morpho,Morpho,morpho,1.91,-4.01783,loser,4,2026-07-06
+cardano,Cardano,ada,0.182181,-3.47252,loser,5,2026-07-06
+bitget-token,Bitget Token,bgb,1.67,-2.43074,loser,6,2026-07-06
+kaspa,Kaspa,kas,0.03033746,-2.19571,loser,7,2026-07-06
+zcash,Zcash,zec,443.84,-2.05281,loser,8,2026-07-06
+just,JUST,jst,0.090675,-2.00878,loser,9,2026-07-06
+rain,Rain,rain,0.01502472,-1.89739,loser,10,2026-07-06
