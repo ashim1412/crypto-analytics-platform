@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,27.47,14.45663,gainer,1,2026-07-06
-lighter,Lighter,lit,2.48,10.24826,gainer,2,2026-07-06
-pump-fun,Pump.fun,pump,0.0016045,5.4565,gainer,3,2026-07-06
-aave,Aave,aave,90.37,3.31172,gainer,4,2026-07-06
-htx-dao,HTX DAO,htx,1.76e-06,2.75673,gainer,5,2026-07-06
-stellar,Stellar,xlm,0.203057,2.36406,gainer,6,2026-07-06
-beldex,Beldex,bdx,0.090267,2.34822,gainer,7,2026-07-06
-cosmos,Cosmos Hub,atom,1.58,2.02485,gainer,8,2026-07-06
-hyperliquid,Hyperliquid,hype,69.82,2.02311,gainer,9,2026-07-06
-near,NEAR Protocol,near,1.97,1.91771,gainer,10,2026-07-06
-audiera,Audiera,beat,2.46,-12.31317,loser,1,2026-07-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.710575,-6.72495,loser,2,2026-07-06
-memecore,MemeCore,m,1.34,-4.345,loser,3,2026-07-06
-morpho,Morpho,morpho,1.91,-4.01783,loser,4,2026-07-06
-cardano,Cardano,ada,0.182181,-3.47252,loser,5,2026-07-06
-bitget-token,Bitget Token,bgb,1.67,-2.43074,loser,6,2026-07-06
-kaspa,Kaspa,kas,0.03033746,-2.19571,loser,7,2026-07-06
-zcash,Zcash,zec,443.84,-2.05281,loser,8,2026-07-06
-just,JUST,jst,0.090675,-2.00878,loser,9,2026-07-06
-rain,Rain,rain,0.01502472,-1.89739,loser,10,2026-07-06
+dexe,DeXe,dexe,28.45,16.14026,gainer,1,2026-07-06
+lighter,Lighter,lit,2.53,7.51677,gainer,2,2026-07-06
+lab,LAB,lab,17.15,6.80132,gainer,3,2026-07-06
+aave,Aave,aave,92.94,4.56568,gainer,4,2026-07-06
+beldex,Beldex,bdx,0.091972,2.93235,gainer,5,2026-07-06
+leo-token,LEO Token,leo,9.39,2.17606,gainer,6,2026-07-06
+near,NEAR Protocol,near,2.0,1.54857,gainer,7,2026-07-06
+cosmos,Cosmos Hub,atom,1.57,1.17792,gainer,8,2026-07-06
+pump-fun,Pump.fun,pump,0.00159613,1.03609,gainer,9,2026-07-06
+adi-token,ADI,adi,5.84,0.79813,gainer,10,2026-07-06
+memecore,MemeCore,m,1.13,-19.16376,loser,1,2026-07-06
+audiera,Audiera,beat,2.46,-15.24646,loser,2,2026-07-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.705823,-6.14969,loser,3,2026-07-06
+bitget-token,Bitget Token,bgb,1.64,-4.66439,loser,4,2026-07-06
+cardano,Cardano,ada,0.181268,-4.17076,loser,5,2026-07-06
+world-liberty-financial,World Liberty Financial,wlfi,0.057757,-3.54366,loser,6,2026-07-06
+zcash,Zcash,zec,447.06,-3.31045,loser,7,2026-07-06
+kaspa,Kaspa,kas,0.03006339,-3.24748,loser,8,2026-07-06
+nexo,NEXO,nexo,0.738208,-3.22476,loser,9,2026-07-06
+algorand,Algorand,algo,0.087191,-3.12689,loser,10,2026-07-06
