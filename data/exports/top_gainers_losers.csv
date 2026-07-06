@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,2.4,10.75954,gainer,1,2026-07-05
-lab,LAB,lab,16.83,8.78308,gainer,2,2026-07-05
-htx-dao,HTX DAO,htx,1.79e-06,5.28432,gainer,3,2026-07-05
-world-liberty-financial,World Liberty Financial,wlfi,0.059482,4.89191,gainer,4,2026-07-05
-bitcoin-cash,Bitcoin Cash,bch,241.76,3.86012,gainer,5,2026-07-05
-jupiter-exchange-solana,Jupiter,jup,0.243343,3.33567,gainer,6,2026-07-05
-just,JUST,jst,0.092433,2.79336,gainer,7,2026-07-05
-binancecoin,BNB,bnb,590.28,2.40511,gainer,8,2026-07-05
-pump-fun,Pump.fun,pump,0.00160836,1.99481,gainer,9,2026-07-05
-dexe,DeXe,dexe,23.8,1.68992,gainer,10,2026-07-05
-audiera,Audiera,beat,2.72,-7.67449,loser,1,2026-07-05
-worldcoin-wld,Worldcoin,wld,0.404154,-7.16583,loser,2,2026-07-05
-stellar,Stellar,xlm,0.200337,-5.06786,loser,3,2026-07-05
-ondo-finance,Ondo,ondo,0.328376,-4.44744,loser,4,2026-07-05
-bianrensheng,币安人生 (BinanceLife),币安人生,0.736471,-4.19086,loser,5,2026-07-05
-memecore,MemeCore,m,1.4,-3.6742,loser,6,2026-07-05
-shiba-inu,Shiba Inu,shib,4.37e-06,-3.43801,loser,7,2026-07-05
-ripple,XRP,xrp,1.14,-3.11768,loser,8,2026-07-05
-venice-token,Venice Token,vvv,11.95,-3.10682,loser,9,2026-07-05
-internet-computer,Internet Computer,icp,2.2,-2.91113,loser,10,2026-07-05
+lighter,Lighter,lit,2.56,16.81842,gainer,1,2026-07-06
+pump-fun,Pump.fun,pump,0.00164816,7.69432,gainer,2,2026-07-06
+htx-dao,HTX DAO,htx,1.79e-06,5.3018,gainer,3,2026-07-06
+dexe,DeXe,dexe,24.49,5.28712,gainer,4,2026-07-06
+venice-token,Venice Token,vvv,11.83,5.25694,gainer,5,2026-07-06
+hyperliquid,Hyperliquid,hype,71.82,4.40342,gainer,6,2026-07-06
+jupiter-exchange-solana,Jupiter,jup,0.245101,4.18647,gainer,7,2026-07-06
+canton-network,Canton,cc,0.143952,3.96993,gainer,8,2026-07-06
+binancecoin,BNB,bnb,588.81,3.05613,gainer,9,2026-07-06
+sky,Sky,sky,0.057631,3.01727,gainer,10,2026-07-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.731538,-5.8207,loser,1,2026-07-06
+mantle,Mantle,mnt,0.440833,-1.74202,loser,2,2026-07-06
+rain,Rain,rain,0.01510224,-1.69399,loser,3,2026-07-06
+stellar,Stellar,xlm,0.201492,-1.21523,loser,4,2026-07-06
+audiera,Audiera,beat,2.78,-1.21477,loser,5,2026-07-06
+pi-network,Pi Network,pi,0.113933,-1.09097,loser,6,2026-07-06
+internet-computer,Internet Computer,icp,2.2,-0.99654,loser,7,2026-07-06
+lab,LAB,lab,15.87,-0.99619,loser,8,2026-07-06
+ethereum-classic,Ethereum Classic,etc,7.16,-0.98299,loser,9,2026-07-06
+xdce-crowd-sale,XDC Network,xdc,0.02830748,-0.95175,loser,10,2026-07-06
