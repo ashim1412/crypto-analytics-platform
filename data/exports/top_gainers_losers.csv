@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,27.56,12.70478,gainer,1,2026-07-07
-aerodrome-finance,Aerodrome Finance,aero,0.59656,4.87369,gainer,2,2026-07-07
-aave,Aave,aave,93.17,4.81468,gainer,3,2026-07-07
-morpho,Morpho,morpho,2.03,4.55717,gainer,4,2026-07-07
-near,NEAR Protocol,near,2.06,2.56901,gainer,5,2026-07-07
-beldex,Beldex,bdx,0.092063,1.98195,gainer,6,2026-07-07
-world-liberty-financial,World Liberty Financial,wlfi,0.05963,1.48273,gainer,7,2026-07-07
-lighter,Lighter,lit,2.59,1.37856,gainer,8,2026-07-07
-midnight-3,Midnight,night,0.03439312,1.33664,gainer,9,2026-07-07
-just,JUST,jst,0.092811,1.28911,gainer,10,2026-07-07
-memecore,MemeCore,m,1.21,-13.77569,loser,1,2026-07-07
-lab,LAB,lab,14.41,-9.15721,loser,2,2026-07-07
-canton-network,Canton,cc,0.137403,-4.52889,loser,3,2026-07-07
-audiera,Audiera,beat,2.64,-4.47568,loser,4,2026-07-07
-hedera-hashgraph,Hedera,hbar,0.073011,-3.73175,loser,5,2026-07-07
-algorand,Algorand,algo,0.087527,-3.29889,loser,6,2026-07-07
-cardano,Cardano,ada,0.183516,-3.26652,loser,7,2026-07-07
-sky,Sky,sky,0.055721,-3.26286,loser,8,2026-07-07
-worldcoin-wld,Worldcoin,wld,0.406551,-3.14372,loser,9,2026-07-07
-kaspa,Kaspa,kas,0.02996965,-2.96195,loser,10,2026-07-07
+dexe,DeXe,dexe,27.9,7.98444,gainer,1,2026-07-07
+morpho,Morpho,morpho,2.01,5.6734,gainer,2,2026-07-07
+audiera,Audiera,beat,2.63,5.09357,gainer,3,2026-07-07
+world-liberty-financial,World Liberty Financial,wlfi,0.060554,4.90645,gainer,4,2026-07-07
+aave,Aave,aave,93.77,4.17127,gainer,5,2026-07-07
+aerodrome-finance,Aerodrome Finance,aero,0.583216,4.09719,gainer,6,2026-07-07
+pump-fun,Pump.fun,pump,0.00166142,3.89672,gainer,7,2026-07-07
+internet-computer,Internet Computer,icp,2.23,3.25325,gainer,8,2026-07-07
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075586,2.98233,gainer,9,2026-07-07
+htx-dao,HTX DAO,htx,1.82e-06,2.89483,gainer,10,2026-07-07
+lab,LAB,lab,13.69,-16.92862,loser,1,2026-07-07
+canton-network,Canton,cc,0.133997,-5.42201,loser,2,2026-07-07
+stellar,Stellar,xlm,0.194027,-5.2933,loser,3,2026-07-07
+hedera-hashgraph,Hedera,hbar,0.07132,-4.46073,loser,4,2026-07-07
+the-open-network,Gram (prev. Toncoin),gram,1.68,-4.14017,loser,5,2026-07-07
+worldcoin-wld,Worldcoin,wld,0.396285,-3.85669,loser,6,2026-07-07
+kaspa,Kaspa,kas,0.02952979,-2.96198,loser,7,2026-07-07
+lighter,Lighter,lit,2.5,-2.87603,loser,8,2026-07-07
+cardano,Cardano,ada,0.179298,-2.56129,loser,9,2026-07-07
+crypto-com-chain,Cronos,cro,0.058002,-2.48754,loser,10,2026-07-07
