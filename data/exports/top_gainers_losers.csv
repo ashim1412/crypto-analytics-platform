@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,28.13,17.57739,gainer,1,2026-07-06
-aave,Aave,aave,96.15,8.72883,gainer,2,2026-07-06
-lighter,Lighter,lit,2.61,8.2224,gainer,3,2026-07-06
-near,NEAR Protocol,near,2.08,4.58372,gainer,4,2026-07-06
-aerodrome-finance,Aerodrome Finance,aero,0.579811,3.67297,gainer,5,2026-07-06
-morpho,Morpho,morpho,1.98,3.34622,gainer,6,2026-07-06
-beldex,Beldex,bdx,0.092015,2.78489,gainer,7,2026-07-06
-ondo-finance,Ondo,ondo,0.338154,2.74307,gainer,8,2026-07-06
-hyperliquid,Hyperliquid,hype,71.54,2.71434,gainer,9,2026-07-06
-pump-fun,Pump.fun,pump,0.00164883,2.60998,gainer,10,2026-07-06
-memecore,MemeCore,m,1.15,-17.11115,loser,1,2026-07-06
-audiera,Audiera,beat,2.53,-7.31209,loser,2,2026-07-06
-lab,LAB,lab,15.83,-6.68445,loser,3,2026-07-06
-canton-network,Canton,cc,0.13757,-2.55575,loser,4,2026-07-06
-cardano,Cardano,ada,0.184254,-2.40163,loser,5,2026-07-06
-kaspa,Kaspa,kas,0.03028606,-2.27435,loser,6,2026-07-06
-sky,Sky,sky,0.055799,-2.22025,loser,7,2026-07-06
-algorand,Algorand,algo,0.088889,-2.14811,loser,8,2026-07-06
-venice-token,Venice Token,vvv,12.03,-2.13508,loser,9,2026-07-06
-rain,Rain,rain,0.01504958,-1.74755,loser,10,2026-07-06
+dexe,DeXe,dexe,27.56,12.70478,gainer,1,2026-07-07
+aerodrome-finance,Aerodrome Finance,aero,0.59656,4.87369,gainer,2,2026-07-07
+aave,Aave,aave,93.17,4.81468,gainer,3,2026-07-07
+morpho,Morpho,morpho,2.03,4.55717,gainer,4,2026-07-07
+near,NEAR Protocol,near,2.06,2.56901,gainer,5,2026-07-07
+beldex,Beldex,bdx,0.092063,1.98195,gainer,6,2026-07-07
+world-liberty-financial,World Liberty Financial,wlfi,0.05963,1.48273,gainer,7,2026-07-07
+lighter,Lighter,lit,2.59,1.37856,gainer,8,2026-07-07
+midnight-3,Midnight,night,0.03439312,1.33664,gainer,9,2026-07-07
+just,JUST,jst,0.092811,1.28911,gainer,10,2026-07-07
+memecore,MemeCore,m,1.21,-13.77569,loser,1,2026-07-07
+lab,LAB,lab,14.41,-9.15721,loser,2,2026-07-07
+canton-network,Canton,cc,0.137403,-4.52889,loser,3,2026-07-07
+audiera,Audiera,beat,2.64,-4.47568,loser,4,2026-07-07
+hedera-hashgraph,Hedera,hbar,0.073011,-3.73175,loser,5,2026-07-07
+algorand,Algorand,algo,0.087527,-3.29889,loser,6,2026-07-07
+cardano,Cardano,ada,0.183516,-3.26652,loser,7,2026-07-07
+sky,Sky,sky,0.055721,-3.26286,loser,8,2026-07-07
+worldcoin-wld,Worldcoin,wld,0.406551,-3.14372,loser,9,2026-07-07
+kaspa,Kaspa,kas,0.02996965,-2.96195,loser,10,2026-07-07
