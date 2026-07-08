@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.35,17.73987,gainer,1,2026-07-07
-zcash,Zcash,zec,491.72,9.23657,gainer,2,2026-07-07
-htx-dao,HTX DAO,htx,1.87e-06,5.39064,gainer,3,2026-07-07
-stable-2,​​Stable,stable,0.03541691,3.46496,gainer,4,2026-07-07
-dexe,DeXe,dexe,28.97,2.92785,gainer,5,2026-07-07
-morpho,Morpho,morpho,2.01,1.63677,gainer,6,2026-07-07
-monero,Monero,xmr,328.19,1.32342,gainer,7,2026-07-07
-uniswap,Uniswap,uni,3.24,0.89208,gainer,8,2026-07-07
-tron,TRON,trx,0.331293,0.85636,gainer,9,2026-07-07
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.075903,0.63194,gainer,10,2026-07-07
-lab,LAB,lab,5.95,-63.00744,loser,1,2026-07-07
-the-open-network,Gram (prev. Toncoin),gram,1.63,-7.7777,loser,2,2026-07-07
-aave,Aave,aave,90.35,-5.99729,loser,3,2026-07-07
-worldcoin-wld,Worldcoin,wld,0.388661,-5.97276,loser,4,2026-07-07
-audiera,Audiera,beat,2.38,-5.76001,loser,5,2026-07-07
-stellar,Stellar,xlm,0.190156,-4.74769,loser,6,2026-07-07
-cardano,Cardano,ada,0.175545,-4.66564,loser,7,2026-07-07
-hedera-hashgraph,Hedera,hbar,0.071517,-3.81054,loser,8,2026-07-07
-avalanche-2,Avalanche,avax,6.71,-3.78846,loser,9,2026-07-07
-mantle,Mantle,mnt,0.422804,-3.73211,loser,10,2026-07-07
+memecore,MemeCore,m,1.36,11.89371,gainer,1,2026-07-08
+zcash,Zcash,zec,483.92,6.37664,gainer,2,2026-07-08
+htx-dao,HTX DAO,htx,1.86e-06,4.93836,gainer,3,2026-07-08
+monero,Monero,xmr,335.99,4.21992,gainer,4,2026-07-08
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.077,3.23021,gainer,5,2026-07-08
+stable-2,​​Stable,stable,0.0351147,2.95777,gainer,6,2026-07-08
+uniswap,Uniswap,uni,3.25,2.83526,gainer,7,2026-07-08
+dexe,DeXe,dexe,28.04,1.51457,gainer,8,2026-07-08
+internet-computer,Internet Computer,icp,2.23,0.78496,gainer,9,2026-07-08
+jupiter-exchange-solana,Jupiter,jup,0.240089,0.71826,gainer,10,2026-07-08
+lab,LAB,lab,6.32,-56.86732,loser,1,2026-07-08
+the-open-network,Gram (prev. Toncoin),gram,1.61,-8.92683,loser,2,2026-07-08
+audiera,Audiera,beat,2.46,-5.77548,loser,3,2026-07-08
+worldcoin-wld,Worldcoin,wld,0.38483,-5.32328,loser,4,2026-07-08
+stellar,Stellar,xlm,0.188682,-5.11604,loser,5,2026-07-08
+lighter,Lighter,lit,2.46,-4.86835,loser,6,2026-07-08
+canton-network,Canton,cc,0.131086,-4.63981,loser,7,2026-07-08
+cardano,Cardano,ada,0.175709,-4.43405,loser,8,2026-07-08
+mantle,Mantle,mnt,0.422565,-4.32189,loser,9,2026-07-08
+aerodrome-finance,Aerodrome Finance,aero,0.565224,-4.03189,loser,10,2026-07-08
