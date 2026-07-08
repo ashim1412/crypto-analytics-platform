@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.36,11.89371,gainer,1,2026-07-08
-zcash,Zcash,zec,483.92,6.37664,gainer,2,2026-07-08
-htx-dao,HTX DAO,htx,1.86e-06,4.93836,gainer,3,2026-07-08
-monero,Monero,xmr,335.99,4.21992,gainer,4,2026-07-08
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.077,3.23021,gainer,5,2026-07-08
-stable-2,​​Stable,stable,0.0351147,2.95777,gainer,6,2026-07-08
-uniswap,Uniswap,uni,3.25,2.83526,gainer,7,2026-07-08
-dexe,DeXe,dexe,28.04,1.51457,gainer,8,2026-07-08
-internet-computer,Internet Computer,icp,2.23,0.78496,gainer,9,2026-07-08
-jupiter-exchange-solana,Jupiter,jup,0.240089,0.71826,gainer,10,2026-07-08
-lab,LAB,lab,6.32,-56.86732,loser,1,2026-07-08
-the-open-network,Gram (prev. Toncoin),gram,1.61,-8.92683,loser,2,2026-07-08
-audiera,Audiera,beat,2.46,-5.77548,loser,3,2026-07-08
-worldcoin-wld,Worldcoin,wld,0.38483,-5.32328,loser,4,2026-07-08
-stellar,Stellar,xlm,0.188682,-5.11604,loser,5,2026-07-08
-lighter,Lighter,lit,2.46,-4.86835,loser,6,2026-07-08
-canton-network,Canton,cc,0.131086,-4.63981,loser,7,2026-07-08
-cardano,Cardano,ada,0.175709,-4.43405,loser,8,2026-07-08
-mantle,Mantle,mnt,0.422565,-4.32189,loser,9,2026-07-08
-aerodrome-finance,Aerodrome Finance,aero,0.565224,-4.03189,loser,10,2026-07-08
+memecore,MemeCore,m,1.46,15.85708,gainer,1,2026-07-08
+zcash,Zcash,zec,475.91,4.86548,gainer,2,2026-07-08
+morpho,Morpho,morpho,2.08,4.32364,gainer,3,2026-07-08
+uniswap,Uniswap,uni,3.29,4.05696,gainer,4,2026-07-08
+htx-dao,HTX DAO,htx,1.84e-06,2.51951,gainer,5,2026-07-08
+just,JUST,jst,0.094434,2.4783,gainer,6,2026-07-08
+stable-2,​​Stable,stable,0.03508414,1.94458,gainer,7,2026-07-08
+beldex,Beldex,bdx,0.093403,1.66052,gainer,8,2026-07-08
+monero,Monero,xmr,330.72,1.49337,gainer,9,2026-07-08
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075982,1.40973,gainer,10,2026-07-08
+lab,LAB,lab,3.44,-76.65046,loser,1,2026-07-08
+audiera,Audiera,beat,2.34,-10.47068,loser,2,2026-07-08
+lighter,Lighter,lit,2.37,-9.51045,loser,3,2026-07-08
+pump-fun,Pump.fun,pump,0.00153744,-8.1609,loser,4,2026-07-08
+pi-network,Pi Network,pi,0.102826,-8.12378,loser,5,2026-07-08
+jupiter-exchange-solana,Jupiter,jup,0.223733,-6.55132,loser,6,2026-07-08
+worldcoin-wld,Worldcoin,wld,0.372134,-6.28381,loser,7,2026-07-08
+the-open-network,Gram (prev. Toncoin),gram,1.58,-6.21407,loser,8,2026-07-08
+canton-network,Canton,cc,0.126522,-6.1045,loser,9,2026-07-08
+near,NEAR Protocol,near,1.9,-5.95752,loser,10,2026-07-08
