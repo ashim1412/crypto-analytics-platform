@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,11.46,7.24223,gainer,1,2026-07-09
-uniswap,Uniswap,uni,3.33,4.29474,gainer,2,2026-07-09
-sky,Sky,sky,0.054884,2.6893,gainer,3,2026-07-09
-morpho,Morpho,morpho,2.05,2.52819,gainer,4,2026-07-09
-dexe,DeXe,dexe,28.89,2.48779,gainer,5,2026-07-09
-adi-token,ADI,adi,5.96,2.43237,gainer,6,2026-07-09
-beldex,Beldex,bdx,0.092772,2.33714,gainer,7,2026-07-09
-internet-computer,Internet Computer,icp,2.25,2.11419,gainer,8,2026-07-09
-stable-2,​​Stable,stable,0.03544238,1.2172,gainer,9,2026-07-09
-nexo,NEXO,nexo,0.745153,1.11843,gainer,10,2026-07-09
-jupiter-exchange-solana,Jupiter,jup,0.213431,-9.22511,loser,1,2026-07-09
-pi-network,Pi Network,pi,0.101644,-6.46916,loser,2,2026-07-09
-lighter,Lighter,lit,2.27,-6.27516,loser,3,2026-07-09
-audiera,Audiera,beat,2.27,-6.10901,loser,4,2026-07-09
-monero,Monero,xmr,318.49,-4.508,loser,5,2026-07-09
-ondo-finance,Ondo,ondo,0.313197,-3.92921,loser,6,2026-07-09
-midnight-3,Midnight,night,0.03195137,-3.50293,loser,7,2026-07-09
-cardano,Cardano,ada,0.167325,-3.38427,loser,8,2026-07-09
-stellar,Stellar,xlm,0.180697,-3.36418,loser,9,2026-07-09
-zcash,Zcash,zec,462.93,-3.31832,loser,10,2026-07-09
+arbitrum,Arbitrum,arb,0.085827,12.57129,gainer,1,2026-07-09
+sky,Sky,sky,0.057937,10.03101,gainer,2,2026-07-09
+venice-token,Venice Token,vvv,11.36,9.11441,gainer,3,2026-07-09
+avalanche-2,Avalanche,avax,6.73,5.98799,gainer,4,2026-07-09
+lighter,Lighter,lit,2.49,5.54284,gainer,5,2026-07-09
+worldcoin-wld,Worldcoin,wld,0.384804,5.09566,gainer,6,2026-07-09
+ethena,Ethena,ena,0.076626,4.9998,gainer,7,2026-07-09
+uniswap,Uniswap,uni,3.35,4.96486,gainer,8,2026-07-09
+mantle,Mantle,mnt,0.430175,4.24221,gainer,9,2026-07-09
+internet-computer,Internet Computer,icp,2.25,3.94346,gainer,10,2026-07-09
+memecore,MemeCore,m,1.19,-16.06083,loser,1,2026-07-09
+audiera,Audiera,beat,2.21,-5.98387,loser,2,2026-07-09
+rain,Rain,rain,0.01452591,-1.68932,loser,3,2026-07-09
+morpho,Morpho,morpho,2.05,-1.52129,loser,4,2026-07-09
+monero,Monero,xmr,323.0,-1.15969,loser,5,2026-07-09
+stellar,Stellar,xlm,0.181077,-1.10122,loser,6,2026-07-09
+zcash,Zcash,zec,467.74,-0.9783,loser,7,2026-07-09
+pi-network,Pi Network,pi,0.10078,-0.9559,loser,8,2026-07-09
+jupiter-exchange-solana,Jupiter,jup,0.213853,-0.90904,loser,9,2026-07-09
+bianrensheng,币安人生 (BinanceLife),币安人生,0.695688,-0.76637,loser,10,2026-07-09
