@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,11.18,3.41922,gainer,1,2026-07-08
-uniswap,Uniswap,uni,3.35,3.34201,gainer,2,2026-07-08
-morpho,Morpho,morpho,2.07,3.2026,gainer,3,2026-07-08
-adi-token,ADI,adi,5.97,2.5975,gainer,4,2026-07-08
-just,JUST,jst,0.096382,2.44365,gainer,5,2026-07-08
-world-liberty-financial,World Liberty Financial,wlfi,0.059208,1.6277,gainer,6,2026-07-08
-leo-token,LEO Token,leo,9.46,1.04008,gainer,7,2026-07-08
-bianrensheng,币安人生 (BinanceLife),币安人生,0.715617,0.88986,gainer,8,2026-07-08
-sky,Sky,sky,0.05572,0.64113,gainer,9,2026-07-08
-figure-heloc,Figure Heloc,figr_heloc,1.036,0.62121,gainer,10,2026-07-08
-jupiter-exchange-solana,Jupiter,jup,0.21626,-9.96515,loser,1,2026-07-08
-pi-network,Pi Network,pi,0.10172,-8.39934,loser,2,2026-07-08
-near,NEAR Protocol,near,1.88,-6.73467,loser,3,2026-07-08
-lighter,Lighter,lit,2.38,-6.24925,loser,4,2026-07-08
-stellar,Stellar,xlm,0.181174,-5.17486,loser,5,2026-07-08
-cardano,Cardano,ada,0.166495,-5.14979,loser,6,2026-07-08
-zcash,Zcash,zec,467.66,-5.14385,loser,7,2026-07-08
-solana,Solana,sol,77.11,-5.11571,loser,8,2026-07-08
-midnight-3,Midnight,night,0.03170766,-5.11012,loser,9,2026-07-08
-pump-fun,Pump.fun,pump,0.00150943,-5.0995,loser,10,2026-07-08
+venice-token,Venice Token,vvv,11.46,7.24223,gainer,1,2026-07-09
+uniswap,Uniswap,uni,3.33,4.29474,gainer,2,2026-07-09
+sky,Sky,sky,0.054884,2.6893,gainer,3,2026-07-09
+morpho,Morpho,morpho,2.05,2.52819,gainer,4,2026-07-09
+dexe,DeXe,dexe,28.89,2.48779,gainer,5,2026-07-09
+adi-token,ADI,adi,5.96,2.43237,gainer,6,2026-07-09
+beldex,Beldex,bdx,0.092772,2.33714,gainer,7,2026-07-09
+internet-computer,Internet Computer,icp,2.25,2.11419,gainer,8,2026-07-09
+stable-2,​​Stable,stable,0.03544238,1.2172,gainer,9,2026-07-09
+nexo,NEXO,nexo,0.745153,1.11843,gainer,10,2026-07-09
+jupiter-exchange-solana,Jupiter,jup,0.213431,-9.22511,loser,1,2026-07-09
+pi-network,Pi Network,pi,0.101644,-6.46916,loser,2,2026-07-09
+lighter,Lighter,lit,2.27,-6.27516,loser,3,2026-07-09
+audiera,Audiera,beat,2.27,-6.10901,loser,4,2026-07-09
+monero,Monero,xmr,318.49,-4.508,loser,5,2026-07-09
+ondo-finance,Ondo,ondo,0.313197,-3.92921,loser,6,2026-07-09
+midnight-3,Midnight,night,0.03195137,-3.50293,loser,7,2026-07-09
+cardano,Cardano,ada,0.167325,-3.38427,loser,8,2026-07-09
+stellar,Stellar,xlm,0.180697,-3.36418,loser,9,2026-07-09
+zcash,Zcash,zec,462.93,-3.31832,loser,10,2026-07-09
