@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,33.82,16.88978,gainer,1,2026-07-10
-arbitrum,Arbitrum,arb,0.088273,13.12123,gainer,2,2026-07-10
-morpho,Morpho,morpho,2.24,9.42066,gainer,3,2026-07-10
-just,JUST,jst,0.099705,6.29735,gainer,4,2026-07-10
-adi-token,ADI,adi,6.33,6.24031,gainer,5,2026-07-10
-canton-network,Canton,cc,0.134733,5.42927,gainer,6,2026-07-10
-bittensor,Bittensor,tao,213.9,4.50314,gainer,7,2026-07-10
-internet-computer,Internet Computer,icp,2.36,4.33071,gainer,8,2026-07-10
-aave,Aave,aave,91.74,4.13907,gainer,9,2026-07-10
-quant-network,Quant,qnt,68.18,3.93126,gainer,10,2026-07-10
-memecore,MemeCore,m,1.21,-8.77005,loser,1,2026-07-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.680688,-4.77681,loser,2,2026-07-10
-pi-network,Pi Network,pi,0.097727,-4.22368,loser,3,2026-07-10
-figure-heloc,Figure Heloc,figr_heloc,1.002,-3.05981,loser,4,2026-07-10
-jupiter-exchange-solana,Jupiter,jup,0.210942,-2.00182,loser,5,2026-07-10
-kucoin-shares,KuCoin,kcs,6.83,-1.88754,loser,6,2026-07-10
-pump-fun,Pump.fun,pump,0.00148889,-1.46717,loser,7,2026-07-10
-monero,Monero,xmr,314.62,-1.39692,loser,8,2026-07-10
-rain,Rain,rain,0.01437509,-1.26837,loser,9,2026-07-10
-worldcoin-wld,Worldcoin,wld,0.380791,-0.96224,loser,10,2026-07-10
+dexe,DeXe,dexe,35.48,23.53076,gainer,1,2026-07-10
+morpho,Morpho,morpho,2.29,11.79953,gainer,2,2026-07-10
+arbitrum,Arbitrum,arb,0.093641,9.30209,gainer,3,2026-07-10
+aave,Aave,aave,94.9,7.47759,gainer,4,2026-07-10
+zcash,Zcash,zec,500.67,7.05526,gainer,5,2026-07-10
+stellar,Stellar,xlm,0.193269,6.72185,gainer,6,2026-07-10
+uniswap,Uniswap,uni,3.54,5.51472,gainer,7,2026-07-10
+the-open-network,Gram (prev. Toncoin),gram,1.67,5.27317,gainer,8,2026-07-10
+adi-token,ADI,adi,6.28,4.45765,gainer,9,2026-07-10
+internet-computer,Internet Computer,icp,2.33,3.79423,gainer,10,2026-07-10
+beldex,Beldex,bdx,0.0892,-7.55131,loser,1,2026-07-10
+figure-heloc,Figure Heloc,figr_heloc,1.002,-3.04521,loser,2,2026-07-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.679186,-2.35572,loser,3,2026-07-10
+jupiter-exchange-solana,Jupiter,jup,0.209842,-1.93872,loser,4,2026-07-10
+monero,Monero,xmr,317.95,-1.89005,loser,5,2026-07-10
+htx-dao,HTX DAO,htx,1.84e-06,-0.98569,loser,6,2026-07-10
+rain,Rain,rain,0.0144023,-0.84932,loser,7,2026-07-10
+lighter,Lighter,lit,2.47,-0.73021,loser,8,2026-07-10
+pi-network,Pi Network,pi,0.099998,-0.69146,loser,9,2026-07-10
+pump-fun,Pump.fun,pump,0.0015125,-0.40584,loser,10,2026-07-10
