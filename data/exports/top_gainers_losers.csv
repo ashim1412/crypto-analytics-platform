@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,35.48,23.53076,gainer,1,2026-07-10
-morpho,Morpho,morpho,2.29,11.79953,gainer,2,2026-07-10
-arbitrum,Arbitrum,arb,0.093641,9.30209,gainer,3,2026-07-10
-aave,Aave,aave,94.9,7.47759,gainer,4,2026-07-10
-zcash,Zcash,zec,500.67,7.05526,gainer,5,2026-07-10
-stellar,Stellar,xlm,0.193269,6.72185,gainer,6,2026-07-10
-uniswap,Uniswap,uni,3.54,5.51472,gainer,7,2026-07-10
-the-open-network,Gram (prev. Toncoin),gram,1.67,5.27317,gainer,8,2026-07-10
-adi-token,ADI,adi,6.28,4.45765,gainer,9,2026-07-10
-internet-computer,Internet Computer,icp,2.33,3.79423,gainer,10,2026-07-10
-beldex,Beldex,bdx,0.0892,-7.55131,loser,1,2026-07-10
-figure-heloc,Figure Heloc,figr_heloc,1.002,-3.04521,loser,2,2026-07-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.679186,-2.35572,loser,3,2026-07-10
-jupiter-exchange-solana,Jupiter,jup,0.209842,-1.93872,loser,4,2026-07-10
-monero,Monero,xmr,317.95,-1.89005,loser,5,2026-07-10
-htx-dao,HTX DAO,htx,1.84e-06,-0.98569,loser,6,2026-07-10
-rain,Rain,rain,0.0144023,-0.84932,loser,7,2026-07-10
-lighter,Lighter,lit,2.47,-0.73021,loser,8,2026-07-10
-pi-network,Pi Network,pi,0.099998,-0.69146,loser,9,2026-07-10
-pump-fun,Pump.fun,pump,0.0015125,-0.40584,loser,10,2026-07-10
+dexe,DeXe,dexe,34.57,18.96536,gainer,1,2026-07-10
+memecore,MemeCore,m,1.38,17.53868,gainer,2,2026-07-10
+uniswap,Uniswap,uni,3.65,9.60544,gainer,3,2026-07-10
+zcash,Zcash,zec,509.14,8.4223,gainer,4,2026-07-10
+morpho,Morpho,morpho,2.25,8.35013,gainer,5,2026-07-10
+arbitrum,Arbitrum,arb,0.092659,7.75932,gainer,6,2026-07-10
+bitcoin-cash,Bitcoin Cash,bch,253.82,6.88533,gainer,7,2026-07-10
+just,JUST,jst,0.103816,6.8107,gainer,8,2026-07-10
+audiera,Audiera,beat,2.32,6.76097,gainer,9,2026-07-10
+polkadot,Polkadot,dot,0.88254,6.29964,gainer,10,2026-07-10
+beldex,Beldex,bdx,0.089039,-6.74561,loser,1,2026-07-10
+figure-heloc,Figure Heloc,figr_heloc,1.002,-3.06495,loser,2,2026-07-10
+jupiter-exchange-solana,Jupiter,jup,0.207,-1.83124,loser,3,2026-07-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.688746,-1.80412,loser,4,2026-07-10
+pump-fun,Pump.fun,pump,0.00149855,-1.44513,loser,5,2026-07-10
+htx-dao,HTX DAO,htx,1.83e-06,-1.21859,loser,6,2026-07-10
+venice-token,Venice Token,vvv,11.42,-0.56644,loser,7,2026-07-10
+pax-gold,PAX Gold,paxg,4091.82,-0.53556,loser,8,2026-07-10
+tether-gold,Tether Gold,xaut,4088.17,-0.50503,loser,9,2026-07-10
+rain,Rain,rain,0.01438108,-0.48294,loser,10,2026-07-10
