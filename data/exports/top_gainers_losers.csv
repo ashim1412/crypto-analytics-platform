@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,34.57,18.96536,gainer,1,2026-07-10
-memecore,MemeCore,m,1.38,17.53868,gainer,2,2026-07-10
-uniswap,Uniswap,uni,3.65,9.60544,gainer,3,2026-07-10
-zcash,Zcash,zec,509.14,8.4223,gainer,4,2026-07-10
-morpho,Morpho,morpho,2.25,8.35013,gainer,5,2026-07-10
-arbitrum,Arbitrum,arb,0.092659,7.75932,gainer,6,2026-07-10
-bitcoin-cash,Bitcoin Cash,bch,253.82,6.88533,gainer,7,2026-07-10
-just,JUST,jst,0.103816,6.8107,gainer,8,2026-07-10
-audiera,Audiera,beat,2.32,6.76097,gainer,9,2026-07-10
-polkadot,Polkadot,dot,0.88254,6.29964,gainer,10,2026-07-10
-beldex,Beldex,bdx,0.089039,-6.74561,loser,1,2026-07-10
-figure-heloc,Figure Heloc,figr_heloc,1.002,-3.06495,loser,2,2026-07-10
-jupiter-exchange-solana,Jupiter,jup,0.207,-1.83124,loser,3,2026-07-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.688746,-1.80412,loser,4,2026-07-10
-pump-fun,Pump.fun,pump,0.00149855,-1.44513,loser,5,2026-07-10
-htx-dao,HTX DAO,htx,1.83e-06,-1.21859,loser,6,2026-07-10
-venice-token,Venice Token,vvv,11.42,-0.56644,loser,7,2026-07-10
-pax-gold,PAX Gold,paxg,4091.82,-0.53556,loser,8,2026-07-10
-tether-gold,Tether Gold,xaut,4088.17,-0.50503,loser,9,2026-07-10
-rain,Rain,rain,0.01438108,-0.48294,loser,10,2026-07-10
+audiera,Audiera,beat,2.62,21.92951,gainer,1,2026-07-10
+dexe,DeXe,dexe,34.73,13.27219,gainer,2,2026-07-10
+memecore,MemeCore,m,1.3,8.00813,gainer,3,2026-07-10
+lighter,Lighter,lit,2.51,6.13877,gainer,4,2026-07-10
+pepe,Pepe,pepe,2.77e-06,5.80379,gainer,5,2026-07-10
+polkadot,Polkadot,dot,0.869875,5.21833,gainer,6,2026-07-10
+uniswap,Uniswap,uni,3.53,4.75607,gainer,7,2026-07-10
+aave,Aave,aave,95.55,4.65125,gainer,8,2026-07-10
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.079525,4.36946,gainer,9,2026-07-10
+ethena,Ethena,ena,0.079784,3.94948,gainer,10,2026-07-10
+beldex,Beldex,bdx,0.088659,-5.61876,loser,1,2026-07-10
+internet-computer,Internet Computer,icp,2.28,-3.9642,loser,2,2026-07-10
+pump-fun,Pump.fun,pump,0.00144079,-3.78004,loser,3,2026-07-10
+jupiter-exchange-solana,Jupiter,jup,0.202668,-3.61586,loser,4,2026-07-10
+venice-token,Venice Token,vvv,11.16,-3.43267,loser,5,2026-07-10
+near,NEAR Protocol,near,1.87,-3.04685,loser,6,2026-07-10
+figure-heloc,Figure Heloc,figr_heloc,1.002,-2.91046,loser,7,2026-07-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.678523,-2.41687,loser,8,2026-07-10
+stable-2,​​Stable,stable,0.0350436,-2.11012,loser,9,2026-07-10
+leo-token,LEO Token,leo,9.41,-1.10466,loser,10,2026-07-10
