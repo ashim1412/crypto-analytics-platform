@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.83,30.49407,gainer,1,2026-07-11
-memecore,MemeCore,m,1.32,9.13899,gainer,2,2026-07-11
-lighter,Lighter,lit,2.6,4.01784,gainer,3,2026-07-11
-pepe,Pepe,pepe,2.75e-06,3.8849,gainer,4,2026-07-11
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.080128,3.81765,gainer,5,2026-07-11
-polkadot,Polkadot,dot,0.876364,3.62483,gainer,6,2026-07-11
-sui,Sui,sui,0.745521,3.08207,gainer,7,2026-07-11
-just,JUST,jst,0.10264,3.07039,gainer,8,2026-07-11
-ethena,Ethena,ena,0.081624,3.06118,gainer,9,2026-07-11
-figure-heloc,Figure Heloc,figr_heloc,1.033,3.04835,gainer,10,2026-07-11
-morpho,Morpho,morpho,2.08,-7.63715,loser,1,2026-07-11
-pump-fun,Pump.fun,pump,0.00143558,-4.764,loser,2,2026-07-11
-beldex,Beldex,bdx,0.090381,-4.20518,loser,3,2026-07-11
-near,NEAR Protocol,near,1.88,-2.62106,loser,4,2026-07-11
-arbitrum,Arbitrum,arb,0.090794,-2.57581,loser,5,2026-07-11
-hyperliquid,Hyperliquid,hype,66.39,-2.35734,loser,6,2026-07-11
-crypto-com-chain,Cronos,cro,0.055791,-1.80502,loser,7,2026-07-11
-jupiter-exchange-solana,Jupiter,jup,0.205358,-1.64126,loser,8,2026-07-11
-leo-token,LEO Token,leo,9.47,-1.5463,loser,9,2026-07-11
-internet-computer,Internet Computer,icp,2.28,-1.3782,loser,10,2026-07-11
+audiera,Audiera,beat,2.99,26.49491,gainer,1,2026-07-11
+dexe,DeXe,dexe,37.47,9.27346,gainer,2,2026-07-11
+lighter,Lighter,lit,2.6,4.0601,gainer,3,2026-07-11
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.079848,3.93078,gainer,4,2026-07-11
+ethena,Ethena,ena,0.082,3.64089,gainer,5,2026-07-11
+canton-network,Canton,cc,0.135714,3.30888,gainer,6,2026-07-11
+pepe,Pepe,pepe,2.78e-06,3.26589,gainer,7,2026-07-11
+figure-heloc,Figure Heloc,figr_heloc,1.033,3.04942,gainer,8,2026-07-11
+sky,Sky,sky,0.059874,3.01653,gainer,9,2026-07-11
+adi-token,ADI,adi,6.4,2.53907,gainer,10,2026-07-11
+morpho,Morpho,morpho,2.14,-5.18441,loser,1,2026-07-11
+memecore,MemeCore,m,1.28,-5.05957,loser,2,2026-07-11
+just,JUST,jst,0.09943,-4.00464,loser,3,2026-07-11
+pump-fun,Pump.fun,pump,0.00143888,-3.76884,loser,4,2026-07-11
+hedera-hashgraph,Hedera,hbar,0.068316,-3.66781,loser,5,2026-07-11
+beldex,Beldex,bdx,0.088919,-3.12563,loser,6,2026-07-11
+hyperliquid,Hyperliquid,hype,66.81,-2.37053,loser,7,2026-07-11
+nexo,NEXO,nexo,0.750864,-2.37016,loser,8,2026-07-11
+quant-network,Quant,qnt,67.11,-1.89634,loser,9,2026-07-11
+bianrensheng,币安人生 (BinanceLife),币安人生,0.675816,-1.65764,loser,10,2026-07-11
