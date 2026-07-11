@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.99,26.49491,gainer,1,2026-07-11
-dexe,DeXe,dexe,37.47,9.27346,gainer,2,2026-07-11
-lighter,Lighter,lit,2.6,4.0601,gainer,3,2026-07-11
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.079848,3.93078,gainer,4,2026-07-11
-ethena,Ethena,ena,0.082,3.64089,gainer,5,2026-07-11
-canton-network,Canton,cc,0.135714,3.30888,gainer,6,2026-07-11
-pepe,Pepe,pepe,2.78e-06,3.26589,gainer,7,2026-07-11
-figure-heloc,Figure Heloc,figr_heloc,1.033,3.04942,gainer,8,2026-07-11
-sky,Sky,sky,0.059874,3.01653,gainer,9,2026-07-11
-adi-token,ADI,adi,6.4,2.53907,gainer,10,2026-07-11
-morpho,Morpho,morpho,2.14,-5.18441,loser,1,2026-07-11
-memecore,MemeCore,m,1.28,-5.05957,loser,2,2026-07-11
-just,JUST,jst,0.09943,-4.00464,loser,3,2026-07-11
-pump-fun,Pump.fun,pump,0.00143888,-3.76884,loser,4,2026-07-11
-hedera-hashgraph,Hedera,hbar,0.068316,-3.66781,loser,5,2026-07-11
-beldex,Beldex,bdx,0.088919,-3.12563,loser,6,2026-07-11
-hyperliquid,Hyperliquid,hype,66.81,-2.37053,loser,7,2026-07-11
-nexo,NEXO,nexo,0.750864,-2.37016,loser,8,2026-07-11
-quant-network,Quant,qnt,67.11,-1.89634,loser,9,2026-07-11
-bianrensheng,币安人生 (BinanceLife),币安人生,0.675816,-1.65764,loser,10,2026-07-11
+dexe,DeXe,dexe,38.2,10.22212,gainer,1,2026-07-11
+arbitrum,Arbitrum,arb,0.098057,8.64816,gainer,2,2026-07-11
+worldcoin-wld,Worldcoin,wld,0.414696,8.35672,gainer,3,2026-07-11
+lighter,Lighter,lit,2.67,6.32799,gainer,4,2026-07-11
+uniswap,Uniswap,uni,3.74,5.95501,gainer,5,2026-07-11
+aave,Aave,aave,100.78,5.7134,gainer,6,2026-07-11
+sky,Sky,sky,0.061831,5.36932,gainer,7,2026-07-11
+ethena,Ethena,ena,0.083598,4.94061,gainer,8,2026-07-11
+jupiter-exchange-solana,Jupiter,jup,0.209326,3.75473,gainer,9,2026-07-11
+adi-token,ADI,adi,6.5,3.57732,gainer,10,2026-07-11
+audiera,Audiera,beat,2.29,-12.26701,loser,1,2026-07-11
+memecore,MemeCore,m,1.25,-5.30649,loser,2,2026-07-11
+morpho,Morpho,morpho,2.14,-4.76014,loser,3,2026-07-11
+quant-network,Quant,qnt,66.6,-3.30406,loser,4,2026-07-11
+beldex,Beldex,bdx,0.086806,-1.77684,loser,5,2026-07-11
+gatechain-token,Gate,gt,6.66,-1.18885,loser,6,2026-07-11
+pi-network,Pi Network,pi,0.09831,-0.94092,loser,7,2026-07-11
+mantle,Mantle,mnt,0.427416,-0.83922,loser,8,2026-07-11
+just,JUST,jst,0.10123,-0.7882,loser,9,2026-07-11
+rain,Rain,rain,0.01429979,-0.77331,loser,10,2026-07-11
