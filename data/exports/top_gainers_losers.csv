@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.64,17.66486,gainer,1,2026-07-11
-lighter,Lighter,lit,2.7,12.70657,gainer,2,2026-07-11
-memecore,MemeCore,m,1.35,10.97915,gainer,3,2026-07-11
-polkadot,Polkadot,dot,0.877848,6.45082,gainer,4,2026-07-11
-pepe,Pepe,pepe,2.79e-06,6.27416,gainer,5,2026-07-11
-ethena,Ethena,ena,0.081614,6.04892,gainer,6,2026-07-11
-dexe,DeXe,dexe,35.72,6.01955,gainer,7,2026-07-11
-sky,Sky,sky,0.05996,4.91749,gainer,8,2026-07-11
-arbitrum,Arbitrum,arb,0.091686,3.88284,gainer,9,2026-07-11
-ondo-finance,Ondo,ondo,0.330039,3.8141,gainer,10,2026-07-11
-beldex,Beldex,bdx,0.087722,-6.21862,loser,1,2026-07-11
-jupiter-exchange-solana,Jupiter,jup,0.203614,-3.3728,loser,2,2026-07-11
-morpho,Morpho,morpho,2.16,-3.07593,loser,3,2026-07-11
-internet-computer,Internet Computer,icp,2.29,-2.74029,loser,4,2026-07-11
-pump-fun,Pump.fun,pump,0.0014561,-2.02221,loser,5,2026-07-11
-near,NEAR Protocol,near,1.9,-1.08798,loser,6,2026-07-11
-world-liberty-financial,World Liberty Financial,wlfi,0.057979,-1.00799,loser,7,2026-07-11
-stable-2,​​Stable,stable,0.0351352,-1.00562,loser,8,2026-07-11
-canton-network,Canton,cc,0.133797,-0.81107,loser,9,2026-07-11
-htx-dao,HTX DAO,htx,1.84e-06,-0.70453,loser,10,2026-07-11
+audiera,Audiera,beat,2.83,30.49407,gainer,1,2026-07-11
+memecore,MemeCore,m,1.32,9.13899,gainer,2,2026-07-11
+lighter,Lighter,lit,2.6,4.01784,gainer,3,2026-07-11
+pepe,Pepe,pepe,2.75e-06,3.8849,gainer,4,2026-07-11
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.080128,3.81765,gainer,5,2026-07-11
+polkadot,Polkadot,dot,0.876364,3.62483,gainer,6,2026-07-11
+sui,Sui,sui,0.745521,3.08207,gainer,7,2026-07-11
+just,JUST,jst,0.10264,3.07039,gainer,8,2026-07-11
+ethena,Ethena,ena,0.081624,3.06118,gainer,9,2026-07-11
+figure-heloc,Figure Heloc,figr_heloc,1.033,3.04835,gainer,10,2026-07-11
+morpho,Morpho,morpho,2.08,-7.63715,loser,1,2026-07-11
+pump-fun,Pump.fun,pump,0.00143558,-4.764,loser,2,2026-07-11
+beldex,Beldex,bdx,0.090381,-4.20518,loser,3,2026-07-11
+near,NEAR Protocol,near,1.88,-2.62106,loser,4,2026-07-11
+arbitrum,Arbitrum,arb,0.090794,-2.57581,loser,5,2026-07-11
+hyperliquid,Hyperliquid,hype,66.39,-2.35734,loser,6,2026-07-11
+crypto-com-chain,Cronos,cro,0.055791,-1.80502,loser,7,2026-07-11
+jupiter-exchange-solana,Jupiter,jup,0.205358,-1.64126,loser,8,2026-07-11
+leo-token,LEO Token,leo,9.47,-1.5463,loser,9,2026-07-11
+internet-computer,Internet Computer,icp,2.28,-1.3782,loser,10,2026-07-11
