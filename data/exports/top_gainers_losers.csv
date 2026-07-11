@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.62,21.92951,gainer,1,2026-07-10
-dexe,DeXe,dexe,34.73,13.27219,gainer,2,2026-07-10
-memecore,MemeCore,m,1.3,8.00813,gainer,3,2026-07-10
-lighter,Lighter,lit,2.51,6.13877,gainer,4,2026-07-10
-pepe,Pepe,pepe,2.77e-06,5.80379,gainer,5,2026-07-10
-polkadot,Polkadot,dot,0.869875,5.21833,gainer,6,2026-07-10
-uniswap,Uniswap,uni,3.53,4.75607,gainer,7,2026-07-10
-aave,Aave,aave,95.55,4.65125,gainer,8,2026-07-10
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.079525,4.36946,gainer,9,2026-07-10
-ethena,Ethena,ena,0.079784,3.94948,gainer,10,2026-07-10
-beldex,Beldex,bdx,0.088659,-5.61876,loser,1,2026-07-10
-internet-computer,Internet Computer,icp,2.28,-3.9642,loser,2,2026-07-10
-pump-fun,Pump.fun,pump,0.00144079,-3.78004,loser,3,2026-07-10
-jupiter-exchange-solana,Jupiter,jup,0.202668,-3.61586,loser,4,2026-07-10
-venice-token,Venice Token,vvv,11.16,-3.43267,loser,5,2026-07-10
-near,NEAR Protocol,near,1.87,-3.04685,loser,6,2026-07-10
-figure-heloc,Figure Heloc,figr_heloc,1.002,-2.91046,loser,7,2026-07-10
-bianrensheng,币安人生 (BinanceLife),币安人生,0.678523,-2.41687,loser,8,2026-07-10
-stable-2,​​Stable,stable,0.0350436,-2.11012,loser,9,2026-07-10
-leo-token,LEO Token,leo,9.41,-1.10466,loser,10,2026-07-10
+audiera,Audiera,beat,2.64,17.66486,gainer,1,2026-07-11
+lighter,Lighter,lit,2.7,12.70657,gainer,2,2026-07-11
+memecore,MemeCore,m,1.35,10.97915,gainer,3,2026-07-11
+polkadot,Polkadot,dot,0.877848,6.45082,gainer,4,2026-07-11
+pepe,Pepe,pepe,2.79e-06,6.27416,gainer,5,2026-07-11
+ethena,Ethena,ena,0.081614,6.04892,gainer,6,2026-07-11
+dexe,DeXe,dexe,35.72,6.01955,gainer,7,2026-07-11
+sky,Sky,sky,0.05996,4.91749,gainer,8,2026-07-11
+arbitrum,Arbitrum,arb,0.091686,3.88284,gainer,9,2026-07-11
+ondo-finance,Ondo,ondo,0.330039,3.8141,gainer,10,2026-07-11
+beldex,Beldex,bdx,0.087722,-6.21862,loser,1,2026-07-11
+jupiter-exchange-solana,Jupiter,jup,0.203614,-3.3728,loser,2,2026-07-11
+morpho,Morpho,morpho,2.16,-3.07593,loser,3,2026-07-11
+internet-computer,Internet Computer,icp,2.29,-2.74029,loser,4,2026-07-11
+pump-fun,Pump.fun,pump,0.0014561,-2.02221,loser,5,2026-07-11
+near,NEAR Protocol,near,1.9,-1.08798,loser,6,2026-07-11
+world-liberty-financial,World Liberty Financial,wlfi,0.057979,-1.00799,loser,7,2026-07-11
+stable-2,​​Stable,stable,0.0351352,-1.00562,loser,8,2026-07-11
+canton-network,Canton,cc,0.133797,-0.81107,loser,9,2026-07-11
+htx-dao,HTX DAO,htx,1.84e-06,-0.70453,loser,10,2026-07-11
