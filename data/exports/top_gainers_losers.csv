@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,40.53,11.74976,gainer,1,2026-07-12
-arbitrum,Arbitrum,arb,0.098139,8.19918,gainer,2,2026-07-12
-stable-2,​​Stable,stable,0.03711583,4.43887,gainer,3,2026-07-12
-zcash,Zcash,zec,518.42,3.94268,gainer,4,2026-07-12
-bianrensheng,币安人生 (BinanceLife),币安人生,0.699135,3.85958,gainer,5,2026-07-12
-uniswap,Uniswap,uni,3.63,3.14128,gainer,6,2026-07-12
-worldcoin-wld,Worldcoin,wld,0.400702,2.8274,gainer,7,2026-07-12
-adi-token,ADI,adi,6.51,2.7174,gainer,8,2026-07-12
-rain,Rain,rain,0.01475889,2.5805,gainer,9,2026-07-12
-sky,Sky,sky,0.060644,1.66494,gainer,10,2026-07-12
-audiera,Audiera,beat,2.27,-22.11747,loser,1,2026-07-12
-avalanche-2,Avalanche,avax,6.37,-4.97601,loser,2,2026-07-12
-memecore,MemeCore,m,1.25,-4.83923,loser,3,2026-07-12
-hedera-hashgraph,Hedera,hbar,0.06759,-4.25364,loser,4,2026-07-12
-polkadot,Polkadot,dot,0.846207,-3.28446,loser,5,2026-07-12
-ethereum-classic,Ethereum Classic,etc,6.86,-3.26495,loser,6,2026-07-12
-quant-network,Quant,qnt,65.65,-2.88548,loser,7,2026-07-12
-pump-fun,Pump.fun,pump,0.00139241,-2.65849,loser,8,2026-07-12
-algorand,Algorand,algo,0.083736,-2.56077,loser,9,2026-07-12
-kaspa,Kaspa,kas,0.02887829,-2.53883,loser,10,2026-07-12
+dexe,DeXe,dexe,45.21,19.96627,gainer,1,2026-07-12
+worldcoin-wld,Worldcoin,wld,0.42306,5.57458,gainer,2,2026-07-12
+arbitrum,Arbitrum,arb,0.095862,4.31085,gainer,3,2026-07-12
+bianrensheng,币安人生 (BinanceLife),币安人生,0.703932,4.16575,gainer,4,2026-07-12
+zcash,Zcash,zec,523.24,4.14515,gainer,5,2026-07-12
+stable-2,​​Stable,stable,0.03663088,4.10615,gainer,6,2026-07-12
+monero,Monero,xmr,329.45,2.89602,gainer,7,2026-07-12
+sky,Sky,sky,0.061402,2.54487,gainer,8,2026-07-12
+lighter,Lighter,lit,2.65,1.84808,gainer,9,2026-07-12
+rain,Rain,rain,0.01456803,1.48193,gainer,10,2026-07-12
+morpho,Morpho,morpho,2.0,-6.80512,loser,1,2026-07-12
+memecore,MemeCore,m,1.21,-5.7828,loser,2,2026-07-12
+audiera,Audiera,beat,2.86,-4.34581,loser,3,2026-07-12
+avalanche-2,Avalanche,avax,6.44,-4.28926,loser,4,2026-07-12
+polkadot,Polkadot,dot,0.846734,-3.48704,loser,5,2026-07-12
+jupiter-exchange-solana,Jupiter,jup,0.202001,-3.32761,loser,6,2026-07-12
+kaspa,Kaspa,kas,0.02867669,-2.91323,loser,7,2026-07-12
+algorand,Algorand,algo,0.084092,-2.59811,loser,8,2026-07-12
+beldex,Beldex,bdx,0.086896,-2.28417,loser,9,2026-07-12
+quant-network,Quant,qnt,65.64,-2.16507,loser,10,2026-07-12
