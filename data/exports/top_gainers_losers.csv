@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,45.21,19.96627,gainer,1,2026-07-12
-worldcoin-wld,Worldcoin,wld,0.42306,5.57458,gainer,2,2026-07-12
-arbitrum,Arbitrum,arb,0.095862,4.31085,gainer,3,2026-07-12
-bianrensheng,币安人生 (BinanceLife),币安人生,0.703932,4.16575,gainer,4,2026-07-12
-zcash,Zcash,zec,523.24,4.14515,gainer,5,2026-07-12
-stable-2,​​Stable,stable,0.03663088,4.10615,gainer,6,2026-07-12
-monero,Monero,xmr,329.45,2.89602,gainer,7,2026-07-12
-sky,Sky,sky,0.061402,2.54487,gainer,8,2026-07-12
-lighter,Lighter,lit,2.65,1.84808,gainer,9,2026-07-12
-rain,Rain,rain,0.01456803,1.48193,gainer,10,2026-07-12
-morpho,Morpho,morpho,2.0,-6.80512,loser,1,2026-07-12
-memecore,MemeCore,m,1.21,-5.7828,loser,2,2026-07-12
-audiera,Audiera,beat,2.86,-4.34581,loser,3,2026-07-12
-avalanche-2,Avalanche,avax,6.44,-4.28926,loser,4,2026-07-12
-polkadot,Polkadot,dot,0.846734,-3.48704,loser,5,2026-07-12
-jupiter-exchange-solana,Jupiter,jup,0.202001,-3.32761,loser,6,2026-07-12
-kaspa,Kaspa,kas,0.02867669,-2.91323,loser,7,2026-07-12
-algorand,Algorand,algo,0.084092,-2.59811,loser,8,2026-07-12
-beldex,Beldex,bdx,0.086896,-2.28417,loser,9,2026-07-12
-quant-network,Quant,qnt,65.64,-2.16507,loser,10,2026-07-12
+dexe,DeXe,dexe,47.08,23.25136,gainer,1,2026-07-12
+audiera,Audiera,beat,2.8,22.43095,gainer,2,2026-07-12
+adi-token,ADI,adi,6.91,6.60174,gainer,3,2026-07-12
+zcash,Zcash,zec,543.14,5.9784,gainer,4,2026-07-12
+stable-2,​​Stable,stable,0.03681297,3.93257,gainer,5,2026-07-12
+bianrensheng,币安人生 (BinanceLife),币安人生,0.713239,2.94635,gainer,6,2026-07-12
+monero,Monero,xmr,329.49,2.1251,gainer,7,2026-07-12
+bitget-token,Bitget Token,bgb,1.69,2.11808,gainer,8,2026-07-12
+worldcoin-wld,Worldcoin,wld,0.421571,1.66512,gainer,9,2026-07-12
+rain,Rain,rain,0.01453647,1.64475,gainer,10,2026-07-12
+morpho,Morpho,morpho,2.0,-6.60718,loser,1,2026-07-12
+avalanche-2,Avalanche,avax,6.44,-4.86543,loser,2,2026-07-12
+cardano,Cardano,ada,0.1641,-4.74352,loser,3,2026-07-12
+polkadot,Polkadot,dot,0.83933,-4.70108,loser,4,2026-07-12
+arbitrum,Arbitrum,arb,0.093699,-4.50947,loser,5,2026-07-12
+algorand,Algorand,algo,0.083872,-3.60224,loser,6,2026-07-12
+ethena,Ethena,ena,0.080732,-3.35722,loser,7,2026-07-12
+kaspa,Kaspa,kas,0.02867813,-3.28236,loser,8,2026-07-12
+ondo-finance,Ondo,ondo,0.324043,-3.20547,loser,9,2026-07-12
+hedera-hashgraph,Hedera,hbar,0.067583,-3.13032,loser,10,2026-07-12
