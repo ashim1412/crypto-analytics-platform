@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.63,16.4543,gainer,1,2026-07-13
-dexe,DeXe,dexe,45.45,10.24804,gainer,2,2026-07-13
-adi-token,ADI,adi,6.96,9.11859,gainer,3,2026-07-13
-pump-fun,Pump.fun,pump,0.00150112,7.62587,gainer,4,2026-07-13
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.081523,2.80224,gainer,5,2026-07-13
-worldcoin-wld,Worldcoin,wld,0.415102,2.45426,gainer,6,2026-07-13
-near,NEAR Protocol,near,1.92,1.84259,gainer,7,2026-07-13
-avalanche-2,Avalanche,avax,6.5,1.66546,gainer,8,2026-07-13
-ethereum-classic,Ethereum Classic,etc,6.96,1.38463,gainer,9,2026-07-13
-memecore,MemeCore,m,1.23,1.17008,gainer,10,2026-07-13
-pi-network,Pi Network,pi,0.08591,-11.14408,loser,1,2026-07-13
-lighter,Lighter,lit,2.38,-8.21424,loser,2,2026-07-13
-arbitrum,Arbitrum,arb,0.092296,-4.0499,loser,3,2026-07-13
-ethena,Ethena,ena,0.078711,-3.78745,loser,4,2026-07-13
-sky,Sky,sky,0.059363,-3.32036,loser,5,2026-07-13
-filecoin,Filecoin,fil,0.762049,-2.95308,loser,6,2026-07-13
-aave,Aave,aave,95.26,-2.94044,loser,7,2026-07-13
-internet-computer,Internet Computer,icp,2.2,-2.82804,loser,8,2026-07-13
-cardano,Cardano,ada,0.159608,-2.74183,loser,9,2026-07-13
-bitcoin-cash,Bitcoin Cash,bch,238.04,-2.71597,loser,10,2026-07-13
+adi-token,ADI,adi,7.0,8.21723,gainer,1,2026-07-13
+beldex,Beldex,bdx,0.092886,6.13759,gainer,2,2026-07-13
+pump-fun,Pump.fun,pump,0.00146931,4.04852,gainer,3,2026-07-13
+jupiter-exchange-solana,Jupiter,jup,0.207641,2.90094,gainer,4,2026-07-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.081376,1.987,gainer,5,2026-07-13
+avalanche-2,Avalanche,avax,6.56,1.94989,gainer,6,2026-07-13
+morpho,Morpho,morpho,2.03,1.63091,gainer,7,2026-07-13
+stable-2,​​Stable,stable,0.037182,1.15682,gainer,8,2026-07-13
+near,NEAR Protocol,near,1.9,0.95934,gainer,9,2026-07-13
+memecore,MemeCore,m,1.23,0.89476,gainer,10,2026-07-13
+pi-network,Pi Network,pi,0.080454,-17.45638,loser,1,2026-07-13
+audiera,Audiera,beat,2.49,-10.67078,loser,2,2026-07-13
+lighter,Lighter,lit,2.38,-9.89227,loser,3,2026-07-13
+dexe,DeXe,dexe,43.28,-7.59765,loser,4,2026-07-13
+sky,Sky,sky,0.058263,-5.90941,loser,5,2026-07-13
+hyperliquid,Hyperliquid,hype,63.71,-4.88442,loser,6,2026-07-13
+aave,Aave,aave,94.53,-4.86258,loser,7,2026-07-13
+uniswap,Uniswap,uni,3.47,-4.58293,loser,8,2026-07-13
+zcash,Zcash,zec,504.07,-4.43812,loser,9,2026-07-13
+cardano,Cardano,ada,0.157839,-4.13263,loser,10,2026-07-13
