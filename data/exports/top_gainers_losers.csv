@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-adi-token,ADI,adi,7.0,8.21723,gainer,1,2026-07-13
-beldex,Beldex,bdx,0.092886,6.13759,gainer,2,2026-07-13
-pump-fun,Pump.fun,pump,0.00146931,4.04852,gainer,3,2026-07-13
-jupiter-exchange-solana,Jupiter,jup,0.207641,2.90094,gainer,4,2026-07-13
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.081376,1.987,gainer,5,2026-07-13
-avalanche-2,Avalanche,avax,6.56,1.94989,gainer,6,2026-07-13
-morpho,Morpho,morpho,2.03,1.63091,gainer,7,2026-07-13
-stable-2,​​Stable,stable,0.037182,1.15682,gainer,8,2026-07-13
-near,NEAR Protocol,near,1.9,0.95934,gainer,9,2026-07-13
-memecore,MemeCore,m,1.23,0.89476,gainer,10,2026-07-13
-pi-network,Pi Network,pi,0.080454,-17.45638,loser,1,2026-07-13
-audiera,Audiera,beat,2.49,-10.67078,loser,2,2026-07-13
-lighter,Lighter,lit,2.38,-9.89227,loser,3,2026-07-13
-dexe,DeXe,dexe,43.28,-7.59765,loser,4,2026-07-13
-sky,Sky,sky,0.058263,-5.90941,loser,5,2026-07-13
-hyperliquid,Hyperliquid,hype,63.71,-4.88442,loser,6,2026-07-13
-aave,Aave,aave,94.53,-4.86258,loser,7,2026-07-13
-uniswap,Uniswap,uni,3.47,-4.58293,loser,8,2026-07-13
-zcash,Zcash,zec,504.07,-4.43812,loser,9,2026-07-13
-cardano,Cardano,ada,0.157839,-4.13263,loser,10,2026-07-13
+beldex,Beldex,bdx,0.093868,8.93452,gainer,1,2026-07-13
+jupiter-exchange-solana,Jupiter,jup,0.209449,3.0909,gainer,2,2026-07-13
+figure-heloc,Figure Heloc,figr_heloc,1.033,1.93407,gainer,3,2026-07-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.081897,1.76737,gainer,4,2026-07-13
+adi-token,ADI,adi,7.03,1.43243,gainer,5,2026-07-13
+mantle,Mantle,mnt,0.424917,0.83795,gainer,6,2026-07-13
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.15637,gainer,7,2026-07-13
+pump-fun,Pump.fun,pump,0.00145432,0.11464,gainer,8,2026-07-13
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.041,0.03248,gainer,9,2026-07-13
+janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.11,0.02687,gainer,10,2026-07-13
+pi-network,Pi Network,pi,0.080428,-16.99628,loser,1,2026-07-13
+lighter,Lighter,lit,2.31,-12.1739,loser,2,2026-07-13
+dexe,DeXe,dexe,41.78,-11.77538,loser,3,2026-07-13
+worldcoin-wld,Worldcoin,wld,0.393752,-7.03834,loser,4,2026-07-13
+bittensor,Bittensor,tao,198.42,-6.61063,loser,5,2026-07-13
+hyperliquid,Hyperliquid,hype,63.69,-6.59625,loser,6,2026-07-13
+zcash,Zcash,zec,509.45,-6.18778,loser,7,2026-07-13
+uniswap,Uniswap,uni,3.5,-4.71882,loser,8,2026-07-13
+stellar,Stellar,xlm,0.181411,-4.63957,loser,9,2026-07-13
+bitcoin-cash,Bitcoin Cash,bch,235.47,-4.3114,loser,10,2026-07-13
