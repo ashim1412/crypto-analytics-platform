@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.098558,12.54574,gainer,1,2026-07-14
-ethena,Ethena,ena,0.083347,5.55774,gainer,2,2026-07-14
-venice-token,Venice Token,vvv,11.08,5.06621,gainer,3,2026-07-14
-near,NEAR Protocol,near,1.99,3.99806,gainer,4,2026-07-14
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.083559,2.94003,gainer,5,2026-07-14
-just,JUST,jst,0.102078,2.79134,gainer,6,2026-07-14
-audiera,Audiera,beat,2.67,1.98195,gainer,7,2026-07-14
-figure-heloc,Figure Heloc,figr_heloc,1.033,1.90514,gainer,8,2026-07-14
-memecore,MemeCore,m,1.23,1.90301,gainer,9,2026-07-14
-aster-2,Aster,aster,0.630384,1.5108,gainer,10,2026-07-14
-pi-network,Pi Network,pi,0.074826,-12.9603,loser,1,2026-07-14
-dexe,DeXe,dexe,41.36,-10.71253,loser,2,2026-07-14
-bittensor,Bittensor,tao,198.21,-4.43028,loser,3,2026-07-14
-pump-fun,Pump.fun,pump,0.00145681,-3.90267,loser,4,2026-07-14
-worldcoin-wld,Worldcoin,wld,0.403968,-3.48736,loser,5,2026-07-14
-ondo-finance,Ondo,ondo,0.308598,-3.43208,loser,6,2026-07-14
-zcash,Zcash,zec,505.14,-3.10889,loser,7,2026-07-14
-arbitrum,Arbitrum,arb,0.089633,-3.02418,loser,8,2026-07-14
-crypto-com-chain,Cronos,cro,0.054079,-2.77966,loser,9,2026-07-14
-stellar,Stellar,xlm,0.178718,-2.65931,loser,10,2026-07-14
+memecore,MemeCore,m,1.49,19.38424,gainer,1,2026-07-14
+ethena,Ethena,ena,0.084715,7.19034,gainer,2,2026-07-14
+near,NEAR Protocol,near,2.03,6.99479,gainer,3,2026-07-14
+uniswap,Uniswap,uni,3.69,5.4742,gainer,4,2026-07-14
+venice-token,Venice Token,vvv,11.26,5.41769,gainer,5,2026-07-14
+sky,Sky,sky,0.061113,4.98978,gainer,6,2026-07-14
+audiera,Audiera,beat,2.6,4.9374,gainer,7,2026-07-14
+ethereum,Ethereum,eth,1857.0,4.89225,gainer,8,2026-07-14
+lighter,Lighter,lit,2.5,4.68749,gainer,9,2026-07-14
+bianrensheng,币安人生 (BinanceLife),币安人生,0.732281,4.12903,gainer,10,2026-07-14
+pi-network,Pi Network,pi,0.074099,-7.40755,loser,1,2026-07-14
+dexe,DeXe,dexe,41.06,-6.50372,loser,2,2026-07-14
+worldcoin-wld,Worldcoin,wld,0.408558,-2.74072,loser,3,2026-07-14
+canton-network,Canton,cc,0.13067,-2.67335,loser,4,2026-07-14
+bittensor,Bittensor,tao,201.44,-2.20625,loser,5,2026-07-14
+pump-fun,Pump.fun,pump,0.00146795,-1.5596,loser,6,2026-07-14
+arbitrum,Arbitrum,arb,0.091592,-1.0215,loser,7,2026-07-14
+quant-network,Quant,qnt,64.67,-1.01228,loser,8,2026-07-14
+stable-2,​​Stable,stable,0.03706442,-0.72694,loser,9,2026-07-14
+beldex,Beldex,bdx,0.091791,-0.45717,loser,10,2026-07-14
