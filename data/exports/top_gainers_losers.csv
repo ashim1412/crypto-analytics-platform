@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,2.55,10.02477,gainer,1,2026-07-14
-bianrensheng,币安人生 (BinanceLife),币安人生,0.762148,8.80038,gainer,2,2026-07-14
-ethena,Ethena,ena,0.083927,7.22486,gainer,3,2026-07-14
-near,NEAR Protocol,near,2.03,6.55964,gainer,4,2026-07-14
-ethereum,Ethereum,eth,1873.47,6.28015,gainer,5,2026-07-14
-zcash,Zcash,zec,542.01,6.12908,gainer,6,2026-07-14
-sui,Sui,sui,0.758384,5.82203,gainer,7,2026-07-14
-chainlink,Chainlink,link,8.26,5.33642,gainer,8,2026-07-14
-uniswap,Uniswap,uni,3.68,5.33538,gainer,9,2026-07-14
-flare-networks,Flare,flr,0.00667776,5.02524,gainer,10,2026-07-14
-beldex,Beldex,bdx,0.08484,-9.67537,loser,1,2026-07-14
-pi-network,Pi Network,pi,0.075372,-6.37633,loser,2,2026-07-14
-pump-fun,Pump.fun,pump,0.00139965,-3.69379,loser,3,2026-07-14
-audiera,Audiera,beat,2.58,-2.90926,loser,4,2026-07-14
-dexe,DeXe,dexe,40.97,-1.15575,loser,5,2026-07-14
-stable-2,​​Stable,stable,0.03661957,-1.07008,loser,6,2026-07-14
-mantle,Mantle,mnt,0.421741,-0.7211,loser,7,2026-07-14
-adi-token,ADI,adi,6.98,-0.70661,loser,8,2026-07-14
-quant-network,Quant,qnt,64.46,-0.51791,loser,9,2026-07-14
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.50227,loser,10,2026-07-14
+zcash,Zcash,zec,552.9,10.70664,gainer,1,2026-07-15
+lighter,Lighter,lit,2.61,8.6144,gainer,2,2026-07-15
+canton-network,Canton,cc,0.138624,6.6101,gainer,3,2026-07-15
+bianrensheng,币安人生 (BinanceLife),币安人生,0.75259,6.58194,gainer,4,2026-07-15
+pi-network,Pi Network,pi,0.078134,5.83873,gainer,5,2026-07-15
+ethereum,Ethereum,eth,1874.56,5.10939,gainer,6,2026-07-15
+sui,Sui,sui,0.761351,5.0801,gainer,7,2026-07-15
+ethena,Ethena,ena,0.083608,5.05248,gainer,8,2026-07-15
+worldcoin-wld,Worldcoin,wld,0.412392,4.97259,gainer,9,2026-07-15
+chainlink,Chainlink,link,8.33,4.81281,gainer,10,2026-07-15
+beldex,Beldex,bdx,0.088206,-5.97403,loser,1,2026-07-15
+dexe,DeXe,dexe,40.37,-3.92166,loser,2,2026-07-15
+audiera,Audiera,beat,2.56,-2.16334,loser,3,2026-07-15
+world-liberty-financial,World Liberty Financial,wlfi,0.057307,-1.47406,loser,4,2026-07-15
+bittensor,Bittensor,tao,199.58,-0.7464,loser,5,2026-07-15
+bitcoin-cash,Bitcoin Cash,bch,235.08,-0.66758,loser,6,2026-07-15
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.6628,loser,7,2026-07-15
+just,JUST,jst,0.099891,-0.33268,loser,8,2026-07-15
+mantle,Mantle,mnt,0.420987,-0.10003,loser,9,2026-07-15
+usd1-wlfi,USD1,usd1,0.998836,-0.01103,loser,10,2026-07-15
