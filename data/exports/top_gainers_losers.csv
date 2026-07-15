@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,552.9,10.70664,gainer,1,2026-07-15
-lighter,Lighter,lit,2.61,8.6144,gainer,2,2026-07-15
-canton-network,Canton,cc,0.138624,6.6101,gainer,3,2026-07-15
-bianrensheng,币安人生 (BinanceLife),币安人生,0.75259,6.58194,gainer,4,2026-07-15
-pi-network,Pi Network,pi,0.078134,5.83873,gainer,5,2026-07-15
-ethereum,Ethereum,eth,1874.56,5.10939,gainer,6,2026-07-15
-sui,Sui,sui,0.761351,5.0801,gainer,7,2026-07-15
-ethena,Ethena,ena,0.083608,5.05248,gainer,8,2026-07-15
-worldcoin-wld,Worldcoin,wld,0.412392,4.97259,gainer,9,2026-07-15
-chainlink,Chainlink,link,8.33,4.81281,gainer,10,2026-07-15
-beldex,Beldex,bdx,0.088206,-5.97403,loser,1,2026-07-15
-dexe,DeXe,dexe,40.37,-3.92166,loser,2,2026-07-15
-audiera,Audiera,beat,2.56,-2.16334,loser,3,2026-07-15
-world-liberty-financial,World Liberty Financial,wlfi,0.057307,-1.47406,loser,4,2026-07-15
-bittensor,Bittensor,tao,199.58,-0.7464,loser,5,2026-07-15
-bitcoin-cash,Bitcoin Cash,bch,235.08,-0.66758,loser,6,2026-07-15
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.13,-0.6628,loser,7,2026-07-15
-just,JUST,jst,0.099891,-0.33268,loser,8,2026-07-15
-mantle,Mantle,mnt,0.420987,-0.10003,loser,9,2026-07-15
-usd1-wlfi,USD1,usd1,0.998836,-0.01103,loser,10,2026-07-15
+pump-fun,Pump.fun,pump,0.00165029,13.61911,gainer,1,2026-07-15
+pi-network,Pi Network,pi,0.083473,12.04505,gainer,2,2026-07-15
+canton-network,Canton,cc,0.142855,9.52912,gainer,3,2026-07-15
+zcash,Zcash,zec,551.03,9.02513,gainer,4,2026-07-15
+lighter,Lighter,lit,2.53,5.69764,gainer,5,2026-07-15
+hyperliquid,Hyperliquid,hype,66.87,5.16589,gainer,6,2026-07-15
+chainlink,Chainlink,link,8.33,5.12569,gainer,7,2026-07-15
+bianrensheng,币安人生 (BinanceLife),币安人生,0.750504,5.11699,gainer,8,2026-07-15
+ethereum,Ethereum,eth,1867.93,5.03775,gainer,9,2026-07-15
+nexo,NEXO,nexo,0.753974,3.65898,gainer,10,2026-07-15
+beldex,Beldex,bdx,0.087207,-11.00689,loser,1,2026-07-15
+dexe,DeXe,dexe,37.97,-7.07631,loser,2,2026-07-15
+just,JUST,jst,0.09888,-3.14571,loser,3,2026-07-15
+adi-token,ADI,adi,6.93,-1.91236,loser,4,2026-07-15
+arbitrum,Arbitrum,arb,0.087955,-1.81766,loser,5,2026-07-15
+world-liberty-financial,World Liberty Financial,wlfi,0.05658,-1.55907,loser,6,2026-07-15
+ethena,Ethena,ena,0.082612,-1.10098,loser,7,2026-07-15
+internet-computer,Internet Computer,icp,2.18,-0.78654,loser,8,2026-07-15
+bittensor,Bittensor,tao,196.83,-0.63237,loser,9,2026-07-15
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.2138,loser,10,2026-07-15
