@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00168413,20.93265,gainer,1,2026-07-15
-ondo-finance,Ondo,ondo,0.335408,6.63258,gainer,2,2026-07-15
-canton-network,Canton,cc,0.140528,6.31432,gainer,3,2026-07-15
-zcash,Zcash,zec,573.05,5.49978,gainer,4,2026-07-15
-pi-network,Pi Network,pi,0.07968,5.47185,gainer,5,2026-07-15
-sky,Sky,sky,0.062251,4.12932,gainer,6,2026-07-15
-hyperliquid,Hyperliquid,hype,68.02,3.88623,gainer,7,2026-07-15
-audiera,Audiera,beat,2.69,3.56734,gainer,8,2026-07-15
-chainlink,Chainlink,link,8.52,3.19568,gainer,9,2026-07-15
-ethereum,Ethereum,eth,1927.15,2.85284,gainer,10,2026-07-15
-dexe,DeXe,dexe,33.78,-17.38305,loser,1,2026-07-15
-bianrensheng,币安人生 (BinanceLife),币安人生,0.7248,-5.37139,loser,2,2026-07-15
-bitcoin-cash,Bitcoin Cash,bch,229.59,-2.92942,loser,3,2026-07-15
-beldex,Beldex,bdx,0.081218,-2.80684,loser,4,2026-07-15
-lighter,Lighter,lit,2.49,-2.45431,loser,5,2026-07-15
-rain,Rain,rain,0.01447674,-2.43928,loser,6,2026-07-15
-arbitrum,Arbitrum,arb,0.088589,-2.39063,loser,7,2026-07-15
-aave,Aave,aave,96.67,-2.00662,loser,8,2026-07-15
-the-open-network,Gram (prev. Toncoin),gram,1.59,-1.8219,loser,9,2026-07-15
-world-liberty-financial,World Liberty Financial,wlfi,0.056859,-1.55402,loser,10,2026-07-15
+ondo-finance,Ondo,ondo,0.360639,13.54099,gainer,1,2026-07-16
+pump-fun,Pump.fun,pump,0.00166354,9.60683,gainer,2,2026-07-16
+memecore,MemeCore,m,1.26,3.10802,gainer,3,2026-07-16
+near,NEAR Protocol,near,2.06,2.69187,gainer,4,2026-07-16
+audiera,Audiera,beat,2.62,2.3652,gainer,5,2026-07-16
+sky,Sky,sky,0.06262,2.25116,gainer,6,2026-07-16
+ethereum,Ethereum,eth,1910.22,1.93993,gainer,7,2026-07-16
+zcash,Zcash,zec,563.9,1.79741,gainer,8,2026-07-16
+stellar,Stellar,xlm,0.187002,1.79629,gainer,9,2026-07-16
+chainlink,Chainlink,link,8.47,1.6512,gainer,10,2026-07-16
+dexe,DeXe,dexe,36.62,-9.04287,loser,1,2026-07-16
+lighter,Lighter,lit,2.42,-7.22942,loser,2,2026-07-16
+bitcoin-cash,Bitcoin Cash,bch,221.03,-5.9397,loser,3,2026-07-16
+arbitrum,Arbitrum,arb,0.087329,-5.6564,loser,4,2026-07-16
+beldex,Beldex,bdx,0.083965,-5.29184,loser,5,2026-07-16
+aave,Aave,aave,95.6,-3.44204,loser,6,2026-07-16
+just,JUST,jst,0.097211,-2.67242,loser,7,2026-07-16
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.082711,-2.52587,loser,8,2026-07-16
+stable-2,​​Stable,stable,0.03687734,-2.36294,loser,9,2026-07-16
+the-open-network,Gram (prev. Toncoin),gram,1.58,-2.28318,loser,10,2026-07-16
