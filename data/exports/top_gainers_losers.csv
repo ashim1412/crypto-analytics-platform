@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.378848,12.95074,gainer,1,2026-07-16
-beldex,Beldex,bdx,0.08879,8.86501,gainer,2,2026-07-16
-stable-2,​​Stable,stable,0.0395115,5.94775,gainer,3,2026-07-16
-crypto-com-chain,Cronos,cro,0.058637,5.47597,gainer,4,2026-07-16
-mantle,Mantle,mnt,0.445079,3.99166,gainer,5,2026-07-16
-pump-fun,Pump.fun,pump,0.00174097,3.39377,gainer,6,2026-07-16
-ethena,Ethena,ena,0.084742,1.59446,gainer,7,2026-07-16
-dexe,DeXe,dexe,34.22,1.56669,gainer,8,2026-07-16
-monero,Monero,xmr,336.28,1.36705,gainer,9,2026-07-16
-stellar,Stellar,xlm,0.189369,1.13531,gainer,10,2026-07-16
-hyperliquid,Hyperliquid,hype,62.46,-7.57836,loser,1,2026-07-16
-audiera,Audiera,beat,2.5,-6.3559,loser,2,2026-07-16
-canton-network,Canton,cc,0.132821,-5.62246,loser,3,2026-07-16
-pi-network,Pi Network,pi,0.075613,-4.91627,loser,4,2026-07-16
-zcash,Zcash,zec,542.3,-4.87937,loser,5,2026-07-16
-aave,Aave,aave,92.42,-4.3736,loser,6,2026-07-16
-jupiter-exchange-solana,Jupiter,jup,0.201429,-4.11957,loser,7,2026-07-16
-the-open-network,Gram (prev. Toncoin),gram,1.54,-3.08827,loser,8,2026-07-16
-bitcoin-cash,Bitcoin Cash,bch,222.42,-3.02921,loser,9,2026-07-16
-kucoin-shares,KuCoin,kcs,6.78,-2.90152,loser,10,2026-07-16
+crypto-com-chain,Cronos,cro,0.061121,9.95693,gainer,1,2026-07-17
+stable-2,​​Stable,stable,0.03923722,6.42382,gainer,2,2026-07-17
+beldex,Beldex,bdx,0.089079,5.80797,gainer,3,2026-07-17
+mantle,Mantle,mnt,0.441558,3.83083,gainer,4,2026-07-17
+polkadot,Polkadot,dot,0.865518,3.1025,gainer,5,2026-07-17
+monero,Monero,xmr,335.29,2.10375,gainer,6,2026-07-17
+arbitrum,Arbitrum,arb,0.088968,1.91637,gainer,7,2026-07-17
+ondo-finance,Ondo,ondo,0.36693,1.72945,gainer,8,2026-07-17
+morpho,Morpho,morpho,2.08,1.69051,gainer,9,2026-07-17
+world-liberty-financial,World Liberty Financial,wlfi,0.058009,1.24475,gainer,10,2026-07-17
+hyperliquid,Hyperliquid,hype,61.24,-7.4461,loser,1,2026-07-17
+lighter,Lighter,lit,2.27,-6.53186,loser,2,2026-07-17
+jupiter-exchange-solana,Jupiter,jup,0.194861,-5.46856,loser,3,2026-07-17
+zcash,Zcash,zec,533.82,-5.23169,loser,4,2026-07-17
+aave,Aave,aave,91.33,-4.45249,loser,5,2026-07-17
+bittensor,Bittensor,tao,191.73,-3.69649,loser,6,2026-07-17
+near,NEAR Protocol,near,1.98,-3.49262,loser,7,2026-07-17
+the-open-network,Gram (prev. Toncoin),gram,1.52,-3.46996,loser,8,2026-07-17
+pi-network,Pi Network,pi,0.075414,-3.38157,loser,9,2026-07-17
+dexe,DeXe,dexe,35.33,-3.37098,loser,10,2026-07-17
