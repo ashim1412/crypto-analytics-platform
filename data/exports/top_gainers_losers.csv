@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stable-2,​​Stable,stable,0.03915379,5.53968,gainer,1,2026-07-17
-beldex,Beldex,bdx,0.090102,5.49365,gainer,2,2026-07-17
-pi-network,Pi Network,pi,0.07855,5.29419,gainer,3,2026-07-17
-crypto-com-chain,Cronos,cro,0.058093,4.07132,gainer,4,2026-07-17
-mantle,Mantle,mnt,0.4393,2.89666,gainer,5,2026-07-17
-pump-fun,Pump.fun,pump,0.00164084,2.3939,gainer,6,2026-07-17
-arbitrum,Arbitrum,arb,0.088296,2.20881,gainer,7,2026-07-17
-audiera,Audiera,beat,2.52,2.19742,gainer,8,2026-07-17
-polkadot,Polkadot,dot,0.850027,1.85628,gainer,9,2026-07-17
-xdce-crowd-sale,XDC Network,xdc,0.02777494,1.33422,gainer,10,2026-07-17
-hyperliquid,Hyperliquid,hype,58.66,-11.45927,loser,1,2026-07-17
-lighter,Lighter,lit,2.19,-7.63138,loser,2,2026-07-17
-the-open-network,Gram (prev. Toncoin),gram,1.46,-6.80661,loser,3,2026-07-17
-zcash,Zcash,zec,530.46,-6.17951,loser,4,2026-07-17
-near,NEAR Protocol,near,1.94,-5.07536,loser,5,2026-07-17
-jupiter-exchange-solana,Jupiter,jup,0.192093,-4.69058,loser,6,2026-07-17
-sky,Sky,sky,0.059917,-4.535,loser,7,2026-07-17
-worldcoin-wld,Worldcoin,wld,0.378851,-4.49814,loser,8,2026-07-17
-morpho,Morpho,morpho,2.01,-4.29536,loser,9,2026-07-17
-aave,Aave,aave,90.37,-4.28698,loser,10,2026-07-17
+pi-network,Pi Network,pi,0.081213,7.18953,gainer,1,2026-07-17
+dexe,DeXe,dexe,35.92,6.10927,gainer,2,2026-07-17
+crypto-com-chain,Cronos,cro,0.058364,2.57585,gainer,3,2026-07-17
+xdce-crowd-sale,XDC Network,xdc,0.02801557,2.55127,gainer,4,2026-07-17
+quant-network,Quant,qnt,66.16,2.44836,gainer,5,2026-07-17
+arbitrum,Arbitrum,arb,0.088506,2.15632,gainer,6,2026-07-17
+pump-fun,Pump.fun,pump,0.00163323,1.74626,gainer,7,2026-07-17
+polkadot,Polkadot,dot,0.846055,1.22304,gainer,8,2026-07-17
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.084018,0.79016,gainer,9,2026-07-17
+mantle,Mantle,mnt,0.438328,0.69579,gainer,10,2026-07-17
+lighter,Lighter,lit,2.18,-9.85244,loser,1,2026-07-17
+hyperliquid,Hyperliquid,hype,59.77,-8.62409,loser,2,2026-07-17
+stable-2,​​Stable,stable,0.03535895,-8.29254,loser,3,2026-07-17
+near,NEAR Protocol,near,1.91,-5.84731,loser,4,2026-07-17
+morpho,Morpho,morpho,2.02,-5.7506,loser,5,2026-07-17
+sky,Sky,sky,0.059403,-5.10159,loser,6,2026-07-17
+uniswap,Uniswap,uni,3.48,-5.08671,loser,7,2026-07-17
+beldex,Beldex,bdx,0.086841,-4.69729,loser,8,2026-07-17
+worldcoin-wld,Worldcoin,wld,0.379562,-4.69284,loser,9,2026-07-17
+jupiter-exchange-solana,Jupiter,jup,0.192601,-4.34155,loser,10,2026-07-17
