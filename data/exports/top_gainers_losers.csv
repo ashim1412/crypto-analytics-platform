@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,11.6,12.82527,gainer,1,2026-07-18
-crypto-com-chain,Cronos,cro,0.06103,4.16273,gainer,2,2026-07-18
-cardano,Cardano,ada,0.165573,3.52474,gainer,3,2026-07-18
-litecoin,Litecoin,ltc,45.69,3.00693,gainer,4,2026-07-18
-zcash,Zcash,zec,545.65,2.79035,gainer,5,2026-07-18
-monero,Monero,xmr,330.61,1.87574,gainer,6,2026-07-18
-chainlink,Chainlink,link,8.31,1.77709,gainer,7,2026-07-18
-bitcoin,Bitcoin,btc,64134.0,1.71458,gainer,8,2026-07-18
-memecore,MemeCore,m,1.25,1.61671,gainer,9,2026-07-18
-binancecoin,BNB,bnb,569.97,1.50492,gainer,10,2026-07-18
-ondo-finance,Ondo,ondo,0.341065,-9.10748,loser,1,2026-07-18
-audiera,Audiera,beat,2.33,-6.96068,loser,2,2026-07-18
-adi-token,ADI,adi,6.56,-4.88774,loser,3,2026-07-18
-beldex,Beldex,bdx,0.082704,-4.73241,loser,4,2026-07-18
-mantle,Mantle,mnt,0.419696,-4.37999,loser,5,2026-07-18
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.081383,-3.90418,loser,6,2026-07-18
-the-open-network,Gram (prev. Toncoin),gram,1.48,-3.64173,loser,7,2026-07-18
-worldcoin-wld,Worldcoin,wld,0.366984,-3.52095,loser,8,2026-07-18
-canton-network,Canton,cc,0.124949,-3.47877,loser,9,2026-07-18
-bianrensheng,币安人生 (BinanceLife),币安人生,0.688733,-3.13565,loser,10,2026-07-18
+sky,Sky,sky,0.062795,5.24363,gainer,1,2026-07-18
+litecoin,Litecoin,ltc,47.31,5.19766,gainer,2,2026-07-18
+pi-network,Pi Network,pi,0.084366,4.6841,gainer,3,2026-07-18
+venice-token,Venice Token,vvv,11.44,2.75853,gainer,4,2026-07-18
+figure-heloc,Figure Heloc,figr_heloc,1.031,2.20336,gainer,5,2026-07-18
+monero,Monero,xmr,332.47,1.80772,gainer,6,2026-07-18
+zcash,Zcash,zec,557.29,1.76148,gainer,7,2026-07-18
+dexe,DeXe,dexe,36.03,1.68597,gainer,8,2026-07-18
+chainlink,Chainlink,link,8.31,1.26389,gainer,9,2026-07-18
+gatechain-token,Gate,gt,6.75,1.21986,gainer,10,2026-07-18
+ondo-finance,Ondo,ondo,0.346768,-7.87958,loser,1,2026-07-18
+audiera,Audiera,beat,2.39,-3.47149,loser,2,2026-07-18
+the-open-network,Gram (prev. Toncoin),gram,1.47,-3.43561,loser,3,2026-07-18
+quant-network,Quant,qnt,64.86,-2.66168,loser,4,2026-07-18
+jupiter-exchange-solana,Jupiter,jup,0.192745,-2.55274,loser,5,2026-07-18
+worldcoin-wld,Worldcoin,wld,0.370955,-2.52712,loser,6,2026-07-18
+canton-network,Canton,cc,0.124933,-2.27209,loser,7,2026-07-18
+mantle,Mantle,mnt,0.418873,-2.2133,loser,8,2026-07-18
+lighter,Lighter,lit,2.2,-2.14884,loser,9,2026-07-18
+filecoin,Filecoin,fil,0.748915,-2.10283,loser,10,2026-07-18
