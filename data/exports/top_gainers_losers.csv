@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.08065,6.66805,gainer,1,2026-07-17
-xdce-crowd-sale,XDC Network,xdc,0.02813457,3.92438,gainer,2,2026-07-17
-quant-network,Quant,qnt,66.62,3.78891,gainer,3,2026-07-17
-venice-token,Venice Token,vvv,11.21,3.68029,gainer,4,2026-07-17
-dexe,DeXe,dexe,35.38,3.45711,gainer,5,2026-07-17
-cardano,Cardano,ada,0.165673,2.3527,gainer,6,2026-07-17
-memecore,MemeCore,m,1.23,1.77355,gainer,7,2026-07-17
-nexo,NEXO,nexo,0.753572,1.48828,gainer,8,2026-07-17
-okb,OKB,okb,81.28,1.32519,gainer,9,2026-07-17
-zcash,Zcash,zec,548.61,1.23091,gainer,10,2026-07-17
-stable-2,​​Stable,stable,0.03525582,-11.08798,loser,1,2026-07-17
-lighter,Lighter,lit,2.26,-8.78389,loser,2,2026-07-17
-adi-token,ADI,adi,6.63,-5.43045,loser,3,2026-07-17
-near,NEAR Protocol,near,1.93,-5.01126,loser,4,2026-07-17
-beldex,Beldex,bdx,0.084693,-4.60035,loser,5,2026-07-17
-worldcoin-wld,Worldcoin,wld,0.381237,-4.184,loser,6,2026-07-17
-canton-network,Canton,cc,0.12787,-3.72764,loser,7,2026-07-17
-mantle,Mantle,mnt,0.428687,-3.67108,loser,8,2026-07-17
-hyperliquid,Hyperliquid,hype,60.2,-3.59009,loser,9,2026-07-17
-pump-fun,Pump.fun,pump,0.00167472,-3.58525,loser,10,2026-07-17
+pi-network,Pi Network,pi,0.083206,10.18931,gainer,1,2026-07-18
+venice-token,Venice Token,vvv,11.29,4.79781,gainer,2,2026-07-18
+cardano,Cardano,ada,0.167829,4.01609,gainer,3,2026-07-18
+arbitrum,Arbitrum,arb,0.091338,2.31609,gainer,4,2026-07-18
+dexe,DeXe,dexe,36.09,2.16019,gainer,5,2026-07-18
+zcash,Zcash,zec,545.47,1.94795,gainer,6,2026-07-18
+aptos,Aptos,apt,0.622287,1.76798,gainer,7,2026-07-18
+memecore,MemeCore,m,1.25,1.72941,gainer,8,2026-07-18
+crypto-com-chain,Cronos,cro,0.062332,1.69608,gainer,9,2026-07-18
+avalanche-2,Avalanche,avax,6.6,1.41312,gainer,10,2026-07-18
+stable-2,​​Stable,stable,0.03539879,-9.76702,loser,1,2026-07-18
+adi-token,ADI,adi,6.56,-6.5671,loser,2,2026-07-18
+audiera,Audiera,beat,2.41,-6.46611,loser,3,2026-07-18
+morpho,Morpho,morpho,1.95,-6.02903,loser,4,2026-07-18
+beldex,Beldex,bdx,0.084555,-4.99695,loser,5,2026-07-18
+canton-network,Canton,cc,0.127749,-4.06149,loser,6,2026-07-18
+mantle,Mantle,mnt,0.424934,-3.8056,loser,7,2026-07-18
+bianrensheng,币安人生 (BinanceLife),币安人生,0.697725,-3.61069,loser,8,2026-07-18
+rain,Rain,rain,0.01407225,-3.36579,loser,9,2026-07-18
+near,NEAR Protocol,near,1.92,-3.28273,loser,10,2026-07-18
