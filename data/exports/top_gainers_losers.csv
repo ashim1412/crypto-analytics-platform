@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.083206,10.18931,gainer,1,2026-07-18
-venice-token,Venice Token,vvv,11.29,4.79781,gainer,2,2026-07-18
-cardano,Cardano,ada,0.167829,4.01609,gainer,3,2026-07-18
-arbitrum,Arbitrum,arb,0.091338,2.31609,gainer,4,2026-07-18
-dexe,DeXe,dexe,36.09,2.16019,gainer,5,2026-07-18
-zcash,Zcash,zec,545.47,1.94795,gainer,6,2026-07-18
-aptos,Aptos,apt,0.622287,1.76798,gainer,7,2026-07-18
-memecore,MemeCore,m,1.25,1.72941,gainer,8,2026-07-18
-crypto-com-chain,Cronos,cro,0.062332,1.69608,gainer,9,2026-07-18
-avalanche-2,Avalanche,avax,6.6,1.41312,gainer,10,2026-07-18
-stable-2,​​Stable,stable,0.03539879,-9.76702,loser,1,2026-07-18
-adi-token,ADI,adi,6.56,-6.5671,loser,2,2026-07-18
-audiera,Audiera,beat,2.41,-6.46611,loser,3,2026-07-18
-morpho,Morpho,morpho,1.95,-6.02903,loser,4,2026-07-18
-beldex,Beldex,bdx,0.084555,-4.99695,loser,5,2026-07-18
-canton-network,Canton,cc,0.127749,-4.06149,loser,6,2026-07-18
-mantle,Mantle,mnt,0.424934,-3.8056,loser,7,2026-07-18
-bianrensheng,币安人生 (BinanceLife),币安人生,0.697725,-3.61069,loser,8,2026-07-18
-rain,Rain,rain,0.01407225,-3.36579,loser,9,2026-07-18
-near,NEAR Protocol,near,1.92,-3.28273,loser,10,2026-07-18
+venice-token,Venice Token,vvv,11.52,14.05885,gainer,1,2026-07-18
+crypto-com-chain,Cronos,cro,0.060759,4.8918,gainer,2,2026-07-18
+cardano,Cardano,ada,0.165993,4.49893,gainer,3,2026-07-18
+pi-network,Pi Network,pi,0.08175,4.29211,gainer,4,2026-07-18
+ondo-finance,Ondo,ondo,0.372106,2.84506,gainer,5,2026-07-18
+bittensor,Bittensor,tao,194.35,2.30105,gainer,6,2026-07-18
+memecore,MemeCore,m,1.24,2.13968,gainer,7,2026-07-18
+lighter,Lighter,lit,2.24,2.10404,gainer,8,2026-07-18
+avalanche-2,Avalanche,avax,6.6,1.92692,gainer,9,2026-07-18
+ethereum-classic,Ethereum Classic,etc,7.03,1.92555,gainer,10,2026-07-18
+stable-2,​​Stable,stable,0.03541778,-10.27685,loser,1,2026-07-18
+audiera,Audiera,beat,2.35,-7.32139,loser,2,2026-07-18
+adi-token,ADI,adi,6.54,-7.22584,loser,3,2026-07-18
+beldex,Beldex,bdx,0.085203,-5.11551,loser,4,2026-07-18
+mantle,Mantle,mnt,0.420564,-4.05621,loser,5,2026-07-18
+canton-network,Canton,cc,0.126047,-3.7671,loser,6,2026-07-18
+bianrensheng,币安人生 (BinanceLife),币安人生,0.686843,-3.4399,loser,7,2026-07-18
+aave,Aave,aave,87.81,-2.80576,loser,8,2026-07-18
+dexe,DeXe,dexe,35.48,-1.77997,loser,9,2026-07-18
+bitcoin-cash,Bitcoin Cash,bch,218.39,-1.72394,loser,10,2026-07-18
