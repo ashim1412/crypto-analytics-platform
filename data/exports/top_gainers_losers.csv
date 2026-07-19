@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sky,Sky,sky,0.062795,5.24363,gainer,1,2026-07-18
-litecoin,Litecoin,ltc,47.31,5.19766,gainer,2,2026-07-18
-pi-network,Pi Network,pi,0.084366,4.6841,gainer,3,2026-07-18
-venice-token,Venice Token,vvv,11.44,2.75853,gainer,4,2026-07-18
-figure-heloc,Figure Heloc,figr_heloc,1.031,2.20336,gainer,5,2026-07-18
-monero,Monero,xmr,332.47,1.80772,gainer,6,2026-07-18
-zcash,Zcash,zec,557.29,1.76148,gainer,7,2026-07-18
-dexe,DeXe,dexe,36.03,1.68597,gainer,8,2026-07-18
-chainlink,Chainlink,link,8.31,1.26389,gainer,9,2026-07-18
-gatechain-token,Gate,gt,6.75,1.21986,gainer,10,2026-07-18
-ondo-finance,Ondo,ondo,0.346768,-7.87958,loser,1,2026-07-18
-audiera,Audiera,beat,2.39,-3.47149,loser,2,2026-07-18
-the-open-network,Gram (prev. Toncoin),gram,1.47,-3.43561,loser,3,2026-07-18
-quant-network,Quant,qnt,64.86,-2.66168,loser,4,2026-07-18
-jupiter-exchange-solana,Jupiter,jup,0.192745,-2.55274,loser,5,2026-07-18
-worldcoin-wld,Worldcoin,wld,0.370955,-2.52712,loser,6,2026-07-18
-canton-network,Canton,cc,0.124933,-2.27209,loser,7,2026-07-18
-mantle,Mantle,mnt,0.418873,-2.2133,loser,8,2026-07-18
-lighter,Lighter,lit,2.2,-2.14884,loser,9,2026-07-18
-filecoin,Filecoin,fil,0.748915,-2.10283,loser,10,2026-07-18
+venice-token,Venice Token,vvv,11.78,4.40064,gainer,1,2026-07-19
+rain,Rain,rain,0.01469233,4.37212,gainer,2,2026-07-19
+litecoin,Litecoin,ltc,46.89,3.91021,gainer,3,2026-07-19
+sky,Sky,sky,0.061695,3.80636,gainer,4,2026-07-19
+morpho,Morpho,morpho,2.02,3.74034,gainer,5,2026-07-19
+hedera-hashgraph,Hedera,hbar,0.067222,2.27594,gainer,6,2026-07-19
+zcash,Zcash,zec,556.89,2.10044,gainer,7,2026-07-19
+monero,Monero,xmr,336.45,1.77119,gainer,8,2026-07-19
+figure-heloc,Figure Heloc,figr_heloc,1.042,1.49787,gainer,9,2026-07-19
+stable-2,​​Stable,stable,0.03585552,1.45487,gainer,10,2026-07-19
+ondo-finance,Ondo,ondo,0.34304,-9.12043,loser,1,2026-07-19
+crypto-com-chain,Cronos,cro,0.059529,-7.74934,loser,2,2026-07-19
+arbitrum,Arbitrum,arb,0.087827,-4.51829,loser,3,2026-07-19
+adi-token,ADI,adi,6.36,-3.21707,loser,4,2026-07-19
+worldcoin-wld,Worldcoin,wld,0.374508,-3.09988,loser,5,2026-07-19
+canton-network,Canton,cc,0.124316,-2.77319,loser,6,2026-07-19
+lighter,Lighter,lit,2.25,-2.65367,loser,7,2026-07-19
+dexe,DeXe,dexe,35.2,-2.64019,loser,8,2026-07-19
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.080768,-2.35248,loser,9,2026-07-19
+ethena,Ethena,ena,0.080626,-2.10373,loser,10,2026-07-19
