@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.086219,4.68733,gainer,1,2026-07-19
-rain,Rain,rain,0.01457428,3.54376,gainer,2,2026-07-19
-monero,Monero,xmr,339.57,3.52199,gainer,3,2026-07-19
-zcash,Zcash,zec,558.41,3.47451,gainer,4,2026-07-19
-pepe,Pepe,pepe,2.81e-06,3.34871,gainer,5,2026-07-19
-litecoin,Litecoin,ltc,47.07,3.23553,gainer,6,2026-07-19
-aave,Aave,aave,90.68,3.02537,gainer,7,2026-07-19
-hyperliquid,Hyperliquid,hype,60.75,2.55326,gainer,8,2026-07-19
-bittensor,Bittensor,tao,198.57,2.22927,gainer,9,2026-07-19
-venice-token,Venice Token,vvv,11.85,1.87384,gainer,10,2026-07-19
-ondo-finance,Ondo,ondo,0.349784,-4.63262,loser,1,2026-07-19
-adi-token,ADI,adi,6.26,-4.07418,loser,2,2026-07-19
-beldex,Beldex,bdx,0.081555,-2.93575,loser,3,2026-07-19
-dexe,DeXe,dexe,34.37,-2.6673,loser,4,2026-07-19
-arbitrum,Arbitrum,arb,0.088189,-1.92491,loser,5,2026-07-19
-filecoin,Filecoin,fil,0.743193,-1.8817,loser,6,2026-07-19
-the-open-network,Gram (prev. Toncoin),gram,1.46,-1.81721,loser,7,2026-07-19
-crypto-com-chain,Cronos,cro,0.059508,-1.81374,loser,8,2026-07-19
-lighter,Lighter,lit,2.2,-1.53274,loser,9,2026-07-19
-jupiter-exchange-solana,Jupiter,jup,0.191194,-1.51075,loser,10,2026-07-19
+pi-network,Pi Network,pi,0.092076,11.02818,gainer,1,2026-07-19
+rain,Rain,rain,0.01457992,4.53578,gainer,2,2026-07-19
+pepe,Pepe,pepe,2.84e-06,4.35633,gainer,3,2026-07-19
+hyperliquid,Hyperliquid,hype,60.95,3.83252,gainer,4,2026-07-19
+stellar,Stellar,xlm,0.191167,3.27211,gainer,5,2026-07-19
+litecoin,Litecoin,ltc,47.08,3.08972,gainer,6,2026-07-19
+sky,Sky,sky,0.060622,2.9428,gainer,7,2026-07-19
+bittensor,Bittensor,tao,197.59,2.70618,gainer,8,2026-07-19
+ondo-finance,Ondo,ondo,0.349306,2.39941,gainer,9,2026-07-19
+sui,Sui,sui,0.750882,2.18236,gainer,10,2026-07-19
+adi-token,ADI,adi,6.26,-4.54608,loser,1,2026-07-19
+memecore,MemeCore,m,1.2,-3.48383,loser,2,2026-07-19
+filecoin,Filecoin,fil,0.725378,-3.13597,loser,3,2026-07-19
+crypto-com-chain,Cronos,cro,0.059098,-3.12811,loser,4,2026-07-19
+the-open-network,Gram (prev. Toncoin),gram,1.44,-2.75495,loser,5,2026-07-19
+dexe,DeXe,dexe,34.04,-2.34905,loser,6,2026-07-19
+avalanche-2,Avalanche,avax,6.42,-1.87546,loser,7,2026-07-19
+polkadot,Polkadot,dot,0.824776,-1.51903,loser,8,2026-07-19
+jupiter-exchange-solana,Jupiter,jup,0.190877,-1.44317,loser,9,2026-07-19
+ethereum-classic,Ethereum Classic,etc,6.94,-1.24369,loser,10,2026-07-19
