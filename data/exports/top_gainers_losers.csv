@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.092076,11.02818,gainer,1,2026-07-19
-rain,Rain,rain,0.01457992,4.53578,gainer,2,2026-07-19
-pepe,Pepe,pepe,2.84e-06,4.35633,gainer,3,2026-07-19
-hyperliquid,Hyperliquid,hype,60.95,3.83252,gainer,4,2026-07-19
-stellar,Stellar,xlm,0.191167,3.27211,gainer,5,2026-07-19
-litecoin,Litecoin,ltc,47.08,3.08972,gainer,6,2026-07-19
-sky,Sky,sky,0.060622,2.9428,gainer,7,2026-07-19
-bittensor,Bittensor,tao,197.59,2.70618,gainer,8,2026-07-19
-ondo-finance,Ondo,ondo,0.349306,2.39941,gainer,9,2026-07-19
-sui,Sui,sui,0.750882,2.18236,gainer,10,2026-07-19
-adi-token,ADI,adi,6.26,-4.54608,loser,1,2026-07-19
-memecore,MemeCore,m,1.2,-3.48383,loser,2,2026-07-19
-filecoin,Filecoin,fil,0.725378,-3.13597,loser,3,2026-07-19
-crypto-com-chain,Cronos,cro,0.059098,-3.12811,loser,4,2026-07-19
-the-open-network,Gram (prev. Toncoin),gram,1.44,-2.75495,loser,5,2026-07-19
-dexe,DeXe,dexe,34.04,-2.34905,loser,6,2026-07-19
-avalanche-2,Avalanche,avax,6.42,-1.87546,loser,7,2026-07-19
-polkadot,Polkadot,dot,0.824776,-1.51903,loser,8,2026-07-19
-jupiter-exchange-solana,Jupiter,jup,0.190877,-1.44317,loser,9,2026-07-19
-ethereum-classic,Ethereum Classic,etc,6.94,-1.24369,loser,10,2026-07-19
+pi-network,Pi Network,pi,0.093853,11.32408,gainer,1,2026-07-19
+pump-fun,Pump.fun,pump,0.00172475,4.7906,gainer,2,2026-07-19
+pepe,Pepe,pepe,2.82e-06,2.52138,gainer,3,2026-07-19
+canton-network,Canton,cc,0.127742,2.25953,gainer,4,2026-07-19
+xdce-crowd-sale,XDC Network,xdc,0.02855255,1.68311,gainer,5,2026-07-19
+hyperliquid,Hyperliquid,hype,60.59,1.65573,gainer,6,2026-07-19
+htx-dao,HTX DAO,htx,1.85e-06,1.52097,gainer,7,2026-07-19
+stellar,Stellar,xlm,0.189547,1.44587,gainer,8,2026-07-19
+figure-heloc,Figure Heloc,figr_heloc,1.042,0.99976,gainer,9,2026-07-19
+bittensor,Bittensor,tao,196.53,0.92225,gainer,10,2026-07-19
+filecoin,Filecoin,fil,0.715836,-4.34432,loser,1,2026-07-19
+memecore,MemeCore,m,1.18,-3.90717,loser,2,2026-07-19
+dexe,DeXe,dexe,34.78,-3.43913,loser,3,2026-07-19
+worldcoin-wld,Worldcoin,wld,0.360411,-2.84731,loser,4,2026-07-19
+the-open-network,Gram (prev. Toncoin),gram,1.43,-2.79916,loser,5,2026-07-19
+sky,Sky,sky,0.061149,-2.61561,loser,6,2026-07-19
+polkadot,Polkadot,dot,0.814856,-2.43716,loser,7,2026-07-19
+avalanche-2,Avalanche,avax,6.44,-1.94491,loser,8,2026-07-19
+bitcoin-cash,Bitcoin Cash,bch,216.21,-1.94037,loser,9,2026-07-19
+bianrensheng,币安人生 (BinanceLife),币安人生,0.681607,-1.70424,loser,10,2026-07-19
