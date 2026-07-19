@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,11.78,4.40064,gainer,1,2026-07-19
-rain,Rain,rain,0.01469233,4.37212,gainer,2,2026-07-19
-litecoin,Litecoin,ltc,46.89,3.91021,gainer,3,2026-07-19
-sky,Sky,sky,0.061695,3.80636,gainer,4,2026-07-19
-morpho,Morpho,morpho,2.02,3.74034,gainer,5,2026-07-19
-hedera-hashgraph,Hedera,hbar,0.067222,2.27594,gainer,6,2026-07-19
-zcash,Zcash,zec,556.89,2.10044,gainer,7,2026-07-19
-monero,Monero,xmr,336.45,1.77119,gainer,8,2026-07-19
-figure-heloc,Figure Heloc,figr_heloc,1.042,1.49787,gainer,9,2026-07-19
-stable-2,​​Stable,stable,0.03585552,1.45487,gainer,10,2026-07-19
-ondo-finance,Ondo,ondo,0.34304,-9.12043,loser,1,2026-07-19
-crypto-com-chain,Cronos,cro,0.059529,-7.74934,loser,2,2026-07-19
-arbitrum,Arbitrum,arb,0.087827,-4.51829,loser,3,2026-07-19
-adi-token,ADI,adi,6.36,-3.21707,loser,4,2026-07-19
-worldcoin-wld,Worldcoin,wld,0.374508,-3.09988,loser,5,2026-07-19
-canton-network,Canton,cc,0.124316,-2.77319,loser,6,2026-07-19
-lighter,Lighter,lit,2.25,-2.65367,loser,7,2026-07-19
-dexe,DeXe,dexe,35.2,-2.64019,loser,8,2026-07-19
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.080768,-2.35248,loser,9,2026-07-19
-ethena,Ethena,ena,0.080626,-2.10373,loser,10,2026-07-19
+pi-network,Pi Network,pi,0.086219,4.68733,gainer,1,2026-07-19
+rain,Rain,rain,0.01457428,3.54376,gainer,2,2026-07-19
+monero,Monero,xmr,339.57,3.52199,gainer,3,2026-07-19
+zcash,Zcash,zec,558.41,3.47451,gainer,4,2026-07-19
+pepe,Pepe,pepe,2.81e-06,3.34871,gainer,5,2026-07-19
+litecoin,Litecoin,ltc,47.07,3.23553,gainer,6,2026-07-19
+aave,Aave,aave,90.68,3.02537,gainer,7,2026-07-19
+hyperliquid,Hyperliquid,hype,60.75,2.55326,gainer,8,2026-07-19
+bittensor,Bittensor,tao,198.57,2.22927,gainer,9,2026-07-19
+venice-token,Venice Token,vvv,11.85,1.87384,gainer,10,2026-07-19
+ondo-finance,Ondo,ondo,0.349784,-4.63262,loser,1,2026-07-19
+adi-token,ADI,adi,6.26,-4.07418,loser,2,2026-07-19
+beldex,Beldex,bdx,0.081555,-2.93575,loser,3,2026-07-19
+dexe,DeXe,dexe,34.37,-2.6673,loser,4,2026-07-19
+arbitrum,Arbitrum,arb,0.088189,-1.92491,loser,5,2026-07-19
+filecoin,Filecoin,fil,0.743193,-1.8817,loser,6,2026-07-19
+the-open-network,Gram (prev. Toncoin),gram,1.46,-1.81721,loser,7,2026-07-19
+crypto-com-chain,Cronos,cro,0.059508,-1.81374,loser,8,2026-07-19
+lighter,Lighter,lit,2.2,-1.53274,loser,9,2026-07-19
+jupiter-exchange-solana,Jupiter,jup,0.191194,-1.51075,loser,10,2026-07-19
