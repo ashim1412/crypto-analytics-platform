@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00198194,19.84912,gainer,1,2026-07-20
-pi-network,Pi Network,pi,0.097666,12.78061,gainer,2,2026-07-20
-adi-token,ADI,adi,6.84,9.52808,gainer,3,2026-07-20
-audiera,Audiera,beat,2.39,3.03191,gainer,4,2026-07-20
-jupiter-exchange-solana,Jupiter,jup,0.196637,2.44372,gainer,5,2026-07-20
-dexe,DeXe,dexe,35.26,2.3774,gainer,6,2026-07-20
-beldex,Beldex,bdx,0.083169,1.90274,gainer,7,2026-07-20
-xdce-crowd-sale,XDC Network,xdc,0.02857129,1.9006,gainer,8,2026-07-20
-memecore,MemeCore,m,1.26,1.56889,gainer,9,2026-07-20
-morpho,Morpho,morpho,2.01,0.60823,gainer,10,2026-07-20
-bianrensheng,币安人生 (BinanceLife),币安人生,0.649011,-6.44428,loser,1,2026-07-20
-zcash,Zcash,zec,528.37,-5.62271,loser,2,2026-07-20
-worldcoin-wld,Worldcoin,wld,0.355557,-5.46153,loser,3,2026-07-20
-filecoin,Filecoin,fil,0.706911,-4.73306,loser,4,2026-07-20
-polkadot,Polkadot,dot,0.804835,-3.71075,loser,5,2026-07-20
-ondo-finance,Ondo,ondo,0.341764,-3.51082,loser,6,2026-07-20
-venice-token,Venice Token,vvv,11.48,-3.41966,loser,7,2026-07-20
-crypto-com-chain,Cronos,cro,0.057667,-2.91452,loser,8,2026-07-20
-bitcoin-cash,Bitcoin Cash,bch,211.64,-2.8108,loser,9,2026-07-20
-ethereum-classic,Ethereum Classic,etc,6.78,-2.77942,loser,10,2026-07-20
+pump-fun,Pump.fun,pump,0.0019469,17.62274,gainer,1,2026-07-20
+adi-token,ADI,adi,6.7,8.38988,gainer,2,2026-07-20
+audiera,Audiera,beat,2.52,7.96572,gainer,3,2026-07-20
+injective-protocol,Injective,inj,5.3,4.36184,gainer,4,2026-07-20
+near,NEAR Protocol,near,1.98,2.94594,gainer,5,2026-07-20
+memecore,MemeCore,m,1.23,2.71108,gainer,6,2026-07-20
+pi-network,Pi Network,pi,0.099092,2.66864,gainer,7,2026-07-20
+ethena,Ethena,ena,0.082128,2.37318,gainer,8,2026-07-20
+avalanche-2,Avalanche,avax,6.58,2.35099,gainer,9,2026-07-20
+pepe,Pepe,pepe,2.9e-06,1.90996,gainer,10,2026-07-20
+bianrensheng,币安人生 (BinanceLife),币安人生,0.627919,-8.99415,loser,1,2026-07-20
+zcash,Zcash,zec,535.56,-3.67403,loser,2,2026-07-20
+venice-token,Venice Token,vvv,11.46,-2.1173,loser,3,2026-07-20
+crypto-com-chain,Cronos,cro,0.057677,-2.06515,loser,4,2026-07-20
+lighter,Lighter,lit,2.18,-1.8034,loser,5,2026-07-20
+canton-network,Canton,cc,0.123615,-1.61126,loser,6,2026-07-20
+stellar,Stellar,xlm,0.187108,-1.59463,loser,7,2026-07-20
+rain,Rain,rain,0.01420482,-1.57841,loser,8,2026-07-20
+flare-networks,Flare,flr,0.00644055,-1.46154,loser,9,2026-07-20
+ethereum-classic,Ethereum Classic,etc,6.84,-1.31675,loser,10,2026-07-20
