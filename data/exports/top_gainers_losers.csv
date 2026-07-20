@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.0019469,17.62274,gainer,1,2026-07-20
-adi-token,ADI,adi,6.7,8.38988,gainer,2,2026-07-20
-audiera,Audiera,beat,2.52,7.96572,gainer,3,2026-07-20
-injective-protocol,Injective,inj,5.3,4.36184,gainer,4,2026-07-20
-near,NEAR Protocol,near,1.98,2.94594,gainer,5,2026-07-20
-memecore,MemeCore,m,1.23,2.71108,gainer,6,2026-07-20
-pi-network,Pi Network,pi,0.099092,2.66864,gainer,7,2026-07-20
-ethena,Ethena,ena,0.082128,2.37318,gainer,8,2026-07-20
-avalanche-2,Avalanche,avax,6.58,2.35099,gainer,9,2026-07-20
-pepe,Pepe,pepe,2.9e-06,1.90996,gainer,10,2026-07-20
-bianrensheng,币安人生 (BinanceLife),币安人生,0.627919,-8.99415,loser,1,2026-07-20
-zcash,Zcash,zec,535.56,-3.67403,loser,2,2026-07-20
-venice-token,Venice Token,vvv,11.46,-2.1173,loser,3,2026-07-20
-crypto-com-chain,Cronos,cro,0.057677,-2.06515,loser,4,2026-07-20
-lighter,Lighter,lit,2.18,-1.8034,loser,5,2026-07-20
-canton-network,Canton,cc,0.123615,-1.61126,loser,6,2026-07-20
-stellar,Stellar,xlm,0.187108,-1.59463,loser,7,2026-07-20
-rain,Rain,rain,0.01420482,-1.57841,loser,8,2026-07-20
-flare-networks,Flare,flr,0.00644055,-1.46154,loser,9,2026-07-20
-ethereum-classic,Ethereum Classic,etc,6.84,-1.31675,loser,10,2026-07-20
+pump-fun,Pump.fun,pump,0.00205142,15.53476,gainer,1,2026-07-20
+injective-protocol,Injective,inj,5.41,5.42615,gainer,2,2026-07-20
+pi-network,Pi Network,pi,0.099658,5.21473,gainer,3,2026-07-20
+audiera,Audiera,beat,2.51,5.192,gainer,4,2026-07-20
+dexe,DeXe,dexe,35.98,3.65809,gainer,5,2026-07-20
+uniswap,Uniswap,uni,3.61,3.57561,gainer,6,2026-07-20
+adi-token,ADI,adi,6.7,3.03268,gainer,7,2026-07-20
+ondo-finance,Ondo,ondo,0.355446,2.77344,gainer,8,2026-07-20
+near,NEAR Protocol,near,1.97,2.72115,gainer,9,2026-07-20
+chainlink,Chainlink,link,8.54,2.66856,gainer,10,2026-07-20
+bianrensheng,币安人生 (BinanceLife),币安人生,0.640885,-5.97144,loser,1,2026-07-20
+canton-network,Canton,cc,0.123441,-3.16976,loser,2,2026-07-20
+rain,Rain,rain,0.01409737,-1.77547,loser,3,2026-07-20
+figure-heloc,Figure Heloc,figr_heloc,1.0,-1.73531,loser,4,2026-07-20
+world-liberty-financial,World Liberty Financial,wlfi,0.056891,-1.63124,loser,5,2026-07-20
+crypto-com-chain,Cronos,cro,0.057682,-1.61289,loser,6,2026-07-20
+xdce-crowd-sale,XDC Network,xdc,0.02808616,-1.48199,loser,7,2026-07-20
+lighter,Lighter,lit,2.19,-1.18335,loser,8,2026-07-20
+stellar,Stellar,xlm,0.18765,-1.07264,loser,9,2026-07-20
+litecoin,Litecoin,ltc,46.99,-1.03788,loser,10,2026-07-20
