@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.093853,11.32408,gainer,1,2026-07-19
-pump-fun,Pump.fun,pump,0.00172475,4.7906,gainer,2,2026-07-19
-pepe,Pepe,pepe,2.82e-06,2.52138,gainer,3,2026-07-19
-canton-network,Canton,cc,0.127742,2.25953,gainer,4,2026-07-19
-xdce-crowd-sale,XDC Network,xdc,0.02855255,1.68311,gainer,5,2026-07-19
-hyperliquid,Hyperliquid,hype,60.59,1.65573,gainer,6,2026-07-19
-htx-dao,HTX DAO,htx,1.85e-06,1.52097,gainer,7,2026-07-19
-stellar,Stellar,xlm,0.189547,1.44587,gainer,8,2026-07-19
-figure-heloc,Figure Heloc,figr_heloc,1.042,0.99976,gainer,9,2026-07-19
-bittensor,Bittensor,tao,196.53,0.92225,gainer,10,2026-07-19
-filecoin,Filecoin,fil,0.715836,-4.34432,loser,1,2026-07-19
-memecore,MemeCore,m,1.18,-3.90717,loser,2,2026-07-19
-dexe,DeXe,dexe,34.78,-3.43913,loser,3,2026-07-19
-worldcoin-wld,Worldcoin,wld,0.360411,-2.84731,loser,4,2026-07-19
-the-open-network,Gram (prev. Toncoin),gram,1.43,-2.79916,loser,5,2026-07-19
-sky,Sky,sky,0.061149,-2.61561,loser,6,2026-07-19
-polkadot,Polkadot,dot,0.814856,-2.43716,loser,7,2026-07-19
-avalanche-2,Avalanche,avax,6.44,-1.94491,loser,8,2026-07-19
-bitcoin-cash,Bitcoin Cash,bch,216.21,-1.94037,loser,9,2026-07-19
-bianrensheng,币安人生 (BinanceLife),币安人生,0.681607,-1.70424,loser,10,2026-07-19
+pump-fun,Pump.fun,pump,0.00202686,22.86277,gainer,1,2026-07-20
+adi-token,ADI,adi,7.23,13.64993,gainer,2,2026-07-20
+pi-network,Pi Network,pi,0.094236,11.8292,gainer,3,2026-07-20
+pepe,Pepe,pepe,2.87e-06,4.4073,gainer,4,2026-07-20
+canton-network,Canton,cc,0.128623,3.43488,gainer,5,2026-07-20
+jupiter-exchange-solana,Jupiter,jup,0.20036,2.22857,gainer,6,2026-07-20
+kaspa,Kaspa,kas,0.02839138,2.10432,gainer,7,2026-07-20
+xdce-crowd-sale,XDC Network,xdc,0.02862104,2.04269,gainer,8,2026-07-20
+solana,Solana,sol,76.83,1.68329,gainer,9,2026-07-20
+litecoin,Litecoin,ltc,47.58,1.53002,gainer,10,2026-07-20
+filecoin,Filecoin,fil,0.721925,-3.63929,loser,1,2026-07-20
+memecore,MemeCore,m,1.2,-2.82567,loser,2,2026-07-20
+bitcoin-cash,Bitcoin Cash,bch,213.68,-2.79298,loser,3,2026-07-20
+bianrensheng,币安人生 (BinanceLife),币安人生,0.666029,-2.71078,loser,4,2026-07-20
+polkadot,Polkadot,dot,0.815601,-2.23068,loser,5,2026-07-20
+cosmos,Cosmos Hub,atom,1.47,-2.07388,loser,6,2026-07-20
+rain,Rain,rain,0.01439569,-1.98459,loser,7,2026-07-20
+lighter,Lighter,lit,2.21,-1.92918,loser,8,2026-07-20
+ethereum-classic,Ethereum Classic,etc,6.89,-1.83782,loser,9,2026-07-20
+worldcoin-wld,Worldcoin,wld,0.367257,-1.81841,loser,10,2026-07-20
