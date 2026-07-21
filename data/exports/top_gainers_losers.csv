@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00205142,15.53476,gainer,1,2026-07-20
-injective-protocol,Injective,inj,5.41,5.42615,gainer,2,2026-07-20
-pi-network,Pi Network,pi,0.099658,5.21473,gainer,3,2026-07-20
-audiera,Audiera,beat,2.51,5.192,gainer,4,2026-07-20
-dexe,DeXe,dexe,35.98,3.65809,gainer,5,2026-07-20
-uniswap,Uniswap,uni,3.61,3.57561,gainer,6,2026-07-20
-adi-token,ADI,adi,6.7,3.03268,gainer,7,2026-07-20
-ondo-finance,Ondo,ondo,0.355446,2.77344,gainer,8,2026-07-20
-near,NEAR Protocol,near,1.97,2.72115,gainer,9,2026-07-20
-chainlink,Chainlink,link,8.54,2.66856,gainer,10,2026-07-20
-bianrensheng,币安人生 (BinanceLife),币安人生,0.640885,-5.97144,loser,1,2026-07-20
-canton-network,Canton,cc,0.123441,-3.16976,loser,2,2026-07-20
-rain,Rain,rain,0.01409737,-1.77547,loser,3,2026-07-20
-figure-heloc,Figure Heloc,figr_heloc,1.0,-1.73531,loser,4,2026-07-20
-world-liberty-financial,World Liberty Financial,wlfi,0.056891,-1.63124,loser,5,2026-07-20
-crypto-com-chain,Cronos,cro,0.057682,-1.61289,loser,6,2026-07-20
-xdce-crowd-sale,XDC Network,xdc,0.02808616,-1.48199,loser,7,2026-07-20
-lighter,Lighter,lit,2.19,-1.18335,loser,8,2026-07-20
-stellar,Stellar,xlm,0.18765,-1.07264,loser,9,2026-07-20
-litecoin,Litecoin,ltc,46.99,-1.03788,loser,10,2026-07-20
+dexe,DeXe,dexe,36.9,5.73545,gainer,1,2026-07-21
+just,JUST,jst,0.102057,5.71583,gainer,2,2026-07-21
+uniswap,Uniswap,uni,3.66,4.56069,gainer,3,2026-07-21
+injective-protocol,Injective,inj,5.35,4.34697,gainer,4,2026-07-21
+ethena,Ethena,ena,0.083414,4.17407,gainer,5,2026-07-21
+internet-computer,Internet Computer,icp,2.23,3.98204,gainer,6,2026-07-21
+worldcoin-wld,Worldcoin,wld,0.380899,3.73136,gainer,7,2026-07-21
+ondo-finance,Ondo,ondo,0.359284,3.4528,gainer,8,2026-07-21
+bitcoin-cash,Bitcoin Cash,bch,220.87,3.30508,gainer,9,2026-07-21
+hyperliquid,Hyperliquid,hype,62.48,2.94226,gainer,10,2026-07-21
+adi-token,ADI,adi,6.75,-6.63889,loser,1,2026-07-21
+bianrensheng,币安人生 (BinanceLife),币安人生,0.6358,-4.48393,loser,2,2026-07-21
+pi-network,Pi Network,pi,0.091116,-3.3463,loser,3,2026-07-21
+canton-network,Canton,cc,0.124743,-3.00592,loser,4,2026-07-21
+rain,Rain,rain,0.01409499,-2.07535,loser,5,2026-07-21
+bittensor,Bittensor,tao,195.15,-1.74805,loser,6,2026-07-21
+the-open-network,Gram (prev. Toncoin),gram,1.43,-1.72686,loser,7,2026-07-21
+figure-heloc,Figure Heloc,figr_heloc,1.001,-1.68261,loser,8,2026-07-21
+crypto-com-chain,Cronos,cro,0.057506,-1.67866,loser,9,2026-07-21
+jupiter-exchange-solana,Jupiter,jup,0.197258,-1.52678,loser,10,2026-07-21
