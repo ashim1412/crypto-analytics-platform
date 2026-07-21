@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,36.9,5.73545,gainer,1,2026-07-21
-just,JUST,jst,0.102057,5.71583,gainer,2,2026-07-21
-uniswap,Uniswap,uni,3.66,4.56069,gainer,3,2026-07-21
-injective-protocol,Injective,inj,5.35,4.34697,gainer,4,2026-07-21
-ethena,Ethena,ena,0.083414,4.17407,gainer,5,2026-07-21
-internet-computer,Internet Computer,icp,2.23,3.98204,gainer,6,2026-07-21
-worldcoin-wld,Worldcoin,wld,0.380899,3.73136,gainer,7,2026-07-21
-ondo-finance,Ondo,ondo,0.359284,3.4528,gainer,8,2026-07-21
-bitcoin-cash,Bitcoin Cash,bch,220.87,3.30508,gainer,9,2026-07-21
-hyperliquid,Hyperliquid,hype,62.48,2.94226,gainer,10,2026-07-21
-adi-token,ADI,adi,6.75,-6.63889,loser,1,2026-07-21
-bianrensheng,币安人生 (BinanceLife),币安人生,0.6358,-4.48393,loser,2,2026-07-21
-pi-network,Pi Network,pi,0.091116,-3.3463,loser,3,2026-07-21
-canton-network,Canton,cc,0.124743,-3.00592,loser,4,2026-07-21
-rain,Rain,rain,0.01409499,-2.07535,loser,5,2026-07-21
-bittensor,Bittensor,tao,195.15,-1.74805,loser,6,2026-07-21
-the-open-network,Gram (prev. Toncoin),gram,1.43,-1.72686,loser,7,2026-07-21
-figure-heloc,Figure Heloc,figr_heloc,1.001,-1.68261,loser,8,2026-07-21
-crypto-com-chain,Cronos,cro,0.057506,-1.67866,loser,9,2026-07-21
-jupiter-exchange-solana,Jupiter,jup,0.197258,-1.52678,loser,10,2026-07-21
+ondo-finance,Ondo,ondo,0.389951,13.70205,gainer,1,2026-07-21
+dexe,DeXe,dexe,38.84,12.64197,gainer,2,2026-07-21
+venice-token,Venice Token,vvv,12.84,11.88455,gainer,3,2026-07-21
+cardano,Cardano,ada,0.175977,8.34182,gainer,4,2026-07-21
+uniswap,Uniswap,uni,3.72,7.9495,gainer,5,2026-07-21
+worldcoin-wld,Worldcoin,wld,0.38436,7.50312,gainer,6,2026-07-21
+ethena,Ethena,ena,0.085425,7.40625,gainer,7,2026-07-21
+lighter,Lighter,lit,2.31,7.00884,gainer,8,2026-07-21
+polkadot,Polkadot,dot,0.856196,6.09394,gainer,9,2026-07-21
+stable-2,​​Stable,stable,0.03719414,5.62213,gainer,10,2026-07-21
+pi-network,Pi Network,pi,0.091361,-7.39917,loser,1,2026-07-21
+memecore,MemeCore,m,1.18,-4.50913,loser,2,2026-07-21
+bianrensheng,币安人生 (BinanceLife),币安人生,0.62766,-3.38191,loser,3,2026-07-21
+audiera,Audiera,beat,2.31,-2.71904,loser,4,2026-07-21
+adi-token,ADI,adi,6.73,-2.5017,loser,5,2026-07-21
+figure-heloc,Figure Heloc,figr_heloc,1.001,-1.68261,loser,6,2026-07-21
+rain,Rain,rain,0.014045,-1.12404,loser,7,2026-07-21
+canton-network,Canton,cc,0.124356,-0.58505,loser,8,2026-07-21
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,-0.17189,loser,9,2026-07-21
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.15,-0.16769,loser,10,2026-07-21
