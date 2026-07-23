@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.09133,6.407,gainer,1,2026-07-22
-worldcoin-wld,Worldcoin,wld,0.395777,4.25015,gainer,2,2026-07-22
-hedera-hashgraph,Hedera,hbar,0.071707,3.71121,gainer,3,2026-07-22
-uniswap,Uniswap,uni,3.79,2.65532,gainer,4,2026-07-22
-aptos,Aptos,apt,0.624512,2.5313,gainer,5,2026-07-22
-just,JUST,jst,0.10171,2.31383,gainer,6,2026-07-22
-aave,Aave,aave,97.77,2.17676,gainer,7,2026-07-22
-ondo-finance,Ondo,ondo,0.409801,2.12715,gainer,8,2026-07-22
-hash-2,Provenance Blockchain,hash,0.00946197,1.69898,gainer,9,2026-07-22
-audiera,Audiera,beat,2.54,1.54621,gainer,10,2026-07-22
-stable-2,​​Stable,stable,0.03589691,-5.9049,loser,1,2026-07-22
-pump-fun,Pump.fun,pump,0.00189481,-4.97348,loser,2,2026-07-22
-memecore,MemeCore,m,1.14,-4.68431,loser,3,2026-07-22
-zcash,Zcash,zec,512.04,-4.05108,loser,4,2026-07-22
-morpho,Morpho,morpho,1.95,-4.04596,loser,5,2026-07-22
-jupiter-exchange-solana,Jupiter,jup,0.190955,-3.82968,loser,6,2026-07-22
-flare-networks,Flare,flr,0.00661808,-3.5958,loser,7,2026-07-22
-near,NEAR Protocol,near,1.87,-3.51228,loser,8,2026-07-22
-xdce-crowd-sale,XDC Network,xdc,0.02836538,-2.79199,loser,9,2026-07-22
-bianrensheng,币安人生 (BinanceLife),币安人生,0.602172,-2.48358,loser,10,2026-07-22
+audiera,Audiera,beat,2.59,6.69919,gainer,1,2026-07-23
+hedera-hashgraph,Hedera,hbar,0.073369,5.09494,gainer,2,2026-07-23
+ethena,Ethena,ena,0.09007,3.42904,gainer,3,2026-07-23
+adi-token,ADI,adi,6.98,2.93316,gainer,4,2026-07-23
+ondo-finance,Ondo,ondo,0.413585,2.83367,gainer,5,2026-07-23
+aptos,Aptos,apt,0.626382,2.80718,gainer,6,2026-07-23
+bianrensheng,币安人生 (BinanceLife),币安人生,0.621271,2.68097,gainer,7,2026-07-23
+uniswap,Uniswap,uni,3.79,2.50025,gainer,8,2026-07-23
+leo-token,LEO Token,leo,9.81,2.30938,gainer,9,2026-07-23
+aave,Aave,aave,98.3,2.2551,gainer,10,2026-07-23
+world-liberty-financial,World Liberty Financial,wlfi,0.052538,-7.52979,loser,1,2026-07-23
+morpho,Morpho,morpho,1.92,-6.84527,loser,2,2026-07-23
+pump-fun,Pump.fun,pump,0.00191069,-6.62802,loser,3,2026-07-23
+rain,Rain,rain,0.01438452,-6.23555,loser,4,2026-07-23
+jupiter-exchange-solana,Jupiter,jup,0.19104,-4.5709,loser,5,2026-07-23
+memecore,MemeCore,m,1.13,-4.16417,loser,6,2026-07-23
+canton-network,Canton,cc,0.121939,-3.59973,loser,7,2026-07-23
+near,NEAR Protocol,near,1.87,-3.42872,loser,8,2026-07-23
+xdce-crowd-sale,XDC Network,xdc,0.0283155,-3.41911,loser,9,2026-07-23
+stellar,Stellar,xlm,0.186514,-3.28629,loser,10,2026-07-23
