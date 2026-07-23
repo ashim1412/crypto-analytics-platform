@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.59,6.69919,gainer,1,2026-07-23
-hedera-hashgraph,Hedera,hbar,0.073369,5.09494,gainer,2,2026-07-23
-ethena,Ethena,ena,0.09007,3.42904,gainer,3,2026-07-23
-adi-token,ADI,adi,6.98,2.93316,gainer,4,2026-07-23
-ondo-finance,Ondo,ondo,0.413585,2.83367,gainer,5,2026-07-23
-aptos,Aptos,apt,0.626382,2.80718,gainer,6,2026-07-23
-bianrensheng,币安人生 (BinanceLife),币安人生,0.621271,2.68097,gainer,7,2026-07-23
-uniswap,Uniswap,uni,3.79,2.50025,gainer,8,2026-07-23
-leo-token,LEO Token,leo,9.81,2.30938,gainer,9,2026-07-23
-aave,Aave,aave,98.3,2.2551,gainer,10,2026-07-23
-world-liberty-financial,World Liberty Financial,wlfi,0.052538,-7.52979,loser,1,2026-07-23
-morpho,Morpho,morpho,1.92,-6.84527,loser,2,2026-07-23
-pump-fun,Pump.fun,pump,0.00191069,-6.62802,loser,3,2026-07-23
-rain,Rain,rain,0.01438452,-6.23555,loser,4,2026-07-23
-jupiter-exchange-solana,Jupiter,jup,0.19104,-4.5709,loser,5,2026-07-23
-memecore,MemeCore,m,1.13,-4.16417,loser,6,2026-07-23
-canton-network,Canton,cc,0.121939,-3.59973,loser,7,2026-07-23
-near,NEAR Protocol,near,1.87,-3.42872,loser,8,2026-07-23
-xdce-crowd-sale,XDC Network,xdc,0.0283155,-3.41911,loser,9,2026-07-23
-stellar,Stellar,xlm,0.186514,-3.28629,loser,10,2026-07-23
+blockchain-capital,Blockchain Capital,bcap,106.2,363.1,gainer,1,2026-07-23
+stable-2,​​Stable,stable,0.04047578,11.6,gainer,2,2026-07-23
+world-liberty-financial,World Liberty Financial,wlfi,0.061538,9.3,gainer,3,2026-07-23
+bianrensheng,币安人生 (BinanceLife),币安人生,0.640081,7.9,gainer,4,2026-07-23
+ethena,Ethena,ena,0.091959,6.3,gainer,5,2026-07-23
+hedera-hashgraph,Hedera,hbar,0.07374,5.3,gainer,6,2026-07-23
+uniswap,Uniswap,uni,3.82,3.6,gainer,7,2026-07-23
+audiera,Audiera,beat,2.72,3.2,gainer,8,2026-07-23
+adi-token,ADI,adi,6.98,3.1,gainer,9,2026-07-23
+aptos,Aptos,apt,0.620891,3.1,gainer,10,2026-07-23
+rain,Rain,rain,0.01429081,-7.6,loser,1,2026-07-23
+filecoin,Filecoin,fil,0.733847,-4.7,loser,2,2026-07-23
+nexo,NEXO,nexo,0.737985,-3.9,loser,3,2026-07-23
+xdce-crowd-sale,XDC Network,xdc,0.02839351,-3.9,loser,4,2026-07-23
+canton-network,Canton,cc,0.120839,-3.1,loser,5,2026-07-23
+pump-fun,Pump.fun,pump,0.00189348,-3.0,loser,6,2026-07-23
+sky,Sky,sky,0.060832,-2.8,loser,7,2026-07-23
+stellar,Stellar,xlm,0.183622,-2.6,loser,8,2026-07-23
+polkadot,Polkadot,dot,0.820368,-2.4,loser,9,2026-07-23
+bitcoin-cash,Bitcoin Cash,bch,216.06,-2.2,loser,10,2026-07-23
