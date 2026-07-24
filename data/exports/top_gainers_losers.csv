@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,3.49,28.30063,gainer,1,2026-07-24
-injective-protocol,Injective,inj,5.42,5.75919,gainer,2,2026-07-24
-figure-heloc,Figure Heloc,figr_heloc,1.039,3.72036,gainer,3,2026-07-24
-near,NEAR Protocol,near,1.9,2.16572,gainer,4,2026-07-24
-monero,Monero,xmr,358.8,1.93735,gainer,5,2026-07-24
-memecore,MemeCore,m,1.16,1.26483,gainer,6,2026-07-24
-worldcoin-wld,Worldcoin,wld,0.38382,1.18747,gainer,7,2026-07-24
-tron,TRON,trx,0.331236,0.72657,gainer,8,2026-07-24
-uniswap,Uniswap,uni,3.84,0.65466,gainer,9,2026-07-24
-canton-network,Canton,cc,0.121489,0.56552,gainer,10,2026-07-24
-world-liberty-financial,World Liberty Financial,wlfi,0.056522,-8.15625,loser,1,2026-07-24
-pi-network,Pi Network,pi,0.083529,-8.02707,loser,2,2026-07-24
-sky,Sky,sky,0.057354,-5.69854,loser,3,2026-07-24
-stable-2,​​Stable,stable,0.03844353,-5.44183,loser,4,2026-07-24
-avalanche-2,Avalanche,avax,6.28,-4.18023,loser,5,2026-07-24
-lighter,Lighter,lit,2.14,-3.83254,loser,6,2026-07-24
-hedera-hashgraph,Hedera,hbar,0.071046,-3.48603,loser,7,2026-07-24
-sui,Sui,sui,0.743834,-3.32072,loser,8,2026-07-24
-cosmos,Cosmos Hub,atom,1.42,-3.15317,loser,9,2026-07-24
-dogecoin,Dogecoin,doge,0.069981,-3.02687,loser,10,2026-07-24
+audiera,Audiera,beat,3.05,7.4,gainer,1,2026-07-24
+memecore,MemeCore,m,1.2,4.4,gainer,2,2026-07-24
+figure-heloc,Figure Heloc,figr_heloc,1.04,3.7,gainer,3,2026-07-24
+injective-protocol,Injective,inj,5.23,2.1,gainer,4,2026-07-24
+bianrensheng,币安人生 (BinanceLife),币安人生,0.647837,1.1,gainer,5,2026-07-24
+tron,TRON,trx,0.330279,1.1,gainer,6,2026-07-24
+monero,Monero,xmr,353.71,1.0,gainer,7,2026-07-24
+just,JUST,jst,0.101871,0.8,gainer,8,2026-07-24
+rain,Rain,rain,0.01428978,0.5,gainer,9,2026-07-24
+beldex,Beldex,bdx,0.083191,0.4,gainer,10,2026-07-24
+world-liberty-financial,World Liberty Financial,wlfi,0.057633,-10.9,loser,1,2026-07-24
+pi-network,Pi Network,pi,0.082499,-8.8,loser,2,2026-07-24
+pump-fun,Pump.fun,pump,0.00181677,-6.4,loser,3,2026-07-24
+stable-2,​​Stable,stable,0.03788861,-6.0,loser,4,2026-07-24
+lighter,Lighter,lit,2.1,-5.9,loser,5,2026-07-24
+sky,Sky,sky,0.057956,-5.8,loser,6,2026-07-24
+avalanche-2,Avalanche,avax,6.17,-5.6,loser,7,2026-07-24
+sui,Sui,sui,0.721753,-5.2,loser,8,2026-07-24
+cardano,Cardano,ada,0.164553,-5.1,loser,9,2026-07-24
+venice-token,Venice Token,vvv,11.73,-4.9,loser,10,2026-07-24
