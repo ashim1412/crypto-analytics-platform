@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hash-2,Provenance Blockchain,hash,0.00936148,12.8,gainer,1,2026-07-24
-audiera,Audiera,beat,3.2,6.4,gainer,2,2026-07-24
-memecore,MemeCore,m,1.21,4.4,gainer,3,2026-07-24
-monero,Monero,xmr,364.64,3.8,gainer,4,2026-07-24
-figure-heloc,Figure Heloc,figr_heloc,1.038,3.5,gainer,5,2026-07-24
-aster-2,Aster,aster,0.636051,2.9,gainer,6,2026-07-24
-venice-token,Venice Token,vvv,12.37,2.7,gainer,7,2026-07-24
-algorand,Algorand,algo,0.083783,2.2,gainer,8,2026-07-24
-just,JUST,jst,0.102725,2.1,gainer,9,2026-07-24
-uniswap,Uniswap,uni,3.83,2.1,gainer,10,2026-07-24
-sky,Sky,sky,0.057394,-6.0,loser,1,2026-07-24
-bianrensheng,币安人生 (BinanceLife),币安人生,0.649923,-5.3,loser,2,2026-07-24
-world-liberty-financial,World Liberty Financial,wlfi,0.057263,-4.5,loser,3,2026-07-24
-lighter,Lighter,lit,2.08,-4.4,loser,4,2026-07-24
-sui,Sui,sui,0.709774,-4.1,loser,5,2026-07-24
-canton-network,Canton,cc,0.117904,-3.5,loser,6,2026-07-24
-pump-fun,Pump.fun,pump,0.00183644,-3.4,loser,7,2026-07-24
-near,NEAR Protocol,near,1.81,-3.2,loser,8,2026-07-24
-ethereum-classic,Ethereum Classic,etc,6.61,-2.8,loser,9,2026-07-24
-cardano,Cardano,ada,0.16348,-2.7,loser,10,2026-07-24
+audiera,Audiera,beat,3.27,7.69802,gainer,1,2026-07-25
+venice-token,Venice Token,vvv,12.38,5.94626,gainer,2,2026-07-25
+memecore,MemeCore,m,1.2,5.11614,gainer,3,2026-07-25
+algorand,Algorand,algo,0.085876,3.92236,gainer,4,2026-07-25
+monero,Monero,xmr,365.48,3.09801,gainer,5,2026-07-25
+shiba-inu,Shiba Inu,shib,4.19e-06,1.67307,gainer,6,2026-07-25
+hash-2,Provenance Blockchain,hash,0.00928167,1.47388,gainer,7,2026-07-25
+aster-2,Aster,aster,0.627518,1.02647,gainer,8,2026-07-25
+the-open-network,Gram (prev. Toncoin),gram,1.46,0.91467,gainer,9,2026-07-25
+uniswap,Uniswap,uni,3.78,0.74273,gainer,10,2026-07-25
+worldcoin-wld,Worldcoin,wld,0.347134,-8.73937,loser,1,2026-07-25
+bianrensheng,币安人生 (BinanceLife),币安人生,0.628665,-6.58021,loser,2,2026-07-25
+lighter,Lighter,lit,2.04,-5.42545,loser,3,2026-07-25
+sky,Sky,sky,0.057411,-5.32459,loser,4,2026-07-25
+near,NEAR Protocol,near,1.8,-5.02441,loser,5,2026-07-25
+ondo-finance,Ondo,ondo,0.381368,-4.38112,loser,6,2026-07-25
+sui,Sui,sui,0.709654,-4.37972,loser,7,2026-07-25
+arbitrum,Arbitrum,arb,0.082379,-4.2169,loser,8,2026-07-25
+ethereum-classic,Ethereum Classic,etc,6.56,-4.07005,loser,9,2026-07-25
+aave,Aave,aave,91.48,-4.0393,loser,10,2026-07-25
