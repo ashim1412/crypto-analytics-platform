@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,3.32,12.7,gainer,1,2026-07-25
-venice-token,Venice Token,vvv,12.91,8.3,gainer,2,2026-07-25
-hash-2,Provenance Blockchain,hash,0.0091875,3.1,gainer,3,2026-07-25
-monero,Monero,xmr,365.82,2.8,gainer,4,2026-07-25
-algorand,Algorand,algo,0.08399,2.1,gainer,5,2026-07-25
-shiba-inu,Shiba Inu,shib,4.25e-06,1.9,gainer,6,2026-07-25
-stable-2,​​Stable,stable,0.0396195,1.5,gainer,7,2026-07-25
-polkadot,Polkadot,dot,0.81663,1.5,gainer,8,2026-07-25
-leo-token,LEO Token,leo,9.7,1.0,gainer,9,2026-07-25
-morpho,Morpho,morpho,1.99,0.9,gainer,10,2026-07-25
-worldcoin-wld,Worldcoin,wld,0.348094,-8.5,loser,1,2026-07-25
-bianrensheng,币安人生 (BinanceLife),币安人生,0.630764,-5.6,loser,2,2026-07-25
-near,NEAR Protocol,near,1.79,-5.2,loser,3,2026-07-25
-aave,Aave,aave,90.72,-4.9,loser,4,2026-07-25
-uniswap,Uniswap,uni,3.68,-4.7,loser,5,2026-07-25
-zcash,Zcash,zec,477.38,-4.3,loser,6,2026-07-25
-sui,Sui,sui,0.705531,-3.9,loser,7,2026-07-25
-lighter,Lighter,lit,2.06,-3.9,loser,8,2026-07-25
-injective-protocol,Injective,inj,5.12,-3.6,loser,9,2026-07-25
-ondo-finance,Ondo,ondo,0.379483,-3.3,loser,10,2026-07-25
+shiba-inu,Shiba Inu,shib,4.89e-06,20.7,gainer,1,2026-07-25
+venice-token,Venice Token,vvv,13.56,10.0,gainer,2,2026-07-25
+avalanche-2,Avalanche,avax,6.67,7.6,gainer,3,2026-07-25
+dogecoin,Dogecoin,doge,0.073036,6.7,gainer,4,2026-07-25
+stable-2,​​Stable,stable,0.03992475,5.9,gainer,5,2026-07-25
+audiera,Audiera,beat,3.42,4.6,gainer,6,2026-07-25
+pepe,Pepe,pepe,2.78e-06,4.3,gainer,7,2026-07-25
+canton-network,Canton,cc,0.121788,3.2,gainer,8,2026-07-25
+morpho,Morpho,morpho,2.0,2.2,gainer,9,2026-07-25
+polkadot,Polkadot,dot,0.816818,2.0,gainer,10,2026-07-25
+worldcoin-wld,Worldcoin,wld,0.349284,-6.6,loser,1,2026-07-25
+memecore,MemeCore,m,1.16,-3.9,loser,2,2026-07-25
+uniswap,Uniswap,uni,3.68,-3.8,loser,3,2026-07-25
+bianrensheng,币安人生 (BinanceLife),币安人生,0.62727,-3.2,loser,4,2026-07-25
+ondo-finance,Ondo,ondo,0.383884,-2.3,loser,5,2026-07-25
+figure-heloc,Figure Heloc,figr_heloc,1.018,-2.3,loser,6,2026-07-25
+aave,Aave,aave,92.02,-2.3,loser,7,2026-07-25
+injective-protocol,Injective,inj,5.07,-2.2,loser,8,2026-07-25
+world-liberty-financial,World Liberty Financial,wlfi,0.056383,-2.0,loser,9,2026-07-25
+rain,Rain,rain,0.01395963,-1.6,loser,10,2026-07-25
