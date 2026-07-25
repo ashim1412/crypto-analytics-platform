@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dexe,DeXe,dexe,5.96,156.2,gainer,1,2026-07-25
-venice-token,Venice Token,vvv,12.77,7.3,gainer,2,2026-07-25
-memecore,MemeCore,m,1.2,4.1,gainer,3,2026-07-25
-audiera,Audiera,beat,3.27,3.1,gainer,4,2026-07-25
-sky,Sky,sky,0.05821,2.7,gainer,5,2026-07-25
-monero,Monero,xmr,370.01,2.3,gainer,6,2026-07-25
-hash-2,Provenance Blockchain,hash,0.00914496,2.0,gainer,7,2026-07-25
-stable-2,​​Stable,stable,0.03852421,1.6,gainer,8,2026-07-25
-pi-network,Pi Network,pi,0.082989,1.6,gainer,9,2026-07-25
-algorand,Algorand,algo,0.084045,1.4,gainer,10,2026-07-25
-worldcoin-wld,Worldcoin,wld,0.342876,-10.7,loser,1,2026-07-25
-ondo-finance,Ondo,ondo,0.377016,-6.6,loser,2,2026-07-25
-zcash,Zcash,zec,477.17,-6.2,loser,3,2026-07-25
-near,NEAR Protocol,near,1.78,-5.5,loser,4,2026-07-25
-sui,Sui,sui,0.702794,-4.9,loser,5,2026-07-25
-aave,Aave,aave,91.12,-4.8,loser,6,2026-07-25
-canton-network,Canton,cc,0.11676,-4.5,loser,7,2026-07-25
-uniswap,Uniswap,uni,3.68,-4.2,loser,8,2026-07-25
-stellar,Stellar,xlm,0.176983,-4.1,loser,9,2026-07-25
-aptos,Aptos,apt,0.596156,-4.0,loser,10,2026-07-25
+audiera,Audiera,beat,3.32,12.7,gainer,1,2026-07-25
+venice-token,Venice Token,vvv,12.91,8.3,gainer,2,2026-07-25
+hash-2,Provenance Blockchain,hash,0.0091875,3.1,gainer,3,2026-07-25
+monero,Monero,xmr,365.82,2.8,gainer,4,2026-07-25
+algorand,Algorand,algo,0.08399,2.1,gainer,5,2026-07-25
+shiba-inu,Shiba Inu,shib,4.25e-06,1.9,gainer,6,2026-07-25
+stable-2,​​Stable,stable,0.0396195,1.5,gainer,7,2026-07-25
+polkadot,Polkadot,dot,0.81663,1.5,gainer,8,2026-07-25
+leo-token,LEO Token,leo,9.7,1.0,gainer,9,2026-07-25
+morpho,Morpho,morpho,1.99,0.9,gainer,10,2026-07-25
+worldcoin-wld,Worldcoin,wld,0.348094,-8.5,loser,1,2026-07-25
+bianrensheng,币安人生 (BinanceLife),币安人生,0.630764,-5.6,loser,2,2026-07-25
+near,NEAR Protocol,near,1.79,-5.2,loser,3,2026-07-25
+aave,Aave,aave,90.72,-4.9,loser,4,2026-07-25
+uniswap,Uniswap,uni,3.68,-4.7,loser,5,2026-07-25
+zcash,Zcash,zec,477.38,-4.3,loser,6,2026-07-25
+sui,Sui,sui,0.705531,-3.9,loser,7,2026-07-25
+lighter,Lighter,lit,2.06,-3.9,loser,8,2026-07-25
+injective-protocol,Injective,inj,5.12,-3.6,loser,9,2026-07-25
+ondo-finance,Ondo,ondo,0.379483,-3.3,loser,10,2026-07-25
