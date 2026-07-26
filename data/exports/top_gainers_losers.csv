@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-shiba-inu,Shiba Inu,shib,5.43e-06,27.5,gainer,1,2026-07-26
-venice-token,Venice Token,vvv,14.02,11.6,gainer,2,2026-07-26
-pepe,Pepe,pepe,3.02e-06,11.6,gainer,3,2026-07-26
-memecore,MemeCore,m,1.29,10.3,gainer,4,2026-07-26
-avalanche-2,Avalanche,avax,6.7,6.7,gainer,5,2026-07-26
-ethereum-classic,Ethereum Classic,etc,6.98,6.2,gainer,6,2026-07-26
-aave,Aave,aave,95.8,5.4,gainer,7,2026-07-26
-dogecoin,Dogecoin,doge,0.073271,5.3,gainer,8,2026-07-26
-uniswap,Uniswap,uni,3.88,4.9,gainer,9,2026-07-26
-audiera,Audiera,beat,3.53,4.7,gainer,10,2026-07-26
-injective-protocol,Injective,inj,4.93,-5.7,loser,1,2026-07-26
-morpho,Morpho,morpho,1.91,-4.1,loser,2,2026-07-26
-rain,Rain,rain,0.0140621,-3.3,loser,3,2026-07-26
-world-liberty-financial,World Liberty Financial,wlfi,0.055049,-2.5,loser,4,2026-07-26
-worldcoin-wld,Worldcoin,wld,0.333739,-2.4,loser,5,2026-07-26
-stable-2,​​Stable,stable,0.03858718,-1.4,loser,6,2026-07-26
-ethena,Ethena,ena,0.085237,-1.3,loser,7,2026-07-26
-sky,Sky,sky,0.057975,-0.8,loser,8,2026-07-26
-monero,Monero,xmr,362.52,-0.6,loser,9,2026-07-26
-arbitrum,Arbitrum,arb,0.08276,-0.5,loser,10,2026-07-26
+hash-2,Provenance Blockchain,hash,0.00931736,7.5,gainer,1,2026-07-26
+shiba-inu,Shiba Inu,shib,5.25e-06,6.7,gainer,2,2026-07-26
+ethereum-classic,Ethereum Classic,etc,7.14,6.7,gainer,3,2026-07-26
+uniswap,Uniswap,uni,3.9,6.4,gainer,4,2026-07-26
+pepe,Pepe,pepe,2.91e-06,5.9,gainer,5,2026-07-26
+ondo-finance,Ondo,ondo,0.397621,5.5,gainer,6,2026-07-26
+aave,Aave,aave,96.64,5.3,gainer,7,2026-07-26
+memecore,MemeCore,m,1.22,4.5,gainer,8,2026-07-26
+audiera,Audiera,beat,3.57,4.5,gainer,9,2026-07-26
+bianrensheng,币安人生 (BinanceLife),币安人生,0.659138,4.3,gainer,10,2026-07-26
+stable-2,​​Stable,stable,0.03850451,-4.1,loser,1,2026-07-26
+morpho,Morpho,morpho,1.95,-2.2,loser,2,2026-07-26
+world-liberty-financial,World Liberty Financial,wlfi,0.055025,-1.8,loser,3,2026-07-26
+monero,Monero,xmr,356.94,-1.6,loser,4,2026-07-26
+hedera-hashgraph,Hedera,hbar,0.069997,-0.9,loser,5,2026-07-26
+sky,Sky,sky,0.057854,-0.7,loser,6,2026-07-26
+nexo,NEXO,nexo,0.736734,-0.4,loser,7,2026-07-26
+cardano,Cardano,ada,0.164443,-0.4,loser,8,2026-07-26
+xdce-crowd-sale,XDC Network,xdc,0.02797286,-0.4,loser,9,2026-07-26
+arbitrum,Arbitrum,arb,0.082416,-0.3,loser,10,2026-07-26
