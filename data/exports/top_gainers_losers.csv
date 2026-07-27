@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00200107,11.86497,gainer,1,2026-07-27
-aave,Aave,aave,100.61,9.18472,gainer,2,2026-07-27
-pepe,Pepe,pepe,2.94e-06,7.04216,gainer,3,2026-07-27
-ondo-finance,Ondo,ondo,0.406831,5.9569,gainer,4,2026-07-27
-hash-2,Provenance Blockchain,hash,0.00903191,5.81444,gainer,5,2026-07-27
-uniswap,Uniswap,uni,3.87,5.45215,gainer,6,2026-07-27
-audiera,Audiera,beat,3.54,4.7472,gainer,7,2026-07-27
-ethereum-classic,Ethereum Classic,etc,7.04,4.72827,gainer,8,2026-07-27
-shiba-inu,Shiba Inu,shib,5.17e-06,4.63282,gainer,9,2026-07-27
-chainlink,Chainlink,link,8.78,4.57847,gainer,10,2026-07-27
-monero,Monero,xmr,350.58,-4.46262,loser,1,2026-07-27
-stable-2,​​Stable,stable,0.03878665,-2.73044,loser,2,2026-07-27
-memecore,MemeCore,m,1.22,-2.29311,loser,3,2026-07-27
-world-liberty-financial,World Liberty Financial,wlfi,0.054896,-1.95878,loser,4,2026-07-27
-hedera-hashgraph,Hedera,hbar,0.069532,-1.22993,loser,5,2026-07-27
-avalanche-2,Avalanche,avax,6.71,-0.97586,loser,6,2026-07-27
-sky,Sky,sky,0.057848,-0.86386,loser,7,2026-07-27
-xdce-crowd-sale,XDC Network,xdc,0.02797355,-0.76959,loser,8,2026-07-27
-htx-dao,HTX DAO,htx,1.82e-06,-0.54055,loser,9,2026-07-27
-pi-network,Pi Network,pi,0.082149,-0.52578,loser,10,2026-07-27
+pump-fun,Pump.fun,pump,0.00204377,14.2,gainer,1,2026-07-27
+lighter,Lighter,lit,2.25,9.9,gainer,2,2026-07-27
+aave,Aave,aave,101.08,9.2,gainer,3,2026-07-27
+audiera,Audiera,beat,3.79,7.3,gainer,4,2026-07-27
+ondo-finance,Ondo,ondo,0.410729,7.0,gainer,5,2026-07-27
+uniswap,Uniswap,uni,3.91,6.8,gainer,6,2026-07-27
+ethena,Ethena,ena,0.089671,5.8,gainer,7,2026-07-27
+chainlink,Chainlink,link,8.76,4.6,gainer,8,2026-07-27
+ethereum,Ethereum,eth,1956.15,4.5,gainer,9,2026-07-27
+worldcoin-wld,Worldcoin,wld,0.347011,4.3,gainer,10,2026-07-27
+shiba-inu,Shiba Inu,shib,4.99e-06,-8.8,loser,1,2026-07-27
+monero,Monero,xmr,348.52,-3.5,loser,2,2026-07-27
+memecore,MemeCore,m,1.23,-3.2,loser,3,2026-07-27
+avalanche-2,Avalanche,avax,6.6,-2.1,loser,4,2026-07-27
+polkadot,Polkadot,dot,0.808182,-1.9,loser,5,2026-07-27
+venice-token,Venice Token,vvv,13.82,-1.8,loser,6,2026-07-27
+world-liberty-financial,World Liberty Financial,wlfi,0.054587,-1.8,loser,7,2026-07-27
+xdce-crowd-sale,XDC Network,xdc,0.0276428,-1.6,loser,8,2026-07-27
+filecoin,Filecoin,fil,0.736407,-1.5,loser,9,2026-07-27
+algorand,Algorand,algo,0.083364,-1.3,loser,10,2026-07-27
