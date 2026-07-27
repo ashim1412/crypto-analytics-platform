@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,4.35,21.8,gainer,1,2026-07-27
-pump-fun,Pump.fun,pump,0.00209366,18.0,gainer,2,2026-07-27
-ethena,Ethena,ena,0.092509,7.9,gainer,3,2026-07-27
-ondo-finance,Ondo,ondo,0.41508,7.6,gainer,4,2026-07-27
-lighter,Lighter,lit,2.23,7.5,gainer,5,2026-07-27
-aave,Aave,aave,100.1,4.7,gainer,6,2026-07-27
-worldcoin-wld,Worldcoin,wld,0.348455,4.5,gainer,7,2026-07-27
-ethereum,Ethereum,eth,1960.99,3.9,gainer,8,2026-07-27
-chainlink,Chainlink,link,8.76,3.8,gainer,9,2026-07-27
-bitcoin-cash,Bitcoin Cash,bch,218.12,3.3,gainer,10,2026-07-27
-memecore,MemeCore,m,1.2,-6.9,loser,1,2026-07-27
-shiba-inu,Shiba Inu,shib,5e-06,-6.0,loser,2,2026-07-27
-venice-token,Venice Token,vvv,13.28,-5.4,loser,3,2026-07-27
-monero,Monero,xmr,349.13,-3.8,loser,4,2026-07-27
-bianrensheng,币安人生 (BinanceLife),币安人生,0.627055,-2.9,loser,5,2026-07-27
-polkadot,Polkadot,dot,0.804927,-2.3,loser,6,2026-07-27
-algorand,Algorand,algo,0.082733,-2.3,loser,7,2026-07-27
-rain,Rain,rain,0.01378508,-2.0,loser,8,2026-07-27
-pi-network,Pi Network,pi,0.08127,-1.5,loser,9,2026-07-27
-aptos,Aptos,apt,0.623218,-1.5,loser,10,2026-07-27
+pump-fun,Pump.fun,pump,0.00209387,13.2,gainer,1,2026-07-27
+lighter,Lighter,lit,2.17,5.3,gainer,2,2026-07-27
+aave,Aave,aave,99.02,2.5,gainer,3,2026-07-27
+ethena,Ethena,ena,0.087279,2.0,gainer,4,2026-07-27
+okb,OKB,okb,85.74,1.5,gainer,5,2026-07-27
+ethereum,Ethereum,eth,1936.76,1.4,gainer,6,2026-07-27
+kucoin-shares,KuCoin,kcs,6.66,1.3,gainer,7,2026-07-27
+binancecoin,BNB,bnb,574.35,0.4,gainer,8,2026-07-27
+whitebit,WhiteBIT Coin,wbt,56.73,0.4,gainer,9,2026-07-27
+tether-gold,Tether Gold,xaut,4065.38,0.4,gainer,10,2026-07-27
+pi-network,Pi Network,pi,0.077997,-5.3,loser,1,2026-07-27
+venice-token,Venice Token,vvv,13.12,-4.4,loser,2,2026-07-27
+hyperliquid,Hyperliquid,hype,56.58,-4.3,loser,3,2026-07-27
+shiba-inu,Shiba Inu,shib,5e-06,-4.1,loser,4,2026-07-27
+arbitrum,Arbitrum,arb,0.079299,-3.7,loser,5,2026-07-27
+cardano,Cardano,ada,0.158337,-3.7,loser,6,2026-07-27
+polkadot,Polkadot,dot,0.790719,-3.6,loser,7,2026-07-27
+bianrensheng,币安人生 (BinanceLife),币安人生,0.634693,-3.4,loser,8,2026-07-27
+ethereum-classic,Ethereum Classic,etc,6.92,-3.4,loser,9,2026-07-27
+cosmos,Cosmos Hub,atom,1.35,-3.4,loser,10,2026-07-27
