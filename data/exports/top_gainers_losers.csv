@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00209387,13.2,gainer,1,2026-07-27
-lighter,Lighter,lit,2.17,5.3,gainer,2,2026-07-27
-aave,Aave,aave,99.02,2.5,gainer,3,2026-07-27
-ethena,Ethena,ena,0.087279,2.0,gainer,4,2026-07-27
-okb,OKB,okb,85.74,1.5,gainer,5,2026-07-27
-ethereum,Ethereum,eth,1936.76,1.4,gainer,6,2026-07-27
-kucoin-shares,KuCoin,kcs,6.66,1.3,gainer,7,2026-07-27
-binancecoin,BNB,bnb,574.35,0.4,gainer,8,2026-07-27
-whitebit,WhiteBIT Coin,wbt,56.73,0.4,gainer,9,2026-07-27
-tether-gold,Tether Gold,xaut,4065.38,0.4,gainer,10,2026-07-27
-pi-network,Pi Network,pi,0.077997,-5.3,loser,1,2026-07-27
-venice-token,Venice Token,vvv,13.12,-4.4,loser,2,2026-07-27
-hyperliquid,Hyperliquid,hype,56.58,-4.3,loser,3,2026-07-27
-shiba-inu,Shiba Inu,shib,5e-06,-4.1,loser,4,2026-07-27
-arbitrum,Arbitrum,arb,0.079299,-3.7,loser,5,2026-07-27
-cardano,Cardano,ada,0.158337,-3.7,loser,6,2026-07-27
-polkadot,Polkadot,dot,0.790719,-3.6,loser,7,2026-07-27
-bianrensheng,币安人生 (BinanceLife),币安人生,0.634693,-3.4,loser,8,2026-07-27
-ethereum-classic,Ethereum Classic,etc,6.92,-3.4,loser,9,2026-07-27
-cosmos,Cosmos Hub,atom,1.35,-3.4,loser,10,2026-07-27
+pump-fun,Pump.fun,pump,0.00206539,3.7183,gainer,1,2026-07-28
+hash-2,Provenance Blockchain,hash,0.0092887,2.82156,gainer,2,2026-07-28
+figure-heloc,Figure Heloc,figr_heloc,1.031,1.65871,gainer,3,2026-07-28
+leo-token,LEO Token,leo,9.75,0.35524,gainer,4,2026-07-28
+kucoin-shares,KuCoin,kcs,6.67,0.34745,gainer,5,2026-07-28
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.042,0.04347,gainer,6,2026-07-28
+united-stables,United Stables,u,1.0,0.03152,gainer,7,2026-07-28
+janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.11,0.02909,gainer,8,2026-07-28
+blockchain-capital,Blockchain Capital,bcap,106.22,0.01883,gainer,9,2026-07-28
+bfusd,BFUSD,bfusd,0.998632,0.01443,gainer,10,2026-07-28
+audiera,Audiera,beat,2.68,-24.80966,loser,1,2026-07-28
+shiba-inu,Shiba Inu,shib,4.65e-06,-12.28037,loser,2,2026-07-28
+near,NEAR Protocol,near,1.67,-9.13031,loser,3,2026-07-28
+pi-network,Pi Network,pi,0.075584,-8.33229,loser,4,2026-07-28
+polkadot,Polkadot,dot,0.755997,-8.12465,loser,5,2026-07-28
+ethena,Ethena,ena,0.082228,-7.91536,loser,6,2026-07-28
+venice-token,Venice Token,vvv,12.63,-7.67917,loser,7,2026-07-28
+worldcoin-wld,Worldcoin,wld,0.325615,-7.54341,loser,8,2026-07-28
+cosmos,Cosmos Hub,atom,1.29,-7.45168,loser,9,2026-07-28
+filecoin,Filecoin,fil,0.688694,-7.19732,loser,10,2026-07-28
