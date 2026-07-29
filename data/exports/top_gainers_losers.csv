@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,2.27,5.1,gainer,1,2026-07-28
-morpho,Morpho,morpho,2.01,3.2,gainer,2,2026-07-28
-figure-heloc,Figure Heloc,figr_heloc,1.032,2.3,gainer,3,2026-07-28
-aave,Aave,aave,100.96,1.4,gainer,4,2026-07-28
-okb,OKB,okb,86.47,0.9,gainer,5,2026-07-28
-jupiter-exchange-solana,Jupiter,jup,0.18784,0.7,gainer,6,2026-07-28
-rain,Rain,rain,0.0137552,0.6,gainer,7,2026-07-28
-uniswap,Uniswap,uni,3.86,0.6,gainer,8,2026-07-28
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.3,gainer,9,2026-07-28
-kucoin-shares,KuCoin,kcs,6.67,0.3,gainer,10,2026-07-28
-audiera,Audiera,beat,3.18,-13.1,loser,1,2026-07-28
-pump-fun,Pump.fun,pump,0.00194655,-8.2,loser,2,2026-07-28
-shiba-inu,Shiba Inu,shib,4.61e-06,-8.1,loser,3,2026-07-28
-near,NEAR Protocol,near,1.64,-7.5,loser,4,2026-07-28
-worldcoin-wld,Worldcoin,wld,0.319141,-6.9,loser,5,2026-07-28
-stable-2,​​Stable,stable,0.03634483,-6.0,loser,6,2026-07-28
-ethena,Ethena,ena,0.083885,-5.7,loser,7,2026-07-28
-zcash,Zcash,zec,465.81,-5.0,loser,8,2026-07-28
-memecore,MemeCore,m,1.14,-5.0,loser,9,2026-07-28
-pepe,Pepe,pepe,2.8e-06,-4.6,loser,10,2026-07-28
+audiera,Audiera,beat,3.43,34.5,gainer,1,2026-07-29
+lighter,Lighter,lit,2.28,8.2,gainer,2,2026-07-29
+jupiter-exchange-solana,Jupiter,jup,0.190793,6.2,gainer,3,2026-07-29
+bittensor,Bittensor,tao,196.35,5.7,gainer,4,2026-07-29
+uniswap,Uniswap,uni,3.87,4.7,gainer,5,2026-07-29
+morpho,Morpho,morpho,2.02,4.4,gainer,6,2026-07-29
+cardano,Cardano,ada,0.16199,4.4,gainer,7,2026-07-29
+aave,Aave,aave,100.7,3.2,gainer,8,2026-07-29
+avalanche-2,Avalanche,avax,6.53,2.5,gainer,9,2026-07-29
+arbitrum,Arbitrum,arb,0.078772,2.4,gainer,10,2026-07-29
+pump-fun,Pump.fun,pump,0.00195022,-6.9,loser,1,2026-07-29
+hash-2,Provenance Blockchain,hash,0.00950765,-5.9,loser,2,2026-07-29
+worldcoin-wld,Worldcoin,wld,0.308775,-4.7,loser,3,2026-07-29
+shiba-inu,Shiba Inu,shib,4.62e-06,-4.0,loser,4,2026-07-29
+figure-heloc,Figure Heloc,figr_heloc,1.001,-3.0,loser,5,2026-07-29
+memecore,MemeCore,m,1.13,-2.8,loser,6,2026-07-29
+zcash,Zcash,zec,463.28,-2.4,loser,7,2026-07-29
+just,JUST,jst,0.100574,-2.1,loser,8,2026-07-29
+stable-2,​​Stable,stable,0.03597232,-2.1,loser,9,2026-07-29
+hyperliquid,Hyperliquid,hype,54.74,-1.9,loser,10,2026-07-29
