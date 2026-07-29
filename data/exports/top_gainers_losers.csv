@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,3.79,20.8,gainer,1,2026-07-29
-jupiter-exchange-solana,Jupiter,jup,0.195324,7.2,gainer,2,2026-07-29
-uniswap,Uniswap,uni,4.04,5.9,gainer,3,2026-07-29
-sky,Sky,sky,0.057984,5.0,gainer,4,2026-07-29
-pi-network,Pi Network,pi,0.079338,4.8,gainer,5,2026-07-29
-cardano,Cardano,ada,0.164817,4.4,gainer,6,2026-07-29
-shiba-inu,Shiba Inu,shib,4.79e-06,3.2,gainer,7,2026-07-29
-lighter,Lighter,lit,2.27,3.2,gainer,8,2026-07-29
-monero,Monero,xmr,351.1,2.9,gainer,9,2026-07-29
-bittensor,Bittensor,tao,193.32,2.8,gainer,10,2026-07-29
-pump-fun,Pump.fun,pump,0.00187649,-6.8,loser,1,2026-07-29
-worldcoin-wld,Worldcoin,wld,0.305442,-5.4,loser,2,2026-07-29
-near,NEAR Protocol,near,1.59,-4.4,loser,3,2026-07-29
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.072156,-3.4,loser,4,2026-07-29
-aster-2,Aster,aster,0.604413,-3.2,loser,5,2026-07-29
-figure-heloc,Figure Heloc,figr_heloc,1.001,-3.0,loser,6,2026-07-29
-the-open-network,Gram (prev. Toncoin),gram,1.41,-2.8,loser,7,2026-07-29
-just,JUST,jst,0.100031,-2.8,loser,8,2026-07-29
-litecoin,Litecoin,ltc,45.34,-2.8,loser,9,2026-07-29
-stable-2,​​Stable,stable,0.0360719,-2.6,loser,10,2026-07-29
+audiera,Audiera,beat,3.82,21.13164,gainer,1,2026-07-29
+jupiter-exchange-solana,Jupiter,jup,0.197569,5.17685,gainer,2,2026-07-29
+cardano,Cardano,ada,0.166434,5.08106,gainer,3,2026-07-29
+pi-network,Pi Network,pi,0.080184,4.89454,gainer,4,2026-07-29
+monero,Monero,xmr,354.5,4.38978,gainer,5,2026-07-29
+sky,Sky,sky,0.057866,3.16433,gainer,6,2026-07-29
+uniswap,Uniswap,uni,3.99,2.88371,gainer,7,2026-07-29
+ripple,XRP,xrp,1.085,2.7314,gainer,8,2026-07-29
+shiba-inu,Shiba Inu,shib,4.72e-06,2.29064,gainer,9,2026-07-29
+memecore,MemeCore,m,1.16,2.22634,gainer,10,2026-07-29
+ethena,Ethena,ena,0.079864,-4.89976,loser,1,2026-07-29
+venice-token,Venice Token,vvv,12.62,-3.69251,loser,2,2026-07-29
+aster-2,Aster,aster,0.597922,-3.61529,loser,3,2026-07-29
+algorand,Algorand,algo,0.077054,-3.36083,loser,4,2026-07-29
+worldcoin-wld,Worldcoin,wld,0.30961,-3.02377,loser,5,2026-07-29
+the-open-network,Gram (prev. Toncoin),gram,1.42,-2.65138,loser,6,2026-07-29
+filecoin,Filecoin,fil,0.682262,-2.51152,loser,7,2026-07-29
+aptos,Aptos,apt,0.569564,-2.30695,loser,8,2026-07-29
+pump-fun,Pump.fun,pump,0.00190242,-2.1976,loser,9,2026-07-29
+okb,OKB,okb,84.66,-2.12038,loser,10,2026-07-29
