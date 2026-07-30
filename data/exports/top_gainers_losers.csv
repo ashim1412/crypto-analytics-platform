@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,3.82,14.1,gainer,1,2026-07-30
-monero,Monero,xmr,352.27,2.9,gainer,2,2026-07-30
-pi-network,Pi Network,pi,0.081312,2.8,gainer,3,2026-07-30
-world-liberty-financial,World Liberty Financial,wlfi,0.056159,2.4,gainer,4,2026-07-30
-canton-network,Canton,cc,0.122101,2.1,gainer,5,2026-07-30
-uniswap,Uniswap,uni,3.98,1.8,gainer,6,2026-07-30
-jupiter-exchange-solana,Jupiter,jup,0.197256,1.8,gainer,7,2026-07-30
-pax-gold,PAX Gold,paxg,4077.51,1.2,gainer,8,2026-07-30
-tether-gold,Tether Gold,xaut,4070.07,1.1,gainer,9,2026-07-30
-nexo,NEXO,nexo,0.738121,0.8,gainer,10,2026-07-30
-lighter,Lighter,lit,2.18,-7.0,loser,1,2026-07-30
-ethena,Ethena,ena,0.07833,-6.7,loser,2,2026-07-30
-aave,Aave,aave,94.97,-6.7,loser,3,2026-07-30
-venice-token,Venice Token,vvv,12.38,-5.7,loser,4,2026-07-30
-pump-fun,Pump.fun,pump,0.00187401,-5.4,loser,5,2026-07-30
-aster-2,Aster,aster,0.589229,-5.2,loser,6,2026-07-30
-aptos,Aptos,apt,0.56477,-4.3,loser,7,2026-07-30
-filecoin,Filecoin,fil,0.68021,-4.2,loser,8,2026-07-30
-algorand,Algorand,algo,0.077479,-4.0,loser,9,2026-07-30
-the-open-network,Gram (prev. Toncoin),gram,1.4,-3.7,loser,10,2026-07-30
+talus,Talus,us,0.04868208,9.5,gainer,1,2026-07-30
+audiera,Audiera,beat,3.76,6.2,gainer,2,2026-07-30
+pi-network,Pi Network,pi,0.082812,5.0,gainer,3,2026-07-30
+uniswap,Uniswap,uni,3.99,4.0,gainer,4,2026-07-30
+okb,OKB,okb,85.88,1.8,gainer,5,2026-07-30
+zcash,Zcash,zec,473.38,1.5,gainer,6,2026-07-30
+world-liberty-financial,World Liberty Financial,wlfi,0.055299,1.4,gainer,7,2026-07-30
+monero,Monero,xmr,354.86,1.3,gainer,8,2026-07-30
+quant-network,Quant,qnt,60.77,1.2,gainer,9,2026-07-30
+ondo-finance,Ondo,ondo,0.408936,1.1,gainer,10,2026-07-30
+memecore,MemeCore,m,0.946463,-16.2,loser,1,2026-07-30
+venice-token,Venice Token,vvv,12.06,-6.7,loser,2,2026-07-30
+lighter,Lighter,lit,2.17,-5.7,loser,3,2026-07-30
+stable-2,​​Stable,stable,0.03420567,-4.7,loser,4,2026-07-30
+ethena,Ethena,ena,0.078421,-3.4,loser,5,2026-07-30
+hyperliquid,Hyperliquid,hype,53.65,-3.0,loser,6,2026-07-30
+algorand,Algorand,algo,0.077314,-2.4,loser,7,2026-07-30
+sky,Sky,sky,0.056491,-2.3,loser,8,2026-07-30
+bitcoin-cash,Bitcoin Cash,bch,209.44,-2.1,loser,9,2026-07-30
+filecoin,Filecoin,fil,0.680474,-2.0,loser,10,2026-07-30
