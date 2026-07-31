@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.24,35.6,gainer,1,2026-07-31
-audiera,Audiera,beat,4.17,8.5,gainer,2,2026-07-31
-talus,Talus,us,0.051017,6.2,gainer,3,2026-07-31
-pump-fun,Pump.fun,pump,0.00204188,5.9,gainer,4,2026-07-31
-uniswap,Uniswap,uni,4.36,5.2,gainer,5,2026-07-31
-hyperliquid,Hyperliquid,hype,55.37,4.0,gainer,6,2026-07-31
-just,JUST,jst,0.102932,3.9,gainer,7,2026-07-31
-figure-heloc,Figure Heloc,figr_heloc,1.039,3.7,gainer,8,2026-07-31
-filecoin,Filecoin,fil,0.721621,3.6,gainer,9,2026-07-31
-cardano,Cardano,ada,0.170148,2.7,gainer,10,2026-07-31
-rain,Rain,rain,0.01282743,-5.0,loser,1,2026-07-31
-ondo-finance,Ondo,ondo,0.404687,-4.3,loser,2,2026-07-31
-zcash,Zcash,zec,459.29,-4.0,loser,3,2026-07-31
-cosmos,Cosmos Hub,atom,1.24,-3.8,loser,4,2026-07-31
-the-open-network,Gram (prev. Toncoin),gram,1.39,-3.1,loser,5,2026-07-31
-monero,Monero,xmr,350.32,-2.9,loser,6,2026-07-31
-lighter,Lighter,lit,2.17,-2.7,loser,7,2026-07-31
-xdce-crowd-sale,XDC Network,xdc,0.02632146,-2.7,loser,8,2026-07-31
-chainlink,Chainlink,link,8.26,-2.6,loser,9,2026-07-31
-arbitrum,Arbitrum,arb,0.076571,-2.5,loser,10,2026-07-31
+talus,Talus,us,0.05411,22.4,gainer,1,2026-07-31
+memecore,MemeCore,m,1.15,14.4,gainer,2,2026-07-31
+audiera,Audiera,beat,4.19,10.1,gainer,3,2026-07-31
+pump-fun,Pump.fun,pump,0.00212319,7.6,gainer,4,2026-07-31
+figure-heloc,Figure Heloc,figr_heloc,1.039,3.7,gainer,5,2026-07-31
+shiba-inu,Shiba Inu,shib,4.74e-06,2.7,gainer,6,2026-07-31
+near,NEAR Protocol,near,1.7,1.6,gainer,7,2026-07-31
+just,JUST,jst,0.102887,1.3,gainer,8,2026-07-31
+bittensor,Bittensor,tao,195.65,1.3,gainer,9,2026-07-31
+sky,Sky,sky,0.057616,1.0,gainer,10,2026-07-31
+cosmos,Cosmos Hub,atom,1.23,-5.0,loser,1,2026-07-31
+ondo-finance,Ondo,ondo,0.399048,-4.9,loser,2,2026-07-31
+bitcoin-cash,Bitcoin Cash,bch,209.35,-4.8,loser,3,2026-07-31
+lighter,Lighter,lit,2.12,-4.6,loser,4,2026-07-31
+rain,Rain,rain,0.01274931,-4.4,loser,5,2026-07-31
+chainlink,Chainlink,link,8.17,-3.7,loser,6,2026-07-31
+uniswap,Uniswap,uni,4.27,-3.5,loser,7,2026-07-31
+zcash,Zcash,zec,458.52,-3.3,loser,8,2026-07-31
+venice-token,Venice Token,vvv,11.81,-3.3,loser,9,2026-07-31
+sui,Sui,sui,0.68253,-3.2,loser,10,2026-07-31
