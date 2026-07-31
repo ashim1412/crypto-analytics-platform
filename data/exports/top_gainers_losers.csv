@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,4.38,9.8,gainer,1,2026-07-30
-filecoin,Filecoin,fil,0.715824,4.9,gainer,2,2026-07-30
-binancecoin,BNB,bnb,595.06,4.2,gainer,3,2026-07-30
-near,NEAR Protocol,near,1.68,4.0,gainer,4,2026-07-30
-bitcoin-cash,Bitcoin Cash,bch,219.22,3.8,gainer,5,2026-07-30
-ondo-finance,Ondo,ondo,0.417518,3.5,gainer,6,2026-07-30
-cardano,Cardano,ada,0.172261,3.3,gainer,7,2026-07-30
-pi-network,Pi Network,pi,0.082574,2.9,gainer,8,2026-07-30
-pump-fun,Pump.fun,pump,0.00196571,2.8,gainer,9,2026-07-30
-bianrensheng,币安人生 (BinanceLife),币安人生,0.63963,2.8,gainer,10,2026-07-30
-memecore,MemeCore,m,0.993258,-14.8,loser,1,2026-07-30
-stable-2,​​Stable,stable,0.03434219,-5.4,loser,2,2026-07-30
-venice-token,Venice Token,vvv,12.24,-4.4,loser,3,2026-07-30
-xdce-crowd-sale,XDC Network,xdc,0.02627163,-3.3,loser,4,2026-07-30
-audiera,Audiera,beat,3.86,-3.1,loser,5,2026-07-30
-shiba-inu,Shiba Inu,shib,4.61e-06,-3.0,loser,6,2026-07-30
-quant-network,Quant,qnt,60.28,-2.5,loser,7,2026-07-30
-rain,Rain,rain,0.01336433,-1.7,loser,8,2026-07-30
-lighter,Lighter,lit,2.23,-1.5,loser,9,2026-07-30
-bitget-token,Bitget Token,bgb,1.63,-1.4,loser,10,2026-07-30
+uniswap,Uniswap,uni,4.53,11.5,gainer,1,2026-07-31
+injective-protocol,Injective,inj,4.99,9.5,gainer,2,2026-07-31
+pump-fun,Pump.fun,pump,0.00201647,6.3,gainer,3,2026-07-31
+filecoin,Filecoin,fil,0.718881,5.6,gainer,4,2026-07-31
+lighter,Lighter,lit,2.3,5.2,gainer,5,2026-07-31
+cardano,Cardano,ada,0.170548,4.7,gainer,6,2026-07-31
+algorand,Algorand,algo,0.079852,4.0,gainer,7,2026-07-31
+shiba-inu,Shiba Inu,shib,4.79e-06,3.9,gainer,8,2026-07-31
+ethena,Ethena,ena,0.081544,3.6,gainer,9,2026-07-31
+aave,Aave,aave,100.83,3.6,gainer,10,2026-07-31
+memecore,MemeCore,m,0.996389,-13.4,loser,1,2026-07-31
+stable-2,​​Stable,stable,0.03423663,-3.6,loser,2,2026-07-31
+rain,Rain,rain,0.01331769,-3.3,loser,3,2026-07-31
+xdce-crowd-sale,XDC Network,xdc,0.02635807,-2.7,loser,4,2026-07-31
+arbitrum,Arbitrum,arb,0.078029,-2.2,loser,5,2026-07-31
+venice-token,Venice Token,vvv,12.61,-2.2,loser,6,2026-07-31
+jupiter-exchange-solana,Jupiter,jup,0.196332,-1.4,loser,7,2026-07-31
+world-liberty-financial,World Liberty Financial,wlfi,0.055566,-0.8,loser,8,2026-07-31
+nexo,NEXO,nexo,0.733456,-0.8,loser,9,2026-07-31
+canton-network,Canton,cc,0.121301,-0.7,loser,10,2026-07-31
