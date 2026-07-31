@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,4.53,11.5,gainer,1,2026-07-31
-injective-protocol,Injective,inj,4.99,9.5,gainer,2,2026-07-31
-pump-fun,Pump.fun,pump,0.00201647,6.3,gainer,3,2026-07-31
-filecoin,Filecoin,fil,0.718881,5.6,gainer,4,2026-07-31
-lighter,Lighter,lit,2.3,5.2,gainer,5,2026-07-31
-cardano,Cardano,ada,0.170548,4.7,gainer,6,2026-07-31
-algorand,Algorand,algo,0.079852,4.0,gainer,7,2026-07-31
-shiba-inu,Shiba Inu,shib,4.79e-06,3.9,gainer,8,2026-07-31
-ethena,Ethena,ena,0.081544,3.6,gainer,9,2026-07-31
-aave,Aave,aave,100.83,3.6,gainer,10,2026-07-31
-memecore,MemeCore,m,0.996389,-13.4,loser,1,2026-07-31
-stable-2,​​Stable,stable,0.03423663,-3.6,loser,2,2026-07-31
-rain,Rain,rain,0.01331769,-3.3,loser,3,2026-07-31
-xdce-crowd-sale,XDC Network,xdc,0.02635807,-2.7,loser,4,2026-07-31
-arbitrum,Arbitrum,arb,0.078029,-2.2,loser,5,2026-07-31
-venice-token,Venice Token,vvv,12.61,-2.2,loser,6,2026-07-31
-jupiter-exchange-solana,Jupiter,jup,0.196332,-1.4,loser,7,2026-07-31
-world-liberty-financial,World Liberty Financial,wlfi,0.055566,-0.8,loser,8,2026-07-31
-nexo,NEXO,nexo,0.733456,-0.8,loser,9,2026-07-31
-canton-network,Canton,cc,0.121301,-0.7,loser,10,2026-07-31
+memecore,MemeCore,m,1.001,12.9,gainer,1,2026-07-31
+uniswap,Uniswap,uni,4.4,10.4,gainer,2,2026-07-31
+pump-fun,Pump.fun,pump,0.00199375,5.1,gainer,3,2026-07-31
+filecoin,Filecoin,fil,0.716526,5.1,gainer,4,2026-07-31
+ethena,Ethena,ena,0.082069,4.6,gainer,5,2026-07-31
+cardano,Cardano,ada,0.170629,4.1,gainer,6,2026-07-31
+just,JUST,jst,0.102858,4.1,gainer,7,2026-07-31
+figure-heloc,Figure Heloc,figr_heloc,1.039,3.7,gainer,8,2026-07-31
+injective-protocol,Injective,inj,4.89,3.3,gainer,9,2026-07-31
+aave,Aave,aave,98.75,2.8,gainer,10,2026-07-31
+rain,Rain,rain,0.01304542,-4.1,loser,1,2026-07-31
+xdce-crowd-sale,XDC Network,xdc,0.02597787,-4.0,loser,2,2026-07-31
+cosmos,Cosmos Hub,atom,1.23,-3.6,loser,3,2026-07-31
+zcash,Zcash,zec,458.79,-3.4,loser,4,2026-07-31
+arbitrum,Arbitrum,arb,0.076934,-2.5,loser,5,2026-07-31
+world-liberty-financial,World Liberty Financial,wlfi,0.054409,-2.3,loser,6,2026-07-31
+canton-network,Canton,cc,0.119751,-1.5,loser,7,2026-07-31
+jupiter-exchange-solana,Jupiter,jup,0.192577,-1.4,loser,8,2026-07-31
+flare-networks,Flare,flr,0.00625148,-1.3,loser,9,2026-07-31
+ethereum-classic,Ethereum Classic,etc,6.66,-1.2,loser,10,2026-07-31
