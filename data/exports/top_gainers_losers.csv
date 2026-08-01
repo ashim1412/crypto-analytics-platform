@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-talus,Talus,us,0.05411,22.4,gainer,1,2026-07-31
-memecore,MemeCore,m,1.15,14.4,gainer,2,2026-07-31
-audiera,Audiera,beat,4.19,10.1,gainer,3,2026-07-31
-pump-fun,Pump.fun,pump,0.00212319,7.6,gainer,4,2026-07-31
-figure-heloc,Figure Heloc,figr_heloc,1.039,3.7,gainer,5,2026-07-31
-shiba-inu,Shiba Inu,shib,4.74e-06,2.7,gainer,6,2026-07-31
-near,NEAR Protocol,near,1.7,1.6,gainer,7,2026-07-31
-just,JUST,jst,0.102887,1.3,gainer,8,2026-07-31
-bittensor,Bittensor,tao,195.65,1.3,gainer,9,2026-07-31
-sky,Sky,sky,0.057616,1.0,gainer,10,2026-07-31
-cosmos,Cosmos Hub,atom,1.23,-5.0,loser,1,2026-07-31
-ondo-finance,Ondo,ondo,0.399048,-4.9,loser,2,2026-07-31
-bitcoin-cash,Bitcoin Cash,bch,209.35,-4.8,loser,3,2026-07-31
-lighter,Lighter,lit,2.12,-4.6,loser,4,2026-07-31
-rain,Rain,rain,0.01274931,-4.4,loser,5,2026-07-31
-chainlink,Chainlink,link,8.17,-3.7,loser,6,2026-07-31
-uniswap,Uniswap,uni,4.27,-3.5,loser,7,2026-07-31
-zcash,Zcash,zec,458.52,-3.3,loser,8,2026-07-31
-venice-token,Venice Token,vvv,11.81,-3.3,loser,9,2026-07-31
-sui,Sui,sui,0.68253,-3.2,loser,10,2026-07-31
+talus,Talus,us,0.060006,27.6,gainer,1,2026-08-01
+memecore,MemeCore,m,1.084,10.6,gainer,2,2026-08-01
+pump-fun,Pump.fun,pump,0.00210031,5.2,gainer,3,2026-08-01
+shiba-inu,Shiba Inu,shib,4.9e-06,4.3,gainer,4,2026-08-01
+audiera,Audiera,beat,4.28,2.6,gainer,5,2026-08-01
+hedera-hashgraph,Hedera,hbar,0.070153,1.2,gainer,6,2026-08-01
+pi-network,Pi Network,pi,0.083782,1.1,gainer,7,2026-08-01
+arbitrum,Arbitrum,arb,0.078552,1.1,gainer,8,2026-08-01
+bittensor,Bittensor,tao,194.67,0.7,gainer,9,2026-08-01
+internet-computer,Internet Computer,icp,2.08,0.5,gainer,10,2026-08-01
+lighter,Lighter,lit,2.07,-9.7,loser,1,2026-08-01
+aave,Aave,aave,92.78,-7.7,loser,2,2026-08-01
+ondo-finance,Ondo,ondo,0.391442,-6.3,loser,3,2026-08-01
+hyperliquid,Hyperliquid,hype,52.5,-6.2,loser,4,2026-08-01
+rain,Rain,rain,0.01272654,-4.6,loser,5,2026-08-01
+cosmos,Cosmos Hub,atom,1.23,-4.2,loser,6,2026-08-01
+venice-token,Venice Token,vvv,11.88,-4.1,loser,7,2026-08-01
+bitcoin-cash,Bitcoin Cash,bch,209.5,-3.7,loser,8,2026-08-01
+chainlink,Chainlink,link,8.18,-3.4,loser,9,2026-08-01
+uniswap,Uniswap,uni,4.31,-3.1,loser,10,2026-08-01
