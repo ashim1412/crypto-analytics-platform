@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-talus,Talus,us,0.060006,27.6,gainer,1,2026-08-01
-memecore,MemeCore,m,1.084,10.6,gainer,2,2026-08-01
-pump-fun,Pump.fun,pump,0.00210031,5.2,gainer,3,2026-08-01
-shiba-inu,Shiba Inu,shib,4.9e-06,4.3,gainer,4,2026-08-01
-audiera,Audiera,beat,4.28,2.6,gainer,5,2026-08-01
-hedera-hashgraph,Hedera,hbar,0.070153,1.2,gainer,6,2026-08-01
-pi-network,Pi Network,pi,0.083782,1.1,gainer,7,2026-08-01
-arbitrum,Arbitrum,arb,0.078552,1.1,gainer,8,2026-08-01
-bittensor,Bittensor,tao,194.67,0.7,gainer,9,2026-08-01
-internet-computer,Internet Computer,icp,2.08,0.5,gainer,10,2026-08-01
-lighter,Lighter,lit,2.07,-9.7,loser,1,2026-08-01
-aave,Aave,aave,92.78,-7.7,loser,2,2026-08-01
-ondo-finance,Ondo,ondo,0.391442,-6.3,loser,3,2026-08-01
-hyperliquid,Hyperliquid,hype,52.5,-6.2,loser,4,2026-08-01
-rain,Rain,rain,0.01272654,-4.6,loser,5,2026-08-01
-cosmos,Cosmos Hub,atom,1.23,-4.2,loser,6,2026-08-01
-venice-token,Venice Token,vvv,11.88,-4.1,loser,7,2026-08-01
-bitcoin-cash,Bitcoin Cash,bch,209.5,-3.7,loser,8,2026-08-01
-chainlink,Chainlink,link,8.18,-3.4,loser,9,2026-08-01
-uniswap,Uniswap,uni,4.31,-3.1,loser,10,2026-08-01
+talus,Talus,us,0.053046,14.9,gainer,1,2026-08-01
+audiera,Audiera,beat,4.49,14.3,gainer,2,2026-08-01
+memecore,MemeCore,m,1.092,10.5,gainer,3,2026-08-01
+pump-fun,Pump.fun,pump,0.00220466,8.8,gainer,4,2026-08-01
+pi-network,Pi Network,pi,0.086273,4.5,gainer,5,2026-08-01
+shiba-inu,Shiba Inu,shib,4.86e-06,3.0,gainer,6,2026-08-01
+monero,Monero,xmr,364.56,2.9,gainer,7,2026-08-01
+just,JUST,jst,0.104154,1.8,gainer,8,2026-08-01
+pepe,Pepe,pepe,2.78e-06,1.6,gainer,9,2026-08-01
+hedera-hashgraph,Hedera,hbar,0.069781,1.6,gainer,10,2026-08-01
+uniswap,Uniswap,uni,4.1,-9.3,loser,1,2026-08-01
+aave,Aave,aave,91.24,-8.8,loser,2,2026-08-01
+lighter,Lighter,lit,2.05,-7.4,loser,3,2026-08-01
+hyperliquid,Hyperliquid,hype,51.94,-6.1,loser,4,2026-08-01
+ondo-finance,Ondo,ondo,0.385609,-4.6,loser,5,2026-08-01
+rain,Rain,rain,0.01269673,-3.3,loser,6,2026-08-01
+venice-token,Venice Token,vvv,11.81,-3.0,loser,7,2026-08-01
+sky,Sky,sky,0.056439,-2.7,loser,8,2026-08-01
+figure-heloc,Figure Heloc,figr_heloc,1.014,-2.4,loser,9,2026-08-01
+canton-network,Canton,cc,0.117659,-2.3,loser,10,2026-08-01
