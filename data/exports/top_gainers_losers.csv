@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,4.21,8.8,gainer,1,2026-08-02
-talus,Talus,us,0.057686,3.8,gainer,2,2026-08-02
-polkadot,Polkadot,dot,0.789522,3.4,gainer,3,2026-08-02
-cardano,Cardano,ada,0.174496,3.0,gainer,4,2026-08-02
-pi-network,Pi Network,pi,0.08553,3.0,gainer,5,2026-08-02
-pump-fun,Pump.fun,pump,0.00217415,2.7,gainer,6,2026-08-02
-quant-network,Quant,qnt,61.51,2.3,gainer,7,2026-08-02
-shiba-inu,Shiba Inu,shib,4.85e-06,2.2,gainer,8,2026-08-02
-just,JUST,jst,0.104727,1.7,gainer,9,2026-08-02
-world-liberty-financial,World Liberty Financial,wlfi,0.055737,1.7,gainer,10,2026-08-02
-uniswap,Uniswap,uni,4.11,-6.0,loser,1,2026-08-02
-rain,Rain,rain,0.01228317,-3.5,loser,2,2026-08-02
-morpho,Morpho,morpho,1.94,-3.4,loser,3,2026-08-02
-aave,Aave,aave,90.9,-3.3,loser,4,2026-08-02
-bianrensheng,币安人生 (BinanceLife),币安人生,0.616018,-3.3,loser,5,2026-08-02
-figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,6,2026-08-02
-ondo-finance,Ondo,ondo,0.382275,-3.0,loser,7,2026-08-02
-avalanche-2,Avalanche,avax,6.21,-3.0,loser,8,2026-08-02
-binancecoin,BNB,bnb,575.54,-2.3,loser,9,2026-08-02
-internet-computer,Internet Computer,icp,2.04,-2.2,loser,10,2026-08-02
+ethena,Ethena,ena,0.088233,9.6,gainer,1,2026-08-02
+cardano,Cardano,ada,0.186141,9.6,gainer,2,2026-08-02
+pepe,Pepe,pepe,2.94e-06,5.0,gainer,3,2026-08-02
+arbitrum,Arbitrum,arb,0.081725,4.8,gainer,4,2026-08-02
+worldcoin-wld,Worldcoin,wld,0.321921,4.0,gainer,5,2026-08-02
+polkadot,Polkadot,dot,0.793289,3.7,gainer,6,2026-08-02
+stellar,Stellar,xlm,0.175707,3.4,gainer,7,2026-08-02
+near,NEAR Protocol,near,1.72,3.2,gainer,8,2026-08-02
+avalanche-2,Avalanche,avax,6.6,3.2,gainer,9,2026-08-02
+lighter,Lighter,lit,2.13,2.5,gainer,10,2026-08-02
+audiera,Audiera,beat,4.17,-10.5,loser,1,2026-08-02
+figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,2,2026-08-02
+stable-2,​​Stable,stable,0.03236737,-2.2,loser,3,2026-08-02
+bianrensheng,币安人生 (BinanceLife),币安人生,0.617695,-1.9,loser,4,2026-08-02
+memecore,MemeCore,m,1.099,-1.4,loser,5,2026-08-02
+bittensor,Bittensor,tao,194.07,-1.3,loser,6,2026-08-02
+render-token,Render,render,1.37,-1.3,loser,7,2026-08-02
+kaspa,Kaspa,kas,0.02691663,-1.3,loser,8,2026-08-02
+binancecoin,BNB,bnb,585.1,-1.0,loser,9,2026-08-02
+pi-network,Pi Network,pi,0.086249,-0.8,loser,10,2026-08-02
