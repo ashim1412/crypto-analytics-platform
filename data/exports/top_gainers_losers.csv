@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.2,10.0,gainer,1,2026-08-03
-talus,Talus,us,0.052315,5.4,gainer,2,2026-08-03
-algorand,Algorand,algo,0.085234,5.0,gainer,3,2026-08-03
-cosmos,Cosmos Hub,atom,1.27,0.9,gainer,4,2026-08-03
-beldex,Beldex,bdx,0.082576,0.8,gainer,5,2026-08-03
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.073397,0.6,gainer,6,2026-08-03
-pancakeswap-token,PancakeSwap,cake,1.43,0.4,gainer,7,2026-08-03
-rain,Rain,rain,0.01267388,0.3,gainer,8,2026-08-03
-flare-networks,Flare,flr,0.00626649,0.3,gainer,9,2026-08-03
-hyperliquid,Hyperliquid,hype,52.38,0.2,gainer,10,2026-08-03
-audiera,Audiera,beat,3.25,-16.0,loser,1,2026-08-03
-bianrensheng,币安人生 (BinanceLife),币安人生,0.533259,-11.8,loser,2,2026-08-03
-ondo-finance,Ondo,ondo,0.369392,-5.5,loser,3,2026-08-03
-pump-fun,Pump.fun,pump,0.00208249,-4.5,loser,4,2026-08-03
-pi-network,Pi Network,pi,0.082752,-4.3,loser,5,2026-08-03
-worldcoin-wld,Worldcoin,wld,0.309072,-4.0,loser,6,2026-08-03
-stellar,Stellar,xlm,0.170781,-3.6,loser,7,2026-08-03
-pepe,Pepe,pepe,2.83e-06,-3.2,loser,8,2026-08-03
-avalanche-2,Avalanche,avax,6.41,-3.1,loser,9,2026-08-03
-figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,10,2026-08-03
+talus,Talus,us,0.054238,6.7,gainer,1,2026-08-03
+figure-heloc,Figure Heloc,figr_heloc,1.06,5.9,gainer,2,2026-08-03
+algorand,Algorand,algo,0.086884,5.4,gainer,3,2026-08-03
+ethena,Ethena,ena,0.092931,4.8,gainer,4,2026-08-03
+polkadot,Polkadot,dot,0.8271,4.0,gainer,5,2026-08-03
+zcash,Zcash,zec,490.62,4.0,gainer,6,2026-08-03
+hyperliquid,Hyperliquid,hype,53.37,4.0,gainer,7,2026-08-03
+nexo,NEXO,nexo,0.733995,3.2,gainer,8,2026-08-03
+cosmos,Cosmos Hub,atom,1.29,2.9,gainer,9,2026-08-03
+lighter,Lighter,lit,2.1,2.8,gainer,10,2026-08-03
+audiera,Audiera,beat,3.09,-21.1,loser,1,2026-08-03
+bianrensheng,币安人生 (BinanceLife),币安人生,0.539869,-9.3,loser,2,2026-08-03
+pi-network,Pi Network,pi,0.083224,-3.6,loser,3,2026-08-03
+bitget-token,Bitget Token,bgb,1.58,-3.0,loser,4,2026-08-03
+world-liberty-financial,World Liberty Financial,wlfi,0.054388,-2.9,loser,5,2026-08-03
+memecore,MemeCore,m,1.15,-2.8,loser,6,2026-08-03
+shiba-inu,Shiba Inu,shib,4.88e-06,-2.2,loser,7,2026-08-03
+ondo-finance,Ondo,ondo,0.376605,-2.1,loser,8,2026-08-03
+kaspa,Kaspa,kas,0.02615676,-2.0,loser,9,2026-08-03
+bittensor,Bittensor,tao,189.19,-1.8,loser,10,2026-08-03
