@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.088486,12.1,gainer,1,2026-08-03
-memecore,MemeCore,m,1.19,11.4,gainer,2,2026-08-03
-algorand,Algorand,algo,0.085384,9.5,gainer,3,2026-08-03
-cardano,Cardano,ada,0.185217,8.0,gainer,4,2026-08-03
-avalanche-2,Avalanche,avax,6.51,5.5,gainer,5,2026-08-03
-zcash,Zcash,zec,479.16,4.9,gainer,6,2026-08-03
-worldcoin-wld,Worldcoin,wld,0.314892,4.8,gainer,7,2026-08-03
-injective-protocol,Injective,inj,5.03,4.2,gainer,8,2026-08-03
-rain,Rain,rain,0.01279895,4.0,gainer,9,2026-08-03
-pepe,Pepe,pepe,2.87e-06,3.8,gainer,10,2026-08-03
-audiera,Audiera,beat,3.75,-19.2,loser,1,2026-08-03
-bianrensheng,币安人生 (BinanceLife),币安人生,0.574943,-8.8,loser,2,2026-08-03
-talus,Talus,us,0.054225,-4.8,loser,3,2026-08-03
-figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,4,2026-08-03
-pi-network,Pi Network,pi,0.084117,-2.6,loser,5,2026-08-03
-stable-2,​​Stable,stable,0.03250567,-2.6,loser,6,2026-08-03
-pump-fun,Pump.fun,pump,0.00207473,-1.9,loser,7,2026-08-03
-beldex,Beldex,bdx,0.081977,-1.5,loser,8,2026-08-03
-quant-network,Quant,qnt,60.14,-1.4,loser,9,2026-08-03
-ondo-finance,Ondo,ondo,0.374228,-1.2,loser,10,2026-08-03
+memecore,MemeCore,m,1.2,10.0,gainer,1,2026-08-03
+talus,Talus,us,0.052315,5.4,gainer,2,2026-08-03
+algorand,Algorand,algo,0.085234,5.0,gainer,3,2026-08-03
+cosmos,Cosmos Hub,atom,1.27,0.9,gainer,4,2026-08-03
+beldex,Beldex,bdx,0.082576,0.8,gainer,5,2026-08-03
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.073397,0.6,gainer,6,2026-08-03
+pancakeswap-token,PancakeSwap,cake,1.43,0.4,gainer,7,2026-08-03
+rain,Rain,rain,0.01267388,0.3,gainer,8,2026-08-03
+flare-networks,Flare,flr,0.00626649,0.3,gainer,9,2026-08-03
+hyperliquid,Hyperliquid,hype,52.38,0.2,gainer,10,2026-08-03
+audiera,Audiera,beat,3.25,-16.0,loser,1,2026-08-03
+bianrensheng,币安人生 (BinanceLife),币安人生,0.533259,-11.8,loser,2,2026-08-03
+ondo-finance,Ondo,ondo,0.369392,-5.5,loser,3,2026-08-03
+pump-fun,Pump.fun,pump,0.00208249,-4.5,loser,4,2026-08-03
+pi-network,Pi Network,pi,0.082752,-4.3,loser,5,2026-08-03
+worldcoin-wld,Worldcoin,wld,0.309072,-4.0,loser,6,2026-08-03
+stellar,Stellar,xlm,0.170781,-3.6,loser,7,2026-08-03
+pepe,Pepe,pepe,2.83e-06,-3.2,loser,8,2026-08-03
+avalanche-2,Avalanche,avax,6.41,-3.1,loser,9,2026-08-03
+figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,10,2026-08-03
