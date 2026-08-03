@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.088918,10.3,gainer,1,2026-08-02
-memecore,MemeCore,m,1.18,8.5,gainer,2,2026-08-02
-cardano,Cardano,ada,0.189342,8.5,gainer,3,2026-08-02
-algorand,Algorand,algo,0.085317,8.5,gainer,4,2026-08-02
-pepe,Pepe,pepe,2.91e-06,4.6,gainer,5,2026-08-02
-avalanche-2,Avalanche,avax,6.64,4.1,gainer,6,2026-08-02
-arbitrum,Arbitrum,arb,0.081421,3.3,gainer,7,2026-08-02
-chainlink,Chainlink,link,8.33,3.0,gainer,8,2026-08-02
-jupiter-exchange-solana,Jupiter,jup,0.196278,2.9,gainer,9,2026-08-02
-worldcoin-wld,Worldcoin,wld,0.313653,2.8,gainer,10,2026-08-02
-audiera,Audiera,beat,3.37,-26.3,loser,1,2026-08-02
-bianrensheng,币安人生 (BinanceLife),币安人生,0.584788,-5.4,loser,2,2026-08-02
-stable-2,​​Stable,stable,0.03165831,-5.4,loser,3,2026-08-02
-figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,4,2026-08-02
-quant-network,Quant,qnt,60.53,-2.2,loser,5,2026-08-02
-venice-token,Venice Token,vvv,11.78,-2.1,loser,6,2026-08-02
-beldex,Beldex,bdx,0.082128,-1.8,loser,7,2026-08-02
-talus,Talus,us,0.055739,-1.2,loser,8,2026-08-02
-pi-network,Pi Network,pi,0.085892,-1.2,loser,9,2026-08-02
-xdce-crowd-sale,XDC Network,xdc,0.02618608,-1.1,loser,10,2026-08-02
+ethena,Ethena,ena,0.088486,12.1,gainer,1,2026-08-03
+memecore,MemeCore,m,1.19,11.4,gainer,2,2026-08-03
+algorand,Algorand,algo,0.085384,9.5,gainer,3,2026-08-03
+cardano,Cardano,ada,0.185217,8.0,gainer,4,2026-08-03
+avalanche-2,Avalanche,avax,6.51,5.5,gainer,5,2026-08-03
+zcash,Zcash,zec,479.16,4.9,gainer,6,2026-08-03
+worldcoin-wld,Worldcoin,wld,0.314892,4.8,gainer,7,2026-08-03
+injective-protocol,Injective,inj,5.03,4.2,gainer,8,2026-08-03
+rain,Rain,rain,0.01279895,4.0,gainer,9,2026-08-03
+pepe,Pepe,pepe,2.87e-06,3.8,gainer,10,2026-08-03
+audiera,Audiera,beat,3.75,-19.2,loser,1,2026-08-03
+bianrensheng,币安人生 (BinanceLife),币安人生,0.574943,-8.8,loser,2,2026-08-03
+talus,Talus,us,0.054225,-4.8,loser,3,2026-08-03
+figure-heloc,Figure Heloc,figr_heloc,1.001,-3.1,loser,4,2026-08-03
+pi-network,Pi Network,pi,0.084117,-2.6,loser,5,2026-08-03
+stable-2,​​Stable,stable,0.03250567,-2.6,loser,6,2026-08-03
+pump-fun,Pump.fun,pump,0.00207473,-1.9,loser,7,2026-08-03
+beldex,Beldex,bdx,0.081977,-1.5,loser,8,2026-08-03
+quant-network,Quant,qnt,60.14,-1.4,loser,9,2026-08-03
+ondo-finance,Ondo,ondo,0.374228,-1.2,loser,10,2026-08-03
