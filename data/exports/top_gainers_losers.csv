@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cosmos,Cosmos Hub,atom,1.35,7.2,gainer,1,2026-08-04
-algorand,Algorand,algo,0.090515,5.3,gainer,2,2026-08-04
-ethena,Ethena,ena,0.091774,3.2,gainer,3,2026-08-04
-venice-token,Venice Token,vvv,12.24,3.0,gainer,4,2026-08-04
-polkadot,Polkadot,dot,0.821975,2.9,gainer,5,2026-08-04
-shiba-inu,Shiba Inu,shib,5.01e-06,2.0,gainer,6,2026-08-04
-hyperliquid,Hyperliquid,hype,53.7,1.9,gainer,7,2026-08-04
-worldcoin-wld,Worldcoin,wld,0.322682,1.9,gainer,8,2026-08-04
-pump-fun,Pump.fun,pump,0.00211004,1.5,gainer,9,2026-08-04
-cardano,Cardano,ada,0.19139,1.4,gainer,10,2026-08-04
-audiera,Audiera,beat,3.01,-11.4,loser,1,2026-08-04
-uniswap,Uniswap,uni,3.89,-6.4,loser,2,2026-08-04
-the-open-network,Gram (prev. Toncoin),gram,1.34,-6.1,loser,3,2026-08-04
-kaspa,Kaspa,kas,0.02587555,-3.2,loser,4,2026-08-04
-chainlink,Chainlink,link,8.12,-3.1,loser,5,2026-08-04
-stable-2,​​Stable,stable,0.0316113,-2.9,loser,6,2026-08-04
-pi-network,Pi Network,pi,0.083023,-2.8,loser,7,2026-08-04
-injective-protocol,Injective,inj,4.93,-2.8,loser,8,2026-08-04
-talus,Talus,us,0.054223,-2.5,loser,9,2026-08-04
-bitget-token,Bitget Token,bgb,1.6,-2.4,loser,10,2026-08-04
+algorand,Algorand,algo,0.090322,8.9,gainer,1,2026-08-04
+pump-fun,Pump.fun,pump,0.00223654,8.8,gainer,2,2026-08-04
+cosmos,Cosmos Hub,atom,1.37,8.5,gainer,3,2026-08-04
+avalanche-2,Avalanche,avax,6.78,6.8,gainer,4,2026-08-04
+cardano,Cardano,ada,0.194458,6.2,gainer,5,2026-08-04
+polkadot,Polkadot,dot,0.834655,5.2,gainer,6,2026-08-04
+hyperliquid,Hyperliquid,hype,54.84,4.9,gainer,7,2026-08-04
+ethena,Ethena,ena,0.091026,4.1,gainer,8,2026-08-04
+venice-token,Venice Token,vvv,12.14,4.1,gainer,9,2026-08-04
+worldcoin-wld,Worldcoin,wld,0.321124,4.0,gainer,10,2026-08-04
+audiera,Audiera,beat,2.8,-21.3,loser,1,2026-08-04
+uniswap,Uniswap,uni,3.89,-6.1,loser,2,2026-08-04
+stable-2,​​Stable,stable,0.03137637,-3.6,loser,3,2026-08-04
+canton-network,Canton,cc,0.111452,-3.1,loser,4,2026-08-04
+memecore,MemeCore,m,1.18,-2.7,loser,5,2026-08-04
+kucoin-shares,KuCoin,kcs,6.44,-1.6,loser,6,2026-08-04
+flare-networks,Flare,flr,0.00616646,-1.4,loser,7,2026-08-04
+beldex,Beldex,bdx,0.08124,-1.1,loser,8,2026-08-04
+nexo,NEXO,nexo,0.709583,-1.1,loser,9,2026-08-04
+rain,Rain,rain,0.01265376,-0.8,loser,10,2026-08-04
