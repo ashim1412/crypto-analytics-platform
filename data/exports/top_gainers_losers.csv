@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-algorand,Algorand,algo,0.092301,8.0,gainer,1,2026-08-03
-venice-token,Venice Token,vvv,12.58,7.0,gainer,2,2026-08-03
-cosmos,Cosmos Hub,atom,1.36,6.4,gainer,3,2026-08-03
-polkadot,Polkadot,dot,0.828832,4.3,gainer,4,2026-08-03
-hyperliquid,Hyperliquid,hype,54.29,3.7,gainer,5,2026-08-03
-zcash,Zcash,zec,486.83,3.5,gainer,6,2026-08-03
-ethena,Ethena,ena,0.091927,3.5,gainer,7,2026-08-03
-pump-fun,Pump.fun,pump,0.00220468,3.2,gainer,8,2026-08-03
-worldcoin-wld,Worldcoin,wld,0.32388,3.0,gainer,9,2026-08-03
-cardano,Cardano,ada,0.194033,2.7,gainer,10,2026-08-03
-audiera,Audiera,beat,2.97,-19.1,loser,1,2026-08-03
-uniswap,Uniswap,uni,3.89,-6.5,loser,2,2026-08-03
-bianrensheng,币安人生 (BinanceLife),币安人生,0.555203,-6.3,loser,3,2026-08-03
-stable-2,​​Stable,stable,0.03079595,-3.4,loser,4,2026-08-03
-pi-network,Pi Network,pi,0.082956,-3.3,loser,5,2026-08-03
-ondo-finance,Ondo,ondo,0.374432,-3.2,loser,6,2026-08-03
-kaspa,Kaspa,kas,0.02613116,-2.5,loser,7,2026-08-03
-talus,Talus,us,0.054849,-2.4,loser,8,2026-08-03
-canton-network,Canton,cc,0.114063,-2.2,loser,9,2026-08-03
-litecoin,Litecoin,ltc,44.19,-1.7,loser,10,2026-08-03
+cosmos,Cosmos Hub,atom,1.35,7.2,gainer,1,2026-08-04
+algorand,Algorand,algo,0.090515,5.3,gainer,2,2026-08-04
+ethena,Ethena,ena,0.091774,3.2,gainer,3,2026-08-04
+venice-token,Venice Token,vvv,12.24,3.0,gainer,4,2026-08-04
+polkadot,Polkadot,dot,0.821975,2.9,gainer,5,2026-08-04
+shiba-inu,Shiba Inu,shib,5.01e-06,2.0,gainer,6,2026-08-04
+hyperliquid,Hyperliquid,hype,53.7,1.9,gainer,7,2026-08-04
+worldcoin-wld,Worldcoin,wld,0.322682,1.9,gainer,8,2026-08-04
+pump-fun,Pump.fun,pump,0.00211004,1.5,gainer,9,2026-08-04
+cardano,Cardano,ada,0.19139,1.4,gainer,10,2026-08-04
+audiera,Audiera,beat,3.01,-11.4,loser,1,2026-08-04
+uniswap,Uniswap,uni,3.89,-6.4,loser,2,2026-08-04
+the-open-network,Gram (prev. Toncoin),gram,1.34,-6.1,loser,3,2026-08-04
+kaspa,Kaspa,kas,0.02587555,-3.2,loser,4,2026-08-04
+chainlink,Chainlink,link,8.12,-3.1,loser,5,2026-08-04
+stable-2,​​Stable,stable,0.0316113,-2.9,loser,6,2026-08-04
+pi-network,Pi Network,pi,0.083023,-2.8,loser,7,2026-08-04
+injective-protocol,Injective,inj,4.93,-2.8,loser,8,2026-08-04
+talus,Talus,us,0.054223,-2.5,loser,9,2026-08-04
+bitget-token,Bitget Token,bgb,1.6,-2.4,loser,10,2026-08-04
