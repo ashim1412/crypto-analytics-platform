@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-unibase,Unibase,ub,0.197572,10.4,gainer,1,2026-08-04
-cosmos,Cosmos Hub,atom,1.37,6.9,gainer,2,2026-08-04
-pump-fun,Pump.fun,pump,0.00223691,6.3,gainer,3,2026-08-04
-avalanche-2,Avalanche,avax,6.75,5.7,gainer,4,2026-08-04
-hyperliquid,Hyperliquid,hype,55.6,5.6,gainer,5,2026-08-04
-worldcoin-wld,Worldcoin,wld,0.324596,4.8,gainer,6,2026-08-04
-cardano,Cardano,ada,0.193071,4.5,gainer,7,2026-08-04
-algorand,Algorand,algo,0.090714,4.1,gainer,8,2026-08-04
-memecore,MemeCore,m,1.2,3.8,gainer,9,2026-08-04
-venice-token,Venice Token,vvv,12.09,3.4,gainer,10,2026-08-04
-audiera,Audiera,beat,2.53,-24.9,loser,1,2026-08-04
-canton-network,Canton,cc,0.108175,-5.9,loser,2,2026-08-04
-uniswap,Uniswap,uni,3.85,-5.2,loser,3,2026-08-04
-bianrensheng,币安人生 (BinanceLife),币安人生,0.541909,-3.6,loser,4,2026-08-04
-nexo,NEXO,nexo,0.71978,-2.3,loser,5,2026-08-04
-flare-networks,Flare,flr,0.00609558,-2.2,loser,6,2026-08-04
-rain,Rain,rain,0.0124867,-2.0,loser,7,2026-08-04
-figure-heloc,Figure Heloc,figr_heloc,1.006,-1.6,loser,8,2026-08-04
-lighter,Lighter,lit,2.06,-1.1,loser,9,2026-08-04
-the-open-network,Gram (prev. Toncoin),gram,1.38,-1.0,loser,10,2026-08-04
+pump-fun,Pump.fun,pump,0.00236493,5.3,gainer,1,2026-08-04
+zcash,Zcash,zec,506.42,3.2,gainer,2,2026-08-04
+stable-2,​​Stable,stable,0.03163585,3.0,gainer,3,2026-08-04
+bittensor,Bittensor,tao,198.85,3.0,gainer,4,2026-08-04
+avalanche-2,Avalanche,avax,6.74,2.9,gainer,5,2026-08-04
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.074375,2.5,gainer,6,2026-08-04
+polkadot,Polkadot,dot,0.841944,1.7,gainer,7,2026-08-04
+lighter,Lighter,lit,2.09,1.6,gainer,8,2026-08-04
+beldex,Beldex,bdx,0.082789,1.5,gainer,9,2026-08-04
+hyperliquid,Hyperliquid,hype,55.46,1.5,gainer,10,2026-08-04
+audiera,Audiera,beat,2.38,-12.9,loser,1,2026-08-04
+usx,USX,usx,0.998915,-10.5,loser,2,2026-08-04
+canton-network,Canton,cc,0.109034,-3.9,loser,3,2026-08-04
+aave,Aave,aave,90.6,-3.8,loser,4,2026-08-04
+venice-token,Venice Token,vvv,11.95,-3.4,loser,5,2026-08-04
+flare-networks,Flare,flr,0.00611666,-2.7,loser,6,2026-08-04
+morpho,Morpho,morpho,1.89,-2.5,loser,7,2026-08-04
+rain,Rain,rain,0.01244893,-1.9,loser,8,2026-08-04
+jupiter-exchange-solana,Jupiter,jup,0.190477,-1.7,loser,9,2026-08-04
+sky,Sky,sky,0.05558,-1.6,loser,10,2026-08-04
