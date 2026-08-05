@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00238708,12.4,gainer,1,2026-08-05
-polkadot,Polkadot,dot,0.859547,4.8,gainer,2,2026-08-05
-zcash,Zcash,zec,504.42,4.2,gainer,3,2026-08-05
-beldex,Beldex,bdx,0.08271,2.6,gainer,4,2026-08-05
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.075106,2.6,gainer,5,2026-08-05
-bittensor,Bittensor,tao,195.33,2.2,gainer,6,2026-08-05
-quant-network,Quant,qnt,60.72,2.2,gainer,7,2026-08-05
-litecoin,Litecoin,ltc,45.03,1.9,gainer,8,2026-08-05
-lighter,Lighter,lit,2.04,1.8,gainer,9,2026-08-05
-xdce-crowd-sale,XDC Network,xdc,0.02646747,1.8,gainer,10,2026-08-05
-audiera,Audiera,beat,2.56,-16.4,loser,1,2026-08-05
-bianrensheng,币安人生 (BinanceLife),币安人生,0.528619,-8.2,loser,2,2026-08-05
-venice-token,Venice Token,vvv,11.64,-5.9,loser,3,2026-08-05
-canton-network,Canton,cc,0.108151,-5.8,loser,4,2026-08-05
-jupiter-exchange-solana,Jupiter,jup,0.187044,-3.6,loser,5,2026-08-05
-morpho,Morpho,morpho,1.87,-3.3,loser,6,2026-08-05
-stellar,Stellar,xlm,0.166452,-2.9,loser,7,2026-08-05
-flare-networks,Flare,flr,0.00611044,-2.8,loser,8,2026-08-05
-monero,Monero,xmr,353.98,-2.7,loser,9,2026-08-05
-aave,Aave,aave,89.71,-2.5,loser,10,2026-08-05
+pump-fun,Pump.fun,pump,0.00250147,12.3,gainer,1,2026-08-05
+zcash,Zcash,zec,516.71,6.5,gainer,2,2026-08-05
+lighter,Lighter,lit,2.14,5.8,gainer,3,2026-08-05
+hyperliquid,Hyperliquid,hype,57.25,4.9,gainer,4,2026-08-05
+ondo-finance,Ondo,ondo,0.381947,3.8,gainer,5,2026-08-05
+pi-network,Pi Network,pi,0.085778,3.7,gainer,6,2026-08-05
+bittensor,Bittensor,tao,196.79,3.3,gainer,7,2026-08-05
+stable-2,​​Stable,stable,0.03269385,3.2,gainer,8,2026-08-05
+beldex,Beldex,bdx,0.083377,2.7,gainer,9,2026-08-05
+tether-gold,Tether Gold,xaut,4149.27,2.6,gainer,10,2026-08-05
+audiera,Audiera,beat,2.49,-12.7,loser,1,2026-08-05
+bianrensheng,币安人生 (BinanceLife),币安人生,0.490755,-12.1,loser,2,2026-08-05
+venice-token,Venice Token,vvv,11.69,-3.6,loser,3,2026-08-05
+monero,Monero,xmr,352.16,-2.8,loser,4,2026-08-05
+jupiter-exchange-solana,Jupiter,jup,0.18812,-2.6,loser,5,2026-08-05
+morpho,Morpho,morpho,1.87,-2.6,loser,6,2026-08-05
+stellar,Stellar,xlm,0.166719,-2.3,loser,7,2026-08-05
+hedera-hashgraph,Hedera,hbar,0.069017,-2.1,loser,8,2026-08-05
+rain,Rain,rain,0.0124207,-2.1,loser,9,2026-08-05
+flare-networks,Flare,flr,0.00603039,-2.1,loser,10,2026-08-05
