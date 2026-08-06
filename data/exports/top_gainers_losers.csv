@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bianrensheng,币安人生 (BinanceLife),币安人生,0.521499,7.1,gainer,1,2026-08-06
-pi-network,Pi Network,pi,0.092547,4.9,gainer,2,2026-08-06
-lighter,Lighter,lit,2.18,4.3,gainer,3,2026-08-06
-gatechain-token,Gate,gt,6.65,3.1,gainer,4,2026-08-06
-monero,Monero,xmr,363.14,3.0,gainer,5,2026-08-06
-venice-token,Venice Token,vvv,11.38,2.8,gainer,6,2026-08-06
-beldex,Beldex,bdx,0.086669,2.2,gainer,7,2026-08-06
-figure-heloc,Figure Heloc,figr_heloc,1.02,1.7,gainer,8,2026-08-06
-ethereum,Ethereum,eth,1893.45,1.6,gainer,9,2026-08-06
-pax-gold,PAX Gold,paxg,4234.85,1.5,gainer,10,2026-08-06
-audiera,Audiera,beat,2.09,-15.4,loser,1,2026-08-06
-pump-fun,Pump.fun,pump,0.00233484,-7.2,loser,2,2026-08-06
-canton-network,Canton,cc,0.100988,-6.8,loser,3,2026-08-06
-worldcoin-wld,Worldcoin,wld,0.30225,-5.1,loser,4,2026-08-06
-zcash,Zcash,zec,489.88,-4.9,loser,5,2026-08-06
-ondo-finance,Ondo,ondo,0.366319,-4.5,loser,6,2026-08-06
-arbitrum,Arbitrum,arb,0.077482,-4.4,loser,7,2026-08-06
-stellar,Stellar,xlm,0.159527,-4.1,loser,8,2026-08-06
-avalanche-2,Avalanche,avax,6.41,-3.6,loser,9,2026-08-06
-polkadot,Polkadot,dot,0.815959,-3.6,loser,10,2026-08-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.548344,9.3,gainer,1,2026-08-06
+lighter,Lighter,lit,2.35,7.7,gainer,2,2026-08-06
+cardano,Cardano,ada,0.200445,5.6,gainer,3,2026-08-06
+gatechain-token,Gate,gt,6.66,3.2,gainer,4,2026-08-06
+beldex,Beldex,bdx,0.087838,3.1,gainer,5,2026-08-06
+render-token,Render,render,1.33,1.5,gainer,6,2026-08-06
+pi-network,Pi Network,pi,0.088442,1.2,gainer,7,2026-08-06
+monero,Monero,xmr,368.64,1.0,gainer,8,2026-08-06
+ethena,Ethena,ena,0.092616,0.8,gainer,9,2026-08-06
+mantle,Mantle,mnt,0.40862,0.8,gainer,10,2026-08-06
+audiera,Audiera,beat,2.0,-18.4,loser,1,2026-08-06
+canton-network,Canton,cc,0.091538,-12.2,loser,2,2026-08-06
+memecore,MemeCore,m,1.14,-6.9,loser,3,2026-08-06
+shiba-inu,Shiba Inu,shib,4.68e-06,-4.5,loser,4,2026-08-06
+zcash,Zcash,zec,495.98,-4.2,loser,5,2026-08-06
+worldcoin-wld,Worldcoin,wld,0.302093,-4.0,loser,6,2026-08-06
+jupiter-exchange-solana,Jupiter,jup,0.180088,-3.8,loser,7,2026-08-06
+ondo-finance,Ondo,ondo,0.357696,-3.8,loser,8,2026-08-06
+figure-heloc,Figure Heloc,figr_heloc,1.018,-3.0,loser,9,2026-08-06
+arbitrum,Arbitrum,arb,0.078286,-2.9,loser,10,2026-08-06
