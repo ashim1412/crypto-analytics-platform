@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pi-network,Pi Network,pi,0.091998,9.7,gainer,1,2026-08-06
-lighter,Lighter,lit,2.19,6.4,gainer,2,2026-08-06
-uniswap,Uniswap,uni,4.07,6.2,gainer,3,2026-08-06
-memecore,MemeCore,m,1.21,5.8,gainer,4,2026-08-06
-pax-gold,PAX Gold,paxg,4275.6,5.4,gainer,5,2026-08-06
-tether-gold,Tether Gold,xaut,4263.26,5.3,gainer,6,2026-08-06
-monero,Monero,xmr,365.5,4.1,gainer,7,2026-08-06
-hyperliquid,Hyperliquid,hype,56.77,3.4,gainer,8,2026-08-06
-stable-2,​​Stable,stable,0.03287858,3.3,gainer,9,2026-08-06
-figure-heloc,Figure Heloc,figr_heloc,1.033,3.0,gainer,10,2026-08-06
-audiera,Audiera,beat,2.35,-7.9,loser,1,2026-08-06
-canton-network,Canton,cc,0.103613,-5.1,loser,2,2026-08-06
-world-liberty-financial,World Liberty Financial,wlfi,0.053315,-2.7,loser,3,2026-08-06
-stellar,Stellar,xlm,0.164553,-2.0,loser,4,2026-08-06
-quant-network,Quant,qnt,59.76,-1.9,loser,5,2026-08-06
-bianrensheng,币安人生 (BinanceLife),币安人生,0.511251,-1.8,loser,6,2026-08-06
-algorand,Algorand,algo,0.087827,-1.6,loser,7,2026-08-06
-flare-networks,Flare,flr,0.006012,-1.5,loser,8,2026-08-06
-arbitrum,Arbitrum,arb,0.080193,-1.5,loser,9,2026-08-06
-polkadot,Polkadot,dot,0.842465,-1.4,loser,10,2026-08-06
+pi-network,Pi Network,pi,0.091374,6.59928,gainer,1,2026-08-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.513437,4.76826,gainer,2,2026-08-06
+beldex,Beldex,bdx,0.087047,4.46043,gainer,3,2026-08-06
+gatechain-token,Gate,gt,6.73,4.13019,gainer,4,2026-08-06
+monero,Monero,xmr,364.7,3.57235,gainer,5,2026-08-06
+aptos,Aptos,apt,0.596402,2.78547,gainer,6,2026-08-06
+pax-gold,PAX Gold,paxg,4253.8,2.33635,gainer,7,2026-08-06
+tether-gold,Tether Gold,xaut,4243.06,2.24153,gainer,8,2026-08-06
+ethereum,Ethereum,eth,1907.54,2.06955,gainer,9,2026-08-06
+morpho,Morpho,morpho,1.91,1.98262,gainer,10,2026-08-06
+audiera,Audiera,beat,1.74,-29.97985,loser,1,2026-08-06
+canton-network,Canton,cc,0.101634,-6.93729,loser,2,2026-08-06
+pump-fun,Pump.fun,pump,0.0023471,-6.22361,loser,3,2026-08-06
+aave,Aave,aave,88.35,-3.74054,loser,4,2026-08-06
+algorand,Algorand,algo,0.087091,-3.67535,loser,5,2026-08-06
+worldcoin-wld,Worldcoin,wld,0.309584,-3.66977,loser,6,2026-08-06
+stellar,Stellar,xlm,0.16158,-3.06252,loser,7,2026-08-06
+polkadot,Polkadot,dot,0.832682,-2.59805,loser,8,2026-08-06
+cardano,Cardano,ada,0.188793,-2.42441,loser,9,2026-08-06
+ondo-finance,Ondo,ondo,0.373344,-2.25,loser,10,2026-08-06
