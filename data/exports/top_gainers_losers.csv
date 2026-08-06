@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00242889,7.4,gainer,1,2026-08-05
-uniswap,Uniswap,uni,4.13,7.3,gainer,2,2026-08-05
-pax-gold,PAX Gold,paxg,4250.28,4.3,gainer,3,2026-08-05
-tether-gold,Tether Gold,xaut,4238.65,4.2,gainer,4,2026-08-05
-pi-network,Pi Network,pi,0.087068,4.1,gainer,5,2026-08-05
-stable-2,​​Stable,stable,0.03280113,4.1,gainer,6,2026-08-05
-zcash,Zcash,zec,521.61,3.8,gainer,7,2026-08-05
-figure-heloc,Figure Heloc,figr_heloc,1.028,3.1,gainer,8,2026-08-05
-hyperliquid,Hyperliquid,hype,57.33,2.9,gainer,9,2026-08-05
-aptos,Aptos,apt,0.594472,2.9,gainer,10,2026-08-05
-bianrensheng,币安人生 (BinanceLife),币安人生,0.496768,-8.3,loser,1,2026-08-05
-venice-token,Venice Token,vvv,11.27,-7.2,loser,2,2026-08-05
-canton-network,Canton,cc,0.104545,-5.3,loser,3,2026-08-05
-kaspa,Kaspa,kas,0.02612843,-2.3,loser,4,2026-08-05
-monero,Monero,xmr,356.33,-2.0,loser,5,2026-08-05
-world-liberty-financial,World Liberty Financial,wlfi,0.053494,-2.0,loser,6,2026-08-05
-shiba-inu,Shiba Inu,shib,4.91e-06,-1.7,loser,7,2026-08-05
-stellar,Stellar,xlm,0.167848,-1.6,loser,8,2026-08-05
-just,JUST,jst,0.104622,-1.6,loser,9,2026-08-05
-cosmos,Cosmos Hub,atom,1.35,-1.4,loser,10,2026-08-05
+pi-network,Pi Network,pi,0.091998,9.7,gainer,1,2026-08-06
+lighter,Lighter,lit,2.19,6.4,gainer,2,2026-08-06
+uniswap,Uniswap,uni,4.07,6.2,gainer,3,2026-08-06
+memecore,MemeCore,m,1.21,5.8,gainer,4,2026-08-06
+pax-gold,PAX Gold,paxg,4275.6,5.4,gainer,5,2026-08-06
+tether-gold,Tether Gold,xaut,4263.26,5.3,gainer,6,2026-08-06
+monero,Monero,xmr,365.5,4.1,gainer,7,2026-08-06
+hyperliquid,Hyperliquid,hype,56.77,3.4,gainer,8,2026-08-06
+stable-2,​​Stable,stable,0.03287858,3.3,gainer,9,2026-08-06
+figure-heloc,Figure Heloc,figr_heloc,1.033,3.0,gainer,10,2026-08-06
+audiera,Audiera,beat,2.35,-7.9,loser,1,2026-08-06
+canton-network,Canton,cc,0.103613,-5.1,loser,2,2026-08-06
+world-liberty-financial,World Liberty Financial,wlfi,0.053315,-2.7,loser,3,2026-08-06
+stellar,Stellar,xlm,0.164553,-2.0,loser,4,2026-08-06
+quant-network,Quant,qnt,59.76,-1.9,loser,5,2026-08-06
+bianrensheng,币安人生 (BinanceLife),币安人生,0.511251,-1.8,loser,6,2026-08-06
+algorand,Algorand,algo,0.087827,-1.6,loser,7,2026-08-06
+flare-networks,Flare,flr,0.006012,-1.5,loser,8,2026-08-06
+arbitrum,Arbitrum,arb,0.080193,-1.5,loser,9,2026-08-06
+polkadot,Polkadot,dot,0.842465,-1.4,loser,10,2026-08-06
