@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.2,31.4,gainer,1,2026-08-07
-lighter,Lighter,lit,2.42,9.1,gainer,2,2026-08-07
-cardano,Cardano,ada,0.201345,6.7,gainer,3,2026-08-07
-ethena,Ethena,ena,0.095124,6.4,gainer,4,2026-08-07
-zcash,Zcash,zec,510.27,3.6,gainer,5,2026-08-07
-bianrensheng,币安人生 (BinanceLife),币安人生,0.538274,3.5,gainer,6,2026-08-07
-beldex,Beldex,bdx,0.089162,3.0,gainer,7,2026-08-07
-ethereum-classic,Ethereum Classic,etc,6.51,3.0,gainer,8,2026-08-07
-mantle,Mantle,mnt,0.414313,2.8,gainer,9,2026-08-07
-okb,OKB,okb,88.13,2.8,gainer,10,2026-08-07
-canton-network,Canton,cc,0.088414,-11.8,loser,1,2026-08-07
-ondo-finance,Ondo,ondo,0.35209,-4.7,loser,2,2026-08-07
-pi-network,Pi Network,pi,0.088209,-3.2,loser,3,2026-08-07
-the-open-network,Gram (prev. Toncoin),gram,1.34,-2.8,loser,4,2026-08-07
-sky,Sky,sky,0.055107,-2.7,loser,5,2026-08-07
-world-liberty-financial,World Liberty Financial,wlfi,0.051921,-2.0,loser,6,2026-08-07
-near,NEAR Protocol,near,1.64,-1.9,loser,7,2026-08-07
-shiba-inu,Shiba Inu,shib,4.65e-06,-1.8,loser,8,2026-08-07
-gatechain-token,Gate,gt,6.59,-1.5,loser,9,2026-08-07
-ripple,XRP,xrp,1.036,-1.3,loser,10,2026-08-07
+beldex,Beldex,bdx,0.09163,5.0,gainer,1,2026-08-07
+okb,OKB,okb,90.09,4.8,gainer,2,2026-08-07
+zcash,Zcash,zec,510.56,3.1,gainer,3,2026-08-07
+lighter,Lighter,lit,2.33,2.9,gainer,4,2026-08-07
+kaspa,Kaspa,kas,0.02618285,2.6,gainer,5,2026-08-07
+pax-gold,PAX Gold,paxg,4327.43,2.3,gainer,6,2026-08-07
+tether-gold,Tether Gold,xaut,4316.02,2.3,gainer,7,2026-08-07
+mantle,Mantle,mnt,0.41658,1.9,gainer,8,2026-08-07
+memecore,MemeCore,m,1.16,1.7,gainer,9,2026-08-07
+monero,Monero,xmr,370.51,1.5,gainer,10,2026-08-07
+audiera,Audiera,beat,2.13,-10.6,loser,1,2026-08-07
+filecoin,Filecoin,fil,0.681838,-7.0,loser,2,2026-08-07
+ondo-finance,Ondo,ondo,0.348338,-6.9,loser,3,2026-08-07
+canton-network,Canton,cc,0.09284,-5.8,loser,4,2026-08-07
+near,NEAR Protocol,near,1.59,-4.5,loser,5,2026-08-07
+cardano,Cardano,ada,0.199751,-4.4,loser,6,2026-08-07
+hyperliquid,Hyperliquid,hype,54.13,-4.0,loser,7,2026-08-07
+sky,Sky,sky,0.054576,-3.5,loser,8,2026-08-07
+world-liberty-financial,World Liberty Financial,wlfi,0.051508,-3.4,loser,9,2026-08-07
+bianrensheng,币安人生 (BinanceLife),币安人生,0.525644,-3.0,loser,10,2026-08-07
