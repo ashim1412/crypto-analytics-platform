@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,2.41,9.8,gainer,1,2026-08-07
-cardano,Cardano,ada,0.199974,5.5,gainer,2,2026-08-07
-bianrensheng,币安人生 (BinanceLife),币安人生,0.55394,5.1,gainer,3,2026-08-07
-beldex,Beldex,bdx,0.089289,4.8,gainer,4,2026-08-07
-gatechain-token,Gate,gt,6.68,2.0,gainer,5,2026-08-07
-render-token,Render,render,1.35,1.6,gainer,6,2026-08-07
-morpho,Morpho,morpho,1.9,0.9,gainer,7,2026-08-07
-monero,Monero,xmr,369.06,0.9,gainer,8,2026-08-07
-uniswap,Uniswap,uni,4.04,0.7,gainer,9,2026-08-07
-stable-2,​​Stable,stable,0.03288894,0.5,gainer,10,2026-08-07
-canton-network,Canton,cc,0.090029,-12.2,loser,1,2026-08-07
-audiera,Audiera,beat,2.03,-12.1,loser,2,2026-08-07
-memecore,MemeCore,m,1.14,-7.3,loser,3,2026-08-07
-shiba-inu,Shiba Inu,shib,4.67e-06,-5.1,loser,4,2026-08-07
-ondo-finance,Ondo,ondo,0.356317,-5.0,loser,5,2026-08-07
-worldcoin-wld,Worldcoin,wld,0.301233,-4.6,loser,6,2026-08-07
-jupiter-exchange-solana,Jupiter,jup,0.180987,-4.2,loser,7,2026-08-07
-avalanche-2,Avalanche,avax,6.41,-3.7,loser,8,2026-08-07
-arbitrum,Arbitrum,arb,0.078033,-2.8,loser,9,2026-08-07
-pi-network,Pi Network,pi,0.087757,-2.6,loser,10,2026-08-07
+lighter,Lighter,lit,2.36,10.1,gainer,1,2026-08-07
+bianrensheng,币安人生 (BinanceLife),币安人生,0.543944,8.5,gainer,2,2026-08-07
+cardano,Cardano,ada,0.200997,7.2,gainer,3,2026-08-07
+beldex,Beldex,bdx,0.089336,3.0,gainer,4,2026-08-07
+algorand,Algorand,algo,0.089858,2.7,gainer,5,2026-08-07
+okb,OKB,okb,88.12,2.5,gainer,6,2026-08-07
+monero,Monero,xmr,370.61,1.8,gainer,7,2026-08-07
+usx,USX,usx,0.999342,1.4,gainer,8,2026-08-07
+mantle,Mantle,mnt,0.409799,1.3,gainer,9,2026-08-07
+cosmos,Cosmos Hub,atom,1.35,1.1,gainer,10,2026-08-07
+canton-network,Canton,cc,0.090103,-13.4,loser,1,2026-08-07
+ondo-finance,Ondo,ondo,0.349421,-7.2,loser,2,2026-08-07
+worldcoin-wld,Worldcoin,wld,0.296239,-6.0,loser,3,2026-08-07
+pi-network,Pi Network,pi,0.087742,-6.0,loser,4,2026-08-07
+near,NEAR Protocol,near,1.64,-5.7,loser,5,2026-08-07
+shiba-inu,Shiba Inu,shib,4.61e-06,-4.8,loser,6,2026-08-07
+the-open-network,Gram (prev. Toncoin),gram,1.34,-4.2,loser,7,2026-08-07
+avalanche-2,Avalanche,avax,6.41,-4.1,loser,8,2026-08-07
+polkadot,Polkadot,dot,0.815445,-3.2,loser,9,2026-08-07
+jupiter-exchange-solana,Jupiter,jup,0.184528,-3.1,loser,10,2026-08-07
