@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.09163,5.0,gainer,1,2026-08-07
-okb,OKB,okb,90.09,4.8,gainer,2,2026-08-07
-zcash,Zcash,zec,510.56,3.1,gainer,3,2026-08-07
-lighter,Lighter,lit,2.33,2.9,gainer,4,2026-08-07
-kaspa,Kaspa,kas,0.02618285,2.6,gainer,5,2026-08-07
-pax-gold,PAX Gold,paxg,4327.43,2.3,gainer,6,2026-08-07
-tether-gold,Tether Gold,xaut,4316.02,2.3,gainer,7,2026-08-07
-mantle,Mantle,mnt,0.41658,1.9,gainer,8,2026-08-07
-memecore,MemeCore,m,1.16,1.7,gainer,9,2026-08-07
-monero,Monero,xmr,370.51,1.5,gainer,10,2026-08-07
-audiera,Audiera,beat,2.13,-10.6,loser,1,2026-08-07
-filecoin,Filecoin,fil,0.681838,-7.0,loser,2,2026-08-07
-ondo-finance,Ondo,ondo,0.348338,-6.9,loser,3,2026-08-07
-canton-network,Canton,cc,0.09284,-5.8,loser,4,2026-08-07
-near,NEAR Protocol,near,1.59,-4.5,loser,5,2026-08-07
-cardano,Cardano,ada,0.199751,-4.4,loser,6,2026-08-07
-hyperliquid,Hyperliquid,hype,54.13,-4.0,loser,7,2026-08-07
-sky,Sky,sky,0.054576,-3.5,loser,8,2026-08-07
-world-liberty-financial,World Liberty Financial,wlfi,0.051508,-3.4,loser,9,2026-08-07
-bianrensheng,币安人生 (BinanceLife),币安人生,0.525644,-3.0,loser,10,2026-08-07
+bitway,Bitway,btw,0.223263,17.5,gainer,1,2026-08-08
+audiera,Audiera,beat,2.11,11.9,gainer,2,2026-08-08
+okb,OKB,okb,90.4,5.4,gainer,3,2026-08-08
+beldex,Beldex,bdx,0.092255,3.8,gainer,4,2026-08-08
+zcash,Zcash,zec,508.58,3.3,gainer,5,2026-08-08
+kaspa,Kaspa,kas,0.02650537,3.0,gainer,6,2026-08-08
+tether-gold,Tether Gold,xaut,4329.86,2.6,gainer,7,2026-08-08
+pax-gold,PAX Gold,paxg,4342.61,2.5,gainer,8,2026-08-08
+monero,Monero,xmr,380.9,2.4,gainer,9,2026-08-08
+mantle,Mantle,mnt,0.416856,2.3,gainer,10,2026-08-08
+bianrensheng,币安人生 (BinanceLife),币安人生,0.507276,-8.8,loser,1,2026-08-08
+crypto-com-chain,Cronos,cro,0.050407,-5.4,loser,2,2026-08-08
+pump-fun,Pump.fun,pump,0.00227053,-4.8,loser,3,2026-08-08
+near,NEAR Protocol,near,1.59,-4.3,loser,4,2026-08-08
+morpho,Morpho,morpho,1.84,-3.6,loser,5,2026-08-08
+hyperliquid,Hyperliquid,hype,53.91,-3.6,loser,6,2026-08-08
+ondo-finance,Ondo,ondo,0.345976,-3.3,loser,7,2026-08-08
+filecoin,Filecoin,fil,0.685748,-2.6,loser,8,2026-08-08
+render-token,Render,render,1.31,-2.0,loser,9,2026-08-08
+stable-2,​​Stable,stable,0.03289372,-2.0,loser,10,2026-08-08
