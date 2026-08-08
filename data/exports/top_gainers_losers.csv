@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.12,11.3,gainer,1,2026-08-08
-okb,OKB,okb,92.86,4.9,gainer,2,2026-08-08
-canton-network,Canton,cc,0.092371,4.3,gainer,3,2026-08-08
-beldex,Beldex,bdx,0.091727,4.2,gainer,4,2026-08-08
-kaspa,Kaspa,kas,0.02643562,3.9,gainer,5,2026-08-08
-monero,Monero,xmr,381.14,3.1,gainer,6,2026-08-08
-bitget-token,Bitget Token,bgb,1.65,3.0,gainer,7,2026-08-08
-mantle,Mantle,mnt,0.421107,2.9,gainer,8,2026-08-08
-worldcoin-wld,Worldcoin,wld,0.30565,2.8,gainer,9,2026-08-08
-solana,Solana,sol,74.65,2.6,gainer,10,2026-08-08
-bianrensheng,币安人生 (BinanceLife),币安人生,0.509066,-7.9,loser,1,2026-08-08
-crypto-com-chain,Cronos,cro,0.04932426,-5.8,loser,2,2026-08-08
-pump-fun,Pump.fun,pump,0.00228778,-3.2,loser,3,2026-08-08
-near,NEAR Protocol,near,1.59,-3.0,loser,4,2026-08-08
-venice-token,Venice Token,vvv,11.21,-2.8,loser,5,2026-08-08
-algorand,Algorand,algo,0.087388,-2.2,loser,6,2026-08-08
-memecore,MemeCore,m,1.15,-2.0,loser,7,2026-08-08
-world-liberty-financial,World Liberty Financial,wlfi,0.0514,-1.8,loser,8,2026-08-08
-sky,Sky,sky,0.054131,-1.7,loser,9,2026-08-08
-hyperliquid,Hyperliquid,hype,54.4,-1.5,loser,10,2026-08-08
+audiera,Audiera,beat,2.5,12.3,gainer,1,2026-08-08
+okb,OKB,okb,93.45,6.0,gainer,2,2026-08-08
+pi-network,Pi Network,pi,0.091991,4.9,gainer,3,2026-08-08
+beldex,Beldex,bdx,0.092601,4.3,gainer,4,2026-08-08
+cosmos,Cosmos Hub,atom,1.4,3.6,gainer,5,2026-08-08
+filecoin,Filecoin,fil,0.715021,3.4,gainer,6,2026-08-08
+mantle,Mantle,mnt,0.428912,3.4,gainer,7,2026-08-08
+solana,Solana,sol,75.46,2.8,gainer,8,2026-08-08
+kaspa,Kaspa,kas,0.02683146,2.8,gainer,9,2026-08-08
+aptos,Aptos,apt,0.601227,2.5,gainer,10,2026-08-08
+crypto-com-chain,Cronos,cro,0.04819579,-8.4,loser,1,2026-08-08
+ethena,Ethena,ena,0.090896,-6.3,loser,2,2026-08-08
+bianrensheng,币安人生 (BinanceLife),币安人生,0.512969,-4.6,loser,3,2026-08-08
+hyperliquid,Hyperliquid,hype,54.44,-4.0,loser,4,2026-08-08
+venice-token,Venice Token,vvv,11.23,-3.0,loser,5,2026-08-08
+just,JUST,jst,0.102299,-2.8,loser,6,2026-08-08
+near,NEAR Protocol,near,1.61,-2.8,loser,7,2026-08-08
+figure-heloc,Figure Heloc,figr_heloc,1.007,-2.7,loser,8,2026-08-08
+lighter,Lighter,lit,2.34,-2.2,loser,9,2026-08-08
+algorand,Algorand,algo,0.086878,-2.1,loser,10,2026-08-08
