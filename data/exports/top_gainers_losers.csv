@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,3.01,40.1,gainer,1,2026-08-09
-pump-fun,Pump.fun,pump,0.0025091,9.0,gainer,2,2026-08-09
-canton-network,Canton,cc,0.096134,8.5,gainer,3,2026-08-09
-bittensor,Bittensor,tao,206.65,5.5,gainer,4,2026-08-09
-internet-computer,Internet Computer,icp,2.18,3.6,gainer,5,2026-08-09
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.078076,2.7,gainer,6,2026-08-09
-filecoin,Filecoin,fil,0.712267,2.5,gainer,7,2026-08-09
-morpho,Morpho,morpho,1.92,2.3,gainer,8,2026-08-09
-solana,Solana,sol,76.28,1.9,gainer,9,2026-08-09
-xdce-crowd-sale,XDC Network,xdc,0.02704595,1.8,gainer,10,2026-08-09
-lighter,Lighter,lit,2.28,-3.3,loser,1,2026-08-09
-ethena,Ethena,ena,0.088479,-3.2,loser,2,2026-08-09
+audiera,Audiera,beat,3.24,29.5,gainer,1,2026-08-09
+pump-fun,Pump.fun,pump,0.00253514,10.5,gainer,2,2026-08-09
+canton-network,Canton,cc,0.098386,6.8,gainer,3,2026-08-09
+bittensor,Bittensor,tao,205.91,5.3,gainer,4,2026-08-09
+zcash,Zcash,zec,521.39,3.7,gainer,5,2026-08-09
+internet-computer,Internet Computer,icp,2.18,3.2,gainer,6,2026-08-09
+crypto-com-chain,Cronos,cro,0.04877058,3.0,gainer,7,2026-08-09
+venice-token,Venice Token,vvv,11.53,2.9,gainer,8,2026-08-09
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.076891,2.1,gainer,9,2026-08-09
+solana,Solana,sol,76.44,1.9,gainer,10,2026-08-09
+ethena,Ethena,ena,0.087431,-3.6,loser,1,2026-08-09
+memecore,MemeCore,m,1.13,-3.3,loser,2,2026-08-09
 figure-heloc,Figure Heloc,figr_heloc,1.001,-2.7,loser,3,2026-08-09
-venice-token,Venice Token,vvv,11.13,-2.0,loser,4,2026-08-09
-crypto-com-chain,Cronos,cro,0.04917041,-1.8,loser,5,2026-08-09
-memecore,MemeCore,m,1.13,-1.7,loser,6,2026-08-09
-polkadot,Polkadot,dot,0.812709,-1.6,loser,7,2026-08-09
-arbitrum,Arbitrum,arb,0.077929,-1.5,loser,8,2026-08-09
-uniswap,Uniswap,uni,3.97,-1.5,loser,9,2026-08-09
-avalanche-2,Avalanche,avax,6.48,-1.3,loser,10,2026-08-09
+arbitrum,Arbitrum,arb,0.077514,-2.6,loser,4,2026-08-09
+the-open-network,Gram (prev. Toncoin),gram,1.34,-1.9,loser,5,2026-08-09
+kaspa,Kaspa,kas,0.02639104,-1.6,loser,6,2026-08-09
+cardano,Cardano,ada,0.196039,-1.6,loser,7,2026-08-09
+algorand,Algorand,algo,0.086071,-1.5,loser,8,2026-08-09
+cosmos,Cosmos Hub,atom,1.37,-1.5,loser,9,2026-08-09
+lighter,Lighter,lit,2.33,-1.4,loser,10,2026-08-09
