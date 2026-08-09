@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-audiera,Audiera,beat,2.74,33.8,gainer,1,2026-08-08
-internet-computer,Internet Computer,icp,2.23,7.3,gainer,2,2026-08-08
-pump-fun,Pump.fun,pump,0.00238162,4.7,gainer,3,2026-08-08
-okb,OKB,okb,93.54,4.4,gainer,4,2026-08-08
-filecoin,Filecoin,fil,0.718874,4.2,gainer,5,2026-08-08
-morpho,Morpho,morpho,1.94,4.1,gainer,6,2026-08-08
-monero,Monero,xmr,384.07,4.1,gainer,7,2026-08-08
-solana,Solana,sol,76.22,4.0,gainer,8,2026-08-08
-aptos,Aptos,apt,0.607487,4.0,gainer,9,2026-08-08
-sui,Sui,sui,0.694447,3.8,gainer,10,2026-08-08
-crypto-com-chain,Cronos,cro,0.04983191,-5.8,loser,1,2026-08-08
-ethena,Ethena,ena,0.090108,-4.4,loser,2,2026-08-08
-just,JUST,jst,0.101385,-3.9,loser,3,2026-08-08
-venice-token,Venice Token,vvv,11.27,-3.1,loser,4,2026-08-08
-lighter,Lighter,lit,2.28,-2.7,loser,5,2026-08-08
-memecore,MemeCore,m,1.14,-2.6,loser,6,2026-08-08
-canton-network,Canton,cc,0.094228,-1.8,loser,7,2026-08-08
-bianrensheng,币安人生 (BinanceLife),币安人生,0.517247,-1.8,loser,8,2026-08-08
-zcash,Zcash,zec,505.2,-1.4,loser,9,2026-08-08
-algorand,Algorand,algo,0.087427,-0.9,loser,10,2026-08-08
+audiera,Audiera,beat,2.93,34.0,gainer,1,2026-08-09
+pump-fun,Pump.fun,pump,0.00242302,5.9,gainer,2,2026-08-09
+morpho,Morpho,morpho,1.93,5.1,gainer,3,2026-08-09
+bittensor,Bittensor,tao,208.37,5.1,gainer,4,2026-08-09
+internet-computer,Internet Computer,icp,2.2,4.9,gainer,5,2026-08-09
+aptos,Aptos,apt,0.60899,4.2,gainer,6,2026-08-09
+filecoin,Filecoin,fil,0.711241,4.1,gainer,7,2026-08-09
+pi-network,Pi Network,pi,0.091682,3.9,gainer,8,2026-08-09
+okb,OKB,okb,95.32,3.7,gainer,9,2026-08-09
+canton-network,Canton,cc,0.093893,3.6,gainer,10,2026-08-09
+just,JUST,jst,0.10059,-4.9,loser,1,2026-08-09
+crypto-com-chain,Cronos,cro,0.04932206,-3.5,loser,2,2026-08-09
+figure-heloc,Figure Heloc,figr_heloc,1.001,-2.7,loser,3,2026-08-09
+memecore,MemeCore,m,1.15,-2.1,loser,4,2026-08-09
+algorand,Algorand,algo,0.087354,-1.6,loser,5,2026-08-09
+ethena,Ethena,ena,0.090235,-1.5,loser,6,2026-08-09
+quant-network,Quant,qnt,59.25,-1.2,loser,7,2026-08-09
+sky,Sky,sky,0.05413,-1.0,loser,8,2026-08-09
+cardano,Cardano,ada,0.19885,-0.9,loser,9,2026-08-09
+lighter,Lighter,lit,2.28,-0.7,loser,10,2026-08-09
