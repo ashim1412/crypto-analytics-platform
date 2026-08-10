@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00282474,13.5,gainer,1,2026-08-10
-worldcoin-wld,Worldcoin,wld,0.346359,12.7,gainer,2,2026-08-10
-venice-token,Venice Token,vvv,12.0,7.7,gainer,3,2026-08-10
-monero,Monero,xmr,395.05,4.0,gainer,4,2026-08-10
-world-liberty-financial,World Liberty Financial,wlfi,0.052976,2.9,gainer,5,2026-08-10
-uniswap,Uniswap,uni,4.08,2.8,gainer,6,2026-08-10
-near,NEAR Protocol,near,1.65,2.5,gainer,7,2026-08-10
-arbitrum,Arbitrum,arb,0.079533,2.4,gainer,8,2026-08-10
-morpho,Morpho,morpho,1.96,2.2,gainer,9,2026-08-10
-shiba-inu,Shiba Inu,shib,4.72e-06,2.2,gainer,10,2026-08-10
-audiera,Audiera,beat,2.54,-20.3,loser,1,2026-08-10
-memecore,MemeCore,m,1.066,-5.9,loser,2,2026-08-10
-algorand,Algorand,algo,0.082077,-5.0,loser,3,2026-08-10
-figure-heloc,Figure Heloc,figr_heloc,1.001,-2.7,loser,4,2026-08-10
-bitway,Bitway,btw,0.197984,-2.6,loser,5,2026-08-10
-crypto-com-chain,Cronos,cro,0.0478251,-2.5,loser,6,2026-08-10
-pi-network,Pi Network,pi,0.089213,-2.4,loser,7,2026-08-10
-sky,Sky,sky,0.053055,-2.0,loser,8,2026-08-10
-just,JUST,jst,0.101634,-2.0,loser,9,2026-08-10
-render-token,Render,render,1.29,-2.0,loser,10,2026-08-10
+worldcoin-wld,Worldcoin,wld,0.337698,9.7,gainer,1,2026-08-10
+pump-fun,Pump.fun,pump,0.00270162,7.1,gainer,2,2026-08-10
+venice-token,Venice Token,vvv,11.99,4.9,gainer,3,2026-08-10
+bianrensheng,币安人生 (BinanceLife),币安人生,0.530318,4.3,gainer,4,2026-08-10
+monero,Monero,xmr,399.27,4.3,gainer,5,2026-08-10
+ethena,Ethena,ena,0.090675,3.3,gainer,6,2026-08-10
+arbitrum,Arbitrum,arb,0.079747,3.1,gainer,7,2026-08-10
+canton-network,Canton,cc,0.099102,3.1,gainer,8,2026-08-10
+near,NEAR Protocol,near,1.65,2.8,gainer,9,2026-08-10
+world-liberty-financial,World Liberty Financial,wlfi,0.052937,2.3,gainer,10,2026-08-10
+audiera,Audiera,beat,2.46,-22.5,loser,1,2026-08-10
+algorand,Algorand,algo,0.082526,-3.8,loser,2,2026-08-10
+just,JUST,jst,0.10042,-3.2,loser,3,2026-08-10
+zcash,Zcash,zec,501.6,-3.0,loser,4,2026-08-10
+crypto-com-chain,Cronos,cro,0.04748752,-2.2,loser,5,2026-08-10
+memecore,MemeCore,m,1.089,-2.1,loser,6,2026-08-10
+render-token,Render,render,1.29,-1.8,loser,7,2026-08-10
+litecoin,Litecoin,ltc,45.38,-1.6,loser,8,2026-08-10
+quant-network,Quant,qnt,58.39,-1.3,loser,9,2026-08-10
+pi-network,Pi Network,pi,0.088751,-1.3,loser,10,2026-08-10
