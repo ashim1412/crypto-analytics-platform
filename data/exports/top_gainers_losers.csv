@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-internet-computer,Internet Computer,icp,2.35,8.3,gainer,1,2026-08-11
-lighter,Lighter,lit,2.48,7.0,gainer,2,2026-08-11
-mantle,Mantle,mnt,0.448569,5.8,gainer,3,2026-08-11
-world-liberty-financial,World Liberty Financial,wlfi,0.054889,3.8,gainer,4,2026-08-11
-ethena,Ethena,ena,0.090628,3.6,gainer,5,2026-08-11
-chainlink,Chainlink,link,8.43,2.7,gainer,6,2026-08-11
-hyperliquid,Hyperliquid,hype,55.28,2.4,gainer,7,2026-08-11
-pump-fun,Pump.fun,pump,0.00291826,2.4,gainer,8,2026-08-11
-memecore,MemeCore,m,1.071,2.4,gainer,9,2026-08-11
-rain,Rain,rain,0.01285974,2.1,gainer,10,2026-08-11
-bitway,Bitway,btw,0.192382,-8.1,loser,1,2026-08-11
-canton-network,Canton,cc,0.093115,-6.5,loser,2,2026-08-11
-cardano,Cardano,ada,0.188131,-4.8,loser,3,2026-08-11
-ondo-finance,Ondo,ondo,0.338621,-3.3,loser,4,2026-08-11
-just,JUST,jst,0.097667,-3.2,loser,5,2026-08-11
-aave,Aave,aave,88.84,-3.2,loser,6,2026-08-11
-shiba-inu,Shiba Inu,shib,4.51e-06,-3.1,loser,7,2026-08-11
-pi-network,Pi Network,pi,0.08709,-2.9,loser,8,2026-08-11
-zcash,Zcash,zec,490.48,-2.9,loser,9,2026-08-11
-nexo,NEXO,nexo,0.719755,-2.3,loser,10,2026-08-11
+hash-2,Provenance Blockchain,hash,0.00840613,9.4,gainer,1,2026-08-11
+lighter,Lighter,lit,2.47,8.8,gainer,2,2026-08-11
+bitway,Bitway,btw,0.193051,8.2,gainer,3,2026-08-11
+chainlink,Chainlink,link,8.64,5.0,gainer,4,2026-08-11
+world-liberty-financial,World Liberty Financial,wlfi,0.055507,4.7,gainer,5,2026-08-11
+mantle,Mantle,mnt,0.450097,4.4,gainer,6,2026-08-11
+cosmos,Cosmos Hub,atom,1.42,3.6,gainer,7,2026-08-11
+internet-computer,Internet Computer,icp,2.28,2.9,gainer,8,2026-08-11
+flare-networks,Flare,flr,0.00608482,2.2,gainer,9,2026-08-11
+rain,Rain,rain,0.01282221,2.0,gainer,10,2026-08-11
+canton-network,Canton,cc,0.095482,-4.2,loser,1,2026-08-11
+bianrensheng,币安人生 (BinanceLife),币安人生,0.520349,-4.2,loser,2,2026-08-11
+shiba-inu,Shiba Inu,shib,4.5e-06,-3.9,loser,3,2026-08-11
+beldex,Beldex,bdx,0.087859,-3.8,loser,4,2026-08-11
+near,NEAR Protocol,near,1.59,-3.6,loser,5,2026-08-11
+zcash,Zcash,zec,487.24,-3.5,loser,6,2026-08-11
+venice-token,Venice Token,vvv,11.64,-3.4,loser,7,2026-08-11
+cardano,Cardano,ada,0.187718,-3.2,loser,8,2026-08-11
+pi-network,Pi Network,pi,0.085912,-3.1,loser,9,2026-08-11
+ondo-finance,Ondo,ondo,0.337578,-3.0,loser,10,2026-08-11
