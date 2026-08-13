@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.226201,10.3,gainer,1,2026-08-13
-okb,OKB,okb,102.69,7.9,gainer,2,2026-08-13
-mantle,Mantle,mnt,0.459144,5.5,gainer,3,2026-08-13
-hyperliquid,Hyperliquid,hype,57.31,5.0,gainer,4,2026-08-13
-stable-2,​​Stable,stable,0.03325067,4.2,gainer,5,2026-08-13
-avalanche-2,Avalanche,avax,6.53,3.8,gainer,6,2026-08-13
-pump-fun,Pump.fun,pump,0.00278581,3.2,gainer,7,2026-08-13
-lighter,Lighter,lit,2.39,2.9,gainer,8,2026-08-13
-leo-token,LEO Token,leo,9.38,2.8,gainer,9,2026-08-13
-zcash,Zcash,zec,496.53,2.7,gainer,10,2026-08-13
-uniswap,Uniswap,uni,3.59,-5.0,loser,1,2026-08-13
-pepe,Pepe,pepe,2.73e-06,-4.2,loser,2,2026-08-13
-arbitrum,Arbitrum,arb,0.076562,-3.8,loser,3,2026-08-13
-rain,Rain,rain,0.01241934,-3.8,loser,4,2026-08-13
-filecoin,Filecoin,fil,0.680256,-3.4,loser,5,2026-08-13
-algorand,Algorand,algo,0.079384,-2.5,loser,6,2026-08-13
-jupiter-exchange-solana,Jupiter,jup,0.171142,-2.3,loser,7,2026-08-13
-polkadot,Polkadot,dot,0.775121,-2.3,loser,8,2026-08-13
-internet-computer,Internet Computer,icp,2.19,-2.2,loser,9,2026-08-13
-ethena,Ethena,ena,0.087902,-2.1,loser,10,2026-08-13
+bitway,Bitway,btw,0.261564,8.8,gainer,1,2026-08-13
+mantle,Mantle,mnt,0.458952,6.7,gainer,2,2026-08-13
+okb,OKB,okb,102.17,5.9,gainer,3,2026-08-13
+stable-2,​​Stable,stable,0.03349055,5.6,gainer,4,2026-08-13
+venice-token,Venice Token,vvv,12.39,3.5,gainer,5,2026-08-13
+avalanche-2,Avalanche,avax,6.52,3.4,gainer,6,2026-08-13
+pump-fun,Pump.fun,pump,0.00277537,3.3,gainer,7,2026-08-13
+monero,Monero,xmr,404.28,3.2,gainer,8,2026-08-13
+leo-token,LEO Token,leo,9.4,3.2,gainer,9,2026-08-13
+hyperliquid,Hyperliquid,hype,57.48,2.7,gainer,10,2026-08-13
+arbitrum,Arbitrum,arb,0.074823,-5.6,loser,1,2026-08-13
+pepe,Pepe,pepe,2.69e-06,-5.4,loser,2,2026-08-13
+rain,Rain,rain,0.01220995,-5.2,loser,3,2026-08-13
+filecoin,Filecoin,fil,0.675039,-4.4,loser,4,2026-08-13
+ethena,Ethena,ena,0.086117,-4.1,loser,5,2026-08-13
+internet-computer,Internet Computer,icp,2.17,-3.1,loser,6,2026-08-13
+algorand,Algorand,algo,0.080063,-2.9,loser,7,2026-08-13
+dogecoin,Dogecoin,doge,0.070189,-2.6,loser,8,2026-08-13
+ethereum-classic,Ethereum Classic,etc,6.28,-2.5,loser,9,2026-08-13
+polkadot,Polkadot,dot,0.770532,-2.5,loser,10,2026-08-13
