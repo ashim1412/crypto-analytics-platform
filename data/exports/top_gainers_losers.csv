@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.249827,22.2,gainer,1,2026-08-12
-stable-2,​​Stable,stable,0.03332022,6.7,gainer,2,2026-08-12
-near,NEAR Protocol,near,1.65,6.5,gainer,3,2026-08-12
-zcash,Zcash,zec,497.15,6.2,gainer,4,2026-08-12
-hyperliquid,Hyperliquid,hype,56.62,5.4,gainer,5,2026-08-12
-mantle,Mantle,mnt,0.452484,3.5,gainer,6,2026-08-12
-aave,Aave,aave,89.14,2.9,gainer,7,2026-08-12
-quant-network,Quant,qnt,58.28,2.9,gainer,8,2026-08-12
-chainlink,Chainlink,link,8.77,2.4,gainer,9,2026-08-12
-avalanche-2,Avalanche,avax,6.37,2.1,gainer,10,2026-08-12
-uniswap,Uniswap,uni,3.54,-5.3,loser,1,2026-08-12
-bianrensheng,币安人生 (BinanceLife),币安人生,0.477019,-4.9,loser,2,2026-08-12
-leo-token,LEO Token,leo,9.11,-3.0,loser,3,2026-08-12
-jupiter-exchange-solana,Jupiter,jup,0.170558,-2.8,loser,4,2026-08-12
-internet-computer,Internet Computer,icp,2.19,-2.3,loser,5,2026-08-12
-lighter,Lighter,lit,2.43,-1.7,loser,6,2026-08-12
-beldex,Beldex,bdx,0.08611,-1.7,loser,7,2026-08-12
-cosmos,Cosmos Hub,atom,1.4,-1.6,loser,8,2026-08-12
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.074824,-1.6,loser,9,2026-08-12
-aptos,Aptos,apt,0.566167,-1.5,loser,10,2026-08-12
+bitway,Bitway,btw,0.258812,26.7,gainer,1,2026-08-13
+mantle,Mantle,mnt,0.461164,5.8,gainer,2,2026-08-13
+stable-2,​​Stable,stable,0.0334816,4.6,gainer,3,2026-08-13
+okb,OKB,okb,99.2,3.9,gainer,4,2026-08-13
+monero,Monero,xmr,394.65,3.8,gainer,5,2026-08-13
+hyperliquid,Hyperliquid,hype,56.37,3.2,gainer,6,2026-08-13
+bitget-token,Bitget Token,bgb,1.7,2.9,gainer,7,2026-08-13
+near,NEAR Protocol,near,1.65,2.7,gainer,8,2026-08-13
+zcash,Zcash,zec,493.28,2.4,gainer,9,2026-08-13
+pump-fun,Pump.fun,pump,0.00273761,1.8,gainer,10,2026-08-13
+arbitrum,Arbitrum,arb,0.074121,-6.6,loser,1,2026-08-13
+filecoin,Filecoin,fil,0.671506,-5.9,loser,2,2026-08-13
+pepe,Pepe,pepe,2.68e-06,-5.5,loser,3,2026-08-13
+uniswap,Uniswap,uni,3.57,-4.6,loser,4,2026-08-13
+bianrensheng,币安人生 (BinanceLife),币安人生,0.479179,-4.2,loser,5,2026-08-13
+internet-computer,Internet Computer,icp,2.17,-3.7,loser,6,2026-08-13
+leo-token,LEO Token,leo,9.12,-3.6,loser,7,2026-08-13
+aptos,Aptos,apt,0.56234,-3.6,loser,8,2026-08-13
+dogecoin,Dogecoin,doge,0.069907,-3.5,loser,9,2026-08-13
+lighter,Lighter,lit,2.38,-3.2,loser,10,2026-08-13
