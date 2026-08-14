@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.26432,11.3,gainer,1,2026-08-13
-cosmos,Cosmos Hub,atom,1.51,8.0,gainer,2,2026-08-13
-okb,OKB,okb,102.71,6.0,gainer,3,2026-08-13
-venice-token,Venice Token,vvv,12.41,5.4,gainer,4,2026-08-13
-leo-token,LEO Token,leo,9.47,3.8,gainer,5,2026-08-13
-beldex,Beldex,bdx,0.087891,2.7,gainer,6,2026-08-13
-bianrensheng,币安人生 (BinanceLife),币安人生,0.474874,2.7,gainer,7,2026-08-13
-pump-fun,Pump.fun,pump,0.00285421,2.6,gainer,8,2026-08-13
-just,JUST,jst,0.104547,2.6,gainer,9,2026-08-13
-mantle,Mantle,mnt,0.450752,2.4,gainer,10,2026-08-13
-pepe,Pepe,pepe,2.66e-06,-4.9,loser,1,2026-08-13
-arbitrum,Arbitrum,arb,0.074838,-4.7,loser,2,2026-08-13
-filecoin,Filecoin,fil,0.670948,-4.2,loser,3,2026-08-13
-ethena,Ethena,ena,0.085053,-3.5,loser,4,2026-08-13
-bitcoin-cash,Bitcoin Cash,bch,205.66,-3.4,loser,5,2026-08-13
-memecore,MemeCore,m,1.063,-3.3,loser,6,2026-08-13
-rain,Rain,rain,0.01269136,-2.7,loser,7,2026-08-13
-canton-network,Canton,cc,0.096511,-2.7,loser,8,2026-08-13
-internet-computer,Internet Computer,icp,2.16,-2.5,loser,9,2026-08-13
-polkadot,Polkadot,dot,0.769539,-2.2,loser,10,2026-08-13
+cosmos,Cosmos Hub,atom,1.51,7.4,gainer,1,2026-08-14
+pump-fun,Pump.fun,pump,0.00288554,6.9,gainer,2,2026-08-14
+okb,OKB,okb,102.92,5.6,gainer,3,2026-08-14
+venice-token,Venice Token,vvv,12.14,5.0,gainer,4,2026-08-14
+leo-token,LEO Token,leo,9.5,4.4,gainer,5,2026-08-14
+just,JUST,jst,0.105248,3.8,gainer,6,2026-08-14
+bitway,Bitway,btw,0.269603,3.4,gainer,7,2026-08-14
+worldcoin-wld,Worldcoin,wld,0.338528,2.6,gainer,8,2026-08-14
+hyperliquid,Hyperliquid,hype,57.5,2.5,gainer,9,2026-08-14
+chainlink,Chainlink,link,8.86,2.5,gainer,10,2026-08-14
+stable-2,​​Stable,stable,0.03220855,-3.6,loser,1,2026-08-14
+figure-heloc,Figure Heloc,figr_heloc,1.006,-2.9,loser,2,2026-08-14
+lighter,Lighter,lit,2.26,-2.8,loser,3,2026-08-14
+bitcoin-cash,Bitcoin Cash,bch,206.59,-2.4,loser,4,2026-08-14
+uniswap,Uniswap,uni,3.48,-2.2,loser,5,2026-08-14
+mantle,Mantle,mnt,0.44645,-2.1,loser,6,2026-08-14
+bianrensheng,币安人生 (BinanceLife),币安人生,0.472596,-2.1,loser,7,2026-08-14
+bitget-token,Bitget Token,bgb,1.66,-1.7,loser,8,2026-08-14
+rain,Rain,rain,0.01274263,-1.7,loser,9,2026-08-14
+the-open-network,Gram (prev. Toncoin),gram,1.33,-1.6,loser,10,2026-08-14
