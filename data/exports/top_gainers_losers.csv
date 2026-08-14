@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.295118,13.3,gainer,1,2026-08-14
-cosmos,Cosmos Hub,atom,1.54,10.3,gainer,2,2026-08-14
-rain,Rain,rain,0.0128178,4.4,gainer,3,2026-08-14
-crypto-com-chain,Cronos,cro,0.04870346,3.3,gainer,4,2026-08-14
-just,JUST,jst,0.10602,2.5,gainer,5,2026-08-14
-pump-fun,Pump.fun,pump,0.00286396,2.3,gainer,6,2026-08-14
-memecore,MemeCore,m,1.1,2.0,gainer,7,2026-08-14
-internet-computer,Internet Computer,icp,2.2,1.4,gainer,8,2026-08-14
-xdce-crowd-sale,XDC Network,xdc,0.02699917,1.3,gainer,9,2026-08-14
-quant-network,Quant,qnt,58.27,1.0,gainer,10,2026-08-14
-uniswap,Uniswap,uni,3.24,-10.8,loser,1,2026-08-14
-lighter,Lighter,lit,2.24,-6.4,loser,2,2026-08-14
-venice-token,Venice Token,vvv,11.83,-4.9,loser,3,2026-08-14
-near,NEAR Protocol,near,1.6,-3.9,loser,4,2026-08-14
-bitcoin-cash,Bitcoin Cash,bch,203.72,-3.8,loser,5,2026-08-14
-jupiter-exchange-solana,Jupiter,jup,0.165848,-3.5,loser,6,2026-08-14
-mantle,Mantle,mnt,0.442958,-3.3,loser,7,2026-08-14
-figure-heloc,Figure Heloc,figr_heloc,1.006,-3.2,loser,8,2026-08-14
-ethena,Ethena,ena,0.083812,-3.1,loser,9,2026-08-14
-stable-2,​​Stable,stable,0.03190838,-2.9,loser,10,2026-08-14
+bitway,Bitway,btw,0.312107,14.0,gainer,1,2026-08-14
+okb,OKB,okb,108.02,5.3,gainer,2,2026-08-14
+shiba-inu,Shiba Inu,shib,4.62e-06,4.3,gainer,3,2026-08-14
+crypto-com-chain,Cronos,cro,0.04860203,3.8,gainer,4,2026-08-14
+memecore,MemeCore,m,1.1,3.7,gainer,5,2026-08-14
+internet-computer,Internet Computer,icp,2.21,3.0,gainer,6,2026-08-14
+rain,Rain,rain,0.01277291,2.9,gainer,7,2026-08-14
+chainlink,Chainlink,link,8.88,2.1,gainer,8,2026-08-14
+algorand,Algorand,algo,0.079719,2.1,gainer,9,2026-08-14
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.074062,1.9,gainer,10,2026-08-14
+uniswap,Uniswap,uni,3.2,-7.8,loser,1,2026-08-14
+stable-2,​​Stable,stable,0.03138036,-5.0,loser,2,2026-08-14
+lighter,Lighter,lit,2.23,-4.3,loser,3,2026-08-14
+beldex,Beldex,bdx,0.082165,-3.9,loser,4,2026-08-14
+aptos,Aptos,apt,0.541778,-3.3,loser,5,2026-08-14
+hyperliquid,Hyperliquid,hype,55.6,-3.2,loser,6,2026-08-14
+leo-token,LEO Token,leo,9.19,-3.0,loser,7,2026-08-14
+figure-heloc,Figure Heloc,figr_heloc,1.006,-2.6,loser,8,2026-08-14
+near,NEAR Protocol,near,1.59,-2.5,loser,9,2026-08-14
+litecoin,Litecoin,ltc,43.9,-2.1,loser,10,2026-08-14
