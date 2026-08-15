@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.312578,15.3,gainer,1,2026-08-15
-okb,OKB,okb,108.68,5.0,gainer,2,2026-08-15
-shiba-inu,Shiba Inu,shib,4.6e-06,3.8,gainer,3,2026-08-15
-bianrensheng,币安人生 (BinanceLife),币安人生,0.481209,3.4,gainer,4,2026-08-15
-crypto-com-chain,Cronos,cro,0.04829046,3.0,gainer,5,2026-08-15
-internet-computer,Internet Computer,icp,2.24,2.8,gainer,6,2026-08-15
-rain,Rain,rain,0.01275016,2.7,gainer,7,2026-08-15
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.075061,1.8,gainer,8,2026-08-15
-chainlink,Chainlink,link,9.03,1.4,gainer,9,2026-08-15
-world-liberty-financial,World Liberty Financial,wlfi,0.05589,1.2,gainer,10,2026-08-15
-uniswap,Uniswap,uni,3.22,-8.0,loser,1,2026-08-15
-beldex,Beldex,bdx,0.082442,-6.1,loser,2,2026-08-15
-sky,Sky,sky,0.051122,-4.2,loser,3,2026-08-15
-stable-2,​​Stable,stable,0.0309734,-3.5,loser,4,2026-08-15
-aptos,Aptos,apt,0.541923,-3.3,loser,5,2026-08-15
-leo-token,LEO Token,leo,9.17,-3.3,loser,6,2026-08-15
-ondo-finance,Ondo,ondo,0.328432,-2.3,loser,7,2026-08-15
-aave,Aave,aave,86.42,-2.3,loser,8,2026-08-15
-pump-fun,Pump.fun,pump,0.00280675,-2.3,loser,9,2026-08-15
-litecoin,Litecoin,ltc,43.74,-2.2,loser,10,2026-08-15
+bitway,Bitway,btw,0.30432,14.0,gainer,1,2026-08-15
+chainlink,Chainlink,link,9.45,7.6,gainer,2,2026-08-15
+internet-computer,Internet Computer,icp,2.29,5.2,gainer,3,2026-08-15
+okb,OKB,okb,107.3,5.1,gainer,4,2026-08-15
+avalanche-2,Avalanche,avax,6.64,4.0,gainer,5,2026-08-15
+filecoin,Filecoin,fil,0.69155,3.1,gainer,6,2026-08-15
+figure-heloc,Figure Heloc,figr_heloc,1.038,3.1,gainer,7,2026-08-15
+shiba-inu,Shiba Inu,shib,4.59e-06,2.9,gainer,8,2026-08-15
+bianrensheng,币安人生 (BinanceLife),币安人生,0.478836,2.8,gainer,9,2026-08-15
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075482,2.8,gainer,10,2026-08-15
+beldex,Beldex,bdx,0.083564,-7.7,loser,1,2026-08-15
+uniswap,Uniswap,uni,3.28,-5.6,loser,2,2026-08-15
+memecore,MemeCore,m,1.11,-5.2,loser,3,2026-08-15
+leo-token,LEO Token,leo,8.74,-5.0,loser,4,2026-08-15
+pump-fun,Pump.fun,pump,0.00276566,-4.9,loser,5,2026-08-15
+sky,Sky,sky,0.051103,-4.1,loser,6,2026-08-15
+venice-token,Venice Token,vvv,11.78,-3.0,loser,7,2026-08-15
+cosmos,Cosmos Hub,atom,1.49,-2.8,loser,8,2026-08-15
+stable-2,​​Stable,stable,0.03100686,-1.9,loser,9,2026-08-15
+litecoin,Litecoin,ltc,43.99,-1.7,loser,10,2026-08-15
