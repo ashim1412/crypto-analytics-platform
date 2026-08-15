@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.312107,14.0,gainer,1,2026-08-14
-okb,OKB,okb,108.02,5.3,gainer,2,2026-08-14
-shiba-inu,Shiba Inu,shib,4.62e-06,4.3,gainer,3,2026-08-14
-crypto-com-chain,Cronos,cro,0.04860203,3.8,gainer,4,2026-08-14
-memecore,MemeCore,m,1.1,3.7,gainer,5,2026-08-14
-internet-computer,Internet Computer,icp,2.21,3.0,gainer,6,2026-08-14
-rain,Rain,rain,0.01277291,2.9,gainer,7,2026-08-14
-chainlink,Chainlink,link,8.88,2.1,gainer,8,2026-08-14
-algorand,Algorand,algo,0.079719,2.1,gainer,9,2026-08-14
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.074062,1.9,gainer,10,2026-08-14
-uniswap,Uniswap,uni,3.2,-7.8,loser,1,2026-08-14
-stable-2,​​Stable,stable,0.03138036,-5.0,loser,2,2026-08-14
-lighter,Lighter,lit,2.23,-4.3,loser,3,2026-08-14
-beldex,Beldex,bdx,0.082165,-3.9,loser,4,2026-08-14
-aptos,Aptos,apt,0.541778,-3.3,loser,5,2026-08-14
-hyperliquid,Hyperliquid,hype,55.6,-3.2,loser,6,2026-08-14
-leo-token,LEO Token,leo,9.19,-3.0,loser,7,2026-08-14
-figure-heloc,Figure Heloc,figr_heloc,1.006,-2.6,loser,8,2026-08-14
-near,NEAR Protocol,near,1.59,-2.5,loser,9,2026-08-14
-litecoin,Litecoin,ltc,43.9,-2.1,loser,10,2026-08-14
+bitway,Bitway,btw,0.312578,15.3,gainer,1,2026-08-15
+okb,OKB,okb,108.68,5.0,gainer,2,2026-08-15
+shiba-inu,Shiba Inu,shib,4.6e-06,3.8,gainer,3,2026-08-15
+bianrensheng,币安人生 (BinanceLife),币安人生,0.481209,3.4,gainer,4,2026-08-15
+crypto-com-chain,Cronos,cro,0.04829046,3.0,gainer,5,2026-08-15
+internet-computer,Internet Computer,icp,2.24,2.8,gainer,6,2026-08-15
+rain,Rain,rain,0.01275016,2.7,gainer,7,2026-08-15
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075061,1.8,gainer,8,2026-08-15
+chainlink,Chainlink,link,9.03,1.4,gainer,9,2026-08-15
+world-liberty-financial,World Liberty Financial,wlfi,0.05589,1.2,gainer,10,2026-08-15
+uniswap,Uniswap,uni,3.22,-8.0,loser,1,2026-08-15
+beldex,Beldex,bdx,0.082442,-6.1,loser,2,2026-08-15
+sky,Sky,sky,0.051122,-4.2,loser,3,2026-08-15
+stable-2,​​Stable,stable,0.0309734,-3.5,loser,4,2026-08-15
+aptos,Aptos,apt,0.541923,-3.3,loser,5,2026-08-15
+leo-token,LEO Token,leo,9.17,-3.3,loser,6,2026-08-15
+ondo-finance,Ondo,ondo,0.328432,-2.3,loser,7,2026-08-15
+aave,Aave,aave,86.42,-2.3,loser,8,2026-08-15
+pump-fun,Pump.fun,pump,0.00280675,-2.3,loser,9,2026-08-15
+litecoin,Litecoin,ltc,43.74,-2.2,loser,10,2026-08-15
