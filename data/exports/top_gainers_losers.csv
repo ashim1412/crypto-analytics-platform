@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ether-fi,Ether.fi,ethfi,0.475774,10.5,gainer,1,2026-08-15
-chainlink,Chainlink,link,9.56,7.7,gainer,2,2026-08-15
-bianrensheng,币安人生 (BinanceLife),币安人生,0.496936,3.2,gainer,3,2026-08-15
-internet-computer,Internet Computer,icp,2.27,2.6,gainer,4,2026-08-15
-world-liberty-financial,World Liberty Financial,wlfi,0.056405,2.5,gainer,5,2026-08-15
-filecoin,Filecoin,fil,0.687962,2.4,gainer,6,2026-08-15
-worldcoin-wld,Worldcoin,wld,0.348231,2.3,gainer,7,2026-08-15
-figure-heloc,Figure Heloc,figr_heloc,1.029,2.2,gainer,8,2026-08-15
-near,NEAR Protocol,near,1.64,2.2,gainer,9,2026-08-15
-hyperliquid,Hyperliquid,hype,57.12,2.1,gainer,10,2026-08-15
-bitway,Bitway,btw,0.277706,-6.7,loser,1,2026-08-15
-cosmos,Cosmos Hub,atom,1.47,-3.4,loser,2,2026-08-15
-leo-token,LEO Token,leo,8.93,-2.9,loser,3,2026-08-15
-mantle,Mantle,mnt,0.43549,-2.8,loser,4,2026-08-15
-pi-network,Pi Network,pi,0.08838,-1.5,loser,5,2026-08-15
-beldex,Beldex,bdx,0.082608,-1.4,loser,6,2026-08-15
-sky,Sky,sky,0.051593,-1.4,loser,7,2026-08-15
-cardano,Cardano,ada,0.177244,-1.4,loser,8,2026-08-15
-crypto-com-chain,Cronos,cro,0.04790058,-1.1,loser,9,2026-08-15
-arbitrum,Arbitrum,arb,0.074022,-1.1,loser,10,2026-08-15
+hash-2,Provenance Blockchain,hash,0.00829886,10.8,gainer,1,2026-08-16
+chainlink,Chainlink,link,9.44,5.8,gainer,2,2026-08-16
+world-liberty-financial,World Liberty Financial,wlfi,0.057769,4.0,gainer,3,2026-08-16
+monero,Monero,xmr,409.91,3.0,gainer,4,2026-08-16
+worldcoin-wld,Worldcoin,wld,0.34643,2.6,gainer,5,2026-08-16
+lighter,Lighter,lit,2.26,2.1,gainer,6,2026-08-16
+canton-network,Canton,cc,0.098994,2.1,gainer,7,2026-08-16
+just,JUST,jst,0.106489,1.8,gainer,8,2026-08-16
+kaspa,Kaspa,kas,0.02583452,1.6,gainer,9,2026-08-16
+bianrensheng,币安人生 (BinanceLife),币安人生,0.480744,1.2,gainer,10,2026-08-16
+bitway,Bitway,btw,0.302571,-5.2,loser,1,2026-08-16
+pump-fun,Pump.fun,pump,0.00276134,-3.7,loser,2,2026-08-16
+leo-token,LEO Token,leo,8.95,-2.6,loser,3,2026-08-16
+pi-network,Pi Network,pi,0.087003,-2.3,loser,4,2026-08-16
+mantle,Mantle,mnt,0.433001,-2.3,loser,5,2026-08-16
+beldex,Beldex,bdx,0.080314,-1.9,loser,6,2026-08-16
+cosmos,Cosmos Hub,atom,1.48,-1.7,loser,7,2026-08-16
+okb,OKB,okb,104.3,-1.7,loser,8,2026-08-16
+shiba-inu,Shiba Inu,shib,4.52e-06,-1.6,loser,9,2026-08-16
+cardano,Cardano,ada,0.176746,-1.5,loser,10,2026-08-16
