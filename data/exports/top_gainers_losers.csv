@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.318264,5.5,gainer,1,2026-08-16
-leo-token,LEO Token,leo,9.32,5.2,gainer,2,2026-08-16
-world-liberty-financial,World Liberty Financial,wlfi,0.060295,5.1,gainer,3,2026-08-16
-kaspa,Kaspa,kas,0.02684109,4.8,gainer,4,2026-08-16
-bianrensheng,币安人生 (BinanceLife),币安人生,0.492935,3.7,gainer,5,2026-08-16
-lighter,Lighter,lit,2.32,3.1,gainer,6,2026-08-16
-hyperliquid,Hyperliquid,hype,57.23,2.5,gainer,7,2026-08-16
-worldcoin-wld,Worldcoin,wld,0.346651,2.0,gainer,8,2026-08-16
-morpho,Morpho,morpho,2.0,2.0,gainer,9,2026-08-16
-monero,Monero,xmr,411.07,1.6,gainer,10,2026-08-16
-beldex,Beldex,bdx,0.078758,-6.5,loser,1,2026-08-16
-stable-2,​​Stable,stable,0.0297681,-6.1,loser,2,2026-08-16
-okb,OKB,okb,103.31,-5.1,loser,3,2026-08-16
-pi-network,Pi Network,pi,0.086326,-3.4,loser,4,2026-08-16
-avalanche-2,Avalanche,avax,6.35,-3.4,loser,5,2026-08-16
-polkadot,Polkadot,dot,0.761116,-2.5,loser,6,2026-08-16
-shiba-inu,Shiba Inu,shib,4.47e-06,-2.1,loser,7,2026-08-16
-ethena,Ethena,ena,0.083101,-2.0,loser,8,2026-08-16
-filecoin,Filecoin,fil,0.680422,-1.6,loser,9,2026-08-16
-quant-network,Quant,qnt,57.45,-1.5,loser,10,2026-08-16
+bitway,Bitway,btw,0.340595,23.2,gainer,1,2026-08-16
+ether-fi,Ether.fi,ethfi,0.506296,6.8,gainer,2,2026-08-16
+world-liberty-financial,World Liberty Financial,wlfi,0.060172,6.6,gainer,3,2026-08-16
+leo-token,LEO Token,leo,9.34,4.4,gainer,4,2026-08-16
+worldcoin-wld,Worldcoin,wld,0.361208,4.1,gainer,5,2026-08-16
+bianrensheng,币安人生 (BinanceLife),币安人生,0.500194,3.9,gainer,6,2026-08-16
+kaspa,Kaspa,kas,0.02637736,3.4,gainer,7,2026-08-16
+lighter,Lighter,lit,2.33,3.4,gainer,8,2026-08-16
+memecore,MemeCore,m,1.14,3.2,gainer,9,2026-08-16
+sky,Sky,sky,0.052874,2.8,gainer,10,2026-08-16
+beldex,Beldex,bdx,0.079164,-5.2,loser,1,2026-08-16
+okb,OKB,okb,104.5,-3.4,loser,2,2026-08-16
+pi-network,Pi Network,pi,0.085818,-3.1,loser,3,2026-08-16
+pump-fun,Pump.fun,pump,0.00273883,-2.9,loser,4,2026-08-16
+canton-network,Canton,cc,0.095325,-2.7,loser,5,2026-08-16
+avalanche-2,Avalanche,avax,6.34,-2.3,loser,6,2026-08-16
+stable-2,​​Stable,stable,0.03025536,-2.2,loser,7,2026-08-16
+near,NEAR Protocol,near,1.61,-2.0,loser,8,2026-08-16
+shiba-inu,Shiba Inu,shib,4.47e-06,-2.0,loser,9,2026-08-16
+chainlink,Chainlink,link,9.42,-1.9,loser,10,2026-08-16
