@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.366755,25.9,gainer,1,2026-08-17
-ether-fi,Ether.fi,ethfi,0.509224,7.8,gainer,2,2026-08-17
-world-liberty-financial,World Liberty Financial,wlfi,0.060478,4.4,gainer,3,2026-08-17
-pump-fun,Pump.fun,pump,0.00293842,4.4,gainer,4,2026-08-17
-morpho,Morpho,morpho,2.04,4.0,gainer,5,2026-08-17
-sky,Sky,sky,0.052689,4.0,gainer,6,2026-08-17
-worldcoin-wld,Worldcoin,wld,0.360587,3.9,gainer,7,2026-08-17
-ondo-finance,Ondo,ondo,0.337308,3.8,gainer,8,2026-08-17
-arbitrum,Arbitrum,arb,0.075205,3.3,gainer,9,2026-08-17
-lighter,Lighter,lit,2.37,3.0,gainer,10,2026-08-17
-quant-network,Quant,qnt,55.62,-3.4,loser,1,2026-08-17
-stable-2,​​Stable,stable,0.0294881,-3.0,loser,2,2026-08-17
-cosmos,Cosmos Hub,atom,1.45,-2.3,loser,3,2026-08-17
-canton-network,Canton,cc,0.095186,-2.0,loser,4,2026-08-17
-shiba-inu,Shiba Inu,shib,4.43e-06,-2.0,loser,5,2026-08-17
-bianrensheng,币安人生 (BinanceLife),币安人生,0.472211,-1.8,loser,6,2026-08-17
-filecoin,Filecoin,fil,0.667364,-1.3,loser,7,2026-08-17
-nexo,NEXO,nexo,0.700718,-0.9,loser,8,2026-08-17
-hedera-hashgraph,Hedera,hbar,0.064876,-0.5,loser,9,2026-08-17
-figure-heloc,Figure Heloc,figr_heloc,1.001,-0.5,loser,10,2026-08-17
+pump-fun,Pump.fun,pump,0.00290991,6.3,gainer,1,2026-08-17
+bitway,Bitway,btw,0.340114,5.8,gainer,2,2026-08-17
+rain,Rain,rain,0.01336048,5.6,gainer,3,2026-08-17
+zcash,Zcash,zec,510.66,5.5,gainer,4,2026-08-17
+ondo-finance,Ondo,ondo,0.340967,4.5,gainer,5,2026-08-17
+morpho,Morpho,morpho,2.09,4.2,gainer,6,2026-08-17
+ether-fi,Ether.fi,ethfi,0.498693,3.7,gainer,7,2026-08-17
+beldex,Beldex,bdx,0.082643,3.7,gainer,8,2026-08-17
+hyperliquid,Hyperliquid,hype,59.39,3.6,gainer,9,2026-08-17
+worldcoin-wld,Worldcoin,wld,0.356655,3.6,gainer,10,2026-08-17
+cosmos,Cosmos Hub,atom,1.44,-3.7,loser,1,2026-08-17
+quant-network,Quant,qnt,55.75,-3.0,loser,2,2026-08-17
+kaspa,Kaspa,kas,0.02554043,-1.8,loser,3,2026-08-17
+filecoin,Filecoin,fil,0.667417,-1.8,loser,4,2026-08-17
+cardano,Cardano,ada,0.174552,-1.0,loser,5,2026-08-17
+memecore,MemeCore,m,1.12,-0.9,loser,6,2026-08-17
+pepe,Pepe,pepe,2.59e-06,-0.8,loser,7,2026-08-17
+shiba-inu,Shiba Inu,shib,4.42e-06,-0.7,loser,8,2026-08-17
+avalanche-2,Avalanche,avax,6.32,-0.7,loser,9,2026-08-17
+the-open-network,Gram (prev. Toncoin),gram,1.33,-0.7,loser,10,2026-08-17
