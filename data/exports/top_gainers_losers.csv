@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00290991,6.3,gainer,1,2026-08-17
-bitway,Bitway,btw,0.340114,5.8,gainer,2,2026-08-17
-rain,Rain,rain,0.01336048,5.6,gainer,3,2026-08-17
-zcash,Zcash,zec,510.66,5.5,gainer,4,2026-08-17
-ondo-finance,Ondo,ondo,0.340967,4.5,gainer,5,2026-08-17
-morpho,Morpho,morpho,2.09,4.2,gainer,6,2026-08-17
-ether-fi,Ether.fi,ethfi,0.498693,3.7,gainer,7,2026-08-17
-beldex,Beldex,bdx,0.082643,3.7,gainer,8,2026-08-17
-hyperliquid,Hyperliquid,hype,59.39,3.6,gainer,9,2026-08-17
-worldcoin-wld,Worldcoin,wld,0.356655,3.6,gainer,10,2026-08-17
-cosmos,Cosmos Hub,atom,1.44,-3.7,loser,1,2026-08-17
-quant-network,Quant,qnt,55.75,-3.0,loser,2,2026-08-17
-kaspa,Kaspa,kas,0.02554043,-1.8,loser,3,2026-08-17
-filecoin,Filecoin,fil,0.667417,-1.8,loser,4,2026-08-17
-cardano,Cardano,ada,0.174552,-1.0,loser,5,2026-08-17
-memecore,MemeCore,m,1.12,-0.9,loser,6,2026-08-17
-pepe,Pepe,pepe,2.59e-06,-0.8,loser,7,2026-08-17
-shiba-inu,Shiba Inu,shib,4.42e-06,-0.7,loser,8,2026-08-17
-avalanche-2,Avalanche,avax,6.32,-0.7,loser,9,2026-08-17
-the-open-network,Gram (prev. Toncoin),gram,1.33,-0.7,loser,10,2026-08-17
+venice-token,Venice Token,vvv,12.77,6.2,gainer,1,2026-08-17
+morpho,Morpho,morpho,2.12,5.6,gainer,2,2026-08-17
+beldex,Beldex,bdx,0.083142,5.5,gainer,3,2026-08-17
+bitway,Bitway,btw,0.360591,5.0,gainer,4,2026-08-17
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.078639,4.9,gainer,5,2026-08-17
+pump-fun,Pump.fun,pump,0.00285347,4.2,gainer,6,2026-08-17
+rain,Rain,rain,0.0131263,3.8,gainer,7,2026-08-17
+zcash,Zcash,zec,512.2,3.7,gainer,8,2026-08-17
+memecore,MemeCore,m,1.17,2.0,gainer,9,2026-08-17
+hyperliquid,Hyperliquid,hype,59.1,2.0,gainer,10,2026-08-17
+cosmos,Cosmos Hub,atom,1.41,-4.4,loser,1,2026-08-17
+canton-network,Canton,cc,0.091114,-4.4,loser,2,2026-08-17
+ether-fi,Ether.fi,ethfi,0.49597,-4.2,loser,3,2026-08-17
+worldcoin-wld,Worldcoin,wld,0.354361,-3.9,loser,4,2026-08-17
+okb,OKB,okb,101.17,-3.9,loser,5,2026-08-17
+kaspa,Kaspa,kas,0.02545628,-3.7,loser,6,2026-08-17
+filecoin,Filecoin,fil,0.669809,-1.7,loser,7,2026-08-17
+the-open-network,Gram (prev. Toncoin),gram,1.33,-1.4,loser,8,2026-08-17
+crypto-com-chain,Cronos,cro,0.04716379,-1.2,loser,9,2026-08-17
+polkadot,Polkadot,dot,0.757847,-1.1,loser,10,2026-08-17
