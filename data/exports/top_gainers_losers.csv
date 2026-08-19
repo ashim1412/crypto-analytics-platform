@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.598566,70.2,gainer,1,2026-08-19
-pump-fun,Pump.fun,pump,0.00299445,7.6,gainer,2,2026-08-19
-pancakeswap-token,PancakeSwap,cake,1.54,5.8,gainer,3,2026-08-19
-sky,Sky,sky,0.057265,4.6,gainer,4,2026-08-19
-polkadot,Polkadot,dot,0.777199,4.5,gainer,5,2026-08-19
-okb,OKB,okb,101.6,3.6,gainer,6,2026-08-19
-uniswap,Uniswap,uni,3.39,3.2,gainer,7,2026-08-19
-chainlink,Chainlink,link,9.75,3.1,gainer,8,2026-08-19
-algorand,Algorand,algo,0.079941,3.1,gainer,9,2026-08-19
-hedera-hashgraph,Hedera,hbar,0.067775,2.9,gainer,10,2026-08-19
-morpho,Morpho,morpho,2.06,-4.4,loser,1,2026-08-19
-stable-2,​​Stable,stable,0.02914678,-4.4,loser,2,2026-08-19
-htx-dao,HTX DAO,htx,1.69e-06,-4.1,loser,3,2026-08-19
-venice-token,Venice Token,vvv,14.02,-3.6,loser,4,2026-08-19
-leo-token,LEO Token,leo,9.15,-3.4,loser,5,2026-08-19
-worldcoin-wld,Worldcoin,wld,0.318714,-2.1,loser,6,2026-08-19
-lighter,Lighter,lit,2.32,-2.0,loser,7,2026-08-19
-internet-computer,Internet Computer,icp,2.18,-2.0,loser,8,2026-08-19
-hyperliquid,Hyperliquid,hype,58.69,-1.9,loser,9,2026-08-19
-ondo-finance,Ondo,ondo,0.325314,-1.6,loser,10,2026-08-19
+pump-fun,Pump.fun,pump,0.00310629,11.7,gainer,1,2026-08-19
+ethereum,Ethereum,eth,2082.92,9.2,gainer,2,2026-08-19
+zcash,Zcash,zec,550.02,9.0,gainer,3,2026-08-19
+memecore,MemeCore,m,1.22,8.6,gainer,4,2026-08-19
+sky,Sky,sky,0.059749,8.5,gainer,5,2026-08-19
+stellar,Stellar,xlm,0.164019,7.5,gainer,6,2026-08-19
+uniswap,Uniswap,uni,3.5,7.4,gainer,7,2026-08-19
+worldcoin-wld,Worldcoin,wld,0.347627,7.2,gainer,8,2026-08-19
+arbitrum,Arbitrum,arb,0.080152,7.2,gainer,9,2026-08-19
+pancakeswap-token,PancakeSwap,cake,1.58,6.5,gainer,10,2026-08-19
+bitway,Bitway,btw,0.349389,-9.6,loser,1,2026-08-19
+stable-2,​​Stable,stable,0.02864152,-8.1,loser,2,2026-08-19
+just,JUST,jst,0.103908,-2.3,loser,3,2026-08-19
+htx-dao,HTX DAO,htx,1.71e-06,-2.1,loser,4,2026-08-19
+leo-token,LEO Token,leo,9.28,-1.9,loser,5,2026-08-19
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.080675,-1.8,loser,6,2026-08-19
+morpho,Morpho,morpho,2.14,-1.6,loser,7,2026-08-19
+figure-heloc,Figure Heloc,figr_heloc,1.004,-1.1,loser,8,2026-08-19
+monero,Monero,xmr,414.14,-0.9,loser,9,2026-08-19
+tron,TRON,trx,0.331588,-0.7,loser,10,2026-08-19
