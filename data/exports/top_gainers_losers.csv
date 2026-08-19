@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.563908,58.3,gainer,1,2026-08-19
-pump-fun,Pump.fun,pump,0.00298333,6.4,gainer,2,2026-08-19
-pancakeswap-token,PancakeSwap,cake,1.53,4.5,gainer,3,2026-08-19
-okb,OKB,okb,101.3,3.8,gainer,4,2026-08-19
-sky,Sky,sky,0.056262,3.8,gainer,5,2026-08-19
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.082113,3.3,gainer,6,2026-08-19
-polkadot,Polkadot,dot,0.759006,3.1,gainer,7,2026-08-19
-hedera-hashgraph,Hedera,hbar,0.067462,3.0,gainer,8,2026-08-19
-filecoin,Filecoin,fil,0.634872,2.8,gainer,9,2026-08-19
-venice-token,Venice Token,vvv,13.72,2.1,gainer,10,2026-08-19
-memecore,MemeCore,m,1.11,-10.4,loser,1,2026-08-19
-htx-dao,HTX DAO,htx,1.71e-06,-3.7,loser,2,2026-08-19
-worldcoin-wld,Worldcoin,wld,0.31624,-3.3,loser,3,2026-08-19
-near,NEAR Protocol,near,1.6,-2.6,loser,4,2026-08-19
-internet-computer,Internet Computer,icp,2.21,-2.4,loser,5,2026-08-19
-morpho,Morpho,morpho,2.05,-2.3,loser,6,2026-08-19
-ondo-finance,Ondo,ondo,0.324144,-2.3,loser,7,2026-08-19
-leo-token,LEO Token,leo,9.23,-2.3,loser,8,2026-08-19
-mantle,Mantle,mnt,0.429472,-2.1,loser,9,2026-08-19
-beldex,Beldex,bdx,0.081963,-1.9,loser,10,2026-08-19
+bitway,Bitway,btw,0.598566,70.2,gainer,1,2026-08-19
+pump-fun,Pump.fun,pump,0.00299445,7.6,gainer,2,2026-08-19
+pancakeswap-token,PancakeSwap,cake,1.54,5.8,gainer,3,2026-08-19
+sky,Sky,sky,0.057265,4.6,gainer,4,2026-08-19
+polkadot,Polkadot,dot,0.777199,4.5,gainer,5,2026-08-19
+okb,OKB,okb,101.6,3.6,gainer,6,2026-08-19
+uniswap,Uniswap,uni,3.39,3.2,gainer,7,2026-08-19
+chainlink,Chainlink,link,9.75,3.1,gainer,8,2026-08-19
+algorand,Algorand,algo,0.079941,3.1,gainer,9,2026-08-19
+hedera-hashgraph,Hedera,hbar,0.067775,2.9,gainer,10,2026-08-19
+morpho,Morpho,morpho,2.06,-4.4,loser,1,2026-08-19
+stable-2,​​Stable,stable,0.02914678,-4.4,loser,2,2026-08-19
+htx-dao,HTX DAO,htx,1.69e-06,-4.1,loser,3,2026-08-19
+venice-token,Venice Token,vvv,14.02,-3.6,loser,4,2026-08-19
+leo-token,LEO Token,leo,9.15,-3.4,loser,5,2026-08-19
+worldcoin-wld,Worldcoin,wld,0.318714,-2.1,loser,6,2026-08-19
+lighter,Lighter,lit,2.32,-2.0,loser,7,2026-08-19
+internet-computer,Internet Computer,icp,2.18,-2.0,loser,8,2026-08-19
+hyperliquid,Hyperliquid,hype,58.69,-1.9,loser,9,2026-08-19
+ondo-finance,Ondo,ondo,0.325314,-1.6,loser,10,2026-08-19
