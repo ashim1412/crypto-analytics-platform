@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.405005,13.6,gainer,1,2026-08-18
-hash-2,Provenance Blockchain,hash,0.00844756,12.9,gainer,2,2026-08-18
-venice-token,Venice Token,vvv,14.13,12.3,gainer,3,2026-08-18
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.082903,6.1,gainer,4,2026-08-18
-sky,Sky,sky,0.054943,3.1,gainer,5,2026-08-18
-figure-heloc,Figure Heloc,figr_heloc,1.038,3.1,gainer,6,2026-08-18
-lighter,Lighter,lit,2.4,2.1,gainer,7,2026-08-18
-aave,Aave,aave,89.29,1.9,gainer,8,2026-08-18
-kucoin-shares,KuCoin,kcs,6.61,1.5,gainer,9,2026-08-18
-morpho,Morpho,morpho,2.13,1.5,gainer,10,2026-08-18
-worldcoin-wld,Worldcoin,wld,0.325935,-7.8,loser,1,2026-08-18
-filecoin,Filecoin,fil,0.630302,-5.3,loser,2,2026-08-18
-sui,Sui,sui,0.655522,-3.4,loser,3,2026-08-18
-ether-fi,Ether.fi,ethfi,0.48245,-3.2,loser,4,2026-08-18
-pump-fun,Pump.fun,pump,0.00283222,-3.0,loser,5,2026-08-18
-internet-computer,Internet Computer,icp,2.21,-2.9,loser,6,2026-08-18
-crypto-com-chain,Cronos,cro,0.0456979,-2.7,loser,7,2026-08-18
-htx-dao,HTX DAO,htx,1.74e-06,-2.3,loser,8,2026-08-18
-mantle,Mantle,mnt,0.424703,-2.2,loser,9,2026-08-18
-bittensor,Bittensor,tao,192.21,-2.2,loser,10,2026-08-18
+bitway,Bitway,btw,0.43573,22.3,gainer,1,2026-08-19
+pump-fun,Pump.fun,pump,0.00306853,13.0,gainer,2,2026-08-19
+venice-token,Venice Token,vvv,13.99,5.6,gainer,3,2026-08-19
+pancakeswap-token,PancakeSwap,cake,1.52,4.5,gainer,4,2026-08-19
+sky,Sky,sky,0.05604,3.8,gainer,5,2026-08-19
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.08176,2.5,gainer,6,2026-08-19
+hedera-hashgraph,Hedera,hbar,0.06725,2.3,gainer,7,2026-08-19
+solana,Solana,sol,76.9,1.8,gainer,8,2026-08-19
+okb,OKB,okb,102.46,1.7,gainer,9,2026-08-19
+canton-network,Canton,cc,0.091045,1.6,gainer,10,2026-08-19
+worldcoin-wld,Worldcoin,wld,0.31691,-6.7,loser,1,2026-08-19
+filecoin,Filecoin,fil,0.628072,-5.9,loser,2,2026-08-19
+htx-dao,HTX DAO,htx,1.72e-06,-3.6,loser,3,2026-08-19
+sui,Sui,sui,0.649711,-3.1,loser,4,2026-08-19
+mantle,Mantle,mnt,0.428533,-3.0,loser,5,2026-08-19
+near,NEAR Protocol,near,1.57,-2.6,loser,6,2026-08-19
+internet-computer,Internet Computer,icp,2.19,-2.5,loser,7,2026-08-19
+bittensor,Bittensor,tao,190.05,-2.4,loser,8,2026-08-19
+ether-fi,Ether.fi,ethfi,0.48061,-2.1,loser,9,2026-08-19
+ondo-finance,Ondo,ondo,0.324049,-2.0,loser,10,2026-08-19
