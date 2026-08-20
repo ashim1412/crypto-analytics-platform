@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,70.5,19.3,gainer,1,2026-08-20
-arbitrum,Arbitrum,arb,0.088993,19.1,gainer,2,2026-08-20
-ethereum,Ethereum,eth,2262.09,17.7,gainer,3,2026-08-20
-ethena,Ethena,ena,0.09353,12.7,gainer,4,2026-08-20
-worldcoin-wld,Worldcoin,wld,0.362625,11.8,gainer,5,2026-08-20
-chainlink,Chainlink,link,10.58,11.3,gainer,6,2026-08-20
-pepe,Pepe,pepe,2.9e-06,11.1,gainer,7,2026-08-20
-zcash,Zcash,zec,564.04,11.0,gainer,8,2026-08-20
-solana,Solana,sol,85.59,10.8,gainer,9,2026-08-20
-uniswap,Uniswap,uni,3.69,10.7,gainer,10,2026-08-20
-bitway,Bitway,btw,0.400263,-9.0,loser,1,2026-08-20
-stable-2,​​Stable,stable,0.02946127,-4.7,loser,2,2026-08-20
-leo-token,LEO Token,leo,9.3,-2.0,loser,3,2026-08-20
-just,JUST,jst,0.10572,-1.4,loser,4,2026-08-20
-pump-fun,Pump.fun,pump,0.00304671,-0.6,loser,5,2026-08-20
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.0822,-0.1,loser,6,2026-08-20
-falcon-finance,Falcon USD,usdf,0.995491,-0.1,loser,7,2026-08-20
-ylds,YLDS,ylds,0.999794,0.0,loser,8,2026-08-20
-tether,Tether,usdt,0.999493,0.0,loser,9,2026-08-20
-global-dollar,Global Dollar,usdg,1.0,0.0,loser,10,2026-08-20
+lighter,Lighter,lit,2.85,23.0,gainer,1,2026-08-20
+hyperliquid,Hyperliquid,hype,71.49,21.3,gainer,2,2026-08-20
+ethereum,Ethereum,eth,2243.67,17.7,gainer,3,2026-08-20
+arbitrum,Arbitrum,arb,0.087128,15.2,gainer,4,2026-08-20
+worldcoin-wld,Worldcoin,wld,0.358203,13.1,gainer,5,2026-08-20
+mantle,Mantle,mnt,0.48313,13.1,gainer,6,2026-08-20
+canton-network,Canton,cc,0.101301,12.6,gainer,7,2026-08-20
+pepe,Pepe,pepe,2.89e-06,11.6,gainer,8,2026-08-20
+kucoin-shares,KuCoin,kcs,7.27,11.1,gainer,9,2026-08-20
+ethena,Ethena,ena,0.092535,10.5,gainer,10,2026-08-20
+bitway,Bitway,btw,0.362929,-30.0,loser,1,2026-08-20
+stable-2,​​Stable,stable,0.02876446,-4.2,loser,2,2026-08-20
+just,JUST,jst,0.105777,-1.9,loser,3,2026-08-20
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.08142,-0.9,loser,4,2026-08-20
+tron,TRON,trx,0.33293,0.0,loser,5,2026-08-20
+usx,USX,usx,0.999593,0.0,loser,6,2026-08-20
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.046,0.0,loser,7,2026-08-20
+dai,Dai,dai,0.999981,0.0,loser,8,2026-08-20
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.18,0.0,loser,9,2026-08-20
+usdgo,USDGO,usdgo,1.0,0.0,loser,10,2026-08-20
