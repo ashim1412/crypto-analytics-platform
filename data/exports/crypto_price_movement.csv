@@ -1,101 +1,101 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,price_change_pct_7d,market_rank,abs_change_24h
-ethena,Ethena,ena,0.130065,40.1,51.9,63,40.1
-pump-fun,Pump.fun,pump,0.00388118,20.9,33.4,53,20.9
-ripple,XRP,xrp,1.31,18.9,29.8,5,18.9
-pepe,Pepe,pepe,3.44e-06,14.2,25.5,56,14.2
-cardano,Cardano,ada,0.209904,13.6,14.5,17,13.6
-bitcoin-cash,Bitcoin Cash,bch,248.43,12.7,15.5,21,12.7
-filecoin,Filecoin,fil,0.75434,12.3,12.2,92,12.3
-stellar,Stellar,xlm,0.18758,11.1,17.2,20,11.1
-flare-networks,Flare,flr,0.00709051,10.9,17.5,94,10.9
-dogecoin,Dogecoin,doge,0.083292,10.5,18.2,11,10.5
-crypto-com-chain,Cronos,cro,0.05463,10.1,11.3,37,10.1
-sui,Sui,sui,0.776784,9.6,12.3,31,9.6
-kaspa,Kaspa,kas,0.02910969,9.5,15.0,80,9.5
-stable-2,​​Stable,stable,0.03127989,8.9,-1.5,81,8.9
-avalanche-2,Avalanche,avax,7.4,8.9,14.7,30,8.9
-bitcoin,Bitcoin,btc,75260.0,8.5,19.0,1,8.5
-polkadot,Polkadot,dot,0.849414,8.1,11.4,57,8.1
-sky,Sky,sky,0.064616,8.0,22.3,54,8.0
-zcash,Zcash,zec,599.76,8.0,21.4,12,8.0
-jupiter-exchange-solana,Jupiter,jup,0.195151,7.8,15.6,91,7.8
-ether-fi,Ether.fi,ethfi,0.550818,7.8,27.2,96,7.8
-ethereum-classic,Ethereum Classic,etc,7.11,7.7,14.6,68,7.7
-bitway,Bitway,btw,0.435598,7.4,60.9,66,7.4
-the-open-network,Gram (prev. Toncoin),gram,1.48,7.4,9.6,23,7.4
-algorand,Algorand,algo,0.089558,7.0,13.7,79,7.0
-near,NEAR Protocol,near,1.83,6.8,14.3,40,6.8
-venice-token,Venice Token,vvv,15.34,6.8,25.4,85,6.8
-nexo,NEXO,nexo,0.78799,6.8,10.3,82,6.8
-bittensor,Bittensor,tao,218.83,6.8,8.7,43,6.8
-uniswap,Uniswap,uni,3.84,6.5,10.5,39,6.5
-solana,Solana,sol,90.6,6.4,19.1,7,6.4
-memecore,MemeCore,m,1.14,-6.0,-2.0,38,6.0
-internet-computer,Internet Computer,icp,2.43,5.9,11.9,58,5.9
-binancecoin,BNB,bnb,665.24,5.9,8.8,4,5.9
-ondo-finance,Ondo,ondo,0.366079,5.7,10.1,48,5.7
-mantle,Mantle,mnt,0.518984,5.5,16.0,49,5.5
-hedera-hashgraph,Hedera,hbar,0.075183,5.4,14.9,29,5.4
-quant-network,Quant,qnt,62.17,5.2,6.1,74,5.2
-shiba-inu,Shiba Inu,shib,5.05e-06,5.2,12.6,32,5.2
-aave,Aave,aave,100.56,5.2,15.1,51,5.2
-whitebit,WhiteBIT Coin,wbt,62.08,4.9,13.2,19,4.9
-xdce-crowd-sale,XDC Network,xdc,0.02895721,4.9,7.5,95,4.9
-ethereum,Ethereum,eth,2362.47,4.9,25.4,2,4.9
-arbitrum,Arbitrum,arb,0.092693,4.7,22.5,93,4.7
-gatechain-token,Gate,gt,7.33,4.6,7.6,83,4.6
-chainlink,Chainlink,link,11.01,4.6,24.4,16,4.6
-aptos,Aptos,apt,0.589293,4.5,6.9,100,4.5
-pancakeswap-token,PancakeSwap,cake,1.68,4.4,17.5,98,4.4
-bitget-token,Bitget Token,bgb,1.87,4.4,12.2,62,4.4
-cosmos,Cosmos Hub,atom,1.54,4.4,0.4,78,4.4
-kucoin-shares,KuCoin,kcs,7.57,3.7,14.5,69,3.7
-pi-network,Pi Network,pi,0.092809,3.7,3.3,70,3.7
-litecoin,Litecoin,ltc,48.62,3.7,8.7,27,3.7
-worldcoin-wld,Worldcoin,wld,0.374057,3.6,9.3,59,3.6
-render-token,Render,render,1.43,3.5,12.3,84,3.5
-morpho,Morpho,morpho,2.27,3.5,16.6,55,3.5
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.084634,3.5,14.5,73,3.5
-okb,OKB,okb,106.76,3.4,4.5,41,3.4
-aster-2,Aster,aster,0.673454,3.4,11.5,47,3.4
-hyperliquid,Hyperliquid,hype,73.3,2.9,28.3,10,2.9
-canton-network,Canton,cc,0.102294,2.2,5.6,25,2.2
-world-liberty-financial,World Liberty Financial,wlfi,0.060574,-2.1,10.2,45,2.1
-lighter,Lighter,lit,2.77,-1.9,21.9,88,1.9
-tron,TRON,trx,0.338075,1.7,1.2,8,1.7
-just,JUST,jst,0.106945,1.6,0.7,75,1.6
+ethena,Ethena,ena,0.140404,39.5,66.6,59,39.5
+bitcoin-cash,Bitcoin Cash,bch,261.89,21.4,28.2,21,21.4
+pump-fun,Pump.fun,pump,0.00408827,21.2,42.8,51,21.2
+bitway,Bitway,btw,0.4709,20.4,73.7,64,20.4
+whitebit,WhiteBIT Coin,wbt,71.11,17.8,30.5,17,17.8
+ripple,XRP,xrp,1.36,17.2,35.6,5,17.2
+zcash,Zcash,zec,635.07,13.3,31.2,12,13.3
+pepe,Pepe,pepe,3.54e-06,13.3,33.9,57,13.3
+nexo,NEXO,nexo,0.883889,13.1,22.7,75,13.1
+flare-networks,Flare,flr,0.00720201,12.8,20.8,94,12.8
+aptos,Aptos,apt,0.640811,12.3,17.1,98,12.3
+aave,Aave,aave,109.31,12.1,26.6,50,12.1
+filecoin,Filecoin,fil,0.773291,12.0,15.9,93,12.0
+cardano,Cardano,ada,0.214555,11.2,17.9,18,11.2
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.09037,10.5,24.7,71,10.5
+aster-2,Aster,aster,0.73139,10.0,21.9,45,10.0
+stable-2,​​Stable,stable,0.03226666,9.9,1.4,79,9.9
+polkadot,Polkadot,dot,0.885926,9.2,16.8,56,9.2
+ethereum-classic,Ethereum Classic,etc,7.34,8.9,19.2,67,8.9
+jupiter-exchange-solana,Jupiter,jup,0.208857,8.7,24.2,88,8.7
+avalanche-2,Avalanche,avax,7.53,8.5,17.9,30,8.5
+worldcoin-wld,Worldcoin,wld,0.398413,8.3,18.3,58,8.3
+bianrensheng,币安人生 (BinanceLife),币安人生,0.514885,8.2,10.7,100,8.2
+venice-token,Venice Token,vvv,15.51,8.1,31.2,85,8.1
+sui,Sui,sui,0.788473,7.9,16.2,31,7.9
+algorand,Algorand,algo,0.093724,7.8,17.9,78,7.8
+arbitrum,Arbitrum,arb,0.096583,7.8,28.7,92,7.8
+near,NEAR Protocol,near,1.89,7.6,17.6,39,7.6
+dogecoin,Dogecoin,doge,0.083415,7.4,19.8,11,7.4
+bittensor,Bittensor,tao,226.91,6.8,13.6,42,6.8
+memecore,MemeCore,m,1.16,-6.7,4.4,38,6.7
+bitcoin,Bitcoin,btc,76822.0,6.6,22.3,1,6.6
+crypto-com-chain,Cronos,cro,0.056744,6.6,16.8,36,6.6
+morpho,Morpho,morpho,2.34,6.3,22.2,53,6.3
+litecoin,Litecoin,ltc,50.34,6.0,12.8,27,6.0
+gatechain-token,Gate,gt,7.28,5.9,8.3,83,5.9
+sky,Sky,sky,0.065309,5.9,22.9,54,5.9
+mantle,Mantle,mnt,0.510862,5.7,16.3,49,5.7
+chainlink,Chainlink,link,11.29,5.5,28.3,16,5.5
+ondo-finance,Ondo,ondo,0.376381,5.5,13.7,48,5.5
+shiba-inu,Shiba Inu,shib,5.2e-06,5.3,15.5,32,5.3
+stellar,Stellar,xlm,0.188887,5.2,18.3,20,5.2
+kucoin-shares,KuCoin,kcs,7.66,5.0,16.6,69,5.0
+uniswap,Uniswap,uni,3.92,5.0,15.1,40,5.0
+xdce-crowd-sale,XDC Network,xdc,0.02935116,4.9,8.1,96,4.9
+render-token,Render,render,1.48,4.9,18.6,84,4.9
+cosmos,Cosmos Hub,atom,1.56,4.7,0.2,81,4.7
+binancecoin,BNB,bnb,674.93,4.7,11.5,4,4.7
+internet-computer,Internet Computer,icp,2.47,4.5,11.1,60,4.5
+hedera-hashgraph,Hedera,hbar,0.07603,4.4,16.7,29,4.4
+the-open-network,Gram (prev. Toncoin),gram,1.45,4.4,9.5,25,4.4
+pancakeswap-token,PancakeSwap,cake,1.7,4.2,20.4,99,4.2
+rain,Rain,rain,0.01447142,3.8,12.1,13,3.8
+pi-network,Pi Network,pi,0.094092,3.7,4.9,70,3.7
+ethereum,Ethereum,eth,2375.32,3.7,26.5,2,3.7
+quant-network,Quant,qnt,64.2,3.4,10.0,73,3.4
+solana,Solana,sol,90.34,3.4,19.7,7,3.4
+hyperliquid,Hyperliquid,hype,74.06,3.0,31.1,10,3.0
+lighter,Lighter,lit,2.7,-2.7,21.5,89,2.7
+pax-gold,PAX Gold,paxg,4579.15,2.5,5.5,44,2.5
+tether-gold,Tether Gold,xaut,4567.23,2.4,5.6,35,2.4
+htx-dao,HTX DAO,htx,1.76e-06,2.0,-3.7,52,2.0
+bitget-token,Bitget Token,bgb,1.84,1.9,11.4,63,1.9
 figure-heloc,Figure Heloc,figr_heloc,1.026,-1.6,2.0,9,1.6
-pax-gold,PAX Gold,paxg,4538.2,1.4,4.9,44,1.4
-tether-gold,Tether Gold,xaut,4532.48,1.4,5.1,35,1.4
-htx-dao,HTX DAO,htx,1.74e-06,1.2,-4.8,50,1.2
-monero,Monero,xmr,415.39,1.0,6.3,18,1.0
-leo-token,LEO Token,leo,9.28,-0.9,0.7,15,0.9
-rain,Rain,rain,0.01386672,-0.3,9.7,13,0.3
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.24,0.2,1.4,72,0.2
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.18,0.2,1.4,65,0.2
-beldex,Beldex,bdx,0.082398,-0.1,-8.9,90,0.1
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.1,0.3,42,0.1
-dai,Dai,dai,0.999897,0.0,0.0,22,0.0
-united-stables,United Stables,u,0.999597,0.0,0.0,64,0.0
-hashnote-usyc,Circle USYC,usyc,1.13,0.0,0.1,33,0.0
-usx,USX,usx,0.99941,0.0,0.0,99,0.0
-usds,USDS,usds,0.999973,0.0,0.0,14,0.0
+monero,Monero,xmr,411.23,-1.1,3.7,19,1.1
+tron,TRON,trx,0.340066,0.9,2.0,8,0.9
+just,JUST,jst,0.106391,0.9,0.1,77,0.9
+kaspa,Kaspa,kas,0.02889039,0.8,14.0,82,0.8
+world-liberty-financial,World Liberty Financial,wlfi,0.061101,0.5,11.3,46,0.5
+ether-fi,Ether.fi,ethfi,0.580163,0.4,33.5,95,0.4
+canton-network,Canton,cc,0.104237,-0.4,8.1,23,0.4
+leo-token,LEO Token,leo,9.26,0.2,0.9,15,0.2
+okb,OKB,okb,107.17,-0.1,5.4,41,0.1
+usd1-wlfi,USD1,usd1,0.999566,0.1,0.1,26,0.1
+beldex,Beldex,bdx,0.08264,-0.1,-6.1,91,0.1
+blockchain-capital,Blockchain Capital,bcap,105.87,0.0,-0.3,72,0.0
 janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.046,0.0,0.1,86,0.0
+ethena-usde,Ethena USDe,usde,0.99973,0.0,0.0,24,0.0
 janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.11,0.0,0.1,76,0.0
-bfusd,BFUSD,bfusd,0.999652,0.0,0.1,61,0.0
-blockchain-capital,Blockchain Capital,bcap,105.87,0.0,-0.3,71,0.0
-usd1-wlfi,USD1,usd1,0.999409,0.0,0.1,26,0.0
-ripple-usd,Ripple USD,rlusd,1.0,0.0,0.0,46,0.0
-tether,Tether,usdt,0.999535,0.0,0.0,3,0.0
-falcon-finance,Falcon USD,usdf,0.99582,0.0,0.0,60,0.0
-usd-coin,USDC,usdc,0.999733,0.0,0.0,6,0.0
-global-dollar,Global Dollar,usdg,0.999916,0.0,0.0,28,0.0
-paypal-usd,PayPal USD,pyusd,0.999857,0.0,0.0,34,0.0
-ethena-usde,Ethena USDe,usde,0.999722,0.0,0.0,24,0.0
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,0.0,36,0.0
-ylds,YLDS,ylds,0.999844,0.0,0.0,89,0.0
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.18,0.0,0.1,77,0.0
-usdd,USDD,usdd,0.999527,0.0,0.0,52,0.0
-usdgo,USDGO,usdgo,1.0,0.0,0.0,67,0.0
-usual-usd,Usual USD,usd0,0.998636,0.0,0.0,97,0.0
-gho,GHO,gho,0.998655,0.0,0.0,87,0.0
+paypal-usd,PayPal USD,pyusd,0.999971,0.0,0.0,34,0.0
+falcon-finance,Falcon USD,usdf,0.995847,0.0,0.0,61,0.0
+usd-coin,USDC,usdc,0.999771,0.0,0.0,6,0.0
+tether,Tether,usdt,0.999647,0.0,0.1,3,0.0
+global-dollar,Global Dollar,usdg,0.999847,0.0,0.0,28,0.0
+hashnote-usyc,Circle USYC,usyc,1.13,0.0,0.1,33,0.0
+bfusd,BFUSD,bfusd,0.999454,0.0,0.1,62,0.0
+dai,Dai,dai,1.0,0.0,0.0,22,0.0
+gho,GHO,gho,0.99874,0.0,0.0,87,0.0
+ylds,YLDS,ylds,0.999857,0.0,0.0,90,0.0
+usds,USDS,usds,0.999832,0.0,0.0,14,0.0
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.18,0.0,0.1,80,0.0
+usdd,USDD,usdd,0.999622,0.0,0.1,55,0.0
+usdgo,USDGO,usdgo,1.0,0.0,0.0,68,0.0
+usual-usd,Usual USD,usd0,0.998608,0.0,0.0,97,0.0
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,0.0,37,0.0
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.24,0.0,1.3,74,0.0
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.0,0.1,43,0.0
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.18,0.0,1.3,66,0.0
+united-stables,United Stables,u,0.999423,0.0,0.0,65,0.0
+ripple-usd,Ripple USD,rlusd,1.0,0.0,0.0,47,0.0

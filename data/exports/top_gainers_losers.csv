@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.130065,40.1,gainer,1,2026-08-21
-pump-fun,Pump.fun,pump,0.00388118,20.9,gainer,2,2026-08-21
-ripple,XRP,xrp,1.31,18.9,gainer,3,2026-08-21
-pepe,Pepe,pepe,3.44e-06,14.2,gainer,4,2026-08-21
-cardano,Cardano,ada,0.209904,13.6,gainer,5,2026-08-21
-bitcoin-cash,Bitcoin Cash,bch,248.43,12.7,gainer,6,2026-08-21
-filecoin,Filecoin,fil,0.75434,12.3,gainer,7,2026-08-21
-stellar,Stellar,xlm,0.18758,11.1,gainer,8,2026-08-21
-flare-networks,Flare,flr,0.00709051,10.9,gainer,9,2026-08-21
-dogecoin,Dogecoin,doge,0.083292,10.5,gainer,10,2026-08-21
-memecore,MemeCore,m,1.14,-6.0,loser,1,2026-08-21
-world-liberty-financial,World Liberty Financial,wlfi,0.060574,-2.1,loser,2,2026-08-21
-lighter,Lighter,lit,2.77,-1.9,loser,3,2026-08-21
-figure-heloc,Figure Heloc,figr_heloc,1.026,-1.6,loser,4,2026-08-21
-leo-token,LEO Token,leo,9.28,-0.9,loser,5,2026-08-21
-rain,Rain,rain,0.01386672,-0.3,loser,6,2026-08-21
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.1,loser,7,2026-08-21
-beldex,Beldex,bdx,0.082398,-0.1,loser,8,2026-08-21
-ylds,YLDS,ylds,0.999844,0.0,loser,9,2026-08-21
-janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.046,0.0,loser,10,2026-08-21
+ethena,Ethena,ena,0.140404,39.5,gainer,1,2026-08-21
+bitcoin-cash,Bitcoin Cash,bch,261.89,21.4,gainer,2,2026-08-21
+pump-fun,Pump.fun,pump,0.00408827,21.2,gainer,3,2026-08-21
+bitway,Bitway,btw,0.4709,20.4,gainer,4,2026-08-21
+whitebit,WhiteBIT Coin,wbt,71.11,17.8,gainer,5,2026-08-21
+ripple,XRP,xrp,1.36,17.2,gainer,6,2026-08-21
+zcash,Zcash,zec,635.07,13.3,gainer,7,2026-08-21
+pepe,Pepe,pepe,3.54e-06,13.3,gainer,8,2026-08-21
+nexo,NEXO,nexo,0.883889,13.1,gainer,9,2026-08-21
+flare-networks,Flare,flr,0.00720201,12.8,gainer,10,2026-08-21
+memecore,MemeCore,m,1.16,-6.7,loser,1,2026-08-21
+lighter,Lighter,lit,2.7,-2.7,loser,2,2026-08-21
+figure-heloc,Figure Heloc,figr_heloc,1.026,-1.6,loser,3,2026-08-21
+monero,Monero,xmr,411.23,-1.1,loser,4,2026-08-21
+canton-network,Canton,cc,0.104237,-0.4,loser,5,2026-08-21
+beldex,Beldex,bdx,0.08264,-0.1,loser,6,2026-08-21
+okb,OKB,okb,107.17,-0.1,loser,7,2026-08-21
+ripple-usd,Ripple USD,rlusd,1.0,0.0,loser,8,2026-08-21
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.24,0.0,loser,9,2026-08-21
+dai,Dai,dai,1.0,0.0,loser,10,2026-08-21
