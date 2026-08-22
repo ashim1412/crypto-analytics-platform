@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,2.84,80.0,gainer,1,2026-08-22
-zcash,Zcash,zec,784.97,34.0,gainer,2,2026-08-22
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.106716,26.4,gainer,3,2026-08-22
-pepe,Pepe,pepe,4.03e-06,23.3,gainer,4,2026-08-22
-bitway,Bitway,btw,0.501301,22.3,gainer,5,2026-08-22
-bitcoin-cash,Bitcoin Cash,bch,279.2,21.9,gainer,6,2026-08-22
-ethena,Ethena,ena,0.150693,19.8,gainer,7,2026-08-22
-aave,Aave,aave,119.63,19.5,gainer,8,2026-08-22
-canton-network,Canton,cc,0.122853,18.0,gainer,9,2026-08-22
-ethereum-classic,Ethereum Classic,etc,8.24,17.0,gainer,10,2026-08-22
-just,JUST,jst,0.104652,-1.5,loser,1,2026-08-22
-mantle,Mantle,mnt,0.497267,-1.4,loser,2,2026-08-22
-kucoin-shares,KuCoin,kcs,7.52,-0.2,loser,3,2026-08-22
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.24,-0.1,loser,4,2026-08-22
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.18,-0.1,loser,5,2026-08-22
-paypal-usd,PayPal USD,pyusd,0.999941,0.0,loser,6,2026-08-22
-ripple-usd,Ripple USD,rlusd,1.0,0.0,loser,7,2026-08-22
-usd-coin,USDC,usdc,0.999866,0.0,loser,8,2026-08-22
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,9,2026-08-22
-ylds,YLDS,ylds,0.999832,0.0,loser,10,2026-08-22
+official-trump,Official Trump,trump,2.68,53.5,gainer,1,2026-08-22
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.107551,21.7,gainer,2,2026-08-22
+zcash,Zcash,zec,804.08,20.8,gainer,3,2026-08-22
+lighter,Lighter,lit,3.22,13.5,gainer,4,2026-08-22
+canton-network,Canton,cc,0.117512,12.8,gainer,5,2026-08-22
+pump-fun,Pump.fun,pump,0.00470055,12.5,gainer,6,2026-08-22
+pepe,Pepe,pepe,4.03e-06,10.3,gainer,7,2026-08-22
+aave,Aave,aave,124.65,10.1,gainer,8,2026-08-22
+ethena,Ethena,ena,0.158264,9.8,gainer,9,2026-08-22
+ripple,XRP,xrp,1.51,7.8,gainer,10,2026-08-22
+nexo,NEXO,nexo,0.811488,-11.5,loser,1,2026-08-22
+aster-2,Aster,aster,0.666169,-8.5,loser,2,2026-08-22
+bitway,Bitway,btw,0.443699,-6.2,loser,3,2026-08-22
+mantle,Mantle,mnt,0.487173,-5.8,loser,4,2026-08-22
+world-liberty-financial,World Liberty Financial,wlfi,0.059431,-3.9,loser,5,2026-08-22
+memecore,MemeCore,m,1.13,-3.4,loser,6,2026-08-22
+pi-network,Pi Network,pi,0.091901,-3.2,loser,7,2026-08-22
+morpho,Morpho,morpho,2.24,-3.1,loser,8,2026-08-22
+kucoin-shares,KuCoin,kcs,7.5,-3.1,loser,9,2026-08-22
+internet-computer,Internet Computer,icp,2.4,-3.0,loser,10,2026-08-22
