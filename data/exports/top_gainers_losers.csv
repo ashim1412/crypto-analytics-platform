@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,2.42,26.8,gainer,1,2026-08-23
-pump-fun,Pump.fun,pump,0.00499182,24.5,gainer,2,2026-08-23
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.107381,13.0,gainer,3,2026-08-23
-ethena,Ethena,ena,0.157973,11.7,gainer,4,2026-08-23
-zcash,Zcash,zec,801.14,9.0,gainer,5,2026-08-23
-monero,Monero,xmr,435.72,5.6,gainer,6,2026-08-23
-aave,Aave,aave,126.37,5.2,gainer,7,2026-08-23
-canton-network,Canton,cc,0.119019,4.7,gainer,8,2026-08-23
-hyperliquid,Hyperliquid,hype,80.26,4.7,gainer,9,2026-08-23
-gatechain-token,Gate,gt,7.81,4.0,gainer,10,2026-08-23
-shiba-inu,Shiba Inu,shib,5.48e-06,-11.8,loser,1,2026-08-23
-ondo-finance,Ondo,ondo,0.367993,-8.6,loser,2,2026-08-23
-internet-computer,Internet Computer,icp,2.35,-8.2,loser,3,2026-08-23
-aster-2,Aster,aster,0.655052,-8.0,loser,4,2026-08-23
-bitway,Bitway,btw,0.446178,-7.4,loser,5,2026-08-23
-rain,Rain,rain,0.01407695,-6.8,loser,6,2026-08-23
-filecoin,Filecoin,fil,0.767463,-6.5,loser,7,2026-08-23
-nexo,NEXO,nexo,0.824492,-6.3,loser,8,2026-08-23
-mantle,Mantle,mnt,0.483451,-6.0,loser,9,2026-08-23
-pi-network,Pi Network,pi,0.09163,-6.0,loser,10,2026-08-23
+pump-fun,Pump.fun,pump,0.00486783,13.6,gainer,1,2026-08-23
+venice-token,Venice Token,vvv,16.48,1.1,gainer,2,2026-08-23
+leo-token,LEO Token,leo,9.49,0.8,gainer,3,2026-08-23
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.6,gainer,4,2026-08-23
+just,JUST,jst,0.105589,0.1,gainer,5,2026-08-23
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.046,0.0,gainer,6,2026-08-23
+paypal-usd,PayPal USD,pyusd,0.999903,0.0,gainer,7,2026-08-23
+ripple-usd,Ripple USD,rlusd,1.0,0.0,gainer,8,2026-08-23
+usd1-wlfi,USD1,usd1,0.999742,0.0,gainer,9,2026-08-23
+dai,Dai,dai,0.999906,0.0,gainer,10,2026-08-23
+official-trump,Official Trump,trump,2.46,-28.5,loser,1,2026-08-23
+pi-network,Pi Network,pi,0.088418,-19.8,loser,2,2026-08-23
+worldcoin-wld,Worldcoin,wld,0.371788,-19.3,loser,3,2026-08-23
+crypto-com-chain,Cronos,cro,0.055623,-18.7,loser,4,2026-08-23
+world-liberty-financial,World Liberty Financial,wlfi,0.05749,-18.4,loser,5,2026-08-23
+sui,Sui,sui,0.788768,-17.1,loser,6,2026-08-23
+ondo-finance,Ondo,ondo,0.35463,-16.9,loser,7,2026-08-23
+cardano,Cardano,ada,0.215822,-16.1,loser,8,2026-08-23
+shiba-inu,Shiba Inu,shib,5.28e-06,-14.9,loser,9,2026-08-23
+stellar,Stellar,xlm,0.18926,-14.8,loser,10,2026-08-23
