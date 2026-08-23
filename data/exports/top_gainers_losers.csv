@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00524622,18.7,gainer,1,2026-08-23
-ethena,Ethena,ena,0.175245,17.5,gainer,2,2026-08-23
-ether-fi,Ether.fi,ethfi,0.636958,14.4,gainer,3,2026-08-23
-morpho,Morpho,morpho,2.43,9.3,gainer,4,2026-08-23
-venice-token,Venice Token,vvv,16.85,8.4,gainer,5,2026-08-23
-lighter,Lighter,lit,3.25,7.8,gainer,6,2026-08-23
-the-open-network,Gram (prev. Toncoin),gram,1.51,6.4,gainer,7,2026-08-23
-uniswap,Uniswap,uni,4.3,6.2,gainer,8,2026-08-23
-aave,Aave,aave,127.33,5.9,gainer,9,2026-08-23
-hyperliquid,Hyperliquid,hype,80.17,5.4,gainer,10,2026-08-23
-bitway,Bitway,btw,0.424838,-11.7,loser,1,2026-08-23
-official-trump,Official Trump,trump,2.56,-4.1,loser,2,2026-08-23
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.107093,-2.6,loser,3,2026-08-23
-crypto-com-chain,Cronos,cro,0.057675,-2.4,loser,4,2026-08-23
-figure-heloc,Figure Heloc,figr_heloc,1.0,-2.4,loser,5,2026-08-23
-xdce-crowd-sale,XDC Network,xdc,0.02876583,-2.0,loser,6,2026-08-23
-render-token,Render,render,1.45,-1.2,loser,7,2026-08-23
-stable-2,​​Stable,stable,0.03110522,-1.1,loser,8,2026-08-23
-rain,Rain,rain,0.01397547,-1.1,loser,9,2026-08-23
-pi-network,Pi Network,pi,0.089827,-1.0,loser,10,2026-08-23
+morpho,Morpho,morpho,2.62,18.5,gainer,1,2026-08-23
+aave,Aave,aave,139.63,12.4,gainer,2,2026-08-23
+pudgy-penguins,Pudgy Penguins,pengu,0.00946244,9.5,gainer,3,2026-08-23
+ethena,Ethena,ena,0.16519,9.2,gainer,4,2026-08-23
+lighter,Lighter,lit,3.35,7.1,gainer,5,2026-08-23
+mantle,Mantle,mnt,0.518231,7.1,gainer,6,2026-08-23
+pump-fun,Pump.fun,pump,0.0051403,6.8,gainer,7,2026-08-23
+uniswap,Uniswap,uni,4.56,6.3,gainer,8,2026-08-23
+the-open-network,Gram (prev. Toncoin),gram,1.52,5.5,gainer,9,2026-08-23
+official-trump,Official Trump,trump,2.7,5.4,gainer,10,2026-08-23
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.105769,-4.2,loser,1,2026-08-23
+nexo,NEXO,nexo,0.818106,-3.1,loser,2,2026-08-23
+figure-heloc,Figure Heloc,figr_heloc,1.0,-2.4,loser,3,2026-08-23
+chainlink,Chainlink,link,11.51,-2.0,loser,4,2026-08-23
+bitcoin-cash,Bitcoin Cash,bch,273.73,-2.0,loser,5,2026-08-23
+venice-token,Venice Token,vvv,16.99,-1.8,loser,6,2026-08-23
+sui,Sui,sui,0.824924,-1.5,loser,7,2026-08-23
+canton-network,Canton,cc,0.117083,-1.4,loser,8,2026-08-23
+gatechain-token,Gate,gt,7.7,-1.3,loser,9,2026-08-23
+okb,OKB,okb,110.24,-1.3,loser,10,2026-08-23
