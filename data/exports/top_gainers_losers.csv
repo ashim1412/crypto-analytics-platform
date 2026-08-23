@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-official-trump,Official Trump,trump,2.57,39.1,gainer,1,2026-08-22
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.109359,23.0,gainer,2,2026-08-22
-zcash,Zcash,zec,828.44,21.6,gainer,3,2026-08-22
-pump-fun,Pump.fun,pump,0.0046747,19.2,gainer,4,2026-08-22
-venice-token,Venice Token,vvv,17.39,13.1,gainer,5,2026-08-22
-aave,Aave,aave,126.05,12.9,gainer,6,2026-08-22
-lighter,Lighter,lit,3.28,10.7,gainer,7,2026-08-22
-canton-network,Canton,cc,0.119079,10.0,gainer,8,2026-08-22
-dogecoin,Dogecoin,doge,0.092693,9.9,gainer,9,2026-08-22
-pepe,Pepe,pepe,4.08e-06,7.5,gainer,10,2026-08-22
-aster-2,Aster,aster,0.660929,-8.5,loser,1,2026-08-22
-morpho,Morpho,morpho,2.24,-8.4,loser,2,2026-08-22
-bitway,Bitway,btw,0.446449,-6.4,loser,3,2026-08-22
-bitcoin-cash,Bitcoin Cash,bch,280.02,-6.1,loser,4,2026-08-22
-ondo-finance,Ondo,ondo,0.371755,-5.5,loser,5,2026-08-22
-stable-2,​​Stable,stable,0.03096269,-5.2,loser,6,2026-08-22
-world-liberty-financial,World Liberty Financial,wlfi,0.060206,-5.1,loser,7,2026-08-22
-mantle,Mantle,mnt,0.484344,-4.9,loser,8,2026-08-22
-internet-computer,Internet Computer,icp,2.39,-4.3,loser,9,2026-08-22
-flare-networks,Flare,flr,0.00718845,-3.4,loser,10,2026-08-22
+official-trump,Official Trump,trump,2.42,26.8,gainer,1,2026-08-23
+pump-fun,Pump.fun,pump,0.00499182,24.5,gainer,2,2026-08-23
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.107381,13.0,gainer,3,2026-08-23
+ethena,Ethena,ena,0.157973,11.7,gainer,4,2026-08-23
+zcash,Zcash,zec,801.14,9.0,gainer,5,2026-08-23
+monero,Monero,xmr,435.72,5.6,gainer,6,2026-08-23
+aave,Aave,aave,126.37,5.2,gainer,7,2026-08-23
+canton-network,Canton,cc,0.119019,4.7,gainer,8,2026-08-23
+hyperliquid,Hyperliquid,hype,80.26,4.7,gainer,9,2026-08-23
+gatechain-token,Gate,gt,7.81,4.0,gainer,10,2026-08-23
+shiba-inu,Shiba Inu,shib,5.48e-06,-11.8,loser,1,2026-08-23
+ondo-finance,Ondo,ondo,0.367993,-8.6,loser,2,2026-08-23
+internet-computer,Internet Computer,icp,2.35,-8.2,loser,3,2026-08-23
+aster-2,Aster,aster,0.655052,-8.0,loser,4,2026-08-23
+bitway,Bitway,btw,0.446178,-7.4,loser,5,2026-08-23
+rain,Rain,rain,0.01407695,-6.8,loser,6,2026-08-23
+filecoin,Filecoin,fil,0.767463,-6.5,loser,7,2026-08-23
+nexo,NEXO,nexo,0.824492,-6.3,loser,8,2026-08-23
+mantle,Mantle,mnt,0.483451,-6.0,loser,9,2026-08-23
+pi-network,Pi Network,pi,0.09163,-6.0,loser,10,2026-08-23
