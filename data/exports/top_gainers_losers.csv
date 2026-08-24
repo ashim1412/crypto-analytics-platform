@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-morpho,Morpho,morpho,2.77,19.77795,gainer,1,2026-08-24
-lighter,Lighter,lit,3.68,18.91546,gainer,2,2026-08-24
-pudgy-penguins,Pudgy Penguins,pengu,0.00963691,18.02084,gainer,3,2026-08-24
-aave,Aave,aave,142.83,16.67624,gainer,4,2026-08-24
-ether-fi,Ether.fi,ethfi,0.63797,11.31384,gainer,5,2026-08-24
-mantle,Mantle,mnt,0.521293,9.82877,gainer,6,2026-08-24
-ethena,Ethena,ena,0.166317,9.75501,gainer,7,2026-08-24
-crypto-com-chain,Cronos,cro,0.060317,8.25645,gainer,8,2026-08-24
-uniswap,Uniswap,uni,4.45,8.2536,gainer,9,2026-08-24
-near,NEAR Protocol,near,1.99,8.24901,gainer,10,2026-08-24
-bitway,Bitway,btw,0.424114,-7.44076,loser,1,2026-08-24
-just,JUST,jst,0.100653,-4.9791,loser,2,2026-08-24
-monero,Monero,xmr,414.91,-3.77254,loser,3,2026-08-24
-stable-2,​​Stable,stable,0.02956224,-3.36214,loser,4,2026-08-24
-leo-token,LEO Token,leo,9.31,-1.85868,loser,5,2026-08-24
-nexo,NEXO,nexo,0.811552,-1.20727,loser,6,2026-08-24
-kucoin-shares,KuCoin,kcs,7.42,-0.63519,loser,7,2026-08-24
-ethereum-classic,Ethereum Classic,etc,7.73,-0.20726,loser,8,2026-08-24
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.03526,loser,9,2026-08-24
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.18,-0.03526,loser,10,2026-08-24
+morpho,Morpho,morpho,2.77,13.81758,gainer,1,2026-08-24
+pudgy-penguins,Pudgy Penguins,pengu,0.0095135,12.65395,gainer,2,2026-08-24
+mantle,Mantle,mnt,0.532311,10.54527,gainer,3,2026-08-24
+canton-network,Canton,cc,0.127433,9.35128,gainer,4,2026-08-24
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.116729,9.08559,gainer,5,2026-08-24
+lighter,Lighter,lit,3.49,8.03615,gainer,6,2026-08-24
+aave,Aave,aave,136.12,5.49187,gainer,7,2026-08-24
+crypto-com-chain,Cronos,cro,0.060798,5.33298,gainer,8,2026-08-24
+bittensor,Bittensor,tao,237.37,5.17385,gainer,9,2026-08-24
+xdce-crowd-sale,XDC Network,xdc,0.03012709,4.74616,gainer,10,2026-08-24
+ethena,Ethena,ena,0.159836,-9.2455,loser,1,2026-08-24
+stable-2,​​Stable,stable,0.02939594,-6.02428,loser,2,2026-08-24
+pump-fun,Pump.fun,pump,0.00499269,-5.56382,loser,3,2026-08-24
+just,JUST,jst,0.09997,-3.35172,loser,4,2026-08-24
+bitway,Bitway,btw,0.408857,-3.04472,loser,5,2026-08-24
+the-open-network,Gram (prev. Toncoin),gram,1.48,-2.42282,loser,6,2026-08-24
+monero,Monero,xmr,420.29,-2.295,loser,7,2026-08-24
+official-trump,Official Trump,trump,2.52,-1.94953,loser,8,2026-08-24
+flare-networks,Flare,flr,0.00703037,-1.44526,loser,9,2026-08-24
+polkadot,Polkadot,dot,0.906395,-1.31461,loser,10,2026-08-24
