@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-morpho,Morpho,morpho,2.82,27.9,gainer,1,2026-08-24
-pudgy-penguins,Pudgy Penguins,pengu,0.00970871,18.3,gainer,2,2026-08-24
-aave,Aave,aave,139.65,12.5,gainer,3,2026-08-24
-official-trump,Official Trump,trump,2.56,11.5,gainer,4,2026-08-24
-lighter,Lighter,lit,3.56,11.4,gainer,5,2026-08-24
-zcash,Zcash,zec,839.47,7.5,gainer,6,2026-08-24
-ether-fi,Ether.fi,ethfi,0.61197,7.0,gainer,7,2026-08-24
-jupiter-exchange-solana,Jupiter,jup,0.213713,6.6,gainer,8,2026-08-24
-bittensor,Bittensor,tao,238.83,6.5,gainer,9,2026-08-24
-near,NEAR Protocol,near,2.04,6.2,gainer,10,2026-08-24
-bitway,Bitway,btw,0.42804,-3.4,loser,1,2026-08-24
-monero,Monero,xmr,416.74,-3.2,loser,2,2026-08-24
-kucoin-shares,KuCoin,kcs,7.28,-2.4,loser,3,2026-08-24
-figure-heloc,Figure Heloc,figr_heloc,1.0,-2.4,loser,4,2026-08-24
-stable-2,​​Stable,stable,0.03001889,-1.9,loser,5,2026-08-24
-just,JUST,jst,0.100979,-1.2,loser,6,2026-08-24
-bitcoin-cash,Bitcoin Cash,bch,272.46,-0.9,loser,7,2026-08-24
-nexo,NEXO,nexo,0.818107,-0.8,loser,8,2026-08-24
-litecoin,Litecoin,ltc,51.77,-0.6,loser,9,2026-08-24
-chainlink,Chainlink,link,11.43,-0.3,loser,10,2026-08-24
+morpho,Morpho,morpho,2.77,19.77795,gainer,1,2026-08-24
+lighter,Lighter,lit,3.68,18.91546,gainer,2,2026-08-24
+pudgy-penguins,Pudgy Penguins,pengu,0.00963691,18.02084,gainer,3,2026-08-24
+aave,Aave,aave,142.83,16.67624,gainer,4,2026-08-24
+ether-fi,Ether.fi,ethfi,0.63797,11.31384,gainer,5,2026-08-24
+mantle,Mantle,mnt,0.521293,9.82877,gainer,6,2026-08-24
+ethena,Ethena,ena,0.166317,9.75501,gainer,7,2026-08-24
+crypto-com-chain,Cronos,cro,0.060317,8.25645,gainer,8,2026-08-24
+uniswap,Uniswap,uni,4.45,8.2536,gainer,9,2026-08-24
+near,NEAR Protocol,near,1.99,8.24901,gainer,10,2026-08-24
+bitway,Bitway,btw,0.424114,-7.44076,loser,1,2026-08-24
+just,JUST,jst,0.100653,-4.9791,loser,2,2026-08-24
+monero,Monero,xmr,414.91,-3.77254,loser,3,2026-08-24
+stable-2,​​Stable,stable,0.02956224,-3.36214,loser,4,2026-08-24
+leo-token,LEO Token,leo,9.31,-1.85868,loser,5,2026-08-24
+nexo,NEXO,nexo,0.811552,-1.20727,loser,6,2026-08-24
+kucoin-shares,KuCoin,kcs,7.42,-0.63519,loser,7,2026-08-24
+ethereum-classic,Ethereum Classic,etc,7.73,-0.20726,loser,8,2026-08-24
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.23,-0.03526,loser,9,2026-08-24
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.18,-0.03526,loser,10,2026-08-24
