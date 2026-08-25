@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.12085,11.55717,gainer,1,2026-08-25
-injective-protocol,Injective,inj,5.95,11.42462,gainer,2,2026-08-25
-monero,Monero,xmr,453.37,9.23977,gainer,3,2026-08-25
-jupiter-exchange-solana,Jupiter,jup,0.227998,8.97488,gainer,4,2026-08-25
-bitway,Bitway,btw,0.459935,8.59677,gainer,5,2026-08-25
-solana,Solana,sol,101.78,8.05395,gainer,6,2026-08-25
-pudgy-penguins,Pudgy Penguins,pengu,0.0103322,7.62945,gainer,7,2026-08-25
-render-token,Render,render,1.56,5.92614,gainer,8,2026-08-25
-rain,Rain,rain,0.01470253,5.36242,gainer,9,2026-08-25
-worldcoin-wld,Worldcoin,wld,0.418291,5.13153,gainer,10,2026-08-25
-aave,Aave,aave,131.82,-8.15736,loser,1,2026-08-25
-ethena,Ethena,ena,0.155843,-6.37701,loser,2,2026-08-25
-ether-fi,Ether.fi,ethfi,0.603069,-5.88612,loser,3,2026-08-25
-lighter,Lighter,lit,3.47,-5.71856,loser,4,2026-08-25
-morpho,Morpho,morpho,2.69,-2.72372,loser,5,2026-08-25
-pump-fun,Pump.fun,pump,0.00487845,-2.29797,loser,6,2026-08-25
-cosmos,Cosmos Hub,atom,1.55,-1.6056,loser,7,2026-08-25
-uniswap,Uniswap,uni,4.4,-1.46486,loser,8,2026-08-25
-flare-networks,Flare,flr,0.00696728,-1.43645,loser,9,2026-08-25
-arbitrum,Arbitrum,arb,0.098812,-1.20016,loser,10,2026-08-25
+bitway,Bitway,btw,0.444827,10.49073,gainer,1,2026-08-25
+injective-protocol,Injective,inj,5.88,8.94778,gainer,2,2026-08-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.123115,5.47642,gainer,3,2026-08-25
+memecore,MemeCore,m,1.18,5.13507,gainer,4,2026-08-25
+monero,Monero,xmr,442.75,5.09015,gainer,5,2026-08-25
+jupiter-exchange-solana,Jupiter,jup,0.216493,3.8732,gainer,6,2026-08-25
+solana,Solana,sol,98.21,3.39232,gainer,7,2026-08-25
+rain,Rain,rain,0.01452274,3.32681,gainer,8,2026-08-25
+venice-token,Venice Token,vvv,17.17,2.22141,gainer,9,2026-08-25
+ethereum-classic,Ethereum Classic,etc,7.91,1.38227,gainer,10,2026-08-25
+canton-network,Canton,cc,0.118304,-7.54183,loser,1,2026-08-25
+ethena,Ethena,ena,0.14872,-6.7341,loser,2,2026-08-25
+official-trump,Official Trump,trump,2.36,-6.66765,loser,3,2026-08-25
+morpho,Morpho,morpho,2.59,-6.36882,loser,4,2026-08-25
+aave,Aave,aave,128.45,-6.12399,loser,5,2026-08-25
+pump-fun,Pump.fun,pump,0.00474872,-4.92478,loser,6,2026-08-25
+ether-fi,Ether.fi,ethfi,0.60353,-4.74374,loser,7,2026-08-25
+flare-networks,Flare,flr,0.00673852,-4.21437,loser,8,2026-08-25
+arbitrum,Arbitrum,arb,0.09491,-3.90463,loser,9,2026-08-25
+stable-2,​​Stable,stable,0.02833948,-3.89499,loser,10,2026-08-25
