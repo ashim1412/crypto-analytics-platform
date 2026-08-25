@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-injective-protocol,Injective,inj,5.85,10.78287,gainer,1,2026-08-24
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.115933,9.89196,gainer,2,2026-08-24
-rain,Rain,rain,0.01489005,6.52663,gainer,3,2026-08-24
-gatechain-token,Gate,gt,8.05,4.47173,gainer,4,2026-08-24
-canton-network,Canton,cc,0.122294,4.15927,gainer,5,2026-08-24
-bittensor,Bittensor,tao,243.23,3.74337,gainer,6,2026-08-24
-xdce-crowd-sale,XDC Network,xdc,0.03021528,3.73452,gainer,7,2026-08-24
-okb,OKB,okb,114.23,3.42811,gainer,8,2026-08-24
-aster-2,Aster,aster,0.687528,2.48814,gainer,9,2026-08-24
-monero,Monero,xmr,435.73,2.31427,gainer,10,2026-08-24
-official-trump,Official Trump,trump,2.46,-9.33207,loser,1,2026-08-24
-stable-2,​​Stable,stable,0.02868453,-8.07846,loser,2,2026-08-24
-ethena,Ethena,ena,0.152759,-7.42092,loser,3,2026-08-24
-pump-fun,Pump.fun,pump,0.00477556,-7.11808,loser,4,2026-08-24
-zcash,Zcash,zec,820.17,-6.78914,loser,5,2026-08-24
-uniswap,Uniswap,uni,4.3,-5.96244,loser,6,2026-08-24
-jupiter-exchange-solana,Jupiter,jup,0.205167,-4.7764,loser,7,2026-08-24
-cosmos,Cosmos Hub,atom,1.55,-4.15598,loser,8,2026-08-24
-hyperliquid,Hyperliquid,hype,77.71,-3.94599,loser,9,2026-08-24
-aave,Aave,aave,134.43,-3.74096,loser,10,2026-08-24
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.116022,7.57048,gainer,1,2026-08-25
+injective-protocol,Injective,inj,5.73,6.68954,gainer,2,2026-08-25
+monero,Monero,xmr,443.14,6.30112,gainer,3,2026-08-25
+aster-2,Aster,aster,0.710279,6.05378,gainer,4,2026-08-25
+okb,OKB,okb,116.62,5.76558,gainer,5,2026-08-25
+solana,Solana,sol,99.63,5.42936,gainer,6,2026-08-25
+rain,Rain,rain,0.01467118,4.78227,gainer,7,2026-08-25
+bitway,Bitway,btw,0.448861,4.59484,gainer,8,2026-08-25
+kucoin-shares,KuCoin,kcs,7.61,4.56015,gainer,9,2026-08-25
+gatechain-token,Gate,gt,8.05,3.91962,gainer,10,2026-08-25
+morpho,Morpho,morpho,2.59,-8.64645,loser,1,2026-08-25
+pump-fun,Pump.fun,pump,0.00470188,-7.91865,loser,2,2026-08-25
+official-trump,Official Trump,trump,2.37,-7.204,loser,3,2026-08-25
+ethena,Ethena,ena,0.15229,-6.75524,loser,4,2026-08-25
+aave,Aave,aave,131.9,-5.49256,loser,5,2026-08-25
+near,NEAR Protocol,near,1.94,-5.07409,loser,6,2026-08-25
+cosmos,Cosmos Hub,atom,1.51,-4.73825,loser,7,2026-08-25
+uniswap,Uniswap,uni,4.3,-4.48451,loser,8,2026-08-25
+lighter,Lighter,lit,3.4,-4.13256,loser,9,2026-08-25
+sui,Sui,sui,0.797891,-3.99229,loser,10,2026-08-25
