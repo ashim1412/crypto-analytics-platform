@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.116022,7.57048,gainer,1,2026-08-25
-injective-protocol,Injective,inj,5.73,6.68954,gainer,2,2026-08-25
-monero,Monero,xmr,443.14,6.30112,gainer,3,2026-08-25
-aster-2,Aster,aster,0.710279,6.05378,gainer,4,2026-08-25
-okb,OKB,okb,116.62,5.76558,gainer,5,2026-08-25
-solana,Solana,sol,99.63,5.42936,gainer,6,2026-08-25
-rain,Rain,rain,0.01467118,4.78227,gainer,7,2026-08-25
-bitway,Bitway,btw,0.448861,4.59484,gainer,8,2026-08-25
-kucoin-shares,KuCoin,kcs,7.61,4.56015,gainer,9,2026-08-25
-gatechain-token,Gate,gt,8.05,3.91962,gainer,10,2026-08-25
-morpho,Morpho,morpho,2.59,-8.64645,loser,1,2026-08-25
-pump-fun,Pump.fun,pump,0.00470188,-7.91865,loser,2,2026-08-25
-official-trump,Official Trump,trump,2.37,-7.204,loser,3,2026-08-25
-ethena,Ethena,ena,0.15229,-6.75524,loser,4,2026-08-25
-aave,Aave,aave,131.9,-5.49256,loser,5,2026-08-25
-near,NEAR Protocol,near,1.94,-5.07409,loser,6,2026-08-25
-cosmos,Cosmos Hub,atom,1.51,-4.73825,loser,7,2026-08-25
-uniswap,Uniswap,uni,4.3,-4.48451,loser,8,2026-08-25
-lighter,Lighter,lit,3.4,-4.13256,loser,9,2026-08-25
-sui,Sui,sui,0.797891,-3.99229,loser,10,2026-08-25
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.12085,11.55717,gainer,1,2026-08-25
+injective-protocol,Injective,inj,5.95,11.42462,gainer,2,2026-08-25
+monero,Monero,xmr,453.37,9.23977,gainer,3,2026-08-25
+jupiter-exchange-solana,Jupiter,jup,0.227998,8.97488,gainer,4,2026-08-25
+bitway,Bitway,btw,0.459935,8.59677,gainer,5,2026-08-25
+solana,Solana,sol,101.78,8.05395,gainer,6,2026-08-25
+pudgy-penguins,Pudgy Penguins,pengu,0.0103322,7.62945,gainer,7,2026-08-25
+render-token,Render,render,1.56,5.92614,gainer,8,2026-08-25
+rain,Rain,rain,0.01470253,5.36242,gainer,9,2026-08-25
+worldcoin-wld,Worldcoin,wld,0.418291,5.13153,gainer,10,2026-08-25
+aave,Aave,aave,131.82,-8.15736,loser,1,2026-08-25
+ethena,Ethena,ena,0.155843,-6.37701,loser,2,2026-08-25
+ether-fi,Ether.fi,ethfi,0.603069,-5.88612,loser,3,2026-08-25
+lighter,Lighter,lit,3.47,-5.71856,loser,4,2026-08-25
+morpho,Morpho,morpho,2.69,-2.72372,loser,5,2026-08-25
+pump-fun,Pump.fun,pump,0.00487845,-2.29797,loser,6,2026-08-25
+cosmos,Cosmos Hub,atom,1.55,-1.6056,loser,7,2026-08-25
+uniswap,Uniswap,uni,4.4,-1.46486,loser,8,2026-08-25
+flare-networks,Flare,flr,0.00696728,-1.43645,loser,9,2026-08-25
+arbitrum,Arbitrum,arb,0.098812,-1.20016,loser,10,2026-08-25
