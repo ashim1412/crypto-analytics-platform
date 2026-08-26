@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01705435,14.51959,gainer,1,2026-08-25
-venice-token,Venice Token,vvv,17.87,8.1587,gainer,2,2026-08-25
-hyperliquid,Hyperliquid,hype,82.51,6.17879,gainer,3,2026-08-25
-memecore,MemeCore,m,1.19,4.62596,gainer,4,2026-08-25
-jupiter-exchange-solana,Jupiter,jup,0.214357,4.47695,gainer,5,2026-08-25
-lighter,Lighter,lit,3.4,3.88231,gainer,6,2026-08-25
-aster-2,Aster,aster,0.711149,3.43427,gainer,7,2026-08-25
-stable-2,​​Stable,stable,0.02966463,3.41451,gainer,8,2026-08-25
-pudgy-penguins,Pudgy Penguins,pengu,0.00979096,3.14051,gainer,9,2026-08-25
-render-token,Render,render,1.53,2.6994,gainer,10,2026-08-25
-bitway,Bitway,btw,0.374501,-14.59319,loser,1,2026-08-25
-official-trump,Official Trump,trump,2.31,-6.12938,loser,2,2026-08-25
-ether-fi,Ether.fi,ethfi,0.584945,-5.58319,loser,3,2026-08-25
-pump-fun,Pump.fun,pump,0.00452717,-5.17012,loser,4,2026-08-25
-flare-networks,Flare,flr,0.00668123,-4.53728,loser,5,2026-08-25
-aave,Aave,aave,128.56,-4.38184,loser,6,2026-08-25
-kucoin-shares,KuCoin,kcs,7.2,-3.5541,loser,7,2026-08-25
-sui,Sui,sui,0.784956,-3.54222,loser,8,2026-08-25
-filecoin,Filecoin,fil,0.735897,-3.48112,loser,9,2026-08-25
-polkadot,Polkadot,dot,0.876826,-3.35967,loser,10,2026-08-25
+rain,Rain,rain,0.01816512,23.87025,gainer,1,2026-08-26
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.121328,4.5727,gainer,2,2026-08-26
+venice-token,Venice Token,vvv,17.48,4.18527,gainer,3,2026-08-26
+memecore,MemeCore,m,1.17,3.74308,gainer,4,2026-08-26
+hyperliquid,Hyperliquid,hype,80.61,2.08027,gainer,5,2026-08-26
+render-token,Render,render,1.5,0.95189,gainer,6,2026-08-26
+cosmos,Cosmos Hub,atom,1.52,0.90019,gainer,7,2026-08-26
+mantle,Mantle,mnt,0.51671,0.67643,gainer,8,2026-08-26
+world-liberty-financial,World Liberty Financial,wlfi,0.058552,0.47076,gainer,9,2026-08-26
+leo-token,LEO Token,leo,9.34,0.44828,gainer,10,2026-08-26
+bitway,Bitway,btw,0.405549,-9.69283,loser,1,2026-08-26
+ether-fi,Ether.fi,ethfi,0.561209,-8.77586,loser,2,2026-08-26
+official-trump,Official Trump,trump,2.19,-7.80375,loser,3,2026-08-26
+zcash,Zcash,zec,774.13,-6.61156,loser,4,2026-08-26
+ethena,Ethena,ena,0.142974,-6.13341,loser,5,2026-08-26
+stellar,Stellar,xlm,0.182739,-5.84912,loser,6,2026-08-26
+kaspa,Kaspa,kas,0.02767656,-5.33998,loser,7,2026-08-26
+cardano,Cardano,ada,0.210185,-5.31808,loser,8,2026-08-26
+kucoin-shares,KuCoin,kcs,7.22,-5.21048,loser,9,2026-08-26
+polkadot,Polkadot,dot,0.85121,-5.14152,loser,10,2026-08-26
