@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01759243,21.19556,gainer,1,2026-08-26
-jupiter-exchange-solana,Jupiter,jup,0.222482,3.16255,gainer,2,2026-08-26
-hyperliquid,Hyperliquid,hype,81.97,2.90001,gainer,3,2026-08-26
-world-liberty-financial,World Liberty Financial,wlfi,0.058973,2.25928,gainer,4,2026-08-26
-gatechain-token,Gate,gt,7.88,1.96381,gainer,5,2026-08-26
-cosmos,Cosmos Hub,atom,1.56,1.79073,gainer,6,2026-08-26
-nexo,NEXO,nexo,0.834016,1.67504,gainer,7,2026-08-26
-binancecoin,BNB,bnb,702.28,1.19807,gainer,8,2026-08-26
-aster-2,Aster,aster,0.706401,1.07343,gainer,9,2026-08-26
-render-token,Render,render,1.52,0.95636,gainer,10,2026-08-26
-bitway,Bitway,btw,0.403159,-9.33255,loser,1,2026-08-26
-xdce-crowd-sale,XDC Network,xdc,0.02787431,-6.30539,loser,2,2026-08-26
-sui,Sui,sui,0.756116,-5.4024,loser,3,2026-08-26
-zcash,Zcash,zec,785.39,-5.36774,loser,4,2026-08-26
-pepe,Pepe,pepe,3.79e-06,-5.0248,loser,5,2026-08-26
-kaspa,Kaspa,kas,0.0273122,-4.62545,loser,6,2026-08-26
-stellar,Stellar,xlm,0.18328,-4.40627,loser,7,2026-08-26
-crypto-com-chain,Cronos,cro,0.058503,-4.31398,loser,8,2026-08-26
-lighter,Lighter,lit,3.31,-3.99517,loser,9,2026-08-26
-ripple,XRP,xrp,1.42,-3.98025,loser,10,2026-08-26
+bitway,Bitway,btw,0.416861,15.08134,gainer,1,2026-08-26
+pump-fun,Pump.fun,pump,0.00477827,6.01717,gainer,2,2026-08-26
+jupiter-exchange-solana,Jupiter,jup,0.215636,1.61774,gainer,3,2026-08-26
+just,JUST,jst,0.100373,1.3713,gainer,4,2026-08-26
+sky,Sky,sky,0.067744,0.67886,gainer,5,2026-08-26
+ethereum,Ethereum,eth,2477.97,0.6352,gainer,6,2026-08-26
+kucoin-shares,KuCoin,kcs,7.19,0.46832,gainer,7,2026-08-26
+binancecoin,BNB,bnb,699.84,0.22485,gainer,8,2026-08-26
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.22137,gainer,9,2026-08-26
+ripple-usd,Ripple USD,rlusd,1.0,0.04093,gainer,10,2026-08-26
+stable-2,​​Stable,stable,0.02636947,-10.95506,loser,1,2026-08-26
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.109465,-9.58481,loser,2,2026-08-26
+pudgy-penguins,Pudgy Penguins,pengu,0.00910259,-8.05849,loser,3,2026-08-26
+xdce-crowd-sale,XDC Network,xdc,0.02744237,-7.17577,loser,4,2026-08-26
+ethena,Ethena,ena,0.138552,-6.4966,loser,5,2026-08-26
+the-open-network,Gram (prev. Toncoin),gram,1.39,-5.89352,loser,6,2026-08-26
+ripple,XRP,xrp,1.39,-5.82951,loser,7,2026-08-26
+memecore,MemeCore,m,1.12,-5.58105,loser,8,2026-08-26
+pepe,Pepe,pepe,3.72e-06,-5.45732,loser,9,2026-08-26
+arbitrum,Arbitrum,arb,0.089498,-5.44051,loser,10,2026-08-26
