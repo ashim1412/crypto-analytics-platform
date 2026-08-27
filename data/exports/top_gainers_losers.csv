@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.416861,15.08134,gainer,1,2026-08-26
-pump-fun,Pump.fun,pump,0.00477827,6.01717,gainer,2,2026-08-26
-jupiter-exchange-solana,Jupiter,jup,0.215636,1.61774,gainer,3,2026-08-26
-just,JUST,jst,0.100373,1.3713,gainer,4,2026-08-26
-sky,Sky,sky,0.067744,0.67886,gainer,5,2026-08-26
-ethereum,Ethereum,eth,2477.97,0.6352,gainer,6,2026-08-26
-kucoin-shares,KuCoin,kcs,7.19,0.46832,gainer,7,2026-08-26
-binancecoin,BNB,bnb,699.84,0.22485,gainer,8,2026-08-26
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.22137,gainer,9,2026-08-26
-ripple-usd,Ripple USD,rlusd,1.0,0.04093,gainer,10,2026-08-26
-stable-2,​​Stable,stable,0.02636947,-10.95506,loser,1,2026-08-26
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.109465,-9.58481,loser,2,2026-08-26
-pudgy-penguins,Pudgy Penguins,pengu,0.00910259,-8.05849,loser,3,2026-08-26
-xdce-crowd-sale,XDC Network,xdc,0.02744237,-7.17577,loser,4,2026-08-26
-ethena,Ethena,ena,0.138552,-6.4966,loser,5,2026-08-26
-the-open-network,Gram (prev. Toncoin),gram,1.39,-5.89352,loser,6,2026-08-26
-ripple,XRP,xrp,1.39,-5.82951,loser,7,2026-08-26
-memecore,MemeCore,m,1.12,-5.58105,loser,8,2026-08-26
-pepe,Pepe,pepe,3.72e-06,-5.45732,loser,9,2026-08-26
-arbitrum,Arbitrum,arb,0.089498,-5.44051,loser,10,2026-08-26
+spx6900,SPX6900,spx,0.618275,14.97407,gainer,1,2026-08-27
+vechain,VeChain,vet,0.00652724,14.53722,gainer,2,2026-08-27
+venice-token,Venice Token,vvv,18.1,5.30413,gainer,3,2026-08-27
+solana,Solana,sol,100.98,4.32932,gainer,4,2026-08-27
+morpho,Morpho,morpho,2.59,4.12259,gainer,5,2026-08-27
+nexo,NEXO,nexo,0.862198,3.16399,gainer,6,2026-08-27
+kucoin-shares,KuCoin,kcs,7.31,2.48937,gainer,7,2026-08-27
+figure-heloc,Figure Heloc,figr_heloc,1.035,2.44534,gainer,8,2026-08-27
+uniswap,Uniswap,uni,4.36,2.40641,gainer,9,2026-08-27
+bittensor,Bittensor,tao,237.1,2.40583,gainer,10,2026-08-27
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.105327,-13.55769,loser,1,2026-08-27
+pump-fun,Pump.fun,pump,0.00449558,-5.1717,loser,2,2026-08-27
+memecore,MemeCore,m,1.12,-4.9287,loser,3,2026-08-27
+stable-2,​​Stable,stable,0.02726466,-4.40727,loser,4,2026-08-27
+flare-networks,Flare,flr,0.00632373,-3.75361,loser,5,2026-08-27
+the-open-network,Gram (prev. Toncoin),gram,1.38,-3.65153,loser,6,2026-08-27
+arbitrum,Arbitrum,arb,0.090156,-2.91796,loser,7,2026-08-27
+cosmos,Cosmos Hub,atom,1.49,-2.54931,loser,8,2026-08-27
+pudgy-penguins,Pudgy Penguins,pengu,0.00922334,-2.51023,loser,9,2026-08-27
+aave,Aave,aave,124.03,-2.4555,loser,10,2026-08-27
