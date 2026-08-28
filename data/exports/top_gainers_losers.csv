@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-vechain,VeChain,vet,0.00746299,28.68863,gainer,1,2026-08-27
-official-trump,Official Trump,trump,2.75,25.26619,gainer,2,2026-08-27
-ethena,Ethena,ena,0.168846,23.65464,gainer,3,2026-08-27
-spx6900,SPX6900,spx,0.606824,15.68185,gainer,4,2026-08-27
-solana,Solana,sol,109.02,13.61449,gainer,5,2026-08-27
-lighter,Lighter,lit,3.6,11.99222,gainer,6,2026-08-27
-bittensor,Bittensor,tao,251.95,11.02347,gainer,7,2026-08-27
-pudgy-penguins,Pudgy Penguins,pengu,0.00975887,10.71437,gainer,8,2026-08-27
-venice-token,Venice Token,vvv,18.41,9.82123,gainer,9,2026-08-27
-worldcoin-wld,Worldcoin,wld,0.418507,9.10457,gainer,10,2026-08-27
-bitway,Bitway,btw,0.39791,-6.66316,loser,1,2026-08-27
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.107184,-2.48787,loser,2,2026-08-27
-just,JUST,jst,0.097886,-2.16214,loser,3,2026-08-27
-beldex,Beldex,bdx,0.080049,-1.32658,loser,4,2026-08-27
-figure-heloc,Figure Heloc,figr_heloc,1.0,-0.77722,loser,5,2026-08-27
-nexo,NEXO,nexo,0.853521,-0.2403,loser,6,2026-08-27
-memecore,MemeCore,m,1.12,-0.07393,loser,7,2026-08-27
-ripple-usd,Ripple USD,rlusd,1.0,-0.01923,loser,8,2026-08-27
-paypal-usd,PayPal USD,pyusd,0.999718,-0.01801,loser,9,2026-08-27
-dai,Dai,dai,0.999803,-0.0172,loser,10,2026-08-27
+ethena,Ethena,ena,0.186809,26.52241,gainer,1,2026-08-28
+official-trump,Official Trump,trump,2.79,22.33965,gainer,2,2026-08-28
+vechain,VeChain,vet,0.00731814,11.5872,gainer,3,2026-08-28
+jupiter-exchange-solana,Jupiter,jup,0.242268,10.58031,gainer,4,2026-08-28
+lighter,Lighter,lit,3.68,9.06513,gainer,5,2026-08-28
+uniswap,Uniswap,uni,4.77,9.01507,gainer,6,2026-08-28
+solana,Solana,sol,108.38,6.70841,gainer,7,2026-08-28
+kaspa,Kaspa,kas,0.02956965,6.65649,gainer,8,2026-08-28
+world-liberty-financial,World Liberty Financial,wlfi,0.061073,5.33787,gainer,9,2026-08-28
+monero,Monero,xmr,462.36,5.13802,gainer,10,2026-08-28
+spx6900,SPX6900,spx,0.600304,-4.19196,loser,1,2026-08-28
+just,JUST,jst,0.097705,-2.94294,loser,2,2026-08-28
+canton-network,Canton,cc,0.114506,-1.77424,loser,3,2026-08-28
+aster-2,Aster,aster,0.710162,-1.76911,loser,4,2026-08-28
+figure-heloc,Figure Heloc,figr_heloc,1.019,-1.58039,loser,5,2026-08-28
+htx-dao,HTX DAO,htx,1.69e-06,-1.55519,loser,6,2026-08-28
+rain,Rain,rain,0.01730517,-1.22171,loser,7,2026-08-28
+pax-gold,PAX Gold,paxg,4574.0,-1.08341,loser,8,2026-08-28
+tether-gold,Tether Gold,xaut,4570.7,-1.02273,loser,9,2026-08-28
+beldex,Beldex,bdx,0.080148,-0.83839,loser,10,2026-08-28
