@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.186809,26.52241,gainer,1,2026-08-28
-official-trump,Official Trump,trump,2.79,22.33965,gainer,2,2026-08-28
-vechain,VeChain,vet,0.00731814,11.5872,gainer,3,2026-08-28
-jupiter-exchange-solana,Jupiter,jup,0.242268,10.58031,gainer,4,2026-08-28
-lighter,Lighter,lit,3.68,9.06513,gainer,5,2026-08-28
-uniswap,Uniswap,uni,4.77,9.01507,gainer,6,2026-08-28
-solana,Solana,sol,108.38,6.70841,gainer,7,2026-08-28
-kaspa,Kaspa,kas,0.02956965,6.65649,gainer,8,2026-08-28
-world-liberty-financial,World Liberty Financial,wlfi,0.061073,5.33787,gainer,9,2026-08-28
-monero,Monero,xmr,462.36,5.13802,gainer,10,2026-08-28
-spx6900,SPX6900,spx,0.600304,-4.19196,loser,1,2026-08-28
-just,JUST,jst,0.097705,-2.94294,loser,2,2026-08-28
-canton-network,Canton,cc,0.114506,-1.77424,loser,3,2026-08-28
-aster-2,Aster,aster,0.710162,-1.76911,loser,4,2026-08-28
-figure-heloc,Figure Heloc,figr_heloc,1.019,-1.58039,loser,5,2026-08-28
-htx-dao,HTX DAO,htx,1.69e-06,-1.55519,loser,6,2026-08-28
-rain,Rain,rain,0.01730517,-1.22171,loser,7,2026-08-28
-pax-gold,PAX Gold,paxg,4574.0,-1.08341,loser,8,2026-08-28
-tether-gold,Tether Gold,xaut,4570.7,-1.02273,loser,9,2026-08-28
-beldex,Beldex,bdx,0.080148,-0.83839,loser,10,2026-08-28
+figure-heloc,Figure Heloc,figr_heloc,1.036,3.32063,gainer,1,2026-08-28
+official-trump,Official Trump,trump,2.68,3.1313,gainer,2,2026-08-28
+rain,Rain,rain,0.01764974,1.51634,gainer,3,2026-08-28
+bitway,Bitway,btw,0.402194,0.98323,gainer,4,2026-08-28
+leo-token,LEO Token,leo,9.42,0.86115,gainer,5,2026-08-28
+tron,TRON,trx,0.339449,0.46029,gainer,6,2026-08-28
+monero,Monero,xmr,467.72,0.09902,gainer,7,2026-08-28
+hashnote-usyc,Circle USYC,usyc,1.14,0.02837,gainer,8,2026-08-28
+gho,GHO,gho,0.999372,0.02429,gainer,9,2026-08-28
+usdd,USDD,usdd,0.999672,0.01981,gainer,10,2026-08-28
+memecore,MemeCore,m,0.993667,-11.36455,loser,1,2026-08-28
+vechain,VeChain,vet,0.0066554,-9.2991,loser,2,2026-08-28
+bitcoin-cash,Bitcoin Cash,bch,246.59,-8.94155,loser,3,2026-08-28
+crypto-com-chain,Cronos,cro,0.057091,-7.24347,loser,4,2026-08-28
+render-token,Render,render,1.44,-7.14693,loser,5,2026-08-28
+venice-token,Venice Token,vvv,17.05,-7.02665,loser,6,2026-08-28
+flare-networks,Flare,flr,0.00624585,-6.94961,loser,7,2026-08-28
+worldcoin-wld,Worldcoin,wld,0.388809,-6.76894,loser,8,2026-08-28
+filecoin,Filecoin,fil,0.680752,-6.33517,loser,9,2026-08-28
+ondo-finance,Ondo,ondo,0.355856,-6.33505,loser,10,2026-08-28
