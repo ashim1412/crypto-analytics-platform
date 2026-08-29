@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-monero,Monero,xmr,470.79,2.13395,gainer,1,2026-08-29
-figure-heloc,Figure Heloc,figr_heloc,1.04,2.09421,gainer,2,2026-08-29
-rain,Rain,rain,0.01766626,1.91896,gainer,3,2026-08-29
-leo-token,LEO Token,leo,9.52,1.65307,gainer,4,2026-08-29
-official-trump,Official Trump,trump,2.77,0.85385,gainer,5,2026-08-29
-just,JUST,jst,0.098287,0.62943,gainer,6,2026-08-29
-tron,TRON,trx,0.341011,0.62606,gainer,7,2026-08-29
-bitway,Bitway,btw,0.400814,0.57483,gainer,8,2026-08-29
-htx-dao,HTX DAO,htx,1.69e-06,0.15388,gainer,9,2026-08-29
-hashnote-usyc,Circle USYC,usyc,1.14,0.02837,gainer,10,2026-08-29
-venice-token,Venice Token,vvv,16.01,-10.86484,loser,1,2026-08-29
-bitcoin-cash,Bitcoin Cash,bch,245.83,-8.94281,loser,2,2026-08-29
-worldcoin-wld,Worldcoin,wld,0.378084,-8.93873,loser,3,2026-08-29
-jupiter-exchange-solana,Jupiter,jup,0.220286,-8.52121,loser,4,2026-08-29
-lighter,Lighter,lit,3.44,-7.54875,loser,5,2026-08-29
-ethena,Ethena,ena,0.161684,-7.48244,loser,6,2026-08-29
-ondo-finance,Ondo,ondo,0.353736,-7.25849,loser,7,2026-08-29
-crypto-com-chain,Cronos,cro,0.056865,-7.14016,loser,8,2026-08-29
-near,NEAR Protocol,near,1.81,-7.04198,loser,9,2026-08-29
-uniswap,Uniswap,uni,4.42,-6.73231,loser,10,2026-08-29
+internet-computer,Internet Computer,icp,2.48,3.22678,gainer,1,2026-08-29
+leo-token,LEO Token,leo,9.66,2.24025,gainer,2,2026-08-29
+just,JUST,jst,0.099675,2.08578,gainer,3,2026-08-29
+zcash,Zcash,zec,806.05,0.78245,gainer,4,2026-08-29
+rain,Rain,rain,0.01763143,0.59322,gainer,5,2026-08-29
+pi-network,Pi Network,pi,0.091782,0.49593,gainer,6,2026-08-29
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,0.41478,gainer,7,2026-08-29
+cosmos,Cosmos Hub,atom,1.49,0.31572,gainer,8,2026-08-29
+figure-heloc,Figure Heloc,figr_heloc,1.04,0.30726,gainer,9,2026-08-29
+beldex,Beldex,bdx,0.079789,0.18888,gainer,10,2026-08-29
+jupiter-exchange-solana,Jupiter,jup,0.217368,-8.83959,loser,1,2026-08-29
+bitcoin-cash,Bitcoin Cash,bch,242.93,-8.26038,loser,2,2026-08-29
+morpho,Morpho,morpho,2.43,-8.0735,loser,3,2026-08-29
+ethena,Ethena,ena,0.154908,-6.69368,loser,4,2026-08-29
+worldcoin-wld,Worldcoin,wld,0.375141,-6.09001,loser,5,2026-08-29
+venice-token,Venice Token,vvv,16.12,-5.89926,loser,6,2026-08-29
+kaspa,Kaspa,kas,0.02758004,-5.85384,loser,7,2026-08-29
+uniswap,Uniswap,uni,4.39,-5.35933,loser,8,2026-08-29
+ether-fi,Ether.fi,ethfi,0.533072,-5.31548,loser,9,2026-08-29
+memecore,MemeCore,m,1.027,-5.29191,loser,10,2026-08-29
