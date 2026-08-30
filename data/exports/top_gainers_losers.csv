@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,41.35,9.52123,gainer,1,2026-08-29
-canton-network,Canton,cc,0.118355,7.67217,gainer,2,2026-08-29
-internet-computer,Internet Computer,icp,2.51,6.65931,gainer,3,2026-08-29
-uniswap,Uniswap,uni,4.64,5.70565,gainer,4,2026-08-29
-zcash,Zcash,zec,834.81,4.52478,gainer,5,2026-08-29
-gatechain-token,Gate,gt,8.19,4.39461,gainer,6,2026-08-29
-pump-fun,Pump.fun,pump,0.00484356,4.34774,gainer,7,2026-08-29
-okb,OKB,okb,113.17,4.33153,gainer,8,2026-08-29
-memecore,MemeCore,m,1.086,4.25193,gainer,9,2026-08-29
-hyperliquid,Hyperliquid,hype,82.89,3.93917,gainer,10,2026-08-29
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.102351,-4.46718,loser,1,2026-08-29
-ethena,Ethena,ena,0.15587,-2.49765,loser,2,2026-08-29
-worldcoin-wld,Worldcoin,wld,0.37563,-1.39193,loser,3,2026-08-29
-hedera-hashgraph,Hedera,hbar,0.07552,-1.20446,loser,4,2026-08-29
-flare-networks,Flare,flr,0.00628557,-0.89273,loser,5,2026-08-29
-kaspa,Kaspa,kas,0.02781065,-0.86371,loser,6,2026-08-29
-kucoin-shares,KuCoin,kcs,6.88,-0.80643,loser,7,2026-08-29
-litecoin,Litecoin,ltc,48.88,-0.74357,loser,8,2026-08-29
-tron,TRON,trx,0.339246,-0.55992,loser,9,2026-08-29
-pepe,Pepe,pepe,3.66e-06,-0.52775,loser,10,2026-08-29
+bitway,Bitway,btw,0.450707,13.79119,gainer,1,2026-08-30
+pump-fun,Pump.fun,pump,0.00502195,8.18616,gainer,2,2026-08-30
+dash,Dash,dash,41.4,6.88826,gainer,3,2026-08-30
+canton-network,Canton,cc,0.117947,6.51614,gainer,4,2026-08-30
+uniswap,Uniswap,uni,4.71,6.07397,gainer,5,2026-08-30
+okb,OKB,okb,114.91,4.58919,gainer,6,2026-08-30
+memecore,MemeCore,m,1.079,4.41157,gainer,7,2026-08-30
+venice-token,Venice Token,vvv,16.66,4.30943,gainer,8,2026-08-30
+vechain,VeChain,vet,0.0070136,3.62917,gainer,9,2026-08-30
+lighter,Lighter,lit,3.55,3.57079,gainer,10,2026-08-30
+official-trump,Official Trump,trump,2.63,-4.29035,loser,1,2026-08-30
+figure-heloc,Figure Heloc,figr_heloc,1.0,-3.82582,loser,2,2026-08-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.104303,-1.89695,loser,3,2026-08-30
+jupiter-exchange-solana,Jupiter,jup,0.217033,-1.67799,loser,4,2026-08-30
+pudgy-penguins,Pudgy Penguins,pengu,0.00906901,-1.65861,loser,5,2026-08-30
+arbitrum,Arbitrum,arb,0.086709,-1.63858,loser,6,2026-08-30
+polkadot,Polkadot,dot,0.835004,-1.31636,loser,7,2026-08-30
+bittensor,Bittensor,tao,233.91,-1.30985,loser,8,2026-08-30
+filecoin,Filecoin,fil,0.676736,-1.16522,loser,9,2026-08-30
+kaspa,Kaspa,kas,0.02748049,-1.15437,loser,10,2026-08-30
