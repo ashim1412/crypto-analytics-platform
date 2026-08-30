@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,5.16,14.9147,gainer,1,2026-08-30
-monero,Monero,xmr,508.29,9.20287,gainer,2,2026-08-30
-pancakeswap-token,PancakeSwap,cake,1.86,7.89996,gainer,3,2026-08-30
-zcash,Zcash,zec,874.61,4.55685,gainer,4,2026-08-30
-crypto-com-chain,Cronos,cro,0.060026,4.03859,gainer,5,2026-08-30
-vechain,VeChain,vet,0.00702184,3.94436,gainer,6,2026-08-30
-sky,Sky,sky,0.070855,3.48487,gainer,7,2026-08-30
-nexo,NEXO,nexo,0.852172,3.48438,gainer,8,2026-08-30
-venice-token,Venice Token,vvv,16.74,3.44938,gainer,9,2026-08-30
-memecore,MemeCore,m,1.086,3.20774,gainer,10,2026-08-30
-official-trump,Official Trump,trump,2.54,-4.88944,loser,1,2026-08-30
-just,JUST,jst,0.095316,-4.21328,loser,2,2026-08-30
-figure-heloc,Figure Heloc,figr_heloc,1.0,-3.85586,loser,3,2026-08-30
-internet-computer,Internet Computer,icp,2.46,-2.53157,loser,4,2026-08-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.10273,-2.06365,loser,5,2026-08-30
-cosmos,Cosmos Hub,atom,1.49,-1.31747,loser,6,2026-08-30
-rain,Rain,rain,0.0174338,-1.18439,loser,7,2026-08-30
-ethereum-classic,Ethereum Classic,etc,7.45,-1.13434,loser,8,2026-08-30
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,-0.89345,loser,9,2026-08-30
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.89345,loser,10,2026-08-30
+uniswap,Uniswap,uni,5.35,14.95905,gainer,1,2026-08-30
+mantle,Mantle,mnt,0.571968,10.22855,gainer,2,2026-08-30
+lighter,Lighter,lit,3.87,10.05161,gainer,3,2026-08-30
+pancakeswap-token,PancakeSwap,cake,1.86,8.136,gainer,4,2026-08-30
+monero,Monero,xmr,492.36,6.37373,gainer,5,2026-08-30
+dash,Dash,dash,43.85,5.72779,gainer,6,2026-08-30
+venice-token,Venice Token,vvv,17.3,4.72412,gainer,7,2026-08-30
+vechain,VeChain,vet,0.00702856,4.35417,gainer,8,2026-08-30
+sky,Sky,sky,0.07101,4.02193,gainer,9,2026-08-30
+crypto-com-chain,Cronos,cro,0.059496,3.46715,gainer,10,2026-08-30
+bitway,Bitway,btw,0.405464,-6.59622,loser,1,2026-08-30
+official-trump,Official Trump,trump,2.53,-5.68902,loser,2,2026-08-30
+figure-heloc,Figure Heloc,figr_heloc,1.0,-4.30639,loser,3,2026-08-30
+just,JUST,jst,0.09501,-4.02661,loser,4,2026-08-30
+pump-fun,Pump.fun,pump,0.00473179,-2.3994,loser,5,2026-08-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.099846,-2.32068,loser,6,2026-08-30
+internet-computer,Internet Computer,icp,2.45,-2.209,loser,7,2026-08-30
+rain,Rain,rain,0.01735531,-1.58018,loser,8,2026-08-30
+ethereum-classic,Ethereum Classic,etc,7.45,-1.18924,loser,9,2026-08-30
+render-token,Render,render,1.45,-0.63753,loser,10,2026-08-30
