@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,5.11,8.80217,gainer,1,2026-08-31
-pancakeswap-token,PancakeSwap,cake,1.81,5.76692,gainer,2,2026-08-31
-mantle,Mantle,mnt,0.54663,5.68509,gainer,3,2026-08-31
-monero,Monero,xmr,494.93,4.61676,gainer,4,2026-08-31
-nexo,NEXO,nexo,0.856073,2.79465,gainer,5,2026-08-31
-morpho,Morpho,morpho,2.45,1.57551,gainer,6,2026-08-31
-kucoin-shares,KuCoin,kcs,6.94,1.1919,gainer,7,2026-08-31
-flare-networks,Flare,flr,0.00633123,0.98078,gainer,8,2026-08-31
-venice-token,Venice Token,vvv,16.8,0.7644,gainer,9,2026-08-31
-memecore,MemeCore,m,1.086,0.65333,gainer,10,2026-08-31
-pump-fun,Pump.fun,pump,0.0043996,-12.29165,loser,1,2026-08-31
-bitway,Bitway,btw,0.399469,-11.52878,loser,2,2026-08-31
-official-trump,Official Trump,trump,2.33,-11.25082,loser,3,2026-08-31
-ethena,Ethena,ena,0.14686,-8.30773,loser,4,2026-08-31
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095714,-8.21806,loser,5,2026-08-31
-pepe,Pepe,pepe,3.41e-06,-6.02765,loser,6,2026-08-31
-pudgy-penguins,Pudgy Penguins,pengu,0.00859567,-5.17142,loser,7,2026-08-31
-worldcoin-wld,Worldcoin,wld,0.357556,-5.09214,loser,8,2026-08-31
-rain,Rain,rain,0.01663412,-5.07639,loser,9,2026-08-31
-jupiter-exchange-solana,Jupiter,jup,0.206168,-4.99045,loser,10,2026-08-31
+monero,Monero,xmr,536.84,12.34725,gainer,1,2026-08-31
+mantle,Mantle,mnt,0.569585,7.52394,gainer,2,2026-08-31
+dash,Dash,dash,44.11,6.62508,gainer,3,2026-08-31
+pancakeswap-token,PancakeSwap,cake,1.87,5.59661,gainer,4,2026-08-31
+lighter,Lighter,lit,3.68,5.44353,gainer,5,2026-08-31
+morpho,Morpho,morpho,2.58,4.83779,gainer,6,2026-08-31
+venice-token,Venice Token,vvv,17.14,2.51956,gainer,7,2026-08-31
+bitway,Bitway,btw,0.409321,1.52859,gainer,8,2026-08-31
+leo-token,LEO Token,leo,9.62,1.38659,gainer,9,2026-08-31
+canton-network,Canton,cc,0.119692,1.10624,gainer,10,2026-08-31
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.089335,-14.55315,loser,1,2026-08-31
+pump-fun,Pump.fun,pump,0.00429864,-10.59387,loser,2,2026-08-31
+official-trump,Official Trump,trump,2.37,-6.20164,loser,3,2026-08-31
+ethena,Ethena,ena,0.149179,-4.98524,loser,4,2026-08-31
+pudgy-penguins,Pudgy Penguins,pengu,0.00872614,-4.83542,loser,5,2026-08-31
+worldcoin-wld,Worldcoin,wld,0.359345,-4.44127,loser,6,2026-08-31
+rain,Rain,rain,0.01683874,-3.74324,loser,7,2026-08-31
+bittensor,Bittensor,tao,229.44,-3.51923,loser,8,2026-08-31
+render-token,Render,render,1.41,-3.34181,loser,9,2026-08-31
+polkadot,Polkadot,dot,0.826281,-3.10417,loser,10,2026-08-31
