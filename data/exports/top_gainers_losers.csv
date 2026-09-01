@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,47.56,9.16755,gainer,1,2026-08-31
-monero,Monero,xmr,527.05,7.22807,gainer,2,2026-08-31
-arbitrum,Arbitrum,arb,0.095408,6.06019,gainer,3,2026-08-31
-flare-networks,Flare,flr,0.0068688,5.28581,gainer,4,2026-08-31
-morpho,Morpho,morpho,2.64,4.88845,gainer,5,2026-08-31
-just,JUST,jst,0.098308,3.09194,gainer,6,2026-08-31
-bitway,Bitway,btw,0.409332,2.3297,gainer,7,2026-08-31
-stable-2,​​Stable,stable,0.02732381,1.6654,gainer,8,2026-08-31
-venice-token,Venice Token,vvv,17.41,1.47673,gainer,9,2026-08-31
-memecore,MemeCore,m,1.11,1.28651,gainer,10,2026-08-31
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.091305,-8.75988,loser,1,2026-08-31
-ethena,Ethena,ena,0.151211,-7.48673,loser,2,2026-08-31
-crypto-com-chain,Cronos,cro,0.056387,-7.35756,loser,3,2026-08-31
-worldcoin-wld,Worldcoin,wld,0.363958,-6.36039,loser,4,2026-08-31
-pump-fun,Pump.fun,pump,0.00447281,-6.12866,loser,5,2026-08-31
-pudgy-penguins,Pudgy Penguins,pengu,0.00879293,-5.16049,loser,6,2026-08-31
-bittensor,Bittensor,tao,229.81,-4.52925,loser,7,2026-08-31
-uniswap,Uniswap,uni,5.21,-4.47958,loser,8,2026-08-31
-pepe,Pepe,pepe,3.6e-06,-4.14906,loser,9,2026-08-31
-official-trump,Official Trump,trump,2.46,-4.0894,loser,10,2026-08-31
+arbitrum,Arbitrum,arb,0.112635,31.98885,gainer,1,2026-09-01
+flare-networks,Flare,flr,0.007223,14.1021,gainer,2,2026-09-01
+dash,Dash,dash,45.22,9.98141,gainer,3,2026-09-01
+stable-2,​​Stable,stable,0.02844659,7.8838,gainer,4,2026-09-01
+jupiter-exchange-solana,Jupiter,jup,0.221063,7.46157,gainer,5,2026-09-01
+canton-network,Canton,cc,0.123112,5.34083,gainer,6,2026-09-01
+ether-fi,Ether.fi,ethfi,0.56718,5.27505,gainer,7,2026-09-01
+just,JUST,jst,0.09964,5.1076,gainer,8,2026-09-01
+the-open-network,Gram (prev. Toncoin),gram,1.39,4.17396,gainer,9,2026-09-01
+near,NEAR Protocol,near,1.93,3.98567,gainer,10,2026-09-01
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.091269,-4.64327,loser,1,2026-09-01
+leo-token,LEO Token,leo,9.35,-2.76343,loser,2,2026-09-01
+sky,Sky,sky,0.067431,-1.77516,loser,3,2026-09-01
+rain,Rain,rain,0.0166298,-1.71503,loser,4,2026-09-01
+vechain,VeChain,vet,0.00673346,-1.6584,loser,5,2026-09-01
+nexo,NEXO,nexo,0.841728,-1.58538,loser,6,2026-09-01
+mantle,Mantle,mnt,0.547798,-1.44015,loser,7,2026-09-01
+venice-token,Venice Token,vvv,16.73,-1.29896,loser,8,2026-09-01
+tron,TRON,trx,0.33185,-1.27015,loser,9,2026-09-01
+htx-dao,HTX DAO,htx,1.65e-06,-0.42683,loser,10,2026-09-01
