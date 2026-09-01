@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.11137,29.42202,gainer,1,2026-09-01
-curve-dao-token,Curve DAO,crv,0.358346,15.87512,gainer,2,2026-09-01
-uniswap,Uniswap,uni,5.75,11.82196,gainer,3,2026-09-01
-stable-2,​​Stable,stable,0.02838722,6.95278,gainer,4,2026-09-01
-just,JUST,jst,0.101518,6.25315,gainer,5,2026-09-01
-algorand,Algorand,algo,0.090085,6.08179,gainer,6,2026-09-01
-flare-networks,Flare,flr,0.00681313,5.93019,gainer,7,2026-09-01
-ether-fi,Ether.fi,ethfi,0.570773,5.49184,gainer,8,2026-09-01
-polkadot,Polkadot,dot,0.869974,4.84756,gainer,9,2026-09-01
-jupiter-exchange-solana,Jupiter,jup,0.218355,4.53772,gainer,10,2026-09-01
-bitway,Bitway,btw,0.382649,-6.25802,loser,1,2026-09-01
-mantle,Mantle,mnt,0.541837,-5.12728,loser,2,2026-09-01
-vechain,VeChain,vet,0.00668404,-3.8556,loser,3,2026-09-01
-venice-token,Venice Token,vvv,16.82,-2.93458,loser,4,2026-09-01
-leo-token,LEO Token,leo,9.37,-2.74022,loser,5,2026-09-01
-monero,Monero,xmr,528.86,-2.33699,loser,6,2026-09-01
-pepe,Pepe,pepe,3.49e-06,-2.18363,loser,7,2026-09-01
-tron,TRON,trx,0.328607,-2.17566,loser,8,2026-09-01
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.092356,-1.59407,loser,9,2026-09-01
-xdce-crowd-sale,XDC Network,xdc,0.02750636,-1.45307,loser,10,2026-09-01
+arbitrum,Arbitrum,arb,0.108704,24.80602,gainer,1,2026-09-01
+curve-dao-token,Curve DAO,crv,0.361442,14.93709,gainer,2,2026-09-01
+uniswap,Uniswap,uni,5.74,11.48518,gainer,3,2026-09-01
+near,NEAR Protocol,near,2.02,7.95483,gainer,4,2026-09-01
+ether-fi,Ether.fi,ethfi,0.575842,6.64008,gainer,5,2026-09-01
+filecoin,Filecoin,fil,0.712612,6.46969,gainer,6,2026-09-01
+ethena,Ethena,ena,0.161755,6.32423,gainer,7,2026-09-01
+jupiter-exchange-solana,Jupiter,jup,0.224083,5.50304,gainer,8,2026-09-01
+flare-networks,Flare,flr,0.00684671,5.38527,gainer,9,2026-09-01
+polkadot,Polkadot,dot,0.866931,4.98597,gainer,10,2026-09-01
+venice-token,Venice Token,vvv,16.12,-5.27803,loser,1,2026-09-01
+mantle,Mantle,mnt,0.538954,-4.8786,loser,2,2026-09-01
+morpho,Morpho,morpho,2.55,-4.07211,loser,3,2026-09-01
+rain,Rain,rain,0.01657492,-3.09492,loser,4,2026-09-01
+leo-token,LEO Token,leo,9.39,-2.63319,loser,5,2026-09-01
+memecore,MemeCore,m,1.052,-2.38857,loser,6,2026-09-01
+tron,TRON,trx,0.325292,-2.16349,loser,7,2026-09-01
+figure-heloc,Figure Heloc,figr_heloc,1.013,-1.97183,loser,8,2026-09-01
+htx-dao,HTX DAO,htx,1.62e-06,-1.74072,loser,9,2026-09-01
+bitway,Bitway,btw,0.402306,-1.5878,loser,10,2026-09-01
