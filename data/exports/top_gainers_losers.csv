@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.108704,24.80602,gainer,1,2026-09-01
-curve-dao-token,Curve DAO,crv,0.361442,14.93709,gainer,2,2026-09-01
-uniswap,Uniswap,uni,5.74,11.48518,gainer,3,2026-09-01
-near,NEAR Protocol,near,2.02,7.95483,gainer,4,2026-09-01
-ether-fi,Ether.fi,ethfi,0.575842,6.64008,gainer,5,2026-09-01
-filecoin,Filecoin,fil,0.712612,6.46969,gainer,6,2026-09-01
-ethena,Ethena,ena,0.161755,6.32423,gainer,7,2026-09-01
-jupiter-exchange-solana,Jupiter,jup,0.224083,5.50304,gainer,8,2026-09-01
-flare-networks,Flare,flr,0.00684671,5.38527,gainer,9,2026-09-01
-polkadot,Polkadot,dot,0.866931,4.98597,gainer,10,2026-09-01
-venice-token,Venice Token,vvv,16.12,-5.27803,loser,1,2026-09-01
-mantle,Mantle,mnt,0.538954,-4.8786,loser,2,2026-09-01
-morpho,Morpho,morpho,2.55,-4.07211,loser,3,2026-09-01
-rain,Rain,rain,0.01657492,-3.09492,loser,4,2026-09-01
-leo-token,LEO Token,leo,9.39,-2.63319,loser,5,2026-09-01
-memecore,MemeCore,m,1.052,-2.38857,loser,6,2026-09-01
-tron,TRON,trx,0.325292,-2.16349,loser,7,2026-09-01
-figure-heloc,Figure Heloc,figr_heloc,1.013,-1.97183,loser,8,2026-09-01
-htx-dao,HTX DAO,htx,1.62e-06,-1.74072,loser,9,2026-09-01
-bitway,Bitway,btw,0.402306,-1.5878,loser,10,2026-09-01
+filecoin,Filecoin,fil,0.787757,15.77449,gainer,1,2026-09-01
+curve-dao-token,Curve DAO,crv,0.373085,15.73043,gainer,2,2026-09-01
+arbitrum,Arbitrum,arb,0.107137,8.97346,gainer,3,2026-09-01
+uniswap,Uniswap,uni,5.67,8.85214,gainer,4,2026-09-01
+sky,Sky,sky,0.072481,5.68218,gainer,5,2026-09-01
+ethena,Ethena,ena,0.156942,5.12558,gainer,6,2026-09-01
+polkadot,Polkadot,dot,0.871551,4.21311,gainer,7,2026-09-01
+just,JUST,jst,0.103052,4.0885,gainer,8,2026-09-01
+internet-computer,Internet Computer,icp,2.49,3.83292,gainer,9,2026-09-01
+bitway,Bitway,btw,0.424609,3.56352,gainer,10,2026-09-01
+canton-network,Canton,cc,0.113921,-8.4356,loser,1,2026-09-01
+venice-token,Venice Token,vvv,16.01,-7.33113,loser,2,2026-09-01
+official-trump,Official Trump,trump,2.28,-6.31133,loser,3,2026-09-01
+mantle,Mantle,mnt,0.532785,-5.62364,loser,4,2026-09-01
+morpho,Morpho,morpho,2.54,-4.96817,loser,5,2026-09-01
+flare-networks,Flare,flr,0.00665622,-4.46672,loser,6,2026-09-01
+figure-heloc,Figure Heloc,figr_heloc,1.013,-3.92927,loser,7,2026-09-01
+zcash,Zcash,zec,825.95,-3.77694,loser,8,2026-09-01
+pancakeswap-token,PancakeSwap,cake,1.79,-3.7434,loser,9,2026-09-01
+dash,Dash,dash,43.55,-3.73194,loser,10,2026-09-01
