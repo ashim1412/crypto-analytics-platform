@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-filecoin,Filecoin,fil,0.766828,11.66618,gainer,1,2026-09-02
-uniswap,Uniswap,uni,5.8,9.12245,gainer,2,2026-09-02
-sky,Sky,sky,0.072923,7.79903,gainer,3,2026-09-02
-curve-dao-token,Curve DAO,crv,0.367112,5.28962,gainer,4,2026-09-02
-figure-heloc,Figure Heloc,figr_heloc,1.046,4.37468,gainer,5,2026-09-02
-morpho,Morpho,morpho,2.61,4.19363,gainer,6,2026-09-02
-ethena,Ethena,ena,0.156948,3.81226,gainer,7,2026-09-02
-quant-network,Quant,qnt,63.63,3.81122,gainer,8,2026-09-02
-rain,Rain,rain,0.01724655,3.29781,gainer,9,2026-09-02
-pi-network,Pi Network,pi,0.093078,1.89539,gainer,10,2026-09-02
-flare-networks,Flare,flr,0.00655452,-8.77433,loser,1,2026-09-02
-arbitrum,Arbitrum,arb,0.109066,-8.447,loser,2,2026-09-02
-official-trump,Official Trump,trump,2.23,-7.16537,loser,3,2026-09-02
-dash,Dash,dash,42.21,-6.99859,loser,4,2026-09-02
-canton-network,Canton,cc,0.113248,-6.92068,loser,5,2026-09-02
-the-open-network,Gram (prev. Toncoin),gram,1.31,-6.54865,loser,6,2026-09-02
-jupiter-exchange-solana,Jupiter,jup,0.209591,-6.17485,loser,7,2026-09-02
-pump-fun,Pump.fun,pump,0.00429494,-5.98952,loser,8,2026-09-02
-bittensor,Bittensor,tao,216.61,-5.9279,loser,9,2026-09-02
-near,NEAR Protocol,near,1.84,-5.33712,loser,10,2026-09-02
+filecoin,Filecoin,fil,0.786887,12.9299,gainer,1,2026-09-02
+bitway,Bitway,btw,0.442939,8.99867,gainer,2,2026-09-02
+uniswap,Uniswap,uni,6.07,6.8269,gainer,3,2026-09-02
+internet-computer,Internet Computer,icp,2.53,5.53767,gainer,4,2026-09-02
+quant-network,Quant,qnt,64.41,4.90007,gainer,5,2026-09-02
+sky,Sky,sky,0.070744,4.2996,gainer,6,2026-09-02
+curve-dao-token,Curve DAO,crv,0.36696,3.24124,gainer,7,2026-09-02
+arbitrum,Arbitrum,arb,0.112956,2.81265,gainer,8,2026-09-02
+pi-network,Pi Network,pi,0.093389,2.27269,gainer,9,2026-09-02
+just,JUST,jst,0.103614,1.69728,gainer,10,2026-09-02
+official-trump,Official Trump,trump,2.21,-6.35609,loser,1,2026-09-02
+venice-token,Venice Token,vvv,15.91,-4.83887,loser,2,2026-09-02
+near,NEAR Protocol,near,1.83,-4.59336,loser,3,2026-09-02
+canton-network,Canton,cc,0.113676,-4.5776,loser,4,2026-09-02
+bittensor,Bittensor,tao,216.43,-4.27121,loser,5,2026-09-02
+zcash,Zcash,zec,806.86,-4.261,loser,6,2026-09-02
+lighter,Lighter,lit,3.53,-4.14807,loser,7,2026-09-02
+pump-fun,Pump.fun,pump,0.00421136,-4.14406,loser,8,2026-09-02
+okb,OKB,okb,106.7,-3.89972,loser,9,2026-09-02
+solana,Solana,sol,98.42,-3.52767,loser,10,2026-09-02
