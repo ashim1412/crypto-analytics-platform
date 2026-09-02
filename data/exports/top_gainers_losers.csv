@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-filecoin,Filecoin,fil,0.787757,15.77449,gainer,1,2026-09-01
-curve-dao-token,Curve DAO,crv,0.373085,15.73043,gainer,2,2026-09-01
-arbitrum,Arbitrum,arb,0.107137,8.97346,gainer,3,2026-09-01
-uniswap,Uniswap,uni,5.67,8.85214,gainer,4,2026-09-01
-sky,Sky,sky,0.072481,5.68218,gainer,5,2026-09-01
-ethena,Ethena,ena,0.156942,5.12558,gainer,6,2026-09-01
-polkadot,Polkadot,dot,0.871551,4.21311,gainer,7,2026-09-01
-just,JUST,jst,0.103052,4.0885,gainer,8,2026-09-01
-internet-computer,Internet Computer,icp,2.49,3.83292,gainer,9,2026-09-01
-bitway,Bitway,btw,0.424609,3.56352,gainer,10,2026-09-01
-canton-network,Canton,cc,0.113921,-8.4356,loser,1,2026-09-01
-venice-token,Venice Token,vvv,16.01,-7.33113,loser,2,2026-09-01
-official-trump,Official Trump,trump,2.28,-6.31133,loser,3,2026-09-01
-mantle,Mantle,mnt,0.532785,-5.62364,loser,4,2026-09-01
-morpho,Morpho,morpho,2.54,-4.96817,loser,5,2026-09-01
-flare-networks,Flare,flr,0.00665622,-4.46672,loser,6,2026-09-01
-figure-heloc,Figure Heloc,figr_heloc,1.013,-3.92927,loser,7,2026-09-01
-zcash,Zcash,zec,825.95,-3.77694,loser,8,2026-09-01
-pancakeswap-token,PancakeSwap,cake,1.79,-3.7434,loser,9,2026-09-01
-dash,Dash,dash,43.55,-3.73194,loser,10,2026-09-01
+filecoin,Filecoin,fil,0.766828,11.66618,gainer,1,2026-09-02
+uniswap,Uniswap,uni,5.8,9.12245,gainer,2,2026-09-02
+sky,Sky,sky,0.072923,7.79903,gainer,3,2026-09-02
+curve-dao-token,Curve DAO,crv,0.367112,5.28962,gainer,4,2026-09-02
+figure-heloc,Figure Heloc,figr_heloc,1.046,4.37468,gainer,5,2026-09-02
+morpho,Morpho,morpho,2.61,4.19363,gainer,6,2026-09-02
+ethena,Ethena,ena,0.156948,3.81226,gainer,7,2026-09-02
+quant-network,Quant,qnt,63.63,3.81122,gainer,8,2026-09-02
+rain,Rain,rain,0.01724655,3.29781,gainer,9,2026-09-02
+pi-network,Pi Network,pi,0.093078,1.89539,gainer,10,2026-09-02
+flare-networks,Flare,flr,0.00655452,-8.77433,loser,1,2026-09-02
+arbitrum,Arbitrum,arb,0.109066,-8.447,loser,2,2026-09-02
+official-trump,Official Trump,trump,2.23,-7.16537,loser,3,2026-09-02
+dash,Dash,dash,42.21,-6.99859,loser,4,2026-09-02
+canton-network,Canton,cc,0.113248,-6.92068,loser,5,2026-09-02
+the-open-network,Gram (prev. Toncoin),gram,1.31,-6.54865,loser,6,2026-09-02
+jupiter-exchange-solana,Jupiter,jup,0.209591,-6.17485,loser,7,2026-09-02
+pump-fun,Pump.fun,pump,0.00429494,-5.98952,loser,8,2026-09-02
+bittensor,Bittensor,tao,216.61,-5.9279,loser,9,2026-09-02
+near,NEAR Protocol,near,1.84,-5.33712,loser,10,2026-09-02
