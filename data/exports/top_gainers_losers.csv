@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.451603,12.68625,gainer,1,2026-09-02
-filecoin,Filecoin,fil,0.768549,8.35936,gainer,2,2026-09-02
-just,JUST,jst,0.106634,6.71237,gainer,3,2026-09-02
-arbitrum,Arbitrum,arb,0.115553,6.19783,gainer,4,2026-09-02
-aster-2,Aster,aster,0.72108,4.00964,gainer,5,2026-09-02
-figure-heloc,Figure Heloc,figr_heloc,1.039,2.57871,gainer,6,2026-09-02
-mantle,Mantle,mnt,0.550143,2.13345,gainer,7,2026-09-02
-pi-network,Pi Network,pi,0.09355,1.91556,gainer,8,2026-09-02
-uniswap,Uniswap,uni,5.83,1.80183,gainer,9,2026-09-02
-algorand,Algorand,algo,0.090139,1.77195,gainer,10,2026-09-02
-near,NEAR Protocol,near,1.84,-8.78601,loser,1,2026-09-02
-official-trump,Official Trump,trump,2.18,-7.35709,loser,2,2026-09-02
-pump-fun,Pump.fun,pump,0.00411656,-6.86059,loser,3,2026-09-02
-ethena,Ethena,ena,0.149995,-6.83964,loser,4,2026-09-02
-dash,Dash,dash,41.9,-5.66276,loser,5,2026-09-02
-lighter,Lighter,lit,3.59,-5.56879,loser,6,2026-09-02
-canton-network,Canton,cc,0.109822,-5.54429,loser,7,2026-09-02
-jupiter-exchange-solana,Jupiter,jup,0.210283,-5.51861,loser,8,2026-09-02
-zcash,Zcash,zec,809.93,-4.72406,loser,9,2026-09-02
-worldcoin-wld,Worldcoin,wld,0.355261,-4.34338,loser,10,2026-09-02
+bitway,Bitway,btw,0.499945,17.92512,gainer,1,2026-09-02
+arbitrum,Arbitrum,arb,0.124694,16.29427,gainer,2,2026-09-02
+aster-2,Aster,aster,0.738145,6.74214,gainer,3,2026-09-02
+mantle,Mantle,mnt,0.558341,4.81263,gainer,4,2026-09-02
+algorand,Algorand,algo,0.092268,4.43923,gainer,5,2026-09-02
+just,JUST,jst,0.107379,4.26403,gainer,6,2026-09-02
+uniswap,Uniswap,uni,5.86,3.37978,gainer,7,2026-09-02
+lighter,Lighter,lit,3.73,3.21616,gainer,8,2026-09-02
+sui,Sui,sui,0.741941,2.62374,gainer,9,2026-09-02
+monero,Monero,xmr,512.82,2.52874,gainer,10,2026-09-02
+pump-fun,Pump.fun,pump,0.00408562,-5.96391,loser,1,2026-09-02
+sky,Sky,sky,0.068616,-5.38618,loser,2,2026-09-02
+curve-dao-token,Curve DAO,crv,0.354975,-4.93948,loser,3,2026-09-02
+ethena,Ethena,ena,0.149813,-4.59346,loser,4,2026-09-02
+okb,OKB,okb,105.78,-4.03552,loser,5,2026-09-02
+official-trump,Official Trump,trump,2.19,-3.84519,loser,6,2026-09-02
+canton-network,Canton,cc,0.110429,-3.12069,loser,7,2026-09-02
+dash,Dash,dash,42.55,-2.2841,loser,8,2026-09-02
+bittensor,Bittensor,tao,217.76,-2.18273,loser,9,2026-09-02
+pepe,Pepe,pepe,3.42e-06,-2.03657,loser,10,2026-09-02
