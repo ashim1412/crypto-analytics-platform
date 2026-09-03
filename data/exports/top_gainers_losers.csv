@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.139069,23.58208,gainer,1,2026-09-03
-pancakeswap-token,PancakeSwap,cake,1.96,8.7537,gainer,2,2026-09-03
-lighter,Lighter,lit,3.82,8.63477,gainer,3,2026-09-03
-sui,Sui,sui,0.762335,7.07523,gainer,4,2026-09-03
-cardano,Cardano,ada,0.206801,7.02696,gainer,5,2026-09-03
-kaspa,Kaspa,kas,0.02888423,5.28006,gainer,6,2026-09-03
-hedera-hashgraph,Hedera,hbar,0.076574,4.54068,gainer,7,2026-09-03
-worldcoin-wld,Worldcoin,wld,0.373827,4.41186,gainer,8,2026-09-03
-algorand,Algorand,algo,0.092423,4.35889,gainer,9,2026-09-03
-just,JUST,jst,0.108183,4.32285,gainer,10,2026-09-03
-bitway,Bitway,btw,0.416162,-6.17604,loser,1,2026-09-03
-sky,Sky,sky,0.066571,-5.69162,loser,2,2026-09-03
-morpho,Morpho,morpho,2.44,-3.44875,loser,3,2026-09-03
-canton-network,Canton,cc,0.109525,-2.84638,loser,4,2026-09-03
-figure-heloc,Figure Heloc,figr_heloc,1.013,-1.99827,loser,5,2026-09-03
-world-liberty-financial,World Liberty Financial,wlfi,0.055845,-1.70149,loser,6,2026-09-03
-curve-dao-token,Curve DAO,crv,0.360804,-1.67842,loser,7,2026-09-03
-ethena,Ethena,ena,0.150593,-1.39757,loser,8,2026-09-03
-rain,Rain,rain,0.01656051,-0.97042,loser,9,2026-09-03
-monero,Monero,xmr,512.96,-0.87364,loser,10,2026-09-03
+arbitrum,Arbitrum,arb,0.132513,13.74998,gainer,1,2026-09-03
+lighter,Lighter,lit,4.08,13.44042,gainer,2,2026-09-03
+pancakeswap-token,PancakeSwap,cake,2.0,10.79347,gainer,3,2026-09-03
+cardano,Cardano,ada,0.216401,10.79167,gainer,4,2026-09-03
+pepe,Pepe,pepe,3.72e-06,9.69166,gainer,5,2026-09-03
+jupiter-exchange-solana,Jupiter,jup,0.231061,9.54258,gainer,6,2026-09-03
+ether-fi,Ether.fi,ethfi,0.588962,9.03528,gainer,7,2026-09-03
+sui,Sui,sui,0.780807,8.60769,gainer,8,2026-09-03
+ripple,XRP,xrp,1.44,8.21761,gainer,9,2026-09-03
+zcash,Zcash,zec,878.58,8.19,gainer,10,2026-09-03
+figure-heloc,Figure Heloc,figr_heloc,1.011,-2.60023,loser,1,2026-09-03
+sky,Sky,sky,0.068456,-2.27845,loser,2,2026-09-03
+morpho,Morpho,morpho,2.44,-1.42668,loser,3,2026-09-03
+monero,Monero,xmr,511.41,-0.79574,loser,4,2026-09-03
+just,JUST,jst,0.106179,-0.47762,loser,5,2026-09-03
+beldex,Beldex,bdx,0.078659,-0.40912,loser,6,2026-09-03
+rain,Rain,rain,0.01672512,-0.36228,loser,7,2026-09-03
+usdgo,USDGO,usdgo,1.0,-0.03069,loser,8,2026-09-03
+blockchain-capital,Blockchain Capital,bcap,106.22,0.0,loser,9,2026-09-03
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-09-03
