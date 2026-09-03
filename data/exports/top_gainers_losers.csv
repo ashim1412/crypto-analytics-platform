@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.125032,14.21453,gainer,1,2026-09-03
-lighter,Lighter,lit,3.92,12.61809,gainer,2,2026-09-03
-bitway,Bitway,btw,0.470283,11.79529,gainer,3,2026-09-03
-filecoin,Filecoin,fil,0.829514,8.03308,gainer,4,2026-09-03
-algorand,Algorand,algo,0.093146,6.64906,gainer,5,2026-09-03
-just,JUST,jst,0.107451,6.37948,gainer,6,2026-09-03
-sui,Sui,sui,0.756686,6.36673,gainer,7,2026-09-03
-cardano,Cardano,ada,0.205203,5.49692,gainer,8,2026-09-03
-aster-2,Aster,aster,0.725144,4.90239,gainer,9,2026-09-03
-mantle,Mantle,mnt,0.562288,4.70607,gainer,10,2026-09-03
-sky,Sky,sky,0.068177,-6.31832,loser,1,2026-09-03
-okb,OKB,okb,103.85,-5.07361,loser,2,2026-09-03
-morpho,Morpho,morpho,2.5,-4.04836,loser,3,2026-09-03
-ethena,Ethena,ena,0.150803,-3.86748,loser,4,2026-09-03
-canton-network,Canton,cc,0.108881,-3.8227,loser,5,2026-09-03
-figure-heloc,Figure Heloc,figr_heloc,1.013,-3.12581,loser,6,2026-09-03
-rain,Rain,rain,0.01672982,-2.9558,loser,7,2026-09-03
-curve-dao-token,Curve DAO,crv,0.361583,-1.65316,loser,8,2026-09-03
-world-liberty-financial,World Liberty Financial,wlfi,0.055949,-1.45113,loser,9,2026-09-03
-pump-fun,Pump.fun,pump,0.00417137,-1.14592,loser,10,2026-09-03
+arbitrum,Arbitrum,arb,0.139069,23.58208,gainer,1,2026-09-03
+pancakeswap-token,PancakeSwap,cake,1.96,8.7537,gainer,2,2026-09-03
+lighter,Lighter,lit,3.82,8.63477,gainer,3,2026-09-03
+sui,Sui,sui,0.762335,7.07523,gainer,4,2026-09-03
+cardano,Cardano,ada,0.206801,7.02696,gainer,5,2026-09-03
+kaspa,Kaspa,kas,0.02888423,5.28006,gainer,6,2026-09-03
+hedera-hashgraph,Hedera,hbar,0.076574,4.54068,gainer,7,2026-09-03
+worldcoin-wld,Worldcoin,wld,0.373827,4.41186,gainer,8,2026-09-03
+algorand,Algorand,algo,0.092423,4.35889,gainer,9,2026-09-03
+just,JUST,jst,0.108183,4.32285,gainer,10,2026-09-03
+bitway,Bitway,btw,0.416162,-6.17604,loser,1,2026-09-03
+sky,Sky,sky,0.066571,-5.69162,loser,2,2026-09-03
+morpho,Morpho,morpho,2.44,-3.44875,loser,3,2026-09-03
+canton-network,Canton,cc,0.109525,-2.84638,loser,4,2026-09-03
+figure-heloc,Figure Heloc,figr_heloc,1.013,-1.99827,loser,5,2026-09-03
+world-liberty-financial,World Liberty Financial,wlfi,0.055845,-1.70149,loser,6,2026-09-03
+curve-dao-token,Curve DAO,crv,0.360804,-1.67842,loser,7,2026-09-03
+ethena,Ethena,ena,0.150593,-1.39757,loser,8,2026-09-03
+rain,Rain,rain,0.01656051,-0.97042,loser,9,2026-09-03
+monero,Monero,xmr,512.96,-0.87364,loser,10,2026-09-03
