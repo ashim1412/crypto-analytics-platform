@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-spx6900,SPX6900,spx,0.670094,27.40439,gainer,1,2026-09-04
-dash,Dash,dash,53.0,24.48457,gainer,2,2026-09-04
-zcash,Zcash,zec,1003.0,20.87251,gainer,3,2026-09-04
-lighter,Lighter,lit,4.57,19.48201,gainer,4,2026-09-04
-ethena,Ethena,ena,0.169943,12.66277,gainer,5,2026-09-04
-bitway,Bitway,btw,0.448088,9.67784,gainer,6,2026-09-04
-monero,Monero,xmr,563.06,9.63016,gainer,7,2026-09-04
-near,NEAR Protocol,near,2.03,8.84096,gainer,8,2026-09-04
-chainlink,Chainlink,link,12.05,8.00829,gainer,9,2026-09-04
-official-trump,Official Trump,trump,2.39,7.86241,gainer,10,2026-09-04
-pump-fun,Pump.fun,pump,0.00424277,-2.18023,loser,1,2026-09-04
-memecore,MemeCore,m,1.056,-1.18268,loser,2,2026-09-04
-filecoin,Filecoin,fil,0.774627,-1.14709,loser,3,2026-09-04
-beldex,Beldex,bdx,0.078868,-0.06495,loser,4,2026-09-04
-falcon-finance,Falcon USD,usdf,0.996252,-0.02728,loser,5,2026-09-04
-usdgo,USDGO,usdgo,1.0,-0.01923,loser,6,2026-09-04
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.0027,loser,7,2026-09-04
-dai,Dai,dai,0.999732,-0.0021,loser,8,2026-09-04
-blockchain-capital,Blockchain Capital,bcap,106.22,0.0,loser,9,2026-09-04
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-09-04
+dash,Dash,dash,50.68,15.97985,gainer,1,2026-09-04
+lighter,Lighter,lit,4.66,14.41075,gainer,2,2026-09-04
+zcash,Zcash,zec,986.44,13.11475,gainer,3,2026-09-04
+spx6900,SPX6900,spx,0.602336,5.90602,gainer,4,2026-09-04
+venice-token,Venice Token,vvv,17.41,4.06554,gainer,5,2026-09-04
+memecore,MemeCore,m,1.11,3.6828,gainer,6,2026-09-04
+stable-2,​​Stable,stable,0.02951201,3.45078,gainer,7,2026-09-04
+figure-heloc,Figure Heloc,figr_heloc,1.033,2.11575,gainer,8,2026-09-04
+just,JUST,jst,0.108386,2.00139,gainer,9,2026-09-04
+ethena,Ethena,ena,0.162755,1.66854,gainer,10,2026-09-04
+jupiter-exchange-solana,Jupiter,jup,0.214736,-7.19612,loser,1,2026-09-04
+filecoin,Filecoin,fil,0.746065,-6.16678,loser,2,2026-09-04
+pepe,Pepe,pepe,3.5e-06,-5.91377,loser,3,2026-09-04
+official-trump,Official Trump,trump,2.25,-4.60859,loser,4,2026-09-04
+sui,Sui,sui,0.746397,-4.48004,loser,5,2026-09-04
+ondo-finance,Ondo,ondo,0.352371,-4.06321,loser,6,2026-09-04
+polkadot,Polkadot,dot,0.851655,-3.94514,loser,7,2026-09-04
+pump-fun,Pump.fun,pump,0.00424404,-3.81199,loser,8,2026-09-04
+ripple,XRP,xrp,1.39,-3.63693,loser,9,2026-09-04
+shiba-inu,Shiba Inu,shib,5.2e-06,-3.62118,loser,10,2026-09-04
