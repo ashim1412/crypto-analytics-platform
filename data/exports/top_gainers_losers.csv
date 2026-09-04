@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,935.17,14.31147,gainer,1,2026-09-04
-lighter,Lighter,lit,4.38,11.23455,gainer,2,2026-09-04
-ethena,Ethena,ena,0.166875,9.94375,gainer,3,2026-09-04
-pancakeswap-token,PancakeSwap,cake,2.01,9.44862,gainer,4,2026-09-04
-arbitrum,Arbitrum,arb,0.136247,8.76089,gainer,5,2026-09-04
-uniswap,Uniswap,uni,6.28,8.60941,gainer,6,2026-09-04
-dash,Dash,dash,46.22,8.18459,gainer,7,2026-09-04
-cardano,Cardano,ada,0.221779,8.01656,gainer,8,2026-09-04
-kaspa,Kaspa,kas,0.02992523,6.12016,gainer,9,2026-09-04
-chainlink,Chainlink,link,11.8,5.88292,gainer,10,2026-09-04
-filecoin,Filecoin,fil,0.779479,-6.10009,loser,1,2026-09-04
-bitway,Bitway,btw,0.450043,-4.87147,loser,2,2026-09-04
-memecore,MemeCore,m,1.04,-2.33834,loser,3,2026-09-04
-morpho,Morpho,morpho,2.45,-2.13424,loser,4,2026-09-04
-aster-2,Aster,aster,0.7126,-1.73347,loser,5,2026-09-04
-algorand,Algorand,algo,0.091885,-1.49928,loser,6,2026-09-04
-pump-fun,Pump.fun,pump,0.00411913,-1.26902,loser,7,2026-09-04
-usdd,USDD,usdd,0.998248,-0.07615,loser,8,2026-09-04
-just,JUST,jst,0.107344,-0.04914,loser,9,2026-09-04
-usdgo,USDGO,usdgo,1.0,-0.02037,loser,10,2026-09-04
+spx6900,SPX6900,spx,0.670094,27.40439,gainer,1,2026-09-04
+dash,Dash,dash,53.0,24.48457,gainer,2,2026-09-04
+zcash,Zcash,zec,1003.0,20.87251,gainer,3,2026-09-04
+lighter,Lighter,lit,4.57,19.48201,gainer,4,2026-09-04
+ethena,Ethena,ena,0.169943,12.66277,gainer,5,2026-09-04
+bitway,Bitway,btw,0.448088,9.67784,gainer,6,2026-09-04
+monero,Monero,xmr,563.06,9.63016,gainer,7,2026-09-04
+near,NEAR Protocol,near,2.03,8.84096,gainer,8,2026-09-04
+chainlink,Chainlink,link,12.05,8.00829,gainer,9,2026-09-04
+official-trump,Official Trump,trump,2.39,7.86241,gainer,10,2026-09-04
+pump-fun,Pump.fun,pump,0.00424277,-2.18023,loser,1,2026-09-04
+memecore,MemeCore,m,1.056,-1.18268,loser,2,2026-09-04
+filecoin,Filecoin,fil,0.774627,-1.14709,loser,3,2026-09-04
+beldex,Beldex,bdx,0.078868,-0.06495,loser,4,2026-09-04
+falcon-finance,Falcon USD,usdf,0.996252,-0.02728,loser,5,2026-09-04
+usdgo,USDGO,usdgo,1.0,-0.01923,loser,6,2026-09-04
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.0027,loser,7,2026-09-04
+dai,Dai,dai,0.999732,-0.0021,loser,8,2026-09-04
+blockchain-capital,Blockchain Capital,bcap,106.22,0.0,loser,9,2026-09-04
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-09-04
