@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,65.33,41.39656,gainer,1,2026-09-05
-near,NEAR Protocol,near,2.23,15.09416,gainer,2,2026-09-05
-lighter,Lighter,lit,4.8,10.49035,gainer,3,2026-09-05
-zcash,Zcash,zec,1018.88,9.02688,gainer,4,2026-09-05
-memecore,MemeCore,m,1.13,8.29133,gainer,5,2026-09-05
-venice-token,Venice Token,vvv,18.07,6.24428,gainer,6,2026-09-05
-morpho,Morpho,morpho,2.55,4.23309,gainer,7,2026-09-05
-aster-2,Aster,aster,0.739365,3.75935,gainer,8,2026-09-05
-pump-fun,Pump.fun,pump,0.00424043,3.00186,gainer,9,2026-09-05
-the-open-network,Gram (prev. Toncoin),gram,1.41,2.92687,gainer,10,2026-09-05
-cardano,Cardano,ada,0.210966,-4.78439,loser,1,2026-09-05
-canton-network,Canton,cc,0.107535,-4.28118,loser,2,2026-09-05
-pepe,Pepe,pepe,3.5e-06,-4.04622,loser,3,2026-09-05
-jupiter-exchange-solana,Jupiter,jup,0.216517,-3.98896,loser,4,2026-09-05
-rain,Rain,rain,0.01644074,-3.89912,loser,5,2026-09-05
-bitcoin-cash,Bitcoin Cash,bch,246.31,-3.61797,loser,6,2026-09-05
-flare-networks,Flare,flr,0.00666941,-3.33433,loser,7,2026-09-05
-hyperliquid,Hyperliquid,hype,84.26,-2.70433,loser,8,2026-09-05
-crypto-com-chain,Cronos,cro,0.055893,-2.56988,loser,9,2026-09-05
-quant-network,Quant,qnt,63.71,-2.50925,loser,10,2026-09-05
+dash,Dash,dash,66.66,25.49542,gainer,1,2026-09-05
+pons,Pons,pons,0.853553,25.26414,gainer,2,2026-09-05
+near,NEAR Protocol,near,2.21,10.97652,gainer,3,2026-09-05
+memecore,MemeCore,m,1.12,8.1891,gainer,4,2026-09-05
+pancakeswap-token,PancakeSwap,cake,2.14,7.38464,gainer,5,2026-09-05
+binancecoin,BNB,bnb,748.43,4.17177,gainer,6,2026-09-05
+venice-token,Venice Token,vvv,17.97,4.11041,gainer,7,2026-09-05
+the-open-network,Gram (prev. Toncoin),gram,1.43,3.55698,gainer,8,2026-09-05
+litecoin,Litecoin,ltc,52.96,3.4301,gainer,9,2026-09-05
+polkadot,Polkadot,dot,0.904144,3.04166,gainer,10,2026-09-05
+spx6900,SPX6900,spx,0.597563,-8.38257,loser,1,2026-09-05
+arbitrum,Arbitrum,arb,0.131785,-5.97761,loser,2,2026-09-05
+curve-dao-token,Curve DAO,crv,0.360027,-4.95069,loser,3,2026-09-05
+cardano,Cardano,ada,0.213475,-4.19685,loser,4,2026-09-05
+monero,Monero,xmr,525.14,-4.04737,loser,5,2026-09-05
+pepe,Pepe,pepe,3.53e-06,-3.95341,loser,6,2026-09-05
+ethena,Ethena,ena,0.163251,-3.87783,loser,7,2026-09-05
+canton-network,Canton,cc,0.108546,-3.72943,loser,8,2026-09-05
+aave,Aave,aave,129.96,-3.29369,loser,9,2026-09-05
+ripple,XRP,xrp,1.41,-3.17213,loser,10,2026-09-05
