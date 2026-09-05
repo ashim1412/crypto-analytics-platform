@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,68.9,36.61872,gainer,1,2026-09-05
-pons,Pons,pons,0.914388,19.22223,gainer,2,2026-09-05
-aster-2,Aster,aster,0.823718,12.95406,gainer,3,2026-09-05
-pancakeswap-token,PancakeSwap,cake,2.21,12.09721,gainer,4,2026-09-05
-near,NEAR Protocol,near,2.2,11.44012,gainer,5,2026-09-05
-gatechain-token,Gate,gt,9.05,9.05938,gainer,6,2026-09-05
-litecoin,Litecoin,ltc,53.96,6.95588,gainer,7,2026-09-05
-polkadot,Polkadot,dot,0.91494,6.53824,gainer,8,2026-09-05
-binancecoin,BNB,bnb,761.47,6.3911,gainer,9,2026-09-05
-official-trump,Official Trump,trump,2.39,5.89306,gainer,10,2026-09-05
-pump-fun,Pump.fun,pump,0.00408973,-4.76584,loser,1,2026-09-05
-quant-network,Quant,qnt,63.82,-2.01634,loser,2,2026-09-05
-ethena,Ethena,ena,0.163697,-1.68896,loser,3,2026-09-05
-rain,Rain,rain,0.0164209,-1.09745,loser,4,2026-09-05
-arbitrum,Arbitrum,arb,0.133556,-1.08563,loser,5,2026-09-05
-bitcoin-cash,Bitcoin Cash,bch,249.72,-0.99045,loser,6,2026-09-05
-aave,Aave,aave,130.03,-0.95458,loser,7,2026-09-05
-flare-networks,Flare,flr,0.00671386,-0.80743,loser,8,2026-09-05
-stable-2,​​Stable,stable,0.02894633,-0.73166,loser,9,2026-09-05
-world-liberty-financial,World Liberty Financial,wlfi,0.056961,-0.72858,loser,10,2026-09-05
+pons,Pons,pons,0.88599,28.90207,gainer,1,2026-09-05
+dash,Dash,dash,67.08,21.71978,gainer,2,2026-09-05
+bianrensheng,币安人生 (BinanceLife),币安人生,0.585447,19.64959,gainer,3,2026-09-05
+uniswap,Uniswap,uni,7.12,15.85486,gainer,4,2026-09-05
+pancakeswap-token,PancakeSwap,cake,2.27,14.37312,gainer,5,2026-09-05
+gatechain-token,Gate,gt,9.32,11.43,gainer,6,2026-09-05
+arbitrum,Arbitrum,arb,0.14647,11.32932,gainer,7,2026-09-05
+binancecoin,BNB,bnb,778.45,8.003,gainer,8,2026-09-05
+dogecoin,Dogecoin,doge,0.090848,7.4565,gainer,9,2026-09-05
+litecoin,Litecoin,ltc,54.31,7.24737,gainer,10,2026-09-05
+pump-fun,Pump.fun,pump,0.00395126,-7.99508,loser,1,2026-09-05
+figure-heloc,Figure Heloc,figr_heloc,1.005,-2.67907,loser,2,2026-09-05
+venice-token,Venice Token,vvv,17.2,-2.59897,loser,3,2026-09-05
+zcash,Zcash,zec,1015.65,-1.59634,loser,4,2026-09-05
+morpho,Morpho,morpho,2.5,-1.4368,loser,5,2026-09-05
+stable-2,​​Stable,stable,0.02887882,-0.95462,loser,6,2026-09-05
+lighter,Lighter,lit,4.74,-0.93532,loser,7,2026-09-05
+flare-networks,Flare,flr,0.00667715,-0.67511,loser,8,2026-09-05
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.5724,loser,9,2026-09-05
+beldex,Beldex,bdx,0.078669,-0.55644,loser,10,2026-09-05
