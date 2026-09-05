@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,66.66,25.49542,gainer,1,2026-09-05
-pons,Pons,pons,0.853553,25.26414,gainer,2,2026-09-05
-near,NEAR Protocol,near,2.21,10.97652,gainer,3,2026-09-05
-memecore,MemeCore,m,1.12,8.1891,gainer,4,2026-09-05
-pancakeswap-token,PancakeSwap,cake,2.14,7.38464,gainer,5,2026-09-05
-binancecoin,BNB,bnb,748.43,4.17177,gainer,6,2026-09-05
-venice-token,Venice Token,vvv,17.97,4.11041,gainer,7,2026-09-05
-the-open-network,Gram (prev. Toncoin),gram,1.43,3.55698,gainer,8,2026-09-05
-litecoin,Litecoin,ltc,52.96,3.4301,gainer,9,2026-09-05
-polkadot,Polkadot,dot,0.904144,3.04166,gainer,10,2026-09-05
-spx6900,SPX6900,spx,0.597563,-8.38257,loser,1,2026-09-05
-arbitrum,Arbitrum,arb,0.131785,-5.97761,loser,2,2026-09-05
-curve-dao-token,Curve DAO,crv,0.360027,-4.95069,loser,3,2026-09-05
-cardano,Cardano,ada,0.213475,-4.19685,loser,4,2026-09-05
-monero,Monero,xmr,525.14,-4.04737,loser,5,2026-09-05
-pepe,Pepe,pepe,3.53e-06,-3.95341,loser,6,2026-09-05
-ethena,Ethena,ena,0.163251,-3.87783,loser,7,2026-09-05
-canton-network,Canton,cc,0.108546,-3.72943,loser,8,2026-09-05
-aave,Aave,aave,129.96,-3.29369,loser,9,2026-09-05
-ripple,XRP,xrp,1.41,-3.17213,loser,10,2026-09-05
+dash,Dash,dash,68.9,36.61872,gainer,1,2026-09-05
+pons,Pons,pons,0.914388,19.22223,gainer,2,2026-09-05
+aster-2,Aster,aster,0.823718,12.95406,gainer,3,2026-09-05
+pancakeswap-token,PancakeSwap,cake,2.21,12.09721,gainer,4,2026-09-05
+near,NEAR Protocol,near,2.2,11.44012,gainer,5,2026-09-05
+gatechain-token,Gate,gt,9.05,9.05938,gainer,6,2026-09-05
+litecoin,Litecoin,ltc,53.96,6.95588,gainer,7,2026-09-05
+polkadot,Polkadot,dot,0.91494,6.53824,gainer,8,2026-09-05
+binancecoin,BNB,bnb,761.47,6.3911,gainer,9,2026-09-05
+official-trump,Official Trump,trump,2.39,5.89306,gainer,10,2026-09-05
+pump-fun,Pump.fun,pump,0.00408973,-4.76584,loser,1,2026-09-05
+quant-network,Quant,qnt,63.82,-2.01634,loser,2,2026-09-05
+ethena,Ethena,ena,0.163697,-1.68896,loser,3,2026-09-05
+rain,Rain,rain,0.0164209,-1.09745,loser,4,2026-09-05
+arbitrum,Arbitrum,arb,0.133556,-1.08563,loser,5,2026-09-05
+bitcoin-cash,Bitcoin Cash,bch,249.72,-0.99045,loser,6,2026-09-05
+aave,Aave,aave,130.03,-0.95458,loser,7,2026-09-05
+flare-networks,Flare,flr,0.00671386,-0.80743,loser,8,2026-09-05
+stable-2,​​Stable,stable,0.02894633,-0.73166,loser,9,2026-09-05
+world-liberty-financial,World Liberty Financial,wlfi,0.056961,-0.72858,loser,10,2026-09-05
