@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-dash,Dash,dash,55.18,19.05635,gainer,1,2026-09-04
-lighter,Lighter,lit,4.65,9.5808,gainer,2,2026-09-04
-near,NEAR Protocol,near,2.17,9.54646,gainer,3,2026-09-04
-venice-token,Venice Token,vvv,18.36,7.64085,gainer,4,2026-09-04
-zcash,Zcash,zec,1038.76,7.3519,gainer,5,2026-09-04
-memecore,MemeCore,m,1.11,3.88229,gainer,6,2026-09-04
-just,JUST,jst,0.108629,2.06749,gainer,7,2026-09-04
-spx6900,SPX6900,spx,0.601745,1.71962,gainer,8,2026-09-04
-aster-2,Aster,aster,0.74039,1.42526,gainer,9,2026-09-04
-the-open-network,Gram (prev. Toncoin),gram,1.39,1.18024,gainer,10,2026-09-04
-bitway,Bitway,btw,0.4505,-9.29053,loser,1,2026-09-04
-jupiter-exchange-solana,Jupiter,jup,0.217046,-8.35999,loser,2,2026-09-04
-pepe,Pepe,pepe,3.58e-06,-6.08617,loser,3,2026-09-04
-official-trump,Official Trump,trump,2.27,-5.61033,loser,4,2026-09-04
-filecoin,Filecoin,fil,0.751636,-5.54259,loser,5,2026-09-04
-canton-network,Canton,cc,0.105997,-5.15197,loser,6,2026-09-04
-dogecoin,Dogecoin,doge,0.084701,-5.02812,loser,7,2026-09-04
-curve-dao-token,Curve DAO,crv,0.354127,-4.70802,loser,8,2026-09-04
-worldcoin-wld,Worldcoin,wld,0.380508,-4.5324,loser,9,2026-09-04
-ripple,XRP,xrp,1.4,-4.51339,loser,10,2026-09-04
+dash,Dash,dash,65.33,41.39656,gainer,1,2026-09-05
+near,NEAR Protocol,near,2.23,15.09416,gainer,2,2026-09-05
+lighter,Lighter,lit,4.8,10.49035,gainer,3,2026-09-05
+zcash,Zcash,zec,1018.88,9.02688,gainer,4,2026-09-05
+memecore,MemeCore,m,1.13,8.29133,gainer,5,2026-09-05
+venice-token,Venice Token,vvv,18.07,6.24428,gainer,6,2026-09-05
+morpho,Morpho,morpho,2.55,4.23309,gainer,7,2026-09-05
+aster-2,Aster,aster,0.739365,3.75935,gainer,8,2026-09-05
+pump-fun,Pump.fun,pump,0.00424043,3.00186,gainer,9,2026-09-05
+the-open-network,Gram (prev. Toncoin),gram,1.41,2.92687,gainer,10,2026-09-05
+cardano,Cardano,ada,0.210966,-4.78439,loser,1,2026-09-05
+canton-network,Canton,cc,0.107535,-4.28118,loser,2,2026-09-05
+pepe,Pepe,pepe,3.5e-06,-4.04622,loser,3,2026-09-05
+jupiter-exchange-solana,Jupiter,jup,0.216517,-3.98896,loser,4,2026-09-05
+rain,Rain,rain,0.01644074,-3.89912,loser,5,2026-09-05
+bitcoin-cash,Bitcoin Cash,bch,246.31,-3.61797,loser,6,2026-09-05
+flare-networks,Flare,flr,0.00666941,-3.33433,loser,7,2026-09-05
+hyperliquid,Hyperliquid,hype,84.26,-2.70433,loser,8,2026-09-05
+crypto-com-chain,Cronos,cro,0.055893,-2.56988,loser,9,2026-09-05
+quant-network,Quant,qnt,63.71,-2.50925,loser,10,2026-09-05
