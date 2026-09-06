@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.192307,46.26945,gainer,1,2026-09-06
-pons,Pons,pons,0.930877,43.04292,gainer,2,2026-09-06
-uniswap,Uniswap,uni,7.34,19.2248,gainer,3,2026-09-06
-ethena,Ethena,ena,0.185104,14.24951,gainer,4,2026-09-06
-pancakeswap-token,PancakeSwap,cake,2.24,13.51225,gainer,5,2026-09-06
-gatechain-token,Gate,gt,9.39,11.39012,gainer,6,2026-09-06
-curve-dao-token,Curve DAO,crv,0.388211,10.45888,gainer,7,2026-09-06
-internet-computer,Internet Computer,icp,2.73,9.53385,gainer,8,2026-09-06
-aster-2,Aster,aster,0.791495,7.19026,gainer,9,2026-09-06
-filecoin,Filecoin,fil,0.813077,6.7949,gainer,10,2026-09-06
-pump-fun,Pump.fun,pump,0.00389974,-8.03689,loser,1,2026-09-06
-venice-token,Venice Token,vvv,17.25,-4.44312,loser,2,2026-09-06
-lighter,Lighter,lit,4.71,-1.90677,loser,3,2026-09-06
-stable-2,​​Stable,stable,0.02847008,-0.92808,loser,4,2026-09-06
-near,NEAR Protocol,near,2.21,-0.7685,loser,5,2026-09-06
-nexo,NEXO,nexo,0.840229,-0.19592,loser,6,2026-09-06
-tether-gold,Tether Gold,xaut,4424.89,-0.1377,loser,7,2026-09-06
-pax-gold,PAX Gold,paxg,4431.54,-0.10698,loser,8,2026-09-06
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.09745,loser,9,2026-09-06
-leo-token,LEO Token,leo,9.23,-0.05761,loser,10,2026-09-06
+arbitrum,Arbitrum,arb,0.194596,42.86212,gainer,1,2026-09-06
+zcash,Zcash,zec,1184.12,16.87548,gainer,2,2026-09-06
+jupiter-exchange-solana,Jupiter,jup,0.250964,14.89619,gainer,3,2026-09-06
+uniswap,Uniswap,uni,6.98,8.94083,gainer,4,2026-09-06
+ethena,Ethena,ena,0.175862,7.35603,gainer,5,2026-09-06
+near,NEAR Protocol,near,2.38,7.19606,gainer,6,2026-09-06
+sky,Sky,sky,0.070951,5.24747,gainer,7,2026-09-06
+gatechain-token,Gate,gt,9.13,4.79235,gainer,8,2026-09-06
+mantle,Mantle,mnt,0.603139,4.74525,gainer,9,2026-09-06
+dogecoin,Dogecoin,doge,0.089728,4.52792,gainer,10,2026-09-06
+pump-fun,Pump.fun,pump,0.00396046,-5.29332,loser,1,2026-09-06
+venice-token,Venice Token,vvv,17.05,-4.92941,loser,2,2026-09-06
+stable-2,​​Stable,stable,0.02821147,-3.18123,loser,3,2026-09-06
+beldex,Beldex,bdx,0.07884,-1.32824,loser,4,2026-09-06
+flare-networks,Flare,flr,0.00662352,-1.15458,loser,5,2026-09-06
+official-trump,Official Trump,trump,2.36,-0.88436,loser,6,2026-09-06
+bitget-token,Bitget Token,bgb,2.0,-0.6723,loser,7,2026-09-06
+lighter,Lighter,lit,4.59,-0.54485,loser,8,2026-09-06
+nexo,NEXO,nexo,0.837101,-0.44805,loser,9,2026-09-06
+the-open-network,Gram (prev. Toncoin),gram,1.42,-0.41609,loser,10,2026-09-06
