@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pons,Pons,pons,0.88599,28.90207,gainer,1,2026-09-05
-dash,Dash,dash,67.08,21.71978,gainer,2,2026-09-05
-bianrensheng,币安人生 (BinanceLife),币安人生,0.585447,19.64959,gainer,3,2026-09-05
-uniswap,Uniswap,uni,7.12,15.85486,gainer,4,2026-09-05
-pancakeswap-token,PancakeSwap,cake,2.27,14.37312,gainer,5,2026-09-05
-gatechain-token,Gate,gt,9.32,11.43,gainer,6,2026-09-05
-arbitrum,Arbitrum,arb,0.14647,11.32932,gainer,7,2026-09-05
-binancecoin,BNB,bnb,778.45,8.003,gainer,8,2026-09-05
-dogecoin,Dogecoin,doge,0.090848,7.4565,gainer,9,2026-09-05
-litecoin,Litecoin,ltc,54.31,7.24737,gainer,10,2026-09-05
-pump-fun,Pump.fun,pump,0.00395126,-7.99508,loser,1,2026-09-05
-figure-heloc,Figure Heloc,figr_heloc,1.005,-2.67907,loser,2,2026-09-05
-venice-token,Venice Token,vvv,17.2,-2.59897,loser,3,2026-09-05
-zcash,Zcash,zec,1015.65,-1.59634,loser,4,2026-09-05
-morpho,Morpho,morpho,2.5,-1.4368,loser,5,2026-09-05
-stable-2,​​Stable,stable,0.02887882,-0.95462,loser,6,2026-09-05
-lighter,Lighter,lit,4.74,-0.93532,loser,7,2026-09-05
-flare-networks,Flare,flr,0.00667715,-0.67511,loser,8,2026-09-05
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.5724,loser,9,2026-09-05
-beldex,Beldex,bdx,0.078669,-0.55644,loser,10,2026-09-05
+arbitrum,Arbitrum,arb,0.192307,46.26945,gainer,1,2026-09-06
+pons,Pons,pons,0.930877,43.04292,gainer,2,2026-09-06
+uniswap,Uniswap,uni,7.34,19.2248,gainer,3,2026-09-06
+ethena,Ethena,ena,0.185104,14.24951,gainer,4,2026-09-06
+pancakeswap-token,PancakeSwap,cake,2.24,13.51225,gainer,5,2026-09-06
+gatechain-token,Gate,gt,9.39,11.39012,gainer,6,2026-09-06
+curve-dao-token,Curve DAO,crv,0.388211,10.45888,gainer,7,2026-09-06
+internet-computer,Internet Computer,icp,2.73,9.53385,gainer,8,2026-09-06
+aster-2,Aster,aster,0.791495,7.19026,gainer,9,2026-09-06
+filecoin,Filecoin,fil,0.813077,6.7949,gainer,10,2026-09-06
+pump-fun,Pump.fun,pump,0.00389974,-8.03689,loser,1,2026-09-06
+venice-token,Venice Token,vvv,17.25,-4.44312,loser,2,2026-09-06
+lighter,Lighter,lit,4.71,-1.90677,loser,3,2026-09-06
+stable-2,​​Stable,stable,0.02847008,-0.92808,loser,4,2026-09-06
+near,NEAR Protocol,near,2.21,-0.7685,loser,5,2026-09-06
+nexo,NEXO,nexo,0.840229,-0.19592,loser,6,2026-09-06
+tether-gold,Tether Gold,xaut,4424.89,-0.1377,loser,7,2026-09-06
+pax-gold,PAX Gold,paxg,4431.54,-0.10698,loser,8,2026-09-06
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.09745,loser,9,2026-09-06
+leo-token,LEO Token,leo,9.23,-0.05761,loser,10,2026-09-06
