@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.188984,40.25895,gainer,1,2026-09-06
-jupiter-exchange-solana,Jupiter,jup,0.265376,19.07588,gainer,2,2026-09-06
-zcash,Zcash,zec,1165.49,15.19373,gainer,3,2026-09-06
-uniswap,Uniswap,uni,6.93,9.42943,gainer,4,2026-09-06
-near,NEAR Protocol,near,2.4,8.94561,gainer,5,2026-09-06
-internet-computer,Internet Computer,icp,2.75,5.67168,gainer,6,2026-09-06
-ethena,Ethena,ena,0.172118,5.2353,gainer,7,2026-09-06
-polkadot,Polkadot,dot,0.962861,5.17666,gainer,8,2026-09-06
-sky,Sky,sky,0.070474,4.43067,gainer,9,2026-09-06
-hyperliquid,Hyperliquid,hype,88.73,4.21992,gainer,10,2026-09-06
-aster-2,Aster,aster,0.755599,-8.46745,loser,1,2026-09-06
-pons,Pons,pons,0.863554,-7.97799,loser,2,2026-09-06
-lighter,Lighter,lit,4.56,-3.87439,loser,3,2026-09-06
-stable-2,​​Stable,stable,0.02790221,-3.70213,loser,4,2026-09-06
-official-trump,Official Trump,trump,2.32,-2.94909,loser,5,2026-09-06
-binancecoin,BNB,bnb,744.58,-2.6905,loser,6,2026-09-06
-monero,Monero,xmr,528.3,-2.5247,loser,7,2026-09-06
-venice-token,Venice Token,vvv,17.0,-2.49362,loser,8,2026-09-06
-pump-fun,Pump.fun,pump,0.00398452,-2.40288,loser,9,2026-09-06
-algorand,Algorand,algo,0.094223,-2.37824,loser,10,2026-09-06
+arbitrum,Arbitrum,arb,0.182127,21.80161,gainer,1,2026-09-06
+zcash,Zcash,zec,1219.83,20.18704,gainer,2,2026-09-06
+jupiter-exchange-solana,Jupiter,jup,0.265478,20.06578,gainer,3,2026-09-06
+bittensor,Bittensor,tao,264.93,13.29276,gainer,4,2026-09-06
+near,NEAR Protocol,near,2.43,9.57445,gainer,5,2026-09-06
+ethena,Ethena,ena,0.175501,5.93357,gainer,6,2026-09-06
+polkadot,Polkadot,dot,0.959123,5.53266,gainer,7,2026-09-06
+figure-heloc,Figure Heloc,figr_heloc,1.055,5.00613,gainer,8,2026-09-06
+dash,Dash,dash,70.16,4.42308,gainer,9,2026-09-06
+render-token,Render,render,1.53,4.30697,gainer,10,2026-09-06
+pons,Pons,pons,0.814084,-6.43103,loser,1,2026-09-06
+lighter,Lighter,lit,4.46,-5.81444,loser,2,2026-09-06
+pancakeswap-token,PancakeSwap,cake,2.18,-3.67953,loser,3,2026-09-06
+binancecoin,BNB,bnb,748.94,-3.65001,loser,4,2026-09-06
+monero,Monero,xmr,524.53,-2.93757,loser,5,2026-09-06
+pump-fun,Pump.fun,pump,0.00382513,-2.92827,loser,6,2026-09-06
+official-trump,Official Trump,trump,2.31,-2.65168,loser,7,2026-09-06
+stable-2,​​Stable,stable,0.02817823,-2.40235,loser,8,2026-09-06
+gatechain-token,Gate,gt,9.11,-2.19882,loser,9,2026-09-06
+bitway,Bitway,btw,0.440867,-2.03893,loser,10,2026-09-06
