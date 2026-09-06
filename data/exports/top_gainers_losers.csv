@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.194596,42.86212,gainer,1,2026-09-06
-zcash,Zcash,zec,1184.12,16.87548,gainer,2,2026-09-06
-jupiter-exchange-solana,Jupiter,jup,0.250964,14.89619,gainer,3,2026-09-06
-uniswap,Uniswap,uni,6.98,8.94083,gainer,4,2026-09-06
-ethena,Ethena,ena,0.175862,7.35603,gainer,5,2026-09-06
-near,NEAR Protocol,near,2.38,7.19606,gainer,6,2026-09-06
-sky,Sky,sky,0.070951,5.24747,gainer,7,2026-09-06
-gatechain-token,Gate,gt,9.13,4.79235,gainer,8,2026-09-06
-mantle,Mantle,mnt,0.603139,4.74525,gainer,9,2026-09-06
-dogecoin,Dogecoin,doge,0.089728,4.52792,gainer,10,2026-09-06
-pump-fun,Pump.fun,pump,0.00396046,-5.29332,loser,1,2026-09-06
-venice-token,Venice Token,vvv,17.05,-4.92941,loser,2,2026-09-06
-stable-2,​​Stable,stable,0.02821147,-3.18123,loser,3,2026-09-06
-beldex,Beldex,bdx,0.07884,-1.32824,loser,4,2026-09-06
-flare-networks,Flare,flr,0.00662352,-1.15458,loser,5,2026-09-06
-official-trump,Official Trump,trump,2.36,-0.88436,loser,6,2026-09-06
-bitget-token,Bitget Token,bgb,2.0,-0.6723,loser,7,2026-09-06
-lighter,Lighter,lit,4.59,-0.54485,loser,8,2026-09-06
-nexo,NEXO,nexo,0.837101,-0.44805,loser,9,2026-09-06
-the-open-network,Gram (prev. Toncoin),gram,1.42,-0.41609,loser,10,2026-09-06
+arbitrum,Arbitrum,arb,0.188984,40.25895,gainer,1,2026-09-06
+jupiter-exchange-solana,Jupiter,jup,0.265376,19.07588,gainer,2,2026-09-06
+zcash,Zcash,zec,1165.49,15.19373,gainer,3,2026-09-06
+uniswap,Uniswap,uni,6.93,9.42943,gainer,4,2026-09-06
+near,NEAR Protocol,near,2.4,8.94561,gainer,5,2026-09-06
+internet-computer,Internet Computer,icp,2.75,5.67168,gainer,6,2026-09-06
+ethena,Ethena,ena,0.172118,5.2353,gainer,7,2026-09-06
+polkadot,Polkadot,dot,0.962861,5.17666,gainer,8,2026-09-06
+sky,Sky,sky,0.070474,4.43067,gainer,9,2026-09-06
+hyperliquid,Hyperliquid,hype,88.73,4.21992,gainer,10,2026-09-06
+aster-2,Aster,aster,0.755599,-8.46745,loser,1,2026-09-06
+pons,Pons,pons,0.863554,-7.97799,loser,2,2026-09-06
+lighter,Lighter,lit,4.56,-3.87439,loser,3,2026-09-06
+stable-2,​​Stable,stable,0.02790221,-3.70213,loser,4,2026-09-06
+official-trump,Official Trump,trump,2.32,-2.94909,loser,5,2026-09-06
+binancecoin,BNB,bnb,744.58,-2.6905,loser,6,2026-09-06
+monero,Monero,xmr,528.3,-2.5247,loser,7,2026-09-06
+venice-token,Venice Token,vvv,17.0,-2.49362,loser,8,2026-09-06
+pump-fun,Pump.fun,pump,0.00398452,-2.40288,loser,9,2026-09-06
+algorand,Algorand,algo,0.094223,-2.37824,loser,10,2026-09-06
