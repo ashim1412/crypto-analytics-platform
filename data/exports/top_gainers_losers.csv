@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-kaspa,Kaspa,kas,0.03660985,19.38563,gainer,1,2026-09-07
-polkadot,Polkadot,dot,1.1,14.01645,gainer,2,2026-09-07
-worldcoin-wld,Worldcoin,wld,0.458056,11.25016,gainer,3,2026-09-07
-internet-computer,Internet Computer,icp,2.98,10.65599,gainer,4,2026-09-07
-injective-protocol,Injective,inj,5.7,9.83013,gainer,5,2026-09-07
-pump-fun,Pump.fun,pump,0.00424419,9.67966,gainer,6,2026-09-07
-filecoin,Filecoin,fil,0.870968,9.60921,gainer,7,2026-09-07
-avalanche-2,Avalanche,avax,8.08,5.63943,gainer,8,2026-09-07
-bitcoin-cash,Bitcoin Cash,bch,268.69,4.72114,gainer,9,2026-09-07
-mantle,Mantle,mnt,0.62617,4.65918,gainer,10,2026-09-07
-arbitrum,Arbitrum,arb,0.164785,-12.90775,loser,1,2026-09-07
-jupiter-exchange-solana,Jupiter,jup,0.249688,-7.24004,loser,2,2026-09-07
-near,NEAR Protocol,near,2.32,-5.09819,loser,3,2026-09-07
-uniswap,Uniswap,uni,6.89,-5.09107,loser,4,2026-09-07
-dash,Dash,dash,65.71,-4.29652,loser,5,2026-09-07
-ethena,Ethena,ena,0.166371,-4.21027,loser,6,2026-09-07
-just,JUST,jst,0.107983,-3.86235,loser,7,2026-09-07
-lighter,Lighter,lit,4.43,-3.21786,loser,8,2026-09-07
-rain,Rain,rain,0.01633455,-2.88662,loser,9,2026-09-07
-canton-network,Canton,cc,0.106194,-2.84929,loser,10,2026-09-07
+injective-protocol,Injective,inj,6.15,19.04405,gainer,1,2026-09-07
+kaspa,Kaspa,kas,0.03611692,17.23338,gainer,2,2026-09-07
+internet-computer,Internet Computer,icp,3.09,15.32018,gainer,3,2026-09-07
+worldcoin-wld,Worldcoin,wld,0.461321,11.86913,gainer,4,2026-09-07
+pump-fun,Pump.fun,pump,0.00437969,11.80609,gainer,5,2026-09-07
+aerodrome-finance,Aerodrome Finance,aero,0.608337,10.82012,gainer,6,2026-09-07
+polkadot,Polkadot,dot,1.065,10.18932,gainer,7,2026-09-07
+venice-token,Venice Token,vvv,18.62,9.8154,gainer,8,2026-09-07
+cosmos,Cosmos Hub,atom,1.66,4.28093,gainer,9,2026-09-07
+xdce-crowd-sale,XDC Network,xdc,0.02925582,4.21245,gainer,10,2026-09-07
+arbitrum,Arbitrum,arb,0.167435,-9.24052,loser,1,2026-09-07
+dash,Dash,dash,64.09,-8.46604,loser,2,2026-09-07
+ethena,Ethena,ena,0.164928,-6.46766,loser,3,2026-09-07
+canton-network,Canton,cc,0.104192,-5.6525,loser,4,2026-09-07
+morpho,Morpho,morpho,2.45,-5.3007,loser,5,2026-09-07
+zcash,Zcash,zec,1153.46,-5.10326,loser,6,2026-09-07
+jupiter-exchange-solana,Jupiter,jup,0.252331,-4.00641,loser,7,2026-09-07
+near,NEAR Protocol,near,2.32,-3.89465,loser,8,2026-09-07
+monero,Monero,xmr,516.36,-2.93351,loser,9,2026-09-07
+hyperliquid,Hyperliquid,hype,85.32,-2.79826,loser,10,2026-09-07
