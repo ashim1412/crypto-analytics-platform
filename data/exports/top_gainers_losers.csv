@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.266144,18.91828,gainer,1,2026-09-07
-zcash,Zcash,zec,1185.53,10.70513,gainer,2,2026-09-07
-bittensor,Bittensor,tao,262.44,10.26147,gainer,3,2026-09-07
-polkadot,Polkadot,dot,0.995576,7.74335,gainer,4,2026-09-07
-near,NEAR Protocol,near,2.37,7.04661,gainer,5,2026-09-07
-chainlink,Chainlink,link,13.05,6.80589,gainer,6,2026-09-07
-mantle,Mantle,mnt,0.614812,4.49348,gainer,7,2026-09-07
-kaspa,Kaspa,kas,0.03193435,4.05585,gainer,8,2026-09-07
-vechain,VeChain,vet,0.00723846,3.69813,gainer,9,2026-09-07
-render-token,Render,render,1.54,3.65163,gainer,10,2026-09-07
-pons,Pons,pons,0.808564,-13.12656,loser,1,2026-09-07
-ethena,Ethena,ena,0.174337,-6.30259,loser,2,2026-09-07
-official-trump,Official Trump,trump,2.28,-5.4816,loser,3,2026-09-07
-lighter,Lighter,lit,4.52,-4.07415,loser,4,2026-09-07
-gatechain-token,Gate,gt,9.13,-2.88853,loser,5,2026-09-07
-monero,Monero,xmr,536.48,-2.8788,loser,6,2026-09-07
-aave,Aave,aave,134.23,-2.78881,loser,7,2026-09-07
-binancecoin,BNB,bnb,746.55,-2.45447,loser,8,2026-09-07
-uniswap,Uniswap,uni,7.19,-2.30376,loser,9,2026-09-07
-sky,Sky,sky,0.069482,-2.29948,loser,10,2026-09-07
+kaspa,Kaspa,kas,0.03507294,15.76355,gainer,1,2026-09-07
+bittensor,Bittensor,tao,266.76,12.85882,gainer,2,2026-09-07
+internet-computer,Internet Computer,icp,2.99,12.28456,gainer,3,2026-09-07
+worldcoin-wld,Worldcoin,wld,0.452142,9.1393,gainer,4,2026-09-07
+pump-fun,Pump.fun,pump,0.00439422,8.4077,gainer,5,2026-09-07
+chainlink,Chainlink,link,13.28,8.17795,gainer,6,2026-09-07
+xdce-crowd-sale,XDC Network,xdc,0.02989499,6.07295,gainer,7,2026-09-07
+render-token,Render,render,1.54,4.47504,gainer,8,2026-09-07
+mantle,Mantle,mnt,0.63522,4.31044,gainer,9,2026-09-07
+aster-2,Aster,aster,0.806779,3.22819,gainer,10,2026-09-07
+arbitrum,Arbitrum,arb,0.16685,-14.09871,loser,1,2026-09-07
+pons,Pons,pons,0.815734,-11.39521,loser,2,2026-09-07
+sky,Sky,sky,0.068304,-4.75163,loser,3,2026-09-07
+lighter,Lighter,lit,4.49,-3.93099,loser,4,2026-09-07
+official-trump,Official Trump,trump,2.28,-3.65311,loser,5,2026-09-07
+leo-token,LEO Token,leo,9.01,-3.56017,loser,6,2026-09-07
+canton-network,Canton,cc,0.107156,-3.1052,loser,7,2026-09-07
+rain,Rain,rain,0.01651912,-3.0529,loser,8,2026-09-07
+just,JUST,jst,0.109051,-2.67497,loser,9,2026-09-07
+bitway,Bitway,btw,0.451326,-2.61743,loser,10,2026-09-07
