@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.182127,21.80161,gainer,1,2026-09-06
-zcash,Zcash,zec,1219.83,20.18704,gainer,2,2026-09-06
-jupiter-exchange-solana,Jupiter,jup,0.265478,20.06578,gainer,3,2026-09-06
-bittensor,Bittensor,tao,264.93,13.29276,gainer,4,2026-09-06
-near,NEAR Protocol,near,2.43,9.57445,gainer,5,2026-09-06
-ethena,Ethena,ena,0.175501,5.93357,gainer,6,2026-09-06
-polkadot,Polkadot,dot,0.959123,5.53266,gainer,7,2026-09-06
-figure-heloc,Figure Heloc,figr_heloc,1.055,5.00613,gainer,8,2026-09-06
-dash,Dash,dash,70.16,4.42308,gainer,9,2026-09-06
-render-token,Render,render,1.53,4.30697,gainer,10,2026-09-06
-pons,Pons,pons,0.814084,-6.43103,loser,1,2026-09-06
-lighter,Lighter,lit,4.46,-5.81444,loser,2,2026-09-06
-pancakeswap-token,PancakeSwap,cake,2.18,-3.67953,loser,3,2026-09-06
-binancecoin,BNB,bnb,748.94,-3.65001,loser,4,2026-09-06
-monero,Monero,xmr,524.53,-2.93757,loser,5,2026-09-06
-pump-fun,Pump.fun,pump,0.00382513,-2.92827,loser,6,2026-09-06
-official-trump,Official Trump,trump,2.31,-2.65168,loser,7,2026-09-06
-stable-2,​​Stable,stable,0.02817823,-2.40235,loser,8,2026-09-06
-gatechain-token,Gate,gt,9.11,-2.19882,loser,9,2026-09-06
-bitway,Bitway,btw,0.440867,-2.03893,loser,10,2026-09-06
+jupiter-exchange-solana,Jupiter,jup,0.266144,18.91828,gainer,1,2026-09-07
+zcash,Zcash,zec,1185.53,10.70513,gainer,2,2026-09-07
+bittensor,Bittensor,tao,262.44,10.26147,gainer,3,2026-09-07
+polkadot,Polkadot,dot,0.995576,7.74335,gainer,4,2026-09-07
+near,NEAR Protocol,near,2.37,7.04661,gainer,5,2026-09-07
+chainlink,Chainlink,link,13.05,6.80589,gainer,6,2026-09-07
+mantle,Mantle,mnt,0.614812,4.49348,gainer,7,2026-09-07
+kaspa,Kaspa,kas,0.03193435,4.05585,gainer,8,2026-09-07
+vechain,VeChain,vet,0.00723846,3.69813,gainer,9,2026-09-07
+render-token,Render,render,1.54,3.65163,gainer,10,2026-09-07
+pons,Pons,pons,0.808564,-13.12656,loser,1,2026-09-07
+ethena,Ethena,ena,0.174337,-6.30259,loser,2,2026-09-07
+official-trump,Official Trump,trump,2.28,-5.4816,loser,3,2026-09-07
+lighter,Lighter,lit,4.52,-4.07415,loser,4,2026-09-07
+gatechain-token,Gate,gt,9.13,-2.88853,loser,5,2026-09-07
+monero,Monero,xmr,536.48,-2.8788,loser,6,2026-09-07
+aave,Aave,aave,134.23,-2.78881,loser,7,2026-09-07
+binancecoin,BNB,bnb,746.55,-2.45447,loser,8,2026-09-07
+uniswap,Uniswap,uni,7.19,-2.30376,loser,9,2026-09-07
+sky,Sky,sky,0.069482,-2.29948,loser,10,2026-09-07
