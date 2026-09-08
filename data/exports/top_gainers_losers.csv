@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.500943,22.23225,gainer,1,2026-09-08
-injective-protocol,Injective,inj,6.46,18.61385,gainer,2,2026-09-08
-aerodrome-finance,Aerodrome Finance,aero,0.649472,18.58675,gainer,3,2026-09-08
-pump-fun,Pump.fun,pump,0.00454189,15.83085,gainer,4,2026-09-08
-kaspa,Kaspa,kas,0.03655687,14.69111,gainer,5,2026-09-08
-internet-computer,Internet Computer,icp,3.02,11.81849,gainer,6,2026-09-08
-venice-token,Venice Token,vvv,18.97,11.39687,gainer,7,2026-09-08
-polkadot,Polkadot,dot,1.061,7.15284,gainer,8,2026-09-08
-lighter,Lighter,lit,4.74,5.76828,gainer,9,2026-09-08
-filecoin,Filecoin,fil,0.841971,5.06344,gainer,10,2026-09-08
-arbitrum,Arbitrum,arb,0.168998,-10.89766,loser,1,2026-09-08
-dash,Dash,dash,63.9,-8.82008,loser,2,2026-09-08
-just,JUST,jst,0.106143,-4.52675,loser,3,2026-09-08
-jupiter-exchange-solana,Jupiter,jup,0.254398,-4.24311,loser,4,2026-09-08
-zcash,Zcash,zec,1143.9,-3.24665,loser,5,2026-09-08
-ethena,Ethena,ena,0.167627,-3.21007,loser,6,2026-09-08
-monero,Monero,xmr,519.7,-3.14974,loser,7,2026-09-08
-canton-network,Canton,cc,0.107015,-2.46691,loser,8,2026-09-08
-morpho,Morpho,morpho,2.49,-2.38819,loser,9,2026-09-08
-chainlink,Chainlink,link,12.77,-2.19792,loser,10,2026-09-08
+aerodrome-finance,Aerodrome Finance,aero,0.632007,17.46965,gainer,1,2026-09-08
+injective-protocol,Injective,inj,6.3,11.82672,gainer,2,2026-09-08
+polkadot,Polkadot,dot,1.087,11.13587,gainer,3,2026-09-08
+vechain,VeChain,vet,0.00773151,9.08225,gainer,4,2026-09-08
+whitebit,WhiteBIT Coin,wbt,78.63,7.58269,gainer,5,2026-09-08
+worldcoin-wld,Worldcoin,wld,0.483368,6.59054,gainer,6,2026-09-08
+arbitrum,Arbitrum,arb,0.175922,6.42618,gainer,7,2026-09-08
+lighter,Lighter,lit,4.76,6.26478,gainer,8,2026-09-08
+pancakeswap-token,PancakeSwap,cake,2.33,6.07817,gainer,9,2026-09-08
+venice-token,Venice Token,vvv,18.0,5.93107,gainer,10,2026-09-08
+dash,Dash,dash,62.5,-7.63208,loser,1,2026-09-08
+morpho,Morpho,morpho,2.41,-6.08264,loser,2,2026-09-08
+just,JUST,jst,0.104064,-4.83655,loser,3,2026-09-08
+chainlink,Chainlink,link,12.69,-4.53367,loser,4,2026-09-08
+jupiter-exchange-solana,Jupiter,jup,0.245067,-4.18802,loser,5,2026-09-08
+bittensor,Bittensor,tao,255.64,-3.91636,loser,6,2026-09-08
+zcash,Zcash,zec,1141.65,-3.9162,loser,7,2026-09-08
+hyperliquid,Hyperliquid,hype,84.16,-3.61764,loser,8,2026-09-08
+ethena,Ethena,ena,0.164287,-3.05339,loser,9,2026-09-08
+aster-2,Aster,aster,0.767046,-3.03653,loser,10,2026-09-08
