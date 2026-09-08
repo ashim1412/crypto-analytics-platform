@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,23.6,34.70987,gainer,1,2026-09-08
-injective-protocol,Injective,inj,6.45,12.92281,gainer,2,2026-09-08
-aerodrome-finance,Aerodrome Finance,aero,0.63643,12.86752,gainer,3,2026-09-08
-ethereum-classic,Ethereum Classic,etc,8.7,10.60067,gainer,4,2026-09-08
-vechain,VeChain,vet,0.00782653,10.2818,gainer,5,2026-09-08
-whitebit,WhiteBIT Coin,wbt,79.79,9.45838,gainer,6,2026-09-08
-cosmos,Cosmos Hub,atom,1.79,8.10879,gainer,7,2026-09-08
-polkadot,Polkadot,dot,1.17,7.88632,gainer,8,2026-09-08
-worldcoin-wld,Worldcoin,wld,0.489599,6.47231,gainer,9,2026-09-08
-algorand,Algorand,algo,0.101401,6.00542,gainer,10,2026-09-08
-monero,Monero,xmr,499.5,-6.58549,loser,1,2026-09-08
-jupiter-exchange-solana,Jupiter,jup,0.241364,-4.61947,loser,2,2026-09-08
-dash,Dash,dash,63.07,-4.43984,loser,3,2026-09-08
-ethena,Ethena,ena,0.161345,-3.55634,loser,4,2026-09-08
-morpho,Morpho,morpho,2.43,-3.35447,loser,5,2026-09-08
-bitget-token,Bitget Token,bgb,1.98,-2.94262,loser,6,2026-09-08
-chainlink,Chainlink,link,12.61,-2.74817,loser,7,2026-09-08
-hyperliquid,Hyperliquid,hype,83.55,-2.26576,loser,8,2026-09-08
-aster-2,Aster,aster,0.757976,-2.11462,loser,9,2026-09-08
-mantle,Mantle,mnt,0.623195,-2.08303,loser,10,2026-09-08
+venice-token,Venice Token,vvv,24.18,31.35974,gainer,1,2026-09-08
+polkadot,Polkadot,dot,1.27,20.64623,gainer,2,2026-09-08
+pons,Pons,pons,0.827888,15.69703,gainer,3,2026-09-08
+vechain,VeChain,vet,0.00803025,11.79118,gainer,4,2026-09-08
+ethereum-classic,Ethereum Classic,etc,8.58,9.88857,gainer,5,2026-09-08
+cosmos,Cosmos Hub,atom,1.8,9.21186,gainer,6,2026-09-08
+algorand,Algorand,algo,0.10106,6.40908,gainer,7,2026-09-08
+whitebit,WhiteBIT Coin,wbt,81.38,6.18842,gainer,8,2026-09-08
+memecore,MemeCore,m,1.21,5.86208,gainer,9,2026-09-08
+crypto-com-chain,Cronos,cro,0.059378,4.17221,gainer,10,2026-09-08
+internet-computer,Internet Computer,icp,2.93,-5.00364,loser,1,2026-09-08
+jupiter-exchange-solana,Jupiter,jup,0.239437,-4.99208,loser,2,2026-09-08
+just,JUST,jst,0.104431,-3.73468,loser,3,2026-09-08
+dash,Dash,dash,61.99,-3.5666,loser,4,2026-09-08
+hedera-hashgraph,Hedera,hbar,0.079522,-3.45581,loser,5,2026-09-08
+monero,Monero,xmr,500.36,-3.29264,loser,6,2026-09-08
+render-token,Render,render,1.51,-2.98125,loser,7,2026-09-08
+uniswap,Uniswap,uni,6.76,-2.90655,loser,8,2026-09-08
+morpho,Morpho,morpho,2.38,-2.87456,loser,9,2026-09-08
+ethena,Ethena,ena,0.159855,-2.70924,loser,10,2026-09-08
