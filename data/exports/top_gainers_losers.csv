@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,24.18,31.35974,gainer,1,2026-09-08
-polkadot,Polkadot,dot,1.27,20.64623,gainer,2,2026-09-08
-pons,Pons,pons,0.827888,15.69703,gainer,3,2026-09-08
-vechain,VeChain,vet,0.00803025,11.79118,gainer,4,2026-09-08
-ethereum-classic,Ethereum Classic,etc,8.58,9.88857,gainer,5,2026-09-08
-cosmos,Cosmos Hub,atom,1.8,9.21186,gainer,6,2026-09-08
-algorand,Algorand,algo,0.10106,6.40908,gainer,7,2026-09-08
-whitebit,WhiteBIT Coin,wbt,81.38,6.18842,gainer,8,2026-09-08
-memecore,MemeCore,m,1.21,5.86208,gainer,9,2026-09-08
-crypto-com-chain,Cronos,cro,0.059378,4.17221,gainer,10,2026-09-08
-internet-computer,Internet Computer,icp,2.93,-5.00364,loser,1,2026-09-08
-jupiter-exchange-solana,Jupiter,jup,0.239437,-4.99208,loser,2,2026-09-08
-just,JUST,jst,0.104431,-3.73468,loser,3,2026-09-08
-dash,Dash,dash,61.99,-3.5666,loser,4,2026-09-08
-hedera-hashgraph,Hedera,hbar,0.079522,-3.45581,loser,5,2026-09-08
-monero,Monero,xmr,500.36,-3.29264,loser,6,2026-09-08
-render-token,Render,render,1.51,-2.98125,loser,7,2026-09-08
-uniswap,Uniswap,uni,6.76,-2.90655,loser,8,2026-09-08
-morpho,Morpho,morpho,2.38,-2.87456,loser,9,2026-09-08
-ethena,Ethena,ena,0.159855,-2.70924,loser,10,2026-09-08
+venice-token,Venice Token,vvv,25.09,32.7481,gainer,1,2026-09-09
+polkadot,Polkadot,dot,1.19,12.54163,gainer,2,2026-09-09
+cosmos,Cosmos Hub,atom,1.84,12.27067,gainer,3,2026-09-09
+ethereum-classic,Ethereum Classic,etc,8.87,10.9592,gainer,4,2026-09-09
+vechain,VeChain,vet,0.00810668,10.67896,gainer,5,2026-09-09
+crypto-com-chain,Cronos,cro,0.061709,7.04469,gainer,6,2026-09-09
+whitebit,WhiteBIT Coin,wbt,81.66,6.35101,gainer,7,2026-09-09
+pi-network,Pi Network,pi,0.099002,4.81341,gainer,8,2026-09-09
+memecore,MemeCore,m,1.22,3.78703,gainer,9,2026-09-09
+zcash,Zcash,zec,1185.49,3.7516,gainer,10,2026-09-09
+worldcoin-wld,Worldcoin,wld,0.457741,-7.89471,loser,1,2026-09-09
+morpho,Morpho,morpho,2.32,-6.98372,loser,2,2026-09-09
+aerodrome-finance,Aerodrome Finance,aero,0.618907,-5.91738,loser,3,2026-09-09
+render-token,Render,render,1.5,-5.89706,loser,4,2026-09-09
+jupiter-exchange-solana,Jupiter,jup,0.242218,-4.85574,loser,5,2026-09-09
+internet-computer,Internet Computer,icp,2.89,-4.78538,loser,6,2026-09-09
+hedera-hashgraph,Hedera,hbar,0.078817,-4.52597,loser,7,2026-09-09
+monero,Monero,xmr,495.96,-4.41296,loser,8,2026-09-09
+uniswap,Uniswap,uni,6.78,-4.11184,loser,9,2026-09-09
+ethena,Ethena,ena,0.161154,-3.96459,loser,10,2026-09-09
