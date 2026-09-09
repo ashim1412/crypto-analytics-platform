@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,25.09,32.7481,gainer,1,2026-09-09
-polkadot,Polkadot,dot,1.19,12.54163,gainer,2,2026-09-09
-cosmos,Cosmos Hub,atom,1.84,12.27067,gainer,3,2026-09-09
-ethereum-classic,Ethereum Classic,etc,8.87,10.9592,gainer,4,2026-09-09
-vechain,VeChain,vet,0.00810668,10.67896,gainer,5,2026-09-09
-crypto-com-chain,Cronos,cro,0.061709,7.04469,gainer,6,2026-09-09
-whitebit,WhiteBIT Coin,wbt,81.66,6.35101,gainer,7,2026-09-09
-pi-network,Pi Network,pi,0.099002,4.81341,gainer,8,2026-09-09
-memecore,MemeCore,m,1.22,3.78703,gainer,9,2026-09-09
-zcash,Zcash,zec,1185.49,3.7516,gainer,10,2026-09-09
-worldcoin-wld,Worldcoin,wld,0.457741,-7.89471,loser,1,2026-09-09
-morpho,Morpho,morpho,2.32,-6.98372,loser,2,2026-09-09
-aerodrome-finance,Aerodrome Finance,aero,0.618907,-5.91738,loser,3,2026-09-09
-render-token,Render,render,1.5,-5.89706,loser,4,2026-09-09
-jupiter-exchange-solana,Jupiter,jup,0.242218,-4.85574,loser,5,2026-09-09
-internet-computer,Internet Computer,icp,2.89,-4.78538,loser,6,2026-09-09
-hedera-hashgraph,Hedera,hbar,0.078817,-4.52597,loser,7,2026-09-09
-monero,Monero,xmr,495.96,-4.41296,loser,8,2026-09-09
-uniswap,Uniswap,uni,6.78,-4.11184,loser,9,2026-09-09
-ethena,Ethena,ena,0.161154,-3.96459,loser,10,2026-09-09
+venice-token,Venice Token,vvv,25.63,42.16468,gainer,1,2026-09-09
+cosmos,Cosmos Hub,atom,2.0,19.53394,gainer,2,2026-09-09
+lighter,Lighter,lit,5.16,8.09105,gainer,3,2026-09-09
+polkadot,Polkadot,dot,1.17,7.75236,gainer,4,2026-09-09
+zcash,Zcash,zec,1238.78,7.56512,gainer,5,2026-09-09
+ether-fi,Ether.fi,ethfi,0.629894,6.01616,gainer,6,2026-09-09
+near,NEAR Protocol,near,2.45,4.99091,gainer,7,2026-09-09
+whitebit,WhiteBIT Coin,wbt,81.62,3.76067,gainer,8,2026-09-09
+dash,Dash,dash,64.79,3.25148,gainer,9,2026-09-09
+pump-fun,Pump.fun,pump,0.00447516,2.74466,gainer,10,2026-09-09
+internet-computer,Internet Computer,icp,2.83,-8.3642,loser,1,2026-09-09
+worldcoin-wld,Worldcoin,wld,0.445023,-7.59958,loser,2,2026-09-09
+uniswap,Uniswap,uni,6.61,-6.752,loser,3,2026-09-09
+arbitrum,Arbitrum,arb,0.166369,-6.1442,loser,4,2026-09-09
+rain,Rain,rain,0.01599245,-5.9484,loser,5,2026-09-09
+sky,Sky,sky,0.064363,-5.53861,loser,6,2026-09-09
+aerodrome-finance,Aerodrome Finance,aero,0.598801,-5.02987,loser,7,2026-09-09
+chainlink,Chainlink,link,12.15,-4.29416,loser,8,2026-09-09
+monero,Monero,xmr,496.94,-4.27217,loser,9,2026-09-09
+filecoin,Filecoin,fil,0.82776,-4.05859,loser,10,2026-09-09
