@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,25.64,8.57017,gainer,1,2026-09-09
-zcash,Zcash,zec,1253.58,6.25649,gainer,2,2026-09-09
-near,NEAR Protocol,near,2.54,5.27307,gainer,3,2026-09-09
-pump-fun,Pump.fun,pump,0.00454125,4.56066,gainer,4,2026-09-09
-cosmos,Cosmos Hub,atom,1.86,4.06478,gainer,5,2026-09-09
-lighter,Lighter,lit,4.87,3.74804,gainer,6,2026-09-09
-jupiter-exchange-solana,Jupiter,jup,0.245406,1.5473,gainer,7,2026-09-09
-whitebit,WhiteBIT Coin,wbt,80.76,1.14435,gainer,8,2026-09-09
-monero,Monero,xmr,502.28,1.1018,gainer,9,2026-09-09
-mantle,Mantle,mnt,0.629483,0.69412,gainer,10,2026-09-09
-worldcoin-wld,Worldcoin,wld,0.434152,-11.40322,loser,1,2026-09-09
-internet-computer,Internet Computer,icp,2.83,-6.92568,loser,2,2026-09-09
-injective-protocol,Injective,inj,6.03,-6.79011,loser,3,2026-09-09
-ethereum-classic,Ethereum Classic,etc,8.19,-6.01045,loser,4,2026-09-09
-arbitrum,Arbitrum,arb,0.158505,-5.89069,loser,5,2026-09-09
-just,JUST,jst,0.102355,-5.8303,loser,6,2026-09-09
-chainlink,Chainlink,link,11.9,-5.72281,loser,7,2026-09-09
-cardano,Cardano,ada,0.214008,-5.60031,loser,8,2026-09-09
-sky,Sky,sky,0.064069,-5.23567,loser,9,2026-09-09
-uniswap,Uniswap,uni,6.5,-5.18956,loser,10,2026-09-09
+zcash,Zcash,zec,1249.01,8.80046,gainer,1,2026-09-09
+near,NEAR Protocol,near,2.51,7.49717,gainer,2,2026-09-09
+cosmos,Cosmos Hub,atom,1.87,4.08422,gainer,3,2026-09-09
+bitway,Bitway,btw,0.450561,2.22148,gainer,4,2026-09-09
+monero,Monero,xmr,509.58,2.13167,gainer,5,2026-09-09
+pump-fun,Pump.fun,pump,0.00446805,1.8209,gainer,6,2026-09-09
+stable-2,​​Stable,stable,0.02891331,1.12926,gainer,7,2026-09-09
+pax-gold,PAX Gold,paxg,4397.62,0.86181,gainer,8,2026-09-09
+jupiter-exchange-solana,Jupiter,jup,0.241458,0.84156,gainer,9,2026-09-09
+tether-gold,Tether Gold,xaut,4393.97,0.79484,gainer,10,2026-09-09
+arbitrum,Arbitrum,arb,0.150608,-10.4388,loser,1,2026-09-09
+polkadot,Polkadot,dot,1.12,-10.05905,loser,2,2026-09-09
+worldcoin-wld,Worldcoin,wld,0.426582,-8.08059,loser,3,2026-09-09
+sky,Sky,sky,0.062492,-7.39076,loser,4,2026-09-09
+chainlink,Chainlink,link,11.87,-5.54684,loser,5,2026-09-09
+injective-protocol,Injective,inj,6.13,-4.82287,loser,6,2026-09-09
+ethereum-classic,Ethereum Classic,etc,8.06,-4.81085,loser,7,2026-09-09
+vechain,VeChain,vet,0.00762504,-4.39993,loser,8,2026-09-09
+ethena,Ethena,ena,0.153088,-4.24718,loser,9,2026-09-09
+official-trump,Official Trump,trump,2.14,-4.14048,loser,10,2026-09-09
