@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,25.63,42.16468,gainer,1,2026-09-09
-cosmos,Cosmos Hub,atom,2.0,19.53394,gainer,2,2026-09-09
-lighter,Lighter,lit,5.16,8.09105,gainer,3,2026-09-09
-polkadot,Polkadot,dot,1.17,7.75236,gainer,4,2026-09-09
-zcash,Zcash,zec,1238.78,7.56512,gainer,5,2026-09-09
-ether-fi,Ether.fi,ethfi,0.629894,6.01616,gainer,6,2026-09-09
-near,NEAR Protocol,near,2.45,4.99091,gainer,7,2026-09-09
-whitebit,WhiteBIT Coin,wbt,81.62,3.76067,gainer,8,2026-09-09
-dash,Dash,dash,64.79,3.25148,gainer,9,2026-09-09
-pump-fun,Pump.fun,pump,0.00447516,2.74466,gainer,10,2026-09-09
-internet-computer,Internet Computer,icp,2.83,-8.3642,loser,1,2026-09-09
-worldcoin-wld,Worldcoin,wld,0.445023,-7.59958,loser,2,2026-09-09
-uniswap,Uniswap,uni,6.61,-6.752,loser,3,2026-09-09
-arbitrum,Arbitrum,arb,0.166369,-6.1442,loser,4,2026-09-09
-rain,Rain,rain,0.01599245,-5.9484,loser,5,2026-09-09
-sky,Sky,sky,0.064363,-5.53861,loser,6,2026-09-09
-aerodrome-finance,Aerodrome Finance,aero,0.598801,-5.02987,loser,7,2026-09-09
-chainlink,Chainlink,link,12.15,-4.29416,loser,8,2026-09-09
-monero,Monero,xmr,496.94,-4.27217,loser,9,2026-09-09
-filecoin,Filecoin,fil,0.82776,-4.05859,loser,10,2026-09-09
+venice-token,Venice Token,vvv,25.64,8.57017,gainer,1,2026-09-09
+zcash,Zcash,zec,1253.58,6.25649,gainer,2,2026-09-09
+near,NEAR Protocol,near,2.54,5.27307,gainer,3,2026-09-09
+pump-fun,Pump.fun,pump,0.00454125,4.56066,gainer,4,2026-09-09
+cosmos,Cosmos Hub,atom,1.86,4.06478,gainer,5,2026-09-09
+lighter,Lighter,lit,4.87,3.74804,gainer,6,2026-09-09
+jupiter-exchange-solana,Jupiter,jup,0.245406,1.5473,gainer,7,2026-09-09
+whitebit,WhiteBIT Coin,wbt,80.76,1.14435,gainer,8,2026-09-09
+monero,Monero,xmr,502.28,1.1018,gainer,9,2026-09-09
+mantle,Mantle,mnt,0.629483,0.69412,gainer,10,2026-09-09
+worldcoin-wld,Worldcoin,wld,0.434152,-11.40322,loser,1,2026-09-09
+internet-computer,Internet Computer,icp,2.83,-6.92568,loser,2,2026-09-09
+injective-protocol,Injective,inj,6.03,-6.79011,loser,3,2026-09-09
+ethereum-classic,Ethereum Classic,etc,8.19,-6.01045,loser,4,2026-09-09
+arbitrum,Arbitrum,arb,0.158505,-5.89069,loser,5,2026-09-09
+just,JUST,jst,0.102355,-5.8303,loser,6,2026-09-09
+chainlink,Chainlink,link,11.9,-5.72281,loser,7,2026-09-09
+cardano,Cardano,ada,0.214008,-5.60031,loser,8,2026-09-09
+sky,Sky,sky,0.064069,-5.23567,loser,9,2026-09-09
+uniswap,Uniswap,uni,6.5,-5.18956,loser,10,2026-09-09
