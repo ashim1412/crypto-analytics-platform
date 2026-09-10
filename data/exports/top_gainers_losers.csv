@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-near,NEAR Protocol,near,2.44,4.98738,gainer,1,2026-09-10
-bitway,Bitway,btw,0.448496,3.254,gainer,2,2026-09-10
-monero,Monero,xmr,510.35,3.04458,gainer,3,2026-09-10
-stable-2,​​Stable,stable,0.02948039,3.03342,gainer,4,2026-09-10
-zcash,Zcash,zec,1219.69,2.98893,gainer,5,2026-09-10
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.096737,1.77762,gainer,6,2026-09-10
-kaspa,Kaspa,kas,0.03644747,1.26451,gainer,7,2026-09-10
-pax-gold,PAX Gold,paxg,4407.4,0.66715,gainer,8,2026-09-10
-tether-gold,Tether Gold,xaut,4403.91,0.66639,gainer,9,2026-09-10
-ether-fi,Ether.fi,ethfi,0.604133,0.26091,gainer,10,2026-09-10
-worldcoin-wld,Worldcoin,wld,0.403358,-11.82665,loser,1,2026-09-10
-arbitrum,Arbitrum,arb,0.146121,-11.24947,loser,2,2026-09-10
-uniswap,Uniswap,uni,6.03,-10.97618,loser,3,2026-09-10
-ethereum-classic,Ethereum Classic,etc,7.89,-10.89543,loser,4,2026-09-10
-pump-fun,Pump.fun,pump,0.00399129,-10.66383,loser,5,2026-09-10
-sky,Sky,sky,0.06037,-10.31307,loser,6,2026-09-10
-dash,Dash,dash,57.48,-8.5097,loser,7,2026-09-10
-venice-token,Venice Token,vvv,22.82,-8.19214,loser,8,2026-09-10
-ethena,Ethena,ena,0.148404,-7.94838,loser,9,2026-09-10
-polkadot,Polkadot,dot,1.1,-7.89152,loser,10,2026-09-10
+kaspa,Kaspa,kas,0.03891399,9.32614,gainer,1,2026-09-10
+bitway,Bitway,btw,0.46348,4.10505,gainer,2,2026-09-10
+stable-2,​​Stable,stable,0.02921524,3.08681,gainer,3,2026-09-10
+beldex,Beldex,bdx,0.076928,2.13345,gainer,4,2026-09-10
+monero,Monero,xmr,508.37,1.99219,gainer,5,2026-09-10
+just,JUST,jst,0.10522,1.55412,gainer,6,2026-09-10
+vechain,VeChain,vet,0.00789947,1.42977,gainer,7,2026-09-10
+rain,Rain,rain,0.016184,1.2121,gainer,8,2026-09-10
+world-liberty-financial,World Liberty Financial,wlfi,0.056062,0.80534,gainer,9,2026-09-10
+memecore,MemeCore,m,1.21,0.79221,gainer,10,2026-09-10
+lighter,Lighter,lit,4.53,-12.03175,loser,1,2026-09-10
+dash,Dash,dash,57.36,-11.33886,loser,2,2026-09-10
+pump-fun,Pump.fun,pump,0.00398422,-10.33612,loser,3,2026-09-10
+arbitrum,Arbitrum,arb,0.150065,-10.23109,loser,4,2026-09-10
+cosmos,Cosmos Hub,atom,1.82,-9.72685,loser,5,2026-09-10
+uniswap,Uniswap,uni,6.03,-8.99273,loser,6,2026-09-10
+ethena,Ethena,ena,0.14941,-8.56201,loser,7,2026-09-10
+worldcoin-wld,Worldcoin,wld,0.408448,-8.20482,loser,8,2026-09-10
+mantle,Mantle,mnt,0.593704,-7.82654,loser,9,2026-09-10
+venice-token,Venice Token,vvv,23.97,-7.78644,loser,10,2026-09-10
