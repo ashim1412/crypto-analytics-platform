@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1249.01,8.80046,gainer,1,2026-09-09
-near,NEAR Protocol,near,2.51,7.49717,gainer,2,2026-09-09
-cosmos,Cosmos Hub,atom,1.87,4.08422,gainer,3,2026-09-09
-bitway,Bitway,btw,0.450561,2.22148,gainer,4,2026-09-09
-monero,Monero,xmr,509.58,2.13167,gainer,5,2026-09-09
-pump-fun,Pump.fun,pump,0.00446805,1.8209,gainer,6,2026-09-09
-stable-2,​​Stable,stable,0.02891331,1.12926,gainer,7,2026-09-09
-pax-gold,PAX Gold,paxg,4397.62,0.86181,gainer,8,2026-09-09
-jupiter-exchange-solana,Jupiter,jup,0.241458,0.84156,gainer,9,2026-09-09
-tether-gold,Tether Gold,xaut,4393.97,0.79484,gainer,10,2026-09-09
-arbitrum,Arbitrum,arb,0.150608,-10.4388,loser,1,2026-09-09
-polkadot,Polkadot,dot,1.12,-10.05905,loser,2,2026-09-09
-worldcoin-wld,Worldcoin,wld,0.426582,-8.08059,loser,3,2026-09-09
-sky,Sky,sky,0.062492,-7.39076,loser,4,2026-09-09
-chainlink,Chainlink,link,11.87,-5.54684,loser,5,2026-09-09
-injective-protocol,Injective,inj,6.13,-4.82287,loser,6,2026-09-09
-ethereum-classic,Ethereum Classic,etc,8.06,-4.81085,loser,7,2026-09-09
-vechain,VeChain,vet,0.00762504,-4.39993,loser,8,2026-09-09
-ethena,Ethena,ena,0.153088,-4.24718,loser,9,2026-09-09
-official-trump,Official Trump,trump,2.14,-4.14048,loser,10,2026-09-09
+near,NEAR Protocol,near,2.44,4.98738,gainer,1,2026-09-10
+bitway,Bitway,btw,0.448496,3.254,gainer,2,2026-09-10
+monero,Monero,xmr,510.35,3.04458,gainer,3,2026-09-10
+stable-2,​​Stable,stable,0.02948039,3.03342,gainer,4,2026-09-10
+zcash,Zcash,zec,1219.69,2.98893,gainer,5,2026-09-10
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.096737,1.77762,gainer,6,2026-09-10
+kaspa,Kaspa,kas,0.03644747,1.26451,gainer,7,2026-09-10
+pax-gold,PAX Gold,paxg,4407.4,0.66715,gainer,8,2026-09-10
+tether-gold,Tether Gold,xaut,4403.91,0.66639,gainer,9,2026-09-10
+ether-fi,Ether.fi,ethfi,0.604133,0.26091,gainer,10,2026-09-10
+worldcoin-wld,Worldcoin,wld,0.403358,-11.82665,loser,1,2026-09-10
+arbitrum,Arbitrum,arb,0.146121,-11.24947,loser,2,2026-09-10
+uniswap,Uniswap,uni,6.03,-10.97618,loser,3,2026-09-10
+ethereum-classic,Ethereum Classic,etc,7.89,-10.89543,loser,4,2026-09-10
+pump-fun,Pump.fun,pump,0.00399129,-10.66383,loser,5,2026-09-10
+sky,Sky,sky,0.06037,-10.31307,loser,6,2026-09-10
+dash,Dash,dash,57.48,-8.5097,loser,7,2026-09-10
+venice-token,Venice Token,vvv,22.82,-8.19214,loser,8,2026-09-10
+ethena,Ethena,ena,0.148404,-7.94838,loser,9,2026-09-10
+polkadot,Polkadot,dot,1.1,-7.89152,loser,10,2026-09-10
