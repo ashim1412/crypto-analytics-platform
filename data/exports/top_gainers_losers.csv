@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ether-fi,Ether.fi,ethfi,0.700395,16.50422,gainer,1,2026-09-10
-bitway,Bitway,btw,0.48958,8.82142,gainer,2,2026-09-10
-venice-token,Venice Token,vvv,24.62,4.95237,gainer,3,2026-09-10
-stable-2,​​Stable,stable,0.02998722,3.70442,gainer,4,2026-09-10
-vechain,VeChain,vet,0.00786898,3.06854,gainer,5,2026-09-10
-kaspa,Kaspa,kas,0.0365863,2.83788,gainer,6,2026-09-10
-gatechain-token,Gate,gt,9.35,1.45374,gainer,7,2026-09-10
-monero,Monero,xmr,513.91,0.84484,gainer,8,2026-09-10
-figure-heloc,Figure Heloc,figr_heloc,1.032,0.47103,gainer,9,2026-09-10
-world-liberty-financial,World Liberty Financial,wlfi,0.056103,0.33512,gainer,10,2026-09-10
-pump-fun,Pump.fun,pump,0.00385464,-13.03163,loser,1,2026-09-10
-bitcoin-cash,Bitcoin Cash,bch,226.85,-10.8381,loser,2,2026-09-10
-dash,Dash,dash,55.85,-10.2768,loser,3,2026-09-10
-zcash,Zcash,zec,1123.05,-10.15316,loser,4,2026-09-10
-mantle,Mantle,mnt,0.571435,-7.12551,loser,5,2026-09-10
-bittensor,Bittensor,tao,239.32,-7.01525,loser,6,2026-09-10
-pancakeswap-token,PancakeSwap,cake,2.12,-6.95537,loser,7,2026-09-10
-jupiter-exchange-solana,Jupiter,jup,0.224564,-6.83991,loser,8,2026-09-10
-render-token,Render,render,1.42,-6.75837,loser,9,2026-09-10
-algorand,Algorand,algo,0.094,-6.64646,loser,10,2026-09-10
+bitway,Bitway,btw,0.502377,11.9806,gainer,1,2026-09-11
+ether-fi,Ether.fi,ethfi,0.669268,10.78889,gainer,2,2026-09-11
+venice-token,Venice Token,vvv,24.18,6.15518,gainer,3,2026-09-11
+aptos,Aptos,apt,0.651553,5.13776,gainer,4,2026-09-11
+gatechain-token,Gate,gt,9.3,2.93529,gainer,5,2026-09-11
+internet-computer,Internet Computer,icp,2.79,1.98652,gainer,6,2026-09-11
+polkadot,Polkadot,dot,1.12,1.50109,gainer,7,2026-09-11
+figure-heloc,Figure Heloc,figr_heloc,1.035,0.97906,gainer,8,2026-09-11
+world-liberty-financial,World Liberty Financial,wlfi,0.056502,0.84671,gainer,9,2026-09-11
+stable-2,​​Stable,stable,0.02959526,0.72404,gainer,10,2026-09-11
+zcash,Zcash,zec,1079.71,-11.84441,loser,1,2026-09-11
+bitcoin-cash,Bitcoin Cash,bch,226.08,-9.46231,loser,2,2026-09-11
+pump-fun,Pump.fun,pump,0.00365334,-8.46868,loser,3,2026-09-11
+bittensor,Bittensor,tao,234.22,-7.35328,loser,4,2026-09-11
+algorand,Algorand,algo,0.091125,-6.29104,loser,5,2026-09-11
+dash,Dash,dash,54.44,-5.44825,loser,6,2026-09-11
+lighter,Lighter,lit,4.36,-5.32645,loser,7,2026-09-11
+memecore,MemeCore,m,1.15,-5.18586,loser,8,2026-09-11
+canton-network,Canton,cc,0.097841,-5.09285,loser,9,2026-09-11
+hyperliquid,Hyperliquid,hype,78.81,-5.05154,loser,10,2026-09-11
