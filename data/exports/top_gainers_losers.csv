@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.501437,8.18014,gainer,1,2026-09-11
-ether-fi,Ether.fi,ethfi,0.662715,6.48676,gainer,2,2026-09-11
-morpho,Morpho,morpho,2.34,3.64738,gainer,3,2026-09-11
-near,NEAR Protocol,near,2.47,2.72946,gainer,4,2026-09-11
-gatechain-token,Gate,gt,9.32,2.25433,gainer,5,2026-09-11
-aerodrome-finance,Aerodrome Finance,aero,0.555574,1.47073,gainer,6,2026-09-11
-okb,OKB,okb,113.42,1.2333,gainer,7,2026-09-11
-figure-heloc,Figure Heloc,figr_heloc,1.035,0.79094,gainer,8,2026-09-11
-jupiter-exchange-solana,Jupiter,jup,0.228917,0.71076,gainer,9,2026-09-11
-monero,Monero,xmr,511.22,0.70757,gainer,10,2026-09-11
-kaspa,Kaspa,kas,0.03456304,-11.47704,loser,1,2026-09-11
-zcash,Zcash,zec,1104.51,-9.76531,loser,2,2026-09-11
-bitcoin-cash,Bitcoin Cash,bch,225.53,-8.86169,loser,3,2026-09-11
-pump-fun,Pump.fun,pump,0.003675,-7.72369,loser,4,2026-09-11
-bittensor,Bittensor,tao,234.14,-6.93154,loser,5,2026-09-11
-algorand,Algorand,algo,0.090962,-6.81638,loser,6,2026-09-11
-vechain,VeChain,vet,0.00747921,-5.22956,loser,7,2026-09-11
-arbitrum,Arbitrum,arb,0.142164,-5.08782,loser,8,2026-09-11
-cardano,Cardano,ada,0.204215,-4.29033,loser,9,2026-09-11
-avalanche-2,Avalanche,avax,7.41,-4.23616,loser,10,2026-09-11
+jupiter-exchange-solana,Jupiter,jup,0.253497,12.36127,gainer,1,2026-09-11
+near,NEAR Protocol,near,2.69,10.90128,gainer,2,2026-09-11
+aerodrome-finance,Aerodrome Finance,aero,0.60853,9.54707,gainer,3,2026-09-11
+venice-token,Venice Token,vvv,25.55,8.35358,gainer,4,2026-09-11
+bitway,Bitway,btw,0.502611,7.77867,gainer,5,2026-09-11
+ethereum,Ethereum,eth,2613.82,7.23226,gainer,6,2026-09-11
+uniswap,Uniswap,uni,6.32,6.74023,gainer,7,2026-09-11
+morpho,Morpho,morpho,2.39,5.14293,gainer,8,2026-09-11
+aave,Aave,aave,127.83,4.96683,gainer,9,2026-09-11
+shiba-inu,Shiba Inu,shib,5.32e-06,4.95041,gainer,10,2026-09-11
+vechain,VeChain,vet,0.00747928,-9.23195,loser,1,2026-09-11
+world-liberty-financial,World Liberty Financial,wlfi,0.052384,-6.77619,loser,2,2026-09-11
+stable-2,​​Stable,stable,0.02857607,-5.99722,loser,3,2026-09-11
+algorand,Algorand,algo,0.093404,-3.99897,loser,4,2026-09-11
+kaspa,Kaspa,kas,0.03594491,-3.57907,loser,5,2026-09-11
+ether-fi,Ether.fi,ethfi,0.674188,-3.46107,loser,6,2026-09-11
+pump-fun,Pump.fun,pump,0.00371955,-3.09023,loser,7,2026-09-11
+cosmos,Cosmos Hub,atom,1.73,-2.55071,loser,8,2026-09-11
+polkadot,Polkadot,dot,1.061,-2.50892,loser,9,2026-09-11
+arbitrum,Arbitrum,arb,0.147127,-2.30512,loser,10,2026-09-11
