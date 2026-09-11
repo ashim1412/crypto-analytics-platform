@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.253497,12.36127,gainer,1,2026-09-11
-near,NEAR Protocol,near,2.69,10.90128,gainer,2,2026-09-11
-aerodrome-finance,Aerodrome Finance,aero,0.60853,9.54707,gainer,3,2026-09-11
-venice-token,Venice Token,vvv,25.55,8.35358,gainer,4,2026-09-11
-bitway,Bitway,btw,0.502611,7.77867,gainer,5,2026-09-11
-ethereum,Ethereum,eth,2613.82,7.23226,gainer,6,2026-09-11
-uniswap,Uniswap,uni,6.32,6.74023,gainer,7,2026-09-11
-morpho,Morpho,morpho,2.39,5.14293,gainer,8,2026-09-11
-aave,Aave,aave,127.83,4.96683,gainer,9,2026-09-11
-shiba-inu,Shiba Inu,shib,5.32e-06,4.95041,gainer,10,2026-09-11
-vechain,VeChain,vet,0.00747928,-9.23195,loser,1,2026-09-11
-world-liberty-financial,World Liberty Financial,wlfi,0.052384,-6.77619,loser,2,2026-09-11
-stable-2,​​Stable,stable,0.02857607,-5.99722,loser,3,2026-09-11
-algorand,Algorand,algo,0.093404,-3.99897,loser,4,2026-09-11
-kaspa,Kaspa,kas,0.03594491,-3.57907,loser,5,2026-09-11
-ether-fi,Ether.fi,ethfi,0.674188,-3.46107,loser,6,2026-09-11
-pump-fun,Pump.fun,pump,0.00371955,-3.09023,loser,7,2026-09-11
-cosmos,Cosmos Hub,atom,1.73,-2.55071,loser,8,2026-09-11
-polkadot,Polkadot,dot,1.061,-2.50892,loser,9,2026-09-11
-arbitrum,Arbitrum,arb,0.147127,-2.30512,loser,10,2026-09-11
+jupiter-exchange-solana,Jupiter,jup,0.244628,8.92272,gainer,1,2026-09-11
+zcash,Zcash,zec,1185.47,5.49808,gainer,2,2026-09-11
+aerodrome-finance,Aerodrome Finance,aero,0.582713,4.93467,gainer,3,2026-09-11
+memecore,MemeCore,m,1.21,4.82473,gainer,4,2026-09-11
+ethereum,Ethereum,eth,2544.89,3.31527,gainer,5,2026-09-11
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.096142,3.14685,gainer,6,2026-09-11
+litecoin,Litecoin,ltc,53.67,2.91155,gainer,7,2026-09-11
+solana,Solana,sol,102.56,2.78964,gainer,8,2026-09-11
+pancakeswap-token,PancakeSwap,cake,2.18,2.70222,gainer,9,2026-09-11
+mantle,Mantle,mnt,0.586382,2.60645,gainer,10,2026-09-11
+stable-2,​​Stable,stable,0.02750379,-8.23655,loser,1,2026-09-11
+cosmos,Cosmos Hub,atom,1.65,-7.86675,loser,2,2026-09-11
+pump-fun,Pump.fun,pump,0.00361529,-6.2065,loser,3,2026-09-11
+vechain,VeChain,vet,0.00740507,-5.94783,loser,4,2026-09-11
+polkadot,Polkadot,dot,1.051,-4.45433,loser,5,2026-09-11
+arbitrum,Arbitrum,arb,0.142259,-3.74121,loser,6,2026-09-11
+world-liberty-financial,World Liberty Financial,wlfi,0.054316,-3.1897,loser,7,2026-09-11
+aster-2,Aster,aster,0.682806,-2.78879,loser,8,2026-09-11
+venice-token,Venice Token,vvv,24.14,-2.05534,loser,9,2026-09-11
+quant-network,Quant,qnt,64.17,-2.00339,loser,10,2026-09-11
