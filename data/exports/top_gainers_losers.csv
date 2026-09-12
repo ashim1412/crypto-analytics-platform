@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.244628,8.92272,gainer,1,2026-09-11
-zcash,Zcash,zec,1185.47,5.49808,gainer,2,2026-09-11
-aerodrome-finance,Aerodrome Finance,aero,0.582713,4.93467,gainer,3,2026-09-11
-memecore,MemeCore,m,1.21,4.82473,gainer,4,2026-09-11
-ethereum,Ethereum,eth,2544.89,3.31527,gainer,5,2026-09-11
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.096142,3.14685,gainer,6,2026-09-11
-litecoin,Litecoin,ltc,53.67,2.91155,gainer,7,2026-09-11
-solana,Solana,sol,102.56,2.78964,gainer,8,2026-09-11
-pancakeswap-token,PancakeSwap,cake,2.18,2.70222,gainer,9,2026-09-11
-mantle,Mantle,mnt,0.586382,2.60645,gainer,10,2026-09-11
-stable-2,​​Stable,stable,0.02750379,-8.23655,loser,1,2026-09-11
-cosmos,Cosmos Hub,atom,1.65,-7.86675,loser,2,2026-09-11
-pump-fun,Pump.fun,pump,0.00361529,-6.2065,loser,3,2026-09-11
-vechain,VeChain,vet,0.00740507,-5.94783,loser,4,2026-09-11
-polkadot,Polkadot,dot,1.051,-4.45433,loser,5,2026-09-11
-arbitrum,Arbitrum,arb,0.142259,-3.74121,loser,6,2026-09-11
-world-liberty-financial,World Liberty Financial,wlfi,0.054316,-3.1897,loser,7,2026-09-11
-aster-2,Aster,aster,0.682806,-2.78879,loser,8,2026-09-11
-venice-token,Venice Token,vvv,24.14,-2.05534,loser,9,2026-09-11
-quant-network,Quant,qnt,64.17,-2.00339,loser,10,2026-09-11
+jupiter-exchange-solana,Jupiter,jup,0.247674,8.274,gainer,1,2026-09-12
+zcash,Zcash,zec,1137.76,5.21219,gainer,2,2026-09-12
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.097069,5.02159,gainer,3,2026-09-12
+aerodrome-finance,Aerodrome Finance,aero,0.571492,4.8372,gainer,4,2026-09-12
+memecore,MemeCore,m,1.2,4.27686,gainer,5,2026-09-12
+okb,OKB,okb,113.51,4.05881,gainer,6,2026-09-12
+dash,Dash,dash,56.9,4.05456,gainer,7,2026-09-12
+pancakeswap-token,PancakeSwap,cake,2.21,3.73496,gainer,8,2026-09-12
+ether-fi,Ether.fi,ethfi,0.693474,3.39378,gainer,9,2026-09-12
+sky,Sky,sky,0.062029,3.29465,gainer,10,2026-09-12
+cosmos,Cosmos Hub,atom,1.65,-8.82787,loser,1,2026-09-12
+polkadot,Polkadot,dot,1.057,-5.33188,loser,2,2026-09-12
+world-liberty-financial,World Liberty Financial,wlfi,0.054246,-4.18704,loser,3,2026-09-12
+stable-2,​​Stable,stable,0.02829726,-4.06486,loser,4,2026-09-12
+venice-token,Venice Token,vvv,23.5,-3.03591,loser,5,2026-09-12
+near,NEAR Protocol,near,2.36,-2.6865,loser,6,2026-09-12
+rain,Rain,rain,0.01535401,-2.42679,loser,7,2026-09-12
+pump-fun,Pump.fun,pump,0.00359379,-2.29497,loser,8,2026-09-12
+aster-2,Aster,aster,0.684581,-2.0701,loser,9,2026-09-12
+ethena,Ethena,ena,0.141666,-1.93909,loser,10,2026-09-12
