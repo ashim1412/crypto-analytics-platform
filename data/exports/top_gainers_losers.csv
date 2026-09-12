@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ether-fi,Ether.fi,ethfi,0.765554,10.93658,gainer,1,2026-09-12
-world-liberty-financial,World Liberty Financial,wlfi,0.057005,7.86397,gainer,2,2026-09-12
-bitway,Bitway,btw,0.547898,7.47262,gainer,3,2026-09-12
-sky,Sky,sky,0.063717,6.65522,gainer,4,2026-09-12
-just,JUST,jst,0.109077,6.5653,gainer,5,2026-09-12
-vechain,VeChain,vet,0.00777957,3.47548,gainer,6,2026-09-12
-monero,Monero,xmr,533.33,2.63087,gainer,7,2026-09-12
-crypto-com-chain,Cronos,cro,0.058531,2.0771,gainer,8,2026-09-12
-htx-dao,HTX DAO,htx,1.7e-06,1.25954,gainer,9,2026-09-12
-pancakeswap-token,PancakeSwap,cake,2.23,1.22658,gainer,10,2026-09-12
-near,NEAR Protocol,near,2.38,-11.55738,loser,1,2026-09-12
-venice-token,Venice Token,vvv,23.12,-11.13416,loser,2,2026-09-12
-lighter,Lighter,lit,4.34,-11.12742,loser,3,2026-09-12
-ethena,Ethena,ena,0.142041,-7.27029,loser,4,2026-09-12
-morpho,Morpho,morpho,2.28,-6.39641,loser,5,2026-09-12
-rain,Rain,rain,0.01508357,-6.36441,loser,6,2026-09-12
-cosmos,Cosmos Hub,atom,1.63,-6.22605,loser,7,2026-09-12
-polkadot,Polkadot,dot,1.036,-4.86959,loser,8,2026-09-12
-pump-fun,Pump.fun,pump,0.00361304,-4.74772,loser,9,2026-09-12
-worldcoin-wld,Worldcoin,wld,0.40332,-4.61448,loser,10,2026-09-12
+bitway,Bitway,btw,0.556899,11.41199,gainer,1,2026-09-12
+pump-fun,Pump.fun,pump,0.00385091,7.87882,gainer,2,2026-09-12
+world-liberty-financial,World Liberty Financial,wlfi,0.057622,7.26716,gainer,3,2026-09-12
+ether-fi,Ether.fi,ethfi,0.722188,5.53653,gainer,4,2026-09-12
+just,JUST,jst,0.109961,4.82954,gainer,5,2026-09-12
+pepe,Pepe,pepe,3.42e-06,4.03087,gainer,6,2026-09-12
+crypto-com-chain,Cronos,cro,0.058397,3.52487,gainer,7,2026-09-12
+sky,Sky,sky,0.062714,3.35731,gainer,8,2026-09-12
+uniswap,Uniswap,uni,6.28,3.15511,gainer,9,2026-09-12
+injective-protocol,Injective,inj,6.05,3.0428,gainer,10,2026-09-12
+near,NEAR Protocol,near,2.35,-5.95581,loser,1,2026-09-12
+lighter,Lighter,lit,4.25,-4.73067,loser,2,2026-09-12
+zcash,Zcash,zec,1114.38,-4.53995,loser,3,2026-09-12
+morpho,Morpho,morpho,2.23,-3.86999,loser,4,2026-09-12
+kaspa,Kaspa,kas,0.03473349,-3.29092,loser,5,2026-09-12
+aerodrome-finance,Aerodrome Finance,aero,0.564149,-2.85966,loser,6,2026-09-12
+venice-token,Venice Token,vvv,23.37,-2.82785,loser,7,2026-09-12
+mantle,Mantle,mnt,0.569178,-2.67901,loser,8,2026-09-12
+figure-heloc,Figure Heloc,figr_heloc,1.003,-2.6245,loser,9,2026-09-12
+dash,Dash,dash,54.94,-2.37039,loser,10,2026-09-12
