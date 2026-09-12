@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ether-fi,Ether.fi,ethfi,0.729841,10.21315,gainer,1,2026-09-12
-bitway,Bitway,btw,0.549308,9.9853,gainer,2,2026-09-12
-jupiter-exchange-solana,Jupiter,jup,0.24702,8.66503,gainer,3,2026-09-12
-sky,Sky,sky,0.063574,7.32504,gainer,4,2026-09-12
-monero,Monero,xmr,538.23,5.66949,gainer,5,2026-09-12
-uniswap,Uniswap,uni,6.36,5.57303,gainer,6,2026-09-12
-pancakeswap-token,PancakeSwap,cake,2.24,5.25251,gainer,7,2026-09-12
-just,JUST,jst,0.108368,4.92237,gainer,8,2026-09-12
-zcash,Zcash,zec,1150.56,4.82205,gainer,9,2026-09-12
-shiba-inu,Shiba Inu,shib,5.29e-06,4.69959,gainer,10,2026-09-12
-cosmos,Cosmos Hub,atom,1.64,-6.24272,loser,1,2026-09-12
-stable-2,​​Stable,stable,0.02766106,-5.06404,loser,2,2026-09-12
-polkadot,Polkadot,dot,1.043,-4.54812,loser,3,2026-09-12
-rain,Rain,rain,0.01512081,-3.54785,loser,4,2026-09-12
-near,NEAR Protocol,near,2.38,-2.82691,loser,5,2026-09-12
-lighter,Lighter,lit,4.37,-2.34377,loser,6,2026-09-12
-aster-2,Aster,aster,0.685238,-2.18839,loser,7,2026-09-12
-venice-token,Venice Token,vvv,23.16,-1.9289,loser,8,2026-09-12
-pump-fun,Pump.fun,pump,0.00358196,-1.90851,loser,9,2026-09-12
-figure-heloc,Figure Heloc,figr_heloc,1.016,-1.76614,loser,10,2026-09-12
+ether-fi,Ether.fi,ethfi,0.765554,10.93658,gainer,1,2026-09-12
+world-liberty-financial,World Liberty Financial,wlfi,0.057005,7.86397,gainer,2,2026-09-12
+bitway,Bitway,btw,0.547898,7.47262,gainer,3,2026-09-12
+sky,Sky,sky,0.063717,6.65522,gainer,4,2026-09-12
+just,JUST,jst,0.109077,6.5653,gainer,5,2026-09-12
+vechain,VeChain,vet,0.00777957,3.47548,gainer,6,2026-09-12
+monero,Monero,xmr,533.33,2.63087,gainer,7,2026-09-12
+crypto-com-chain,Cronos,cro,0.058531,2.0771,gainer,8,2026-09-12
+htx-dao,HTX DAO,htx,1.7e-06,1.25954,gainer,9,2026-09-12
+pancakeswap-token,PancakeSwap,cake,2.23,1.22658,gainer,10,2026-09-12
+near,NEAR Protocol,near,2.38,-11.55738,loser,1,2026-09-12
+venice-token,Venice Token,vvv,23.12,-11.13416,loser,2,2026-09-12
+lighter,Lighter,lit,4.34,-11.12742,loser,3,2026-09-12
+ethena,Ethena,ena,0.142041,-7.27029,loser,4,2026-09-12
+morpho,Morpho,morpho,2.28,-6.39641,loser,5,2026-09-12
+rain,Rain,rain,0.01508357,-6.36441,loser,6,2026-09-12
+cosmos,Cosmos Hub,atom,1.63,-6.22605,loser,7,2026-09-12
+polkadot,Polkadot,dot,1.036,-4.86959,loser,8,2026-09-12
+pump-fun,Pump.fun,pump,0.00361304,-4.74772,loser,9,2026-09-12
+worldcoin-wld,Worldcoin,wld,0.40332,-4.61448,loser,10,2026-09-12
