@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.556899,11.41199,gainer,1,2026-09-12
-pump-fun,Pump.fun,pump,0.00385091,7.87882,gainer,2,2026-09-12
-world-liberty-financial,World Liberty Financial,wlfi,0.057622,7.26716,gainer,3,2026-09-12
-ether-fi,Ether.fi,ethfi,0.722188,5.53653,gainer,4,2026-09-12
-just,JUST,jst,0.109961,4.82954,gainer,5,2026-09-12
-pepe,Pepe,pepe,3.42e-06,4.03087,gainer,6,2026-09-12
-crypto-com-chain,Cronos,cro,0.058397,3.52487,gainer,7,2026-09-12
-sky,Sky,sky,0.062714,3.35731,gainer,8,2026-09-12
-uniswap,Uniswap,uni,6.28,3.15511,gainer,9,2026-09-12
-injective-protocol,Injective,inj,6.05,3.0428,gainer,10,2026-09-12
-near,NEAR Protocol,near,2.35,-5.95581,loser,1,2026-09-12
-lighter,Lighter,lit,4.25,-4.73067,loser,2,2026-09-12
-zcash,Zcash,zec,1114.38,-4.53995,loser,3,2026-09-12
-morpho,Morpho,morpho,2.23,-3.86999,loser,4,2026-09-12
-kaspa,Kaspa,kas,0.03473349,-3.29092,loser,5,2026-09-12
-aerodrome-finance,Aerodrome Finance,aero,0.564149,-2.85966,loser,6,2026-09-12
-venice-token,Venice Token,vvv,23.37,-2.82785,loser,7,2026-09-12
-mantle,Mantle,mnt,0.569178,-2.67901,loser,8,2026-09-12
-figure-heloc,Figure Heloc,figr_heloc,1.003,-2.6245,loser,9,2026-09-12
-dash,Dash,dash,54.94,-2.37039,loser,10,2026-09-12
+bitway,Bitway,btw,0.550402,9.88335,gainer,1,2026-09-13
+uniswap,Uniswap,uni,6.4,6.5279,gainer,2,2026-09-13
+crypto-com-chain,Cronos,cro,0.05984,6.06641,gainer,3,2026-09-13
+pump-fun,Pump.fun,pump,0.00382783,5.76332,gainer,4,2026-09-13
+world-liberty-financial,World Liberty Financial,wlfi,0.057017,5.21558,gainer,5,2026-09-13
+pepe,Pepe,pepe,3.44e-06,4.05167,gainer,6,2026-09-13
+monero,Monero,xmr,541.92,3.79826,gainer,7,2026-09-13
+venice-token,Venice Token,vvv,24.3,3.70354,gainer,8,2026-09-13
+vechain,VeChain,vet,0.00761279,3.03139,gainer,9,2026-09-13
+just,JUST,jst,0.109969,2.85475,gainer,10,2026-09-13
+mantle,Mantle,mnt,0.55345,-4.81624,loser,1,2026-09-13
+morpho,Morpho,morpho,2.21,-3.97924,loser,2,2026-09-13
+polkadot,Polkadot,dot,1.017,-3.73692,loser,3,2026-09-13
+lighter,Lighter,lit,4.24,-3.62579,loser,4,2026-09-13
+dash,Dash,dash,54.85,-3.45743,loser,5,2026-09-13
+figure-heloc,Figure Heloc,figr_heloc,1.0,-3.07553,loser,6,2026-09-13
+cosmos,Cosmos Hub,atom,1.6,-2.75301,loser,7,2026-09-13
+jupiter-exchange-solana,Jupiter,jup,0.24225,-2.19078,loser,8,2026-09-13
+kaspa,Kaspa,kas,0.03509927,-2.16534,loser,9,2026-09-13
+bitcoin-cash,Bitcoin Cash,bch,226.44,-1.83745,loser,10,2026-09-13
