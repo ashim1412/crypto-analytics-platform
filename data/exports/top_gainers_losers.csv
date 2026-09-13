@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.723663,31.80721,gainer,1,2026-09-13
-filecoin,Filecoin,fil,0.919019,13.69039,gainer,2,2026-09-13
-just,JUST,jst,0.112427,3.25797,gainer,3,2026-09-13
-pi-network,Pi Network,pi,0.097738,2.54643,gainer,4,2026-09-13
-injective-protocol,Injective,inj,6.12,2.47752,gainer,5,2026-09-13
-stable-2,​​Stable,stable,0.02832531,2.42988,gainer,6,2026-09-13
-rain,Rain,rain,0.01531182,1.66648,gainer,7,2026-09-13
-hedera-hashgraph,Hedera,hbar,0.07594,1.53984,gainer,8,2026-09-13
-monero,Monero,xmr,533.82,1.39648,gainer,9,2026-09-13
-aster-2,Aster,aster,0.697473,1.14113,gainer,10,2026-09-13
-ether-fi,Ether.fi,ethfi,0.645473,-14.65016,loser,1,2026-09-13
-venice-token,Venice Token,vvv,21.69,-6.40612,loser,2,2026-09-13
-lighter,Lighter,lit,4.1,-5.50365,loser,3,2026-09-13
-zcash,Zcash,zec,1089.87,-4.80439,loser,4,2026-09-13
-morpho,Morpho,morpho,2.18,-4.70299,loser,5,2026-09-13
-dash,Dash,dash,53.87,-4.37664,loser,6,2026-09-13
-near,NEAR Protocol,near,2.3,-4.21805,loser,7,2026-09-13
-jupiter-exchange-solana,Jupiter,jup,0.235428,-4.17638,loser,8,2026-09-13
-arbitrum,Arbitrum,arb,0.138997,-3.22884,loser,9,2026-09-13
-uniswap,Uniswap,uni,6.28,-3.15377,loser,10,2026-09-13
+bitway,Bitway,btw,0.708107,27.04103,gainer,1,2026-09-13
+filecoin,Filecoin,fil,0.979988,22.69983,gainer,2,2026-09-13
+vechain,VeChain,vet,0.00780356,3.69438,gainer,3,2026-09-13
+just,JUST,jst,0.113935,3.61144,gainer,4,2026-09-13
+algorand,Algorand,algo,0.096239,3.5194,gainer,5,2026-09-13
+pancakeswap-token,PancakeSwap,cake,2.27,2.66926,gainer,6,2026-09-13
+litecoin,Litecoin,ltc,54.82,2.21861,gainer,7,2026-09-13
+hedera-hashgraph,Hedera,hbar,0.075989,2.17382,gainer,8,2026-09-13
+aster-2,Aster,aster,0.69718,1.97785,gainer,9,2026-09-13
+pi-network,Pi Network,pi,0.097335,1.93877,gainer,10,2026-09-13
+ether-fi,Ether.fi,ethfi,0.641687,-10.9347,loser,1,2026-09-13
+pump-fun,Pump.fun,pump,0.00357227,-7.47133,loser,2,2026-09-13
+venice-token,Venice Token,vvv,21.81,-6.69604,loser,3,2026-09-13
+jupiter-exchange-solana,Jupiter,jup,0.231893,-4.5892,loser,4,2026-09-13
+memecore,MemeCore,m,1.14,-3.17206,loser,5,2026-09-13
+zcash,Zcash,zec,1083.07,-3.03834,loser,6,2026-09-13
+worldcoin-wld,Worldcoin,wld,0.387387,-3.00832,loser,7,2026-09-13
+rain,Rain,rain,0.01529742,-2.85829,loser,8,2026-09-13
+morpho,Morpho,morpho,2.18,-2.75523,loser,9,2026-09-13
+hyperliquid,Hyperliquid,hype,77.84,-2.03686,loser,10,2026-09-13
