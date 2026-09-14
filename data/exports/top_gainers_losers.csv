@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-filecoin,Filecoin,fil,0.986361,22.48892,gainer,1,2026-09-14
-bitway,Bitway,btw,0.663294,20.12132,gainer,2,2026-09-14
-algorand,Algorand,algo,0.097645,5.35189,gainer,3,2026-09-14
-just,JUST,jst,0.113886,3.55132,gainer,4,2026-09-14
-injective-protocol,Injective,inj,6.08,2.60466,gainer,5,2026-09-14
-internet-computer,Internet Computer,icp,2.8,2.531,gainer,6,2026-09-14
-vechain,VeChain,vet,0.00779947,2.4489,gainer,7,2026-09-14
-pancakeswap-token,PancakeSwap,cake,2.27,2.25195,gainer,8,2026-09-14
-hedera-hashgraph,Hedera,hbar,0.075886,1.04538,gainer,9,2026-09-14
-stable-2,​​Stable,stable,0.02798271,0.89443,gainer,10,2026-09-14
-venice-token,Venice Token,vvv,21.61,-10.91367,loser,1,2026-09-14
-pump-fun,Pump.fun,pump,0.00354823,-7.797,loser,2,2026-09-14
-ether-fi,Ether.fi,ethfi,0.642245,-7.7264,loser,3,2026-09-14
-memecore,MemeCore,m,1.14,-4.60327,loser,4,2026-09-14
-monero,Monero,xmr,517.55,-4.57568,loser,5,2026-09-14
-zcash,Zcash,zec,1075.79,-4.51065,loser,6,2026-09-14
-worldcoin-wld,Worldcoin,wld,0.38383,-3.48244,loser,7,2026-09-14
-arbitrum,Arbitrum,arb,0.135701,-3.4232,loser,8,2026-09-14
-kaspa,Kaspa,kas,0.03397765,-3.41311,loser,9,2026-09-14
-rain,Rain,rain,0.01520596,-3.32578,loser,10,2026-09-14
+filecoin,Filecoin,fil,0.997418,22.91069,gainer,1,2026-09-14
+pancakeswap-token,PancakeSwap,cake,2.39,9.71743,gainer,2,2026-09-14
+lighter,Lighter,lit,4.52,9.43247,gainer,3,2026-09-14
+stellar,Stellar,xlm,0.189003,6.44607,gainer,4,2026-09-14
+near,NEAR Protocol,near,2.41,5.4132,gainer,5,2026-09-14
+stable-2,​​Stable,stable,0.02916028,4.93676,gainer,6,2026-09-14
+injective-protocol,Injective,inj,6.06,4.50513,gainer,7,2026-09-14
+ripple,XRP,xrp,1.4,4.25753,gainer,8,2026-09-14
+internet-computer,Internet Computer,icp,2.76,3.97499,gainer,9,2026-09-14
+zcash,Zcash,zec,1136.53,3.76706,gainer,10,2026-09-14
+monero,Monero,xmr,515.07,-4.56349,loser,1,2026-09-14
+memecore,MemeCore,m,1.11,-3.49938,loser,2,2026-09-14
+pump-fun,Pump.fun,pump,0.00361514,-2.69813,loser,3,2026-09-14
+arbitrum,Arbitrum,arb,0.1349,-1.9689,loser,4,2026-09-14
+kaspa,Kaspa,kas,0.03365319,-1.61508,loser,5,2026-09-14
+rain,Rain,rain,0.01510993,-1.49714,loser,6,2026-09-14
+worldcoin-wld,Worldcoin,wld,0.384528,-1.16735,loser,7,2026-09-14
+pax-gold,PAX Gold,paxg,4302.96,-1.08028,loser,8,2026-09-14
+tether-gold,Tether Gold,xaut,4300.07,-1.05618,loser,9,2026-09-14
+leo-token,LEO Token,leo,8.96,-1.03504,loser,10,2026-09-14
