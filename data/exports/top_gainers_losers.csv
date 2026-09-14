@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.708107,27.04103,gainer,1,2026-09-13
-filecoin,Filecoin,fil,0.979988,22.69983,gainer,2,2026-09-13
-vechain,VeChain,vet,0.00780356,3.69438,gainer,3,2026-09-13
-just,JUST,jst,0.113935,3.61144,gainer,4,2026-09-13
-algorand,Algorand,algo,0.096239,3.5194,gainer,5,2026-09-13
-pancakeswap-token,PancakeSwap,cake,2.27,2.66926,gainer,6,2026-09-13
-litecoin,Litecoin,ltc,54.82,2.21861,gainer,7,2026-09-13
-hedera-hashgraph,Hedera,hbar,0.075989,2.17382,gainer,8,2026-09-13
-aster-2,Aster,aster,0.69718,1.97785,gainer,9,2026-09-13
-pi-network,Pi Network,pi,0.097335,1.93877,gainer,10,2026-09-13
-ether-fi,Ether.fi,ethfi,0.641687,-10.9347,loser,1,2026-09-13
-pump-fun,Pump.fun,pump,0.00357227,-7.47133,loser,2,2026-09-13
-venice-token,Venice Token,vvv,21.81,-6.69604,loser,3,2026-09-13
-jupiter-exchange-solana,Jupiter,jup,0.231893,-4.5892,loser,4,2026-09-13
-memecore,MemeCore,m,1.14,-3.17206,loser,5,2026-09-13
-zcash,Zcash,zec,1083.07,-3.03834,loser,6,2026-09-13
-worldcoin-wld,Worldcoin,wld,0.387387,-3.00832,loser,7,2026-09-13
-rain,Rain,rain,0.01529742,-2.85829,loser,8,2026-09-13
-morpho,Morpho,morpho,2.18,-2.75523,loser,9,2026-09-13
-hyperliquid,Hyperliquid,hype,77.84,-2.03686,loser,10,2026-09-13
+filecoin,Filecoin,fil,0.986361,22.48892,gainer,1,2026-09-14
+bitway,Bitway,btw,0.663294,20.12132,gainer,2,2026-09-14
+algorand,Algorand,algo,0.097645,5.35189,gainer,3,2026-09-14
+just,JUST,jst,0.113886,3.55132,gainer,4,2026-09-14
+injective-protocol,Injective,inj,6.08,2.60466,gainer,5,2026-09-14
+internet-computer,Internet Computer,icp,2.8,2.531,gainer,6,2026-09-14
+vechain,VeChain,vet,0.00779947,2.4489,gainer,7,2026-09-14
+pancakeswap-token,PancakeSwap,cake,2.27,2.25195,gainer,8,2026-09-14
+hedera-hashgraph,Hedera,hbar,0.075886,1.04538,gainer,9,2026-09-14
+stable-2,​​Stable,stable,0.02798271,0.89443,gainer,10,2026-09-14
+venice-token,Venice Token,vvv,21.61,-10.91367,loser,1,2026-09-14
+pump-fun,Pump.fun,pump,0.00354823,-7.797,loser,2,2026-09-14
+ether-fi,Ether.fi,ethfi,0.642245,-7.7264,loser,3,2026-09-14
+memecore,MemeCore,m,1.14,-4.60327,loser,4,2026-09-14
+monero,Monero,xmr,517.55,-4.57568,loser,5,2026-09-14
+zcash,Zcash,zec,1075.79,-4.51065,loser,6,2026-09-14
+worldcoin-wld,Worldcoin,wld,0.38383,-3.48244,loser,7,2026-09-14
+arbitrum,Arbitrum,arb,0.135701,-3.4232,loser,8,2026-09-14
+kaspa,Kaspa,kas,0.03397765,-3.41311,loser,9,2026-09-14
+rain,Rain,rain,0.01520596,-3.32578,loser,10,2026-09-14
