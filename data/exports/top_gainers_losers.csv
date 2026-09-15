@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-uniswap,Uniswap,uni,6.64,5.45125,gainer,1,2026-09-15
-stellar,Stellar,xlm,0.194039,3.98817,gainer,2,2026-09-15
-xdce-crowd-sale,XDC Network,xdc,0.02892441,3.88105,gainer,3,2026-09-15
-bitway,Bitway,btw,0.713865,3.41577,gainer,4,2026-09-15
-avalanche-2,Avalanche,avax,7.52,1.89623,gainer,5,2026-09-15
-flare-networks,Flare,flr,0.00662072,1.70733,gainer,6,2026-09-15
-just,JUST,jst,0.115201,1.4513,gainer,7,2026-09-15
-hedera-hashgraph,Hedera,hbar,0.077221,1.08737,gainer,8,2026-09-15
-ethena,Ethena,ena,0.142445,0.42255,gainer,9,2026-09-15
-leo-token,LEO Token,leo,8.99,0.34662,gainer,10,2026-09-15
-rain,Rain,rain,0.01322434,-12.49614,loser,1,2026-09-15
-filecoin,Filecoin,fil,0.886384,-12.26481,loser,2,2026-09-15
-internet-computer,Internet Computer,icp,2.58,-6.63708,loser,3,2026-09-15
-vechain,VeChain,vet,0.00733018,-6.44911,loser,4,2026-09-15
-ether-fi,Ether.fi,ethfi,0.615551,-6.26949,loser,5,2026-09-15
-stable-2,​​Stable,stable,0.02758926,-5.97475,loser,6,2026-09-15
-venice-token,Venice Token,vvv,21.9,-4.83651,loser,7,2026-09-15
-bittensor,Bittensor,tao,226.24,-4.25779,loser,8,2026-09-15
-pancakeswap-token,PancakeSwap,cake,2.28,-4.09211,loser,9,2026-09-15
-morpho,Morpho,morpho,2.14,-3.80878,loser,10,2026-09-15
+akedo,Akedo,ake,0.02739103,77.23151,gainer,1,2026-09-15
+arbitrum,Arbitrum,arb,0.147554,9.38997,gainer,2,2026-09-15
+xdce-crowd-sale,XDC Network,xdc,0.02899638,3.98726,gainer,3,2026-09-15
+memecore,MemeCore,m,1.11,2.13797,gainer,4,2026-09-15
+hedera-hashgraph,Hedera,hbar,0.077985,1.79623,gainer,5,2026-09-15
+just,JUST,jst,0.115464,1.64338,gainer,6,2026-09-15
+venice-token,Venice Token,vvv,22.44,1.35804,gainer,7,2026-09-15
+ethena,Ethena,ena,0.143041,1.16796,gainer,8,2026-09-15
+cosmos,Cosmos Hub,atom,1.56,0.9563,gainer,9,2026-09-15
+stellar,Stellar,xlm,0.193007,0.42367,gainer,10,2026-09-15
+rain,Rain,rain,0.0125668,-12.56242,loser,1,2026-09-15
+filecoin,Filecoin,fil,0.861795,-12.36545,loser,2,2026-09-15
+injective-protocol,Injective,inj,5.69,-8.25853,loser,3,2026-09-15
+internet-computer,Internet Computer,icp,2.56,-6.54168,loser,4,2026-09-15
+ether-fi,Ether.fi,ethfi,0.603077,-6.31822,loser,5,2026-09-15
+vechain,VeChain,vet,0.00736294,-4.60042,loser,6,2026-09-15
+pancakeswap-token,PancakeSwap,cake,2.27,-4.36939,loser,7,2026-09-15
+sky,Sky,sky,0.061484,-4.1841,loser,8,2026-09-15
+lighter,Lighter,lit,4.22,-3.99604,loser,9,2026-09-15
+dash,Dash,dash,51.84,-3.83519,loser,10,2026-09-15
