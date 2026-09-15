@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1188.8,8.00354,gainer,1,2026-09-14
-stellar,Stellar,xlm,0.193614,7.31163,gainer,2,2026-09-14
-near,NEAR Protocol,near,2.51,7.01825,gainer,3,2026-09-14
-ripple,XRP,xrp,1.45,6.88096,gainer,4,2026-09-14
-uniswap,Uniswap,uni,6.65,6.0225,gainer,5,2026-09-14
-lighter,Lighter,lit,4.51,5.82214,gainer,6,2026-09-14
-flare-networks,Flare,flr,0.00675905,4.31681,gainer,7,2026-09-14
-jupiter-exchange-solana,Jupiter,jup,0.242568,4.29158,gainer,8,2026-09-14
-pancakeswap-token,PancakeSwap,cake,2.36,3.83416,gainer,9,2026-09-14
-ethena,Ethena,ena,0.144827,3.60332,gainer,10,2026-09-14
-bitway,Bitway,btw,0.630637,-10.37244,loser,1,2026-09-14
-rain,Rain,rain,0.0142865,-6.45432,loser,2,2026-09-14
-filecoin,Filecoin,fil,0.939907,-4.30591,loser,3,2026-09-14
-memecore,MemeCore,m,1.099,-4.15789,loser,4,2026-09-14
-monero,Monero,xmr,513.31,-3.87218,loser,5,2026-09-14
-algorand,Algorand,algo,0.097713,-2.32232,loser,6,2026-09-14
-litecoin,Litecoin,ltc,53.68,-2.00665,loser,7,2026-09-14
-tether-gold,Tether Gold,xaut,4300.5,-1.03196,loser,8,2026-09-14
-pax-gold,PAX Gold,paxg,4304.94,-1.00041,loser,9,2026-09-14
-leo-token,LEO Token,leo,8.99,-0.93807,loser,10,2026-09-14
+stellar,Stellar,xlm,0.194767,8.80924,gainer,1,2026-09-15
+zcash,Zcash,zec,1165.08,8.23924,gainer,2,2026-09-15
+uniswap,Uniswap,uni,6.67,6.672,gainer,3,2026-09-15
+ripple,XRP,xrp,1.43,5.35252,gainer,4,2026-09-15
+bitway,Bitway,btw,0.706311,4.97399,gainer,5,2026-09-15
+pump-fun,Pump.fun,pump,0.00373265,4.90602,gainer,6,2026-09-15
+near,NEAR Protocol,near,2.44,4.27504,gainer,7,2026-09-15
+venice-token,Venice Token,vvv,22.49,4.02335,gainer,8,2026-09-15
+flare-networks,Flare,flr,0.00665482,3.44669,gainer,9,2026-09-15
+lighter,Lighter,lit,4.36,3.30193,gainer,10,2026-09-15
+filecoin,Filecoin,fil,0.897648,-9.23829,loser,1,2026-09-15
+rain,Rain,rain,0.01425737,-6.26362,loser,2,2026-09-15
+memecore,MemeCore,m,1.098,-3.41393,loser,3,2026-09-15
+litecoin,Litecoin,ltc,52.81,-2.74743,loser,4,2026-09-15
+internet-computer,Internet Computer,icp,2.73,-2.64057,loser,5,2026-09-15
+vechain,VeChain,vet,0.00760358,-2.46339,loser,6,2026-09-15
+polkadot,Polkadot,dot,0.991411,-2.35953,loser,7,2026-09-15
+algorand,Algorand,algo,0.096117,-1.62732,loser,8,2026-09-15
+ether-fi,Ether.fi,ethfi,0.629376,-1.57961,loser,9,2026-09-15
+arbitrum,Arbitrum,arb,0.134246,-1.52311,loser,10,2026-09-15
