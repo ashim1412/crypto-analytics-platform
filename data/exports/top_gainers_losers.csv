@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.02739103,77.23151,gainer,1,2026-09-15
-arbitrum,Arbitrum,arb,0.147554,9.38997,gainer,2,2026-09-15
-xdce-crowd-sale,XDC Network,xdc,0.02899638,3.98726,gainer,3,2026-09-15
-memecore,MemeCore,m,1.11,2.13797,gainer,4,2026-09-15
-hedera-hashgraph,Hedera,hbar,0.077985,1.79623,gainer,5,2026-09-15
-just,JUST,jst,0.115464,1.64338,gainer,6,2026-09-15
-venice-token,Venice Token,vvv,22.44,1.35804,gainer,7,2026-09-15
-ethena,Ethena,ena,0.143041,1.16796,gainer,8,2026-09-15
-cosmos,Cosmos Hub,atom,1.56,0.9563,gainer,9,2026-09-15
-stellar,Stellar,xlm,0.193007,0.42367,gainer,10,2026-09-15
-rain,Rain,rain,0.0125668,-12.56242,loser,1,2026-09-15
-filecoin,Filecoin,fil,0.861795,-12.36545,loser,2,2026-09-15
-injective-protocol,Injective,inj,5.69,-8.25853,loser,3,2026-09-15
-internet-computer,Internet Computer,icp,2.56,-6.54168,loser,4,2026-09-15
-ether-fi,Ether.fi,ethfi,0.603077,-6.31822,loser,5,2026-09-15
-vechain,VeChain,vet,0.00736294,-4.60042,loser,6,2026-09-15
-pancakeswap-token,PancakeSwap,cake,2.27,-4.36939,loser,7,2026-09-15
-sky,Sky,sky,0.061484,-4.1841,loser,8,2026-09-15
-lighter,Lighter,lit,4.22,-3.99604,loser,9,2026-09-15
-dash,Dash,dash,51.84,-3.83519,loser,10,2026-09-15
+akedo,Akedo,ake,0.02734364,70.79996,gainer,1,2026-09-15
+bitway,Bitway,btw,0.693218,9.47651,gainer,2,2026-09-15
+arbitrum,Arbitrum,arb,0.146083,2.94864,gainer,3,2026-09-15
+just,JUST,jst,0.114075,1.28769,gainer,4,2026-09-15
+memecore,MemeCore,m,1.11,0.61803,gainer,5,2026-09-15
+beldex,Beldex,bdx,0.07569,0.16701,gainer,6,2026-09-15
+blockchain-capital,Blockchain Capital,bcap,106.54,0.04695,gainer,7,2026-09-15
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.21,0.0289,gainer,8,2026-09-15
+ripple-usd,Ripple USD,rlusd,1.0,0.01454,gainer,9,2026-09-15
+hashnote-usyc,Circle USYC,usyc,1.14,0.00862,gainer,10,2026-09-15
+filecoin,Filecoin,fil,0.812863,-14.96981,loser,1,2026-09-15
+ripple,XRP,xrp,1.27,-14.54671,loser,2,2026-09-15
+internet-computer,Internet Computer,icp,2.45,-12.47856,loser,3,2026-09-15
+jupiter-exchange-solana,Jupiter,jup,0.21601,-12.13364,loser,4,2026-09-15
+lighter,Lighter,lit,4.07,-11.7881,loser,5,2026-09-15
+ether-fi,Ether.fi,ethfi,0.584788,-10.8491,loser,6,2026-09-15
+near,NEAR Protocol,near,2.31,-10.53094,loser,7,2026-09-15
+stellar,Stellar,xlm,0.175009,-10.33091,loser,8,2026-09-15
+dash,Dash,dash,50.47,-10.02536,loser,9,2026-09-15
+vechain,VeChain,vet,0.007115,-9.82313,loser,10,2026-09-15
