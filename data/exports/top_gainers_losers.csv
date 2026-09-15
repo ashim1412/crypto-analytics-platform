@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-stellar,Stellar,xlm,0.194767,8.80924,gainer,1,2026-09-15
-zcash,Zcash,zec,1165.08,8.23924,gainer,2,2026-09-15
-uniswap,Uniswap,uni,6.67,6.672,gainer,3,2026-09-15
-ripple,XRP,xrp,1.43,5.35252,gainer,4,2026-09-15
-bitway,Bitway,btw,0.706311,4.97399,gainer,5,2026-09-15
-pump-fun,Pump.fun,pump,0.00373265,4.90602,gainer,6,2026-09-15
-near,NEAR Protocol,near,2.44,4.27504,gainer,7,2026-09-15
-venice-token,Venice Token,vvv,22.49,4.02335,gainer,8,2026-09-15
-flare-networks,Flare,flr,0.00665482,3.44669,gainer,9,2026-09-15
-lighter,Lighter,lit,4.36,3.30193,gainer,10,2026-09-15
-filecoin,Filecoin,fil,0.897648,-9.23829,loser,1,2026-09-15
-rain,Rain,rain,0.01425737,-6.26362,loser,2,2026-09-15
-memecore,MemeCore,m,1.098,-3.41393,loser,3,2026-09-15
-litecoin,Litecoin,ltc,52.81,-2.74743,loser,4,2026-09-15
-internet-computer,Internet Computer,icp,2.73,-2.64057,loser,5,2026-09-15
-vechain,VeChain,vet,0.00760358,-2.46339,loser,6,2026-09-15
-polkadot,Polkadot,dot,0.991411,-2.35953,loser,7,2026-09-15
-algorand,Algorand,algo,0.096117,-1.62732,loser,8,2026-09-15
-ether-fi,Ether.fi,ethfi,0.629376,-1.57961,loser,9,2026-09-15
-arbitrum,Arbitrum,arb,0.134246,-1.52311,loser,10,2026-09-15
+uniswap,Uniswap,uni,6.64,5.45125,gainer,1,2026-09-15
+stellar,Stellar,xlm,0.194039,3.98817,gainer,2,2026-09-15
+xdce-crowd-sale,XDC Network,xdc,0.02892441,3.88105,gainer,3,2026-09-15
+bitway,Bitway,btw,0.713865,3.41577,gainer,4,2026-09-15
+avalanche-2,Avalanche,avax,7.52,1.89623,gainer,5,2026-09-15
+flare-networks,Flare,flr,0.00662072,1.70733,gainer,6,2026-09-15
+just,JUST,jst,0.115201,1.4513,gainer,7,2026-09-15
+hedera-hashgraph,Hedera,hbar,0.077221,1.08737,gainer,8,2026-09-15
+ethena,Ethena,ena,0.142445,0.42255,gainer,9,2026-09-15
+leo-token,LEO Token,leo,8.99,0.34662,gainer,10,2026-09-15
+rain,Rain,rain,0.01322434,-12.49614,loser,1,2026-09-15
+filecoin,Filecoin,fil,0.886384,-12.26481,loser,2,2026-09-15
+internet-computer,Internet Computer,icp,2.58,-6.63708,loser,3,2026-09-15
+vechain,VeChain,vet,0.00733018,-6.44911,loser,4,2026-09-15
+ether-fi,Ether.fi,ethfi,0.615551,-6.26949,loser,5,2026-09-15
+stable-2,​​Stable,stable,0.02758926,-5.97475,loser,6,2026-09-15
+venice-token,Venice Token,vvv,21.9,-4.83651,loser,7,2026-09-15
+bittensor,Bittensor,tao,226.24,-4.25779,loser,8,2026-09-15
+pancakeswap-token,PancakeSwap,cake,2.28,-4.09211,loser,9,2026-09-15
+morpho,Morpho,morpho,2.14,-3.80878,loser,10,2026-09-15
