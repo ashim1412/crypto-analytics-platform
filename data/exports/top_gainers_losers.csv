@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.02734364,70.79996,gainer,1,2026-09-15
-bitway,Bitway,btw,0.693218,9.47651,gainer,2,2026-09-15
-arbitrum,Arbitrum,arb,0.146083,2.94864,gainer,3,2026-09-15
-just,JUST,jst,0.114075,1.28769,gainer,4,2026-09-15
-memecore,MemeCore,m,1.11,0.61803,gainer,5,2026-09-15
-beldex,Beldex,bdx,0.07569,0.16701,gainer,6,2026-09-15
-blockchain-capital,Blockchain Capital,bcap,106.54,0.04695,gainer,7,2026-09-15
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.21,0.0289,gainer,8,2026-09-15
-ripple-usd,Ripple USD,rlusd,1.0,0.01454,gainer,9,2026-09-15
-hashnote-usyc,Circle USYC,usyc,1.14,0.00862,gainer,10,2026-09-15
-filecoin,Filecoin,fil,0.812863,-14.96981,loser,1,2026-09-15
-ripple,XRP,xrp,1.27,-14.54671,loser,2,2026-09-15
-internet-computer,Internet Computer,icp,2.45,-12.47856,loser,3,2026-09-15
-jupiter-exchange-solana,Jupiter,jup,0.21601,-12.13364,loser,4,2026-09-15
-lighter,Lighter,lit,4.07,-11.7881,loser,5,2026-09-15
-ether-fi,Ether.fi,ethfi,0.584788,-10.8491,loser,6,2026-09-15
-near,NEAR Protocol,near,2.31,-10.53094,loser,7,2026-09-15
-stellar,Stellar,xlm,0.175009,-10.33091,loser,8,2026-09-15
-dash,Dash,dash,50.47,-10.02536,loser,9,2026-09-15
-vechain,VeChain,vet,0.007115,-9.82313,loser,10,2026-09-15
+akedo,Akedo,ake,0.02770745,73.2602,gainer,1,2026-09-16
+arbitrum,Arbitrum,arb,0.149359,10.92944,gainer,2,2026-09-16
+memecore,MemeCore,m,1.13,2.77723,gainer,3,2026-09-16
+just,JUST,jst,0.115273,0.69516,gainer,4,2026-09-16
+beldex,Beldex,bdx,0.075531,0.05541,gainer,5,2026-09-16
+blockchain-capital,Blockchain Capital,bcap,106.54,0.04695,gainer,6,2026-09-16
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.21,0.0289,gainer,7,2026-09-16
+hashnote-usyc,Circle USYC,usyc,1.14,0.00862,gainer,8,2026-09-16
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.05,0.0081,gainer,9,2026-09-16
+janus-henderson-anemoy-treasury-fund,Janus Henderson Anemoy Treasury Fund,jtrsy,1.12,0.00807,gainer,10,2026-09-16
+pi-network,Pi Network,pi,0.086057,-12.34661,loser,1,2026-09-16
+jupiter-exchange-solana,Jupiter,jup,0.211995,-10.86787,loser,2,2026-09-16
+filecoin,Filecoin,fil,0.803756,-10.66118,loser,3,2026-09-16
+stellar,Stellar,xlm,0.174117,-10.60688,loser,4,2026-09-16
+ripple,XRP,xrp,1.28,-10.32132,loser,5,2026-09-16
+internet-computer,Internet Computer,icp,2.46,-9.93684,loser,6,2026-09-16
+ondo-finance,Ondo,ondo,0.323774,-8.59873,loser,7,2026-09-16
+pump-fun,Pump.fun,pump,0.00341059,-8.49352,loser,8,2026-09-16
+algorand,Algorand,algo,0.088005,-8.36295,loser,9,2026-09-16
+ether-fi,Ether.fi,ethfi,0.583983,-7.92245,loser,10,2026-09-16
