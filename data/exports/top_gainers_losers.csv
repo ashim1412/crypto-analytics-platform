@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1249.37,11.06493,gainer,1,2026-09-16
-arbitrum,Arbitrum,arb,0.160407,10.75647,gainer,2,2026-09-16
-bitway,Bitway,btw,0.755644,7.4975,gainer,3,2026-09-16
-rain,Rain,rain,0.01319709,5.023,gainer,4,2026-09-16
-dash,Dash,dash,54.07,4.44114,gainer,5,2026-09-16
-near,NEAR Protocol,near,2.45,3.17985,gainer,6,2026-09-16
-pax-gold,PAX Gold,paxg,4351.56,1.48964,gainer,7,2026-09-16
-leo-token,LEO Token,leo,8.85,1.45992,gainer,8,2026-09-16
-tether-gold,Tether Gold,xaut,4347.73,1.4447,gainer,9,2026-09-16
-hyperliquid,Hyperliquid,hype,78.41,1.38479,gainer,10,2026-09-16
-pi-network,Pi Network,pi,0.082231,-13.10218,loser,1,2026-09-16
-filecoin,Filecoin,fil,0.776151,-10.24482,loser,2,2026-09-16
-stellar,Stellar,xlm,0.174035,-9.99222,loser,3,2026-09-16
-ripple,XRP,xrp,1.27,-8.8231,loser,4,2026-09-16
-algorand,Algorand,algo,0.085747,-8.16247,loser,5,2026-09-16
-aave,Aave,aave,116.39,-7.355,loser,6,2026-09-16
-sky,Sky,sky,0.057185,-6.89706,loser,7,2026-09-16
-hedera-hashgraph,Hedera,hbar,0.072564,-6.73867,loser,8,2026-09-16
-shiba-inu,Shiba Inu,shib,4.79e-06,-6.60385,loser,9,2026-09-16
-jupiter-exchange-solana,Jupiter,jup,0.213397,-6.40459,loser,10,2026-09-16
+zcash,Zcash,zec,1306.28,17.27615,gainer,1,2026-09-16
+arbitrum,Arbitrum,arb,0.162504,11.72311,gainer,2,2026-09-16
+lighter,Lighter,lit,4.53,11.61175,gainer,3,2026-09-16
+near,NEAR Protocol,near,2.57,11.25221,gainer,4,2026-09-16
+dash,Dash,dash,55.26,9.7588,gainer,5,2026-09-16
+polkadot,Polkadot,dot,1.006,6.28004,gainer,6,2026-09-16
+bitway,Bitway,btw,0.735563,6.27631,gainer,7,2026-09-16
+ethena,Ethena,ena,0.1469,6.19367,gainer,8,2026-09-16
+venice-token,Venice Token,vvv,22.78,4.85286,gainer,9,2026-09-16
+pump-fun,Pump.fun,pump,0.00368256,4.79359,gainer,10,2026-09-16
+stable-2,​​Stable,stable,0.02431971,-10.56884,loser,1,2026-09-16
+sky,Sky,sky,0.057094,-6.53495,loser,2,2026-09-16
+pi-network,Pi Network,pi,0.084718,-6.27426,loser,3,2026-09-16
+rain,Rain,rain,0.01325434,-6.21149,loser,4,2026-09-16
+aave,Aave,aave,116.72,-4.54162,loser,5,2026-09-16
+figure-heloc,Figure Heloc,figr_heloc,1.004,-3.17918,loser,6,2026-09-16
+filecoin,Filecoin,fil,0.792176,-2.35213,loser,7,2026-09-16
+hedera-hashgraph,Hedera,hbar,0.073455,-1.81356,loser,8,2026-09-16
+injective-protocol,Injective,inj,5.35,-1.66279,loser,9,2026-09-16
+quant-network,Quant,qnt,60.42,-1.60708,loser,10,2026-09-16
