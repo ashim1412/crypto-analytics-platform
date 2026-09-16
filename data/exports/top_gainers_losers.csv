@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.02781814,24.47262,gainer,1,2026-09-16
-arbitrum,Arbitrum,arb,0.158153,17.45191,gainer,2,2026-09-16
-bitway,Bitway,btw,0.774067,9.38014,gainer,3,2026-09-16
-zcash,Zcash,zec,1206.4,5.72626,gainer,4,2026-09-16
-rain,Rain,rain,0.01370675,3.39295,gainer,5,2026-09-16
-pax-gold,PAX Gold,paxg,4347.15,1.64612,gainer,6,2026-09-16
-tether-gold,Tether Gold,xaut,4341.34,1.54858,gainer,7,2026-09-16
-venice-token,Venice Token,vvv,22.19,1.14915,gainer,8,2026-09-16
-beldex,Beldex,bdx,0.076158,0.97047,gainer,9,2026-09-16
-near,NEAR Protocol,near,2.42,0.95964,gainer,10,2026-09-16
-pi-network,Pi Network,pi,0.083943,-12.91004,loser,1,2026-09-16
-stellar,Stellar,xlm,0.175315,-9.94013,loser,2,2026-09-16
-filecoin,Filecoin,fil,0.806326,-9.24394,loser,3,2026-09-16
-jupiter-exchange-solana,Jupiter,jup,0.21175,-8.81966,loser,4,2026-09-16
-ripple,XRP,xrp,1.29,-8.04143,loser,5,2026-09-16
-algorand,Algorand,algo,0.087428,-7.11935,loser,6,2026-09-16
-ondo-finance,Ondo,ondo,0.327231,-6.1015,loser,7,2026-09-16
-cosmos,Cosmos Hub,atom,1.49,-6.04203,loser,8,2026-09-16
-aave,Aave,aave,119.83,-5.88695,loser,9,2026-09-16
-shiba-inu,Shiba Inu,shib,4.88e-06,-5.51095,loser,10,2026-09-16
+zcash,Zcash,zec,1249.37,11.06493,gainer,1,2026-09-16
+arbitrum,Arbitrum,arb,0.160407,10.75647,gainer,2,2026-09-16
+bitway,Bitway,btw,0.755644,7.4975,gainer,3,2026-09-16
+rain,Rain,rain,0.01319709,5.023,gainer,4,2026-09-16
+dash,Dash,dash,54.07,4.44114,gainer,5,2026-09-16
+near,NEAR Protocol,near,2.45,3.17985,gainer,6,2026-09-16
+pax-gold,PAX Gold,paxg,4351.56,1.48964,gainer,7,2026-09-16
+leo-token,LEO Token,leo,8.85,1.45992,gainer,8,2026-09-16
+tether-gold,Tether Gold,xaut,4347.73,1.4447,gainer,9,2026-09-16
+hyperliquid,Hyperliquid,hype,78.41,1.38479,gainer,10,2026-09-16
+pi-network,Pi Network,pi,0.082231,-13.10218,loser,1,2026-09-16
+filecoin,Filecoin,fil,0.776151,-10.24482,loser,2,2026-09-16
+stellar,Stellar,xlm,0.174035,-9.99222,loser,3,2026-09-16
+ripple,XRP,xrp,1.27,-8.8231,loser,4,2026-09-16
+algorand,Algorand,algo,0.085747,-8.16247,loser,5,2026-09-16
+aave,Aave,aave,116.39,-7.355,loser,6,2026-09-16
+sky,Sky,sky,0.057185,-6.89706,loser,7,2026-09-16
+hedera-hashgraph,Hedera,hbar,0.072564,-6.73867,loser,8,2026-09-16
+shiba-inu,Shiba Inu,shib,4.79e-06,-6.60385,loser,9,2026-09-16
+jupiter-exchange-solana,Jupiter,jup,0.213397,-6.40459,loser,10,2026-09-16
