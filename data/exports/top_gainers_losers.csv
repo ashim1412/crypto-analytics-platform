@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1367.58,23.58985,gainer,1,2026-09-17
-dash,Dash,dash,59.08,17.79145,gainer,2,2026-09-17
-lighter,Lighter,lit,4.68,14.26214,gainer,3,2026-09-17
-near,NEAR Protocol,near,2.63,13.38957,gainer,4,2026-09-17
-venice-token,Venice Token,vvv,24.31,12.66236,gainer,5,2026-09-17
-ethena,Ethena,ena,0.151705,9.62851,gainer,6,2026-09-17
-pump-fun,Pump.fun,pump,0.00374184,9.40413,gainer,7,2026-09-17
-arbitrum,Arbitrum,arb,0.164633,9.18826,gainer,8,2026-09-17
-ondo-finance,Ondo,ondo,0.352164,8.76325,gainer,9,2026-09-17
-canton-network,Canton,cc,0.098075,7.88678,gainer,10,2026-09-17
-stable-2,​​Stable,stable,0.02417038,-9.8304,loser,1,2026-09-17
-rain,Rain,rain,0.01292395,-8.03612,loser,2,2026-09-17
-sky,Sky,sky,0.057969,-3.91138,loser,3,2026-09-17
-pi-network,Pi Network,pi,0.084387,-2.09796,loser,4,2026-09-17
-memecore,MemeCore,m,1.11,-1.68231,loser,5,2026-09-17
-monero,Monero,xmr,500.66,-1.1431,loser,6,2026-09-17
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.62733,loser,7,2026-09-17
-filecoin,Filecoin,fil,0.800546,-0.62723,loser,8,2026-09-17
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,-0.62641,loser,9,2026-09-17
-okb,OKB,okb,110.96,-0.50199,loser,10,2026-09-17
+marscat-token,Marscat Token,mcat,0.748679,195.69445,gainer,1,2026-09-17
+near,NEAR Protocol,near,2.82,16.32122,gainer,2,2026-09-17
+venice-token,Venice Token,vvv,25.2,13.80922,gainer,3,2026-09-17
+lighter,Lighter,lit,4.84,13.47327,gainer,4,2026-09-17
+canton-network,Canton,cc,0.101738,11.88159,gainer,5,2026-09-17
+zcash,Zcash,zec,1338.64,10.87022,gainer,6,2026-09-17
+pancakeswap-token,PancakeSwap,cake,2.39,10.15084,gainer,7,2026-09-17
+aster-2,Aster,aster,0.730186,8.83601,gainer,8,2026-09-17
+dash,Dash,dash,57.07,8.40815,gainer,9,2026-09-17
+uniswap,Uniswap,uni,6.77,7.29007,gainer,10,2026-09-17
+stable-2,​​Stable,stable,0.02361068,-12.26311,loser,1,2026-09-17
+bitway,Bitway,btw,0.700889,-9.67581,loser,2,2026-09-17
+sky,Sky,sky,0.056589,-4.60353,loser,3,2026-09-17
+rain,Rain,rain,0.013285,-3.1705,loser,4,2026-09-17
+pi-network,Pi Network,pi,0.081709,-2.62687,loser,5,2026-09-17
+monero,Monero,xmr,497.51,-1.17291,loser,6,2026-09-17
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.095935,-0.919,loser,7,2026-09-17
+pax-gold,PAX Gold,paxg,4313.28,-0.8178,loser,8,2026-09-17
+tether-gold,Tether Gold,xaut,4310.58,-0.74106,loser,9,2026-09-17
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.48996,loser,10,2026-09-17
