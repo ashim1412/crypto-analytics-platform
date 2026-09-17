@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-marscat-token,Marscat Token,mcat,0.748679,195.69445,gainer,1,2026-09-17
-near,NEAR Protocol,near,2.82,16.32122,gainer,2,2026-09-17
-venice-token,Venice Token,vvv,25.2,13.80922,gainer,3,2026-09-17
-lighter,Lighter,lit,4.84,13.47327,gainer,4,2026-09-17
-canton-network,Canton,cc,0.101738,11.88159,gainer,5,2026-09-17
-zcash,Zcash,zec,1338.64,10.87022,gainer,6,2026-09-17
-pancakeswap-token,PancakeSwap,cake,2.39,10.15084,gainer,7,2026-09-17
-aster-2,Aster,aster,0.730186,8.83601,gainer,8,2026-09-17
-dash,Dash,dash,57.07,8.40815,gainer,9,2026-09-17
-uniswap,Uniswap,uni,6.77,7.29007,gainer,10,2026-09-17
-stable-2,​​Stable,stable,0.02361068,-12.26311,loser,1,2026-09-17
-bitway,Bitway,btw,0.700889,-9.67581,loser,2,2026-09-17
-sky,Sky,sky,0.056589,-4.60353,loser,3,2026-09-17
-rain,Rain,rain,0.013285,-3.1705,loser,4,2026-09-17
-pi-network,Pi Network,pi,0.081709,-2.62687,loser,5,2026-09-17
-monero,Monero,xmr,497.51,-1.17291,loser,6,2026-09-17
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095935,-0.919,loser,7,2026-09-17
-pax-gold,PAX Gold,paxg,4313.28,-0.8178,loser,8,2026-09-17
-tether-gold,Tether Gold,xaut,4310.58,-0.74106,loser,9,2026-09-17
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.48996,loser,10,2026-09-17
+marscat-token,Marscat Token,mcat,0.628007,176.33322,gainer,1,2026-09-17
+near,NEAR Protocol,near,2.87,17.05672,gainer,2,2026-09-17
+uniswap,Uniswap,uni,7.17,15.79446,gainer,3,2026-09-17
+zcash,Zcash,zec,1444.86,15.5868,gainer,4,2026-09-17
+ondo-finance,Ondo,ondo,0.373805,13.80547,gainer,5,2026-09-17
+lighter,Lighter,lit,4.79,13.07123,gainer,6,2026-09-17
+canton-network,Canton,cc,0.101987,13.02877,gainer,7,2026-09-17
+aerodrome-finance,Aerodrome Finance,aero,0.593177,12.75575,gainer,8,2026-09-17
+pancakeswap-token,PancakeSwap,cake,2.41,10.41326,gainer,9,2026-09-17
+pump-fun,Pump.fun,pump,0.00397788,10.21689,gainer,10,2026-09-17
+stable-2,​​Stable,stable,0.02353801,-11.2812,loser,1,2026-09-17
+bitway,Bitway,btw,0.705609,-5.81371,loser,2,2026-09-17
+rain,Rain,rain,0.01295817,-1.86311,loser,3,2026-09-17
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.51054,loser,4,2026-09-17
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.22,-0.50556,loser,5,2026-09-17
+tron,TRON,trx,0.334231,-0.32324,loser,6,2026-09-17
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.22002,loser,7,2026-09-17
+usdd,USDD,usdd,0.998225,-0.05425,loser,8,2026-09-17
+falcon-finance,Falcon USD,usdf,0.995382,-0.03651,loser,9,2026-09-17
+tether,Tether,usdt,0.99919,-0.02968,loser,10,2026-09-17
