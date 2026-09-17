@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1306.28,17.27615,gainer,1,2026-09-16
-arbitrum,Arbitrum,arb,0.162504,11.72311,gainer,2,2026-09-16
-lighter,Lighter,lit,4.53,11.61175,gainer,3,2026-09-16
-near,NEAR Protocol,near,2.57,11.25221,gainer,4,2026-09-16
-dash,Dash,dash,55.26,9.7588,gainer,5,2026-09-16
-polkadot,Polkadot,dot,1.006,6.28004,gainer,6,2026-09-16
-bitway,Bitway,btw,0.735563,6.27631,gainer,7,2026-09-16
-ethena,Ethena,ena,0.1469,6.19367,gainer,8,2026-09-16
-venice-token,Venice Token,vvv,22.78,4.85286,gainer,9,2026-09-16
-pump-fun,Pump.fun,pump,0.00368256,4.79359,gainer,10,2026-09-16
-stable-2,​​Stable,stable,0.02431971,-10.56884,loser,1,2026-09-16
-sky,Sky,sky,0.057094,-6.53495,loser,2,2026-09-16
-pi-network,Pi Network,pi,0.084718,-6.27426,loser,3,2026-09-16
-rain,Rain,rain,0.01325434,-6.21149,loser,4,2026-09-16
-aave,Aave,aave,116.72,-4.54162,loser,5,2026-09-16
-figure-heloc,Figure Heloc,figr_heloc,1.004,-3.17918,loser,6,2026-09-16
-filecoin,Filecoin,fil,0.792176,-2.35213,loser,7,2026-09-16
-hedera-hashgraph,Hedera,hbar,0.073455,-1.81356,loser,8,2026-09-16
-injective-protocol,Injective,inj,5.35,-1.66279,loser,9,2026-09-16
-quant-network,Quant,qnt,60.42,-1.60708,loser,10,2026-09-16
+zcash,Zcash,zec,1367.58,23.58985,gainer,1,2026-09-17
+dash,Dash,dash,59.08,17.79145,gainer,2,2026-09-17
+lighter,Lighter,lit,4.68,14.26214,gainer,3,2026-09-17
+near,NEAR Protocol,near,2.63,13.38957,gainer,4,2026-09-17
+venice-token,Venice Token,vvv,24.31,12.66236,gainer,5,2026-09-17
+ethena,Ethena,ena,0.151705,9.62851,gainer,6,2026-09-17
+pump-fun,Pump.fun,pump,0.00374184,9.40413,gainer,7,2026-09-17
+arbitrum,Arbitrum,arb,0.164633,9.18826,gainer,8,2026-09-17
+ondo-finance,Ondo,ondo,0.352164,8.76325,gainer,9,2026-09-17
+canton-network,Canton,cc,0.098075,7.88678,gainer,10,2026-09-17
+stable-2,​​Stable,stable,0.02417038,-9.8304,loser,1,2026-09-17
+rain,Rain,rain,0.01292395,-8.03612,loser,2,2026-09-17
+sky,Sky,sky,0.057969,-3.91138,loser,3,2026-09-17
+pi-network,Pi Network,pi,0.084387,-2.09796,loser,4,2026-09-17
+memecore,MemeCore,m,1.11,-1.68231,loser,5,2026-09-17
+monero,Monero,xmr,500.66,-1.1431,loser,6,2026-09-17
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.16,-0.62733,loser,7,2026-09-17
+filecoin,Filecoin,fil,0.800546,-0.62723,loser,8,2026-09-17
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.21,-0.62641,loser,9,2026-09-17
+okb,OKB,okb,110.96,-0.50199,loser,10,2026-09-17
