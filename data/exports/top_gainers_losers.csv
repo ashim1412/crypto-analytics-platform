@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-marscat-token,Marscat Token,mcat,0.617235,159.28827,gainer,1,2026-09-17
-uniswap,Uniswap,uni,7.7,18.811,gainer,2,2026-09-17
-near,NEAR Protocol,near,3.0,17.18284,gainer,3,2026-09-17
-zcash,Zcash,zec,1490.0,12.69683,gainer,4,2026-09-17
-dash,Dash,dash,62.04,11.67426,gainer,5,2026-09-17
-aave,Aave,aave,129.32,10.51724,gainer,6,2026-09-17
-ondo-finance,Ondo,ondo,0.374481,10.3232,gainer,7,2026-09-17
-aerodrome-finance,Aerodrome Finance,aero,0.586803,9.89828,gainer,8,2026-09-17
-pancakeswap-token,PancakeSwap,cake,2.47,9.86834,gainer,9,2026-09-17
-arbitrum,Arbitrum,arb,0.177826,9.47664,gainer,10,2026-09-17
-stable-2,​​Stable,stable,0.02332989,-4.17661,loser,1,2026-09-17
-rain,Rain,rain,0.01283681,-3.76957,loser,2,2026-09-17
-pi-network,Pi Network,pi,0.081548,-3.65297,loser,3,2026-09-17
-bitway,Bitway,btw,0.705917,-3.3008,loser,4,2026-09-17
-just,JUST,jst,0.11489,-1.41724,loser,5,2026-09-17
-htx-dao,HTX DAO,htx,1.66e-06,-0.41541,loser,6,2026-09-17
-ripple,XRP,xrp,1.3,-0.23381,loser,7,2026-09-17
-tron,TRON,trx,0.335173,-0.10739,loser,8,2026-09-17
-paypal-usd,PayPal USD,pyusd,0.999294,-0.02606,loser,9,2026-09-17
-dai,Dai,dai,0.999847,-0.01402,loser,10,2026-09-17
+marscat-token,Marscat Token,mcat,0.797264,238.78136,gainer,1,2026-09-18
+near,NEAR Protocol,near,3.25,23.03705,gainer,2,2026-09-18
+arbitrum,Arbitrum,arb,0.197068,18.14144,gainer,3,2026-09-18
+uniswap,Uniswap,uni,7.84,14.87972,gainer,4,2026-09-18
+memecore,MemeCore,m,1.25,12.47745,gainer,5,2026-09-18
+ondo-finance,Ondo,ondo,0.388045,9.53932,gainer,6,2026-09-18
+hyperliquid,Hyperliquid,hype,86.67,9.31348,gainer,7,2026-09-18
+render-token,Render,render,1.5,8.96507,gainer,8,2026-09-18
+zcash,Zcash,zec,1483.82,8.95854,gainer,9,2026-09-18
+jupiter-exchange-solana,Jupiter,jup,0.241002,8.63244,gainer,10,2026-09-18
+stable-2,​​Stable,stable,0.02376589,-2.09819,loser,1,2026-09-18
+just,JUST,jst,0.114533,-1.97382,loser,2,2026-09-18
+world-liberty-financial,World Liberty Financial,wlfi,0.058282,-1.83934,loser,3,2026-09-18
+rain,Rain,rain,0.01268949,-1.82506,loser,4,2026-09-18
+pi-network,Pi Network,pi,0.083462,-1.4964,loser,5,2026-09-18
+leo-token,LEO Token,leo,8.89,-0.72173,loser,6,2026-09-18
+htx-dao,HTX DAO,htx,1.67e-06,-0.72038,loser,7,2026-09-18
+stellar,Stellar,xlm,0.184102,-0.47145,loser,8,2026-09-18
+gatechain-token,Gate,gt,9.37,-0.2899,loser,9,2026-09-18
+tron,TRON,trx,0.335075,-0.19077,loser,10,2026-09-18
