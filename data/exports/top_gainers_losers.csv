@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-marscat-token,Marscat Token,mcat,0.797264,238.78136,gainer,1,2026-09-18
-near,NEAR Protocol,near,3.25,23.03705,gainer,2,2026-09-18
-arbitrum,Arbitrum,arb,0.197068,18.14144,gainer,3,2026-09-18
-uniswap,Uniswap,uni,7.84,14.87972,gainer,4,2026-09-18
-memecore,MemeCore,m,1.25,12.47745,gainer,5,2026-09-18
-ondo-finance,Ondo,ondo,0.388045,9.53932,gainer,6,2026-09-18
-hyperliquid,Hyperliquid,hype,86.67,9.31348,gainer,7,2026-09-18
-render-token,Render,render,1.5,8.96507,gainer,8,2026-09-18
-zcash,Zcash,zec,1483.82,8.95854,gainer,9,2026-09-18
-jupiter-exchange-solana,Jupiter,jup,0.241002,8.63244,gainer,10,2026-09-18
-stable-2,​​Stable,stable,0.02376589,-2.09819,loser,1,2026-09-18
-just,JUST,jst,0.114533,-1.97382,loser,2,2026-09-18
-world-liberty-financial,World Liberty Financial,wlfi,0.058282,-1.83934,loser,3,2026-09-18
-rain,Rain,rain,0.01268949,-1.82506,loser,4,2026-09-18
-pi-network,Pi Network,pi,0.083462,-1.4964,loser,5,2026-09-18
-leo-token,LEO Token,leo,8.89,-0.72173,loser,6,2026-09-18
-htx-dao,HTX DAO,htx,1.67e-06,-0.72038,loser,7,2026-09-18
-stellar,Stellar,xlm,0.184102,-0.47145,loser,8,2026-09-18
-gatechain-token,Gate,gt,9.37,-0.2899,loser,9,2026-09-18
-tron,TRON,trx,0.335075,-0.19077,loser,10,2026-09-18
+uniswap,Uniswap,uni,9.11,33.15353,gainer,1,2026-09-18
+near,NEAR Protocol,near,3.55,27.62781,gainer,2,2026-09-18
+arbitrum,Arbitrum,arb,0.208317,27.16818,gainer,3,2026-09-18
+akedo,Akedo,ake,0.02558214,19.93545,gainer,4,2026-09-18
+worldcoin-wld,Worldcoin,wld,0.439592,17.99823,gainer,5,2026-09-18
+injective-protocol,Injective,inj,6.52,16.64229,gainer,6,2026-09-18
+aptos,Aptos,apt,0.667141,16.33489,gainer,7,2026-09-18
+memecore,MemeCore,m,1.31,15.4772,gainer,8,2026-09-18
+ether-fi,Ether.fi,ethfi,0.692492,15.42764,gainer,9,2026-09-18
+polkadot,Polkadot,dot,1.15,13.79954,gainer,10,2026-09-18
+bitway,Bitway,btw,0.671889,-4.08382,loser,1,2026-09-18
+rain,Rain,rain,0.01292982,-2.60085,loser,2,2026-09-18
+world-liberty-financial,World Liberty Financial,wlfi,0.058036,-1.58152,loser,3,2026-09-18
+beldex,Beldex,bdx,0.07576,-0.94043,loser,4,2026-09-18
+leo-token,LEO Token,leo,8.92,-0.16522,loser,5,2026-09-18
+figure-heloc,Figure Heloc,figr_heloc,1.028,-0.15189,loser,6,2026-09-18
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.08983,loser,7,2026-09-18
+usdd,USDD,usdd,0.998339,-0.0315,loser,8,2026-09-18
+bfusd,BFUSD,bfusd,0.998759,-0.02908,loser,9,2026-09-18
+ethena-usde,Ethena USDe,usde,0.999288,-0.01121,loser,10,2026-09-18
