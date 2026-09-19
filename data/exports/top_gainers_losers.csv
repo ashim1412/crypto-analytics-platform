@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.04364686,102.509,gainer,1,2026-09-19
-sky,Sky,sky,0.071921,21.03215,gainer,2,2026-09-19
-aptos,Aptos,apt,0.740521,19.93579,gainer,3,2026-09-19
-near,NEAR Protocol,near,3.83,18.62773,gainer,4,2026-09-19
-injective-protocol,Injective,inj,6.76,17.40575,gainer,5,2026-09-19
-morpho,Morpho,morpho,2.63,16.13193,gainer,6,2026-09-19
-uniswap,Uniswap,uni,8.99,14.45817,gainer,7,2026-09-19
-avalanche-2,Avalanche,avax,8.74,13.44102,gainer,8,2026-09-19
-filecoin,Filecoin,fil,0.963984,12.98,gainer,9,2026-09-19
-monero,Monero,xmr,581.93,12.13557,gainer,10,2026-09-19
-bitway,Bitway,btw,0.634606,-11.02711,loser,1,2026-09-19
-lighter,Lighter,lit,4.77,-1.4777,loser,2,2026-09-19
-beldex,Beldex,bdx,0.075506,-1.43726,loser,3,2026-09-19
-pancakeswap-token,PancakeSwap,cake,2.44,-0.54712,loser,4,2026-09-19
-just,JUST,jst,0.113961,-0.50082,loser,5,2026-09-19
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.21475,loser,6,2026-09-19
-usdgo,USDGO,usdgo,0.999655,-0.0789,loser,7,2026-09-19
-usdd,USDD,usdd,0.998275,-0.04351,loser,8,2026-09-19
-global-dollar,Global Dollar,usdg,0.999901,-0.00498,loser,9,2026-09-19
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-09-19
+akedo,Akedo,ake,0.061569,151.3398,gainer,1,2026-09-19
+morpho,Morpho,morpho,2.8,20.15309,gainer,2,2026-09-19
+injective-protocol,Injective,inj,7.45,16.96238,gainer,3,2026-09-19
+ethena,Ethena,ena,0.189517,13.67357,gainer,4,2026-09-19
+avalanche-2,Avalanche,avax,8.95,12.75414,gainer,5,2026-09-19
+vechain,VeChain,vet,0.0084717,12.26637,gainer,6,2026-09-19
+sky,Sky,sky,0.071326,12.10932,gainer,7,2026-09-19
+filecoin,Filecoin,fil,0.974233,11.34435,gainer,8,2026-09-19
+jupiter-exchange-solana,Jupiter,jup,0.280634,9.28754,gainer,9,2026-09-19
+aptos,Aptos,apt,0.731058,8.64105,gainer,10,2026-09-19
+bitway,Bitway,btw,0.604695,-10.40992,loser,1,2026-09-19
+polkadot,Polkadot,dot,1.12,-3.78414,loser,2,2026-09-19
+pancakeswap-token,PancakeSwap,cake,2.43,-3.68495,loser,3,2026-09-19
+worldcoin-wld,Worldcoin,wld,0.421619,-3.5132,loser,4,2026-09-19
+memecore,MemeCore,m,1.28,-3.20688,loser,5,2026-09-19
+pump-fun,Pump.fun,pump,0.00412388,-2.83491,loser,6,2026-09-19
+just,JUST,jst,0.117301,-0.19172,loser,7,2026-09-19
+crypto-com-chain,Cronos,cro,0.059441,-0.16317,loser,8,2026-09-19
+pax-gold,PAX Gold,paxg,4363.45,-0.1473,loser,9,2026-09-19
+beldex,Beldex,bdx,0.07568,-0.14258,loser,10,2026-09-19
