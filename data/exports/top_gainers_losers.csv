@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.064247,146.05747,gainer,1,2026-09-19
-ethena,Ethena,ena,0.199837,20.89712,gainer,2,2026-09-19
-avalanche-2,Avalanche,avax,9.35,15.22902,gainer,3,2026-09-19
-injective-protocol,Injective,inj,7.46,13.22159,gainer,4,2026-09-19
-morpho,Morpho,morpho,2.69,11.09478,gainer,5,2026-09-19
-filecoin,Filecoin,fil,0.987765,10.66093,gainer,6,2026-09-19
-kaspa,Kaspa,kas,0.0395981,9.5789,gainer,7,2026-09-19
-ondo-finance,Ondo,ondo,0.438131,9.51084,gainer,8,2026-09-19
-rain,Rain,rain,0.01393461,8.34813,gainer,9,2026-09-19
-aptos,Aptos,apt,0.737478,8.0988,gainer,10,2026-09-19
-bitway,Bitway,btw,0.576706,-14.04838,loser,1,2026-09-19
-pump-fun,Pump.fun,pump,0.00413073,-4.73704,loser,2,2026-09-19
-pancakeswap-token,PancakeSwap,cake,2.42,-3.23133,loser,3,2026-09-19
-memecore,MemeCore,m,1.29,-3.20147,loser,4,2026-09-19
-near,NEAR Protocol,near,3.58,-3.10788,loser,5,2026-09-19
-sky,Sky,sky,0.06911,-1.34508,loser,6,2026-09-19
-polkadot,Polkadot,dot,1.13,-1.06201,loser,7,2026-09-19
-pepe,Pepe,pepe,3.8e-06,-0.88696,loser,8,2026-09-19
-beldex,Beldex,bdx,0.0759,-0.73323,loser,9,2026-09-19
-just,JUST,jst,0.115627,-0.66968,loser,10,2026-09-19
+akedo,Akedo,ake,0.08051,106.71872,gainer,1,2026-09-19
+ethena,Ethena,ena,0.203574,20.53294,gainer,2,2026-09-19
+injective-protocol,Injective,inj,7.94,19.19799,gainer,3,2026-09-19
+avalanche-2,Avalanche,avax,9.76,18.09152,gainer,4,2026-09-19
+filecoin,Filecoin,fil,1.043,14.0421,gainer,5,2026-09-19
+vechain,VeChain,vet,0.00874866,11.27117,gainer,6,2026-09-19
+memecore,MemeCore,m,1.44,9.87801,gainer,7,2026-09-19
+morpho,Morpho,morpho,2.62,8.80667,gainer,8,2026-09-19
+pepe,Pepe,pepe,4.17e-06,8.26297,gainer,9,2026-09-19
+ondo-finance,Ondo,ondo,0.430237,7.85599,gainer,10,2026-09-19
+bitway,Bitway,btw,0.575274,-11.21605,loser,1,2026-09-19
+arbitrum,Arbitrum,arb,0.206556,-6.71097,loser,2,2026-09-19
+pump-fun,Pump.fun,pump,0.00416198,-5.74641,loser,3,2026-09-19
+near,NEAR Protocol,near,3.51,-5.41171,loser,4,2026-09-19
+uniswap,Uniswap,uni,8.69,-3.77854,loser,5,2026-09-19
+venice-token,Venice Token,vvv,26.62,-3.55238,loser,6,2026-09-19
+dash,Dash,dash,59.03,-3.53088,loser,7,2026-09-19
+pancakeswap-token,PancakeSwap,cake,2.39,-3.16945,loser,8,2026-09-19
+figure-heloc,Figure Heloc,figr_heloc,1.002,-2.7712,loser,9,2026-09-19
+solana,Solana,sol,111.27,-2.21001,loser,10,2026-09-19
