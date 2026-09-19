@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.039592,86.40879,gainer,1,2026-09-18
-arbitrum,Arbitrum,arb,0.22043,27.21425,gainer,2,2026-09-18
-aptos,Aptos,apt,0.703256,21.25659,gainer,3,2026-09-18
-ether-fi,Ether.fi,ethfi,0.737586,19.96997,gainer,4,2026-09-18
-near,NEAR Protocol,near,3.66,19.41976,gainer,5,2026-09-18
-uniswap,Uniswap,uni,9.03,18.99036,gainer,6,2026-09-18
-sky,Sky,sky,0.069789,18.88642,gainer,7,2026-09-18
-injective-protocol,Injective,inj,6.6,16.42766,gainer,8,2026-09-18
-jupiter-exchange-solana,Jupiter,jup,0.268002,15.39861,gainer,9,2026-09-18
-aerodrome-finance,Aerodrome Finance,aero,0.669811,14.73779,gainer,10,2026-09-18
-bitway,Bitway,btw,0.628127,-10.96614,loser,1,2026-09-18
-zcash,Zcash,zec,1468.22,-1.41741,loser,2,2026-09-18
-dash,Dash,dash,61.0,-1.02903,loser,3,2026-09-18
-beldex,Beldex,bdx,0.075548,-0.49425,loser,4,2026-09-18
-leo-token,LEO Token,leo,8.9,-0.27879,loser,5,2026-09-18
-pancakeswap-token,PancakeSwap,cake,2.47,-0.1617,loser,6,2026-09-18
-usdgo,USDGO,usdgo,0.99972,-0.06677,loser,7,2026-09-18
-ripple-usd,Ripple USD,rlusd,1.0,-0.00837,loser,8,2026-09-18
-dai,Dai,dai,0.999933,-0.00456,loser,9,2026-09-18
-global-dollar,Global Dollar,usdg,0.999923,-0.00162,loser,10,2026-09-18
+akedo,Akedo,ake,0.04364686,102.509,gainer,1,2026-09-19
+sky,Sky,sky,0.071921,21.03215,gainer,2,2026-09-19
+aptos,Aptos,apt,0.740521,19.93579,gainer,3,2026-09-19
+near,NEAR Protocol,near,3.83,18.62773,gainer,4,2026-09-19
+injective-protocol,Injective,inj,6.76,17.40575,gainer,5,2026-09-19
+morpho,Morpho,morpho,2.63,16.13193,gainer,6,2026-09-19
+uniswap,Uniswap,uni,8.99,14.45817,gainer,7,2026-09-19
+avalanche-2,Avalanche,avax,8.74,13.44102,gainer,8,2026-09-19
+filecoin,Filecoin,fil,0.963984,12.98,gainer,9,2026-09-19
+monero,Monero,xmr,581.93,12.13557,gainer,10,2026-09-19
+bitway,Bitway,btw,0.634606,-11.02711,loser,1,2026-09-19
+lighter,Lighter,lit,4.77,-1.4777,loser,2,2026-09-19
+beldex,Beldex,bdx,0.075506,-1.43726,loser,3,2026-09-19
+pancakeswap-token,PancakeSwap,cake,2.44,-0.54712,loser,4,2026-09-19
+just,JUST,jst,0.113961,-0.50082,loser,5,2026-09-19
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.14,-0.21475,loser,6,2026-09-19
+usdgo,USDGO,usdgo,0.999655,-0.0789,loser,7,2026-09-19
+usdd,USDD,usdd,0.998275,-0.04351,loser,8,2026-09-19
+global-dollar,Global Dollar,usdg,0.999901,-0.00498,loser,9,2026-09-19
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-09-19
