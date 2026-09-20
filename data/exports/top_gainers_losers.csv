@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.08051,106.71872,gainer,1,2026-09-19
-ethena,Ethena,ena,0.203574,20.53294,gainer,2,2026-09-19
-injective-protocol,Injective,inj,7.94,19.19799,gainer,3,2026-09-19
-avalanche-2,Avalanche,avax,9.76,18.09152,gainer,4,2026-09-19
-filecoin,Filecoin,fil,1.043,14.0421,gainer,5,2026-09-19
-vechain,VeChain,vet,0.00874866,11.27117,gainer,6,2026-09-19
-memecore,MemeCore,m,1.44,9.87801,gainer,7,2026-09-19
-morpho,Morpho,morpho,2.62,8.80667,gainer,8,2026-09-19
-pepe,Pepe,pepe,4.17e-06,8.26297,gainer,9,2026-09-19
-ondo-finance,Ondo,ondo,0.430237,7.85599,gainer,10,2026-09-19
-bitway,Bitway,btw,0.575274,-11.21605,loser,1,2026-09-19
-arbitrum,Arbitrum,arb,0.206556,-6.71097,loser,2,2026-09-19
-pump-fun,Pump.fun,pump,0.00416198,-5.74641,loser,3,2026-09-19
-near,NEAR Protocol,near,3.51,-5.41171,loser,4,2026-09-19
-uniswap,Uniswap,uni,8.69,-3.77854,loser,5,2026-09-19
-venice-token,Venice Token,vvv,26.62,-3.55238,loser,6,2026-09-19
-dash,Dash,dash,59.03,-3.53088,loser,7,2026-09-19
-pancakeswap-token,PancakeSwap,cake,2.39,-3.16945,loser,8,2026-09-19
-figure-heloc,Figure Heloc,figr_heloc,1.002,-2.7712,loser,9,2026-09-19
-solana,Solana,sol,111.27,-2.21001,loser,10,2026-09-19
+akedo,Akedo,ake,0.06498,50.80498,gainer,1,2026-09-20
+ethena,Ethena,ena,0.213974,24.07504,gainer,2,2026-09-20
+injective-protocol,Injective,inj,8.02,18.834,gainer,3,2026-09-20
+blockstack,Stacks,stx,0.330234,16.49945,gainer,4,2026-09-20
+memecore,MemeCore,m,1.52,15.14433,gainer,5,2026-09-20
+avalanche-2,Avalanche,avax,9.77,12.22021,gainer,6,2026-09-20
+vechain,VeChain,vet,0.00862805,9.95842,gainer,7,2026-09-20
+pepe,Pepe,pepe,4.06e-06,8.63042,gainer,8,2026-09-20
+algorand,Algorand,algo,0.106908,7.80947,gainer,9,2026-09-20
+jupiter-exchange-solana,Jupiter,jup,0.28552,5.72118,gainer,10,2026-09-20
+monero,Monero,xmr,537.35,-7.48886,loser,1,2026-09-20
+near,NEAR Protocol,near,3.55,-6.83243,loser,2,2026-09-20
+bitway,Bitway,btw,0.596933,-6.49774,loser,3,2026-09-20
+dash,Dash,dash,58.23,-6.46192,loser,4,2026-09-20
+zcash,Zcash,zec,1469.63,-5.32768,loser,5,2026-09-20
+venice-token,Venice Token,vvv,26.61,-5.30577,loser,6,2026-09-20
+stable-2,​​Stable,stable,0.0242889,-4.02944,loser,7,2026-09-20
+arbitrum,Arbitrum,arb,0.206629,-3.76035,loser,8,2026-09-20
+canton-network,Canton,cc,0.10779,-3.21622,loser,9,2026-09-20
+aptos,Aptos,apt,0.725092,-3.19146,loser,10,2026-09-20
