@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.719342,24.92127,gainer,1,2026-09-20
-memecore,MemeCore,m,1.54,19.04149,gainer,2,2026-09-20
-avalanche-2,Avalanche,avax,10.88,15.34066,gainer,3,2026-09-20
-algorand,Algorand,algo,0.109363,8.41931,gainer,4,2026-09-20
-hedera-hashgraph,Hedera,hbar,0.087643,8.40711,gainer,5,2026-09-20
-injective-protocol,Injective,inj,7.83,4.36901,gainer,6,2026-09-20
-pancakeswap-token,PancakeSwap,cake,2.48,2.56909,gainer,7,2026-09-20
-venice-token,Venice Token,vvv,28.92,2.54519,gainer,8,2026-09-20
-near,NEAR Protocol,near,3.68,2.42151,gainer,9,2026-09-20
-pepe,Pepe,pepe,3.89e-06,2.08305,gainer,10,2026-09-20
-akedo,Akedo,ake,0.050574,-20.39236,loser,1,2026-09-20
-lighter,Lighter,lit,4.66,-9.51258,loser,2,2026-09-20
-rain,Rain,rain,0.01268773,-8.93486,loser,3,2026-09-20
-dash,Dash,dash,54.68,-8.26596,loser,4,2026-09-20
-morpho,Morpho,morpho,2.49,-7.7093,loser,5,2026-09-20
-mantle,Mantle,mnt,0.595093,-7.59483,loser,6,2026-09-20
-filecoin,Filecoin,fil,0.914269,-7.27537,loser,7,2026-09-20
-bittensor,Bittensor,tao,251.83,-7.07198,loser,8,2026-09-20
-ether-fi,Ether.fi,ethfi,0.688983,-6.4685,loser,9,2026-09-20
-ondo-finance,Ondo,ondo,0.409568,-6.09738,loser,10,2026-09-20
+bitway,Bitway,btw,0.740129,20.87576,gainer,1,2026-09-20
+near,NEAR Protocol,near,4.16,17.72937,gainer,2,2026-09-20
+avalanche-2,Avalanche,avax,11.2,15.93755,gainer,3,2026-09-20
+algorand,Algorand,algo,0.110974,8.65745,gainer,4,2026-09-20
+ethena,Ethena,ena,0.221926,8.26677,gainer,5,2026-09-20
+venice-token,Venice Token,vvv,28.54,7.64439,gainer,6,2026-09-20
+render-token,Render,render,1.68,6.04884,gainer,7,2026-09-20
+pancakeswap-token,PancakeSwap,cake,2.53,5.74752,gainer,8,2026-09-20
+morpho,Morpho,morpho,2.73,4.96425,gainer,9,2026-09-20
+hedera-hashgraph,Hedera,hbar,0.08508,3.39763,gainer,10,2026-09-20
+akedo,Akedo,ake,0.063076,-22.8796,loser,1,2026-09-20
+filecoin,Filecoin,fil,0.951275,-8.65656,loser,2,2026-09-20
+pepe,Pepe,pepe,4.01e-06,-5.11893,loser,3,2026-09-20
+lighter,Lighter,lit,4.71,-4.57711,loser,4,2026-09-20
+aave,Aave,aave,136.85,-4.07681,loser,5,2026-09-20
+just,JUST,jst,0.113982,-4.02403,loser,6,2026-09-20
+aster-2,Aster,aster,0.742812,-3.42747,loser,7,2026-09-20
+stable-2,​​Stable,stable,0.02454429,-3.1967,loser,8,2026-09-20
+canton-network,Canton,cc,0.108141,-3.16437,loser,9,2026-09-20
+mantle,Mantle,mnt,0.606609,-2.89955,loser,10,2026-09-20
