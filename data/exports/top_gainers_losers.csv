@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.93347,30.06541,gainer,1,2026-09-21
-pepe,Pepe,pepe,4.96e-06,23.91661,gainer,2,2026-09-21
-sui,Sui,sui,1.014,12.17568,gainer,3,2026-09-21
-dogecoin,Dogecoin,doge,0.097527,11.74603,gainer,4,2026-09-21
-venice-token,Venice Token,vvv,30.55,9.6359,gainer,5,2026-09-21
-kaspa,Kaspa,kas,0.04241939,8.41384,gainer,6,2026-09-21
-jupiter-exchange-solana,Jupiter,jup,0.30106,8.25428,gainer,7,2026-09-21
-bittensor,Bittensor,tao,283.78,8.21557,gainer,8,2026-09-21
-shiba-inu,Shiba Inu,shib,5.93e-06,7.95671,gainer,9,2026-09-21
-gatechain-token,Gate,gt,11.24,7.64926,gainer,10,2026-09-21
-ethena,Ethena,ena,0.210063,-6.3878,loser,1,2026-09-21
-memecore,MemeCore,m,1.46,-3.41234,loser,2,2026-09-21
-near,NEAR Protocol,near,3.97,-3.13811,loser,3,2026-09-21
-just,JUST,jst,0.112551,-2.81414,loser,4,2026-09-21
-world-liberty-financial,World Liberty Financial,wlfi,0.056944,-2.13065,loser,5,2026-09-21
-ether-fi,Ether.fi,ethfi,0.716792,-1.25766,loser,6,2026-09-21
-worldcoin-wld,Worldcoin,wld,0.435982,-1.12797,loser,7,2026-09-21
-avalanche-2,Avalanche,avax,10.98,-1.02913,loser,8,2026-09-21
-algorand,Algorand,algo,0.111313,-0.86187,loser,9,2026-09-21
-injective-protocol,Injective,inj,7.79,-0.84488,loser,10,2026-09-21
+pepe,Pepe,pepe,4.86e-06,23.19432,gainer,1,2026-09-21
+bitway,Bitway,btw,0.897805,18.58591,gainer,2,2026-09-21
+bittensor,Bittensor,tao,305.12,17.763,gainer,3,2026-09-21
+sui,Sui,sui,1.014,15.15397,gainer,4,2026-09-21
+dogecoin,Dogecoin,doge,0.099089,14.1761,gainer,5,2026-09-21
+crypto-com-chain,Cronos,cro,0.065675,11.97518,gainer,6,2026-09-21
+render-token,Render,render,1.86,10.87299,gainer,7,2026-09-21
+venice-token,Venice Token,vvv,31.32,10.45984,gainer,8,2026-09-21
+kaspa,Kaspa,kas,0.04347982,10.44852,gainer,9,2026-09-21
+stellar,Stellar,xlm,0.212523,9.19213,gainer,10,2026-09-21
+akedo,Akedo,ake,0.056867,-5.87044,loser,1,2026-09-21
+ethena,Ethena,ena,0.209625,-2.85617,loser,2,2026-09-21
+zcash,Zcash,zec,1453.01,-1.99207,loser,3,2026-09-21
+world-liberty-financial,World Liberty Financial,wlfi,0.057144,-1.96945,loser,4,2026-09-21
+morpho,Morpho,morpho,2.65,-1.25741,loser,5,2026-09-21
+pancakeswap-token,PancakeSwap,cake,2.55,-0.98194,loser,6,2026-09-21
+rain,Rain,rain,0.0139709,-0.81716,loser,7,2026-09-21
+just,JUST,jst,0.112474,-0.74407,loser,8,2026-09-21
+tether-gold,Tether Gold,xaut,4342.04,-0.61058,loser,9,2026-09-21
+pax-gold,PAX Gold,paxg,4337.45,-0.56128,loser,10,2026-09-21
