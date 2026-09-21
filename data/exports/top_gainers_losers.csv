@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.742724,24.08686,gainer,1,2026-09-21
-near,NEAR Protocol,near,4.17,16.87411,gainer,2,2026-09-21
-avalanche-2,Avalanche,avax,11.15,14.50428,gainer,3,2026-09-21
-venice-token,Venice Token,vvv,30.6,14.26059,gainer,4,2026-09-21
-sui,Sui,sui,0.926581,7.42115,gainer,5,2026-09-21
-pancakeswap-token,PancakeSwap,cake,2.56,6.72257,gainer,6,2026-09-21
-render-token,Render,render,1.68,6.1647,gainer,7,2026-09-21
-jupiter-exchange-solana,Jupiter,jup,0.303509,5.94533,gainer,8,2026-09-21
-monero,Monero,xmr,562.8,4.45514,gainer,9,2026-09-21
-hedera-hashgraph,Hedera,hbar,0.085263,3.9767,gainer,10,2026-09-21
-akedo,Akedo,ake,0.051154,-21.31168,loser,1,2026-09-21
-vechain,VeChain,vet,0.00827154,-4.28218,loser,2,2026-09-21
-dash,Dash,dash,56.59,-3.17659,loser,3,2026-09-21
-injective-protocol,Injective,inj,7.77,-3.12305,loser,4,2026-09-21
-filecoin,Filecoin,fil,0.941303,-2.91937,loser,5,2026-09-21
-blockstack,Stacks,stx,0.322132,-2.87124,loser,6,2026-09-21
-aster-2,Aster,aster,0.739631,-2.73742,loser,7,2026-09-21
-ether-fi,Ether.fi,ethfi,0.7283,-2.66514,loser,8,2026-09-21
-uniswap,Uniswap,uni,8.61,-2.49781,loser,9,2026-09-21
-mantle,Mantle,mnt,0.609256,-2.48819,loser,10,2026-09-21
+sui,Sui,sui,1.016,25.20298,gainer,1,2026-09-21
+bitway,Bitway,btw,0.857746,21.01447,gainer,2,2026-09-21
+venice-token,Venice Token,vvv,33.32,17.86559,gainer,3,2026-09-21
+avalanche-2,Avalanche,avax,11.5,17.32039,gainer,4,2026-09-21
+near,NEAR Protocol,near,4.2,17.27258,gainer,5,2026-09-21
+render-token,Render,render,1.77,16.89145,gainer,6,2026-09-21
+bittensor,Bittensor,tao,284.75,13.99446,gainer,7,2026-09-21
+jupiter-exchange-solana,Jupiter,jup,0.306139,13.75288,gainer,8,2026-09-21
+morpho,Morpho,morpho,2.79,12.25229,gainer,9,2026-09-21
+stellar,Stellar,xlm,0.211595,11.9977,gainer,10,2026-09-21
+akedo,Akedo,ake,0.04745047,-24.17603,loser,1,2026-09-21
+just,JUST,jst,0.112133,-1.60889,loser,2,2026-09-21
+tether-gold,Tether Gold,xaut,4346.24,-0.49513,loser,3,2026-09-21
+pax-gold,PAX Gold,paxg,4342.81,-0.36833,loser,4,2026-09-21
+leo-token,LEO Token,leo,8.93,-0.21418,loser,5,2026-09-21
+usdgo,USDGO,usdgo,0.999814,-0.03381,loser,6,2026-09-21
+blockchain-capital,Blockchain Capital,bcap,106.54,0.0,loser,7,2026-09-21
+hashnote-usyc,Circle USYC,usyc,1.14,0.0,loser,8,2026-09-21
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,9,2026-09-21
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.22,0.0,loser,10,2026-09-21
