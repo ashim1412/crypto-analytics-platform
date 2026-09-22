@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.052633,18.29098,gainer,1,2026-09-22
-pepe,Pepe,pepe,4.9e-06,18.02317,gainer,2,2026-09-22
-bittensor,Bittensor,tao,313.66,12.11768,gainer,3,2026-09-22
-xdce-crowd-sale,XDC Network,xdc,0.03082904,6.23633,gainer,4,2026-09-22
-dogecoin,Dogecoin,doge,0.097563,5.27403,gainer,5,2026-09-22
-hedera-hashgraph,Hedera,hbar,0.093116,4.45442,gainer,6,2026-09-22
-shiba-inu,Shiba Inu,shib,5.96e-06,4.09404,gainer,7,2026-09-22
-just,JUST,jst,0.116015,3.86348,gainer,8,2026-09-22
-aerodrome-finance,Aerodrome Finance,aero,0.702952,2.82229,gainer,9,2026-09-22
-near,NEAR Protocol,near,4.41,2.7062,gainer,10,2026-09-22
-memecore,MemeCore,m,1.33,-12.09627,loser,1,2026-09-22
-ethena,Ethena,ena,0.205477,-8.75522,loser,2,2026-09-22
-morpho,Morpho,morpho,2.57,-8.40155,loser,3,2026-09-22
-ether-fi,Ether.fi,ethfi,0.692174,-8.19249,loser,4,2026-09-22
-sky,Sky,sky,0.067038,-7.25229,loser,5,2026-09-22
-lighter,Lighter,lit,4.75,-6.43355,loser,6,2026-09-22
-stable-2,​​Stable,stable,0.02431971,-5.7129,loser,7,2026-09-22
-venice-token,Venice Token,vvv,32.07,-5.68805,loser,8,2026-09-22
-aster-2,Aster,aster,0.7179,-5.45818,loser,9,2026-09-22
-jupiter-exchange-solana,Jupiter,jup,0.289542,-5.29887,loser,10,2026-09-22
+bitcoin-cash,Bitcoin Cash,bch,325.23,23.24266,gainer,1,2026-09-22
+quant-network,Quant,qnt,72.66,8.44483,gainer,2,2026-09-22
+near,NEAR Protocol,near,4.4,8.37961,gainer,3,2026-09-22
+bittensor,Bittensor,tao,314.07,8.37849,gainer,4,2026-09-22
+hedera-hashgraph,Hedera,hbar,0.097843,6.94005,gainer,5,2026-09-22
+ripple,XRP,xrp,1.58,5.44498,gainer,6,2026-09-22
+ethereum-classic,Ethereum Classic,etc,9.21,5.32708,gainer,7,2026-09-22
+blockstack,Stacks,stx,0.345726,5.19499,gainer,8,2026-09-22
+crypto-com-chain,Cronos,cro,0.066758,4.99946,gainer,9,2026-09-22
+uniswap,Uniswap,uni,9.24,4.39366,gainer,10,2026-09-22
+memecore,MemeCore,m,1.32,-11.87013,loser,1,2026-09-22
+arbitrum,Arbitrum,arb,0.214639,-6.79959,loser,2,2026-09-22
+sky,Sky,sky,0.06787,-6.53684,loser,3,2026-09-22
+morpho,Morpho,morpho,2.59,-5.57777,loser,4,2026-09-22
+rain,Rain,rain,0.0134428,-4.96073,loser,5,2026-09-22
+bitway,Bitway,btw,0.865984,-4.88445,loser,6,2026-09-22
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.108099,-4.73831,loser,7,2026-09-22
+ether-fi,Ether.fi,ethfi,0.691155,-4.49961,loser,8,2026-09-22
+jupiter-exchange-solana,Jupiter,jup,0.293288,-4.3267,loser,9,2026-09-22
+stable-2,​​Stable,stable,0.02437141,-4.03702,loser,10,2026-09-22
