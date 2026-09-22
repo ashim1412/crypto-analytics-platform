@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pepe,Pepe,pepe,5.11e-06,27.45951,gainer,1,2026-09-22
-bittensor,Bittensor,tao,317.69,21.07836,gainer,2,2026-09-22
-akedo,Akedo,ake,0.058311,14.04268,gainer,3,2026-09-22
-dogecoin,Dogecoin,doge,0.099978,13.95879,gainer,4,2026-09-22
-sui,Sui,sui,1.042,12.79003,gainer,5,2026-09-22
-render-token,Render,render,1.85,10.29786,gainer,6,2026-09-22
-kaspa,Kaspa,kas,0.04331923,9.40121,gainer,7,2026-09-22
-shiba-inu,Shiba Inu,shib,6e-06,9.20431,gainer,8,2026-09-22
-vechain,VeChain,vet,0.00901791,9.13853,gainer,9,2026-09-22
-crypto-com-chain,Cronos,cro,0.065938,8.87391,gainer,10,2026-09-22
-memecore,MemeCore,m,1.43,-5.17873,loser,1,2026-09-22
-morpho,Morpho,morpho,2.62,-3.53973,loser,2,2026-09-22
-jupiter-exchange-solana,Jupiter,jup,0.294672,-3.46546,loser,3,2026-09-22
-zcash,Zcash,zec,1462.69,-3.21114,loser,4,2026-09-22
-lighter,Lighter,lit,4.68,-3.05936,loser,5,2026-09-22
-rain,Rain,rain,0.01386213,-2.19717,loser,6,2026-09-22
-ether-fi,Ether.fi,ethfi,0.712547,-2.0478,loser,7,2026-09-22
-bitway,Bitway,btw,0.726778,-2.04531,loser,8,2026-09-22
-pancakeswap-token,PancakeSwap,cake,2.51,-1.62924,loser,9,2026-09-22
-sky,Sky,sky,0.06945,-1.31254,loser,10,2026-09-22
+akedo,Akedo,ake,0.052633,18.29098,gainer,1,2026-09-22
+pepe,Pepe,pepe,4.9e-06,18.02317,gainer,2,2026-09-22
+bittensor,Bittensor,tao,313.66,12.11768,gainer,3,2026-09-22
+xdce-crowd-sale,XDC Network,xdc,0.03082904,6.23633,gainer,4,2026-09-22
+dogecoin,Dogecoin,doge,0.097563,5.27403,gainer,5,2026-09-22
+hedera-hashgraph,Hedera,hbar,0.093116,4.45442,gainer,6,2026-09-22
+shiba-inu,Shiba Inu,shib,5.96e-06,4.09404,gainer,7,2026-09-22
+just,JUST,jst,0.116015,3.86348,gainer,8,2026-09-22
+aerodrome-finance,Aerodrome Finance,aero,0.702952,2.82229,gainer,9,2026-09-22
+near,NEAR Protocol,near,4.41,2.7062,gainer,10,2026-09-22
+memecore,MemeCore,m,1.33,-12.09627,loser,1,2026-09-22
+ethena,Ethena,ena,0.205477,-8.75522,loser,2,2026-09-22
+morpho,Morpho,morpho,2.57,-8.40155,loser,3,2026-09-22
+ether-fi,Ether.fi,ethfi,0.692174,-8.19249,loser,4,2026-09-22
+sky,Sky,sky,0.067038,-7.25229,loser,5,2026-09-22
+lighter,Lighter,lit,4.75,-6.43355,loser,6,2026-09-22
+stable-2,​​Stable,stable,0.02431971,-5.7129,loser,7,2026-09-22
+venice-token,Venice Token,vvv,32.07,-5.68805,loser,8,2026-09-22
+aster-2,Aster,aster,0.7179,-5.45818,loser,9,2026-09-22
+jupiter-exchange-solana,Jupiter,jup,0.289542,-5.29887,loser,10,2026-09-22
