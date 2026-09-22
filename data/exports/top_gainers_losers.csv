@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitcoin-cash,Bitcoin Cash,bch,325.23,23.24266,gainer,1,2026-09-22
-quant-network,Quant,qnt,72.66,8.44483,gainer,2,2026-09-22
-near,NEAR Protocol,near,4.4,8.37961,gainer,3,2026-09-22
-bittensor,Bittensor,tao,314.07,8.37849,gainer,4,2026-09-22
-hedera-hashgraph,Hedera,hbar,0.097843,6.94005,gainer,5,2026-09-22
-ripple,XRP,xrp,1.58,5.44498,gainer,6,2026-09-22
-ethereum-classic,Ethereum Classic,etc,9.21,5.32708,gainer,7,2026-09-22
-blockstack,Stacks,stx,0.345726,5.19499,gainer,8,2026-09-22
-crypto-com-chain,Cronos,cro,0.066758,4.99946,gainer,9,2026-09-22
-uniswap,Uniswap,uni,9.24,4.39366,gainer,10,2026-09-22
-memecore,MemeCore,m,1.32,-11.87013,loser,1,2026-09-22
-arbitrum,Arbitrum,arb,0.214639,-6.79959,loser,2,2026-09-22
-sky,Sky,sky,0.06787,-6.53684,loser,3,2026-09-22
-morpho,Morpho,morpho,2.59,-5.57777,loser,4,2026-09-22
-rain,Rain,rain,0.0134428,-4.96073,loser,5,2026-09-22
-bitway,Bitway,btw,0.865984,-4.88445,loser,6,2026-09-22
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.108099,-4.73831,loser,7,2026-09-22
-ether-fi,Ether.fi,ethfi,0.691155,-4.49961,loser,8,2026-09-22
-jupiter-exchange-solana,Jupiter,jup,0.293288,-4.3267,loser,9,2026-09-22
-stable-2,​​Stable,stable,0.02437141,-4.03702,loser,10,2026-09-22
+bitcoin-cash,Bitcoin Cash,bch,342.51,28.05085,gainer,1,2026-09-22
+pudgy-penguins,Pudgy Penguins,pengu,0.01027234,17.31674,gainer,2,2026-09-22
+hedera-hashgraph,Hedera,hbar,0.099469,8.66466,gainer,3,2026-09-22
+quant-network,Quant,qnt,72.44,7.31103,gainer,4,2026-09-22
+bitway,Bitway,btw,0.869875,6.59427,gainer,5,2026-09-22
+uniswap,Uniswap,uni,9.39,6.35203,gainer,6,2026-09-22
+ethereum-classic,Ethereum Classic,etc,9.28,5.31896,gainer,7,2026-09-22
+dash,Dash,dash,62.83,5.25628,gainer,8,2026-09-22
+ripple,XRP,xrp,1.57,3.82795,gainer,9,2026-09-22
+near,NEAR Protocol,near,4.28,3.70809,gainer,10,2026-09-22
+memecore,MemeCore,m,1.31,-12.42576,loser,1,2026-09-22
+akedo,Akedo,ake,0.05046,-8.40303,loser,2,2026-09-22
+rain,Rain,rain,0.01313458,-6.30394,loser,3,2026-09-22
+kaspa,Kaspa,kas,0.04181012,-6.04007,loser,4,2026-09-22
+sky,Sky,sky,0.068443,-5.38341,loser,5,2026-09-22
+ether-fi,Ether.fi,ethfi,0.689331,-5.36252,loser,6,2026-09-22
+morpho,Morpho,morpho,2.59,-3.89534,loser,7,2026-09-22
+monero,Monero,xmr,563.06,-3.7923,loser,8,2026-09-22
+canton-network,Canton,cc,0.113832,-2.89965,loser,9,2026-09-22
+arbitrum,Arbitrum,arb,0.218595,-2.82283,loser,10,2026-09-22
