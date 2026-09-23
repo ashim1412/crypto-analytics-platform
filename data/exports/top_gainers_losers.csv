@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.95927,11.10145,gainer,1,2026-09-23
-sky,Sky,sky,0.074604,10.68097,gainer,2,2026-09-23
-lighter,Lighter,lit,5.26,9.27273,gainer,3,2026-09-23
-pudgy-penguins,Pudgy Penguins,pengu,0.00971304,5.94186,gainer,4,2026-09-23
-stable-2,​​Stable,stable,0.02566168,5.34528,gainer,5,2026-09-23
-bitcoin-cash,Bitcoin Cash,bch,341.95,4.94534,gainer,6,2026-09-23
-arbitrum,Arbitrum,arb,0.222126,3.60422,gainer,7,2026-09-23
-zcash,Zcash,zec,1575.87,2.54982,gainer,8,2026-09-23
-near,NEAR Protocol,near,4.5,2.43688,gainer,9,2026-09-23
-figure-heloc,Figure Heloc,figr_heloc,1.03,2.35646,gainer,10,2026-09-23
-akedo,Akedo,ake,0.04692655,-10.21254,loser,1,2026-09-23
-pepe,Pepe,pepe,4.43e-06,-9.40966,loser,2,2026-09-23
-hedera-hashgraph,Hedera,hbar,0.090656,-7.92663,loser,3,2026-09-23
-pump-fun,Pump.fun,pump,0.00409273,-7.89403,loser,4,2026-09-23
-worldcoin-wld,Worldcoin,wld,0.419526,-7.55677,loser,5,2026-09-23
-kaspa,Kaspa,kas,0.03868452,-7.38919,loser,6,2026-09-23
-crypto-com-chain,Cronos,cro,0.061528,-7.28204,loser,7,2026-09-23
-avalanche-2,Avalanche,avax,10.4,-6.78736,loser,8,2026-09-23
-rain,Rain,rain,0.01249965,-6.76333,loser,9,2026-09-23
-canton-network,Canton,cc,0.108193,-6.57997,loser,10,2026-09-23
+bitway,Bitway,btw,1.014,16.02596,gainer,1,2026-09-23
+lighter,Lighter,lit,5.41,11.92849,gainer,2,2026-09-23
+stable-2,​​Stable,stable,0.02583715,6.33269,gainer,3,2026-09-23
+near,NEAR Protocol,near,4.35,1.83336,gainer,4,2026-09-23
+sky,Sky,sky,0.069299,1.1467,gainer,5,2026-09-23
+zcash,Zcash,zec,1520.67,0.92977,gainer,6,2026-09-23
+arbitrum,Arbitrum,arb,0.220047,0.83221,gainer,7,2026-09-23
+bitcoin-cash,Bitcoin Cash,bch,340.06,0.50454,gainer,8,2026-09-23
+pancakeswap-token,PancakeSwap,cake,2.55,0.26591,gainer,9,2026-09-23
+gho,GHO,gho,0.999215,0.01998,gainer,10,2026-09-23
+worldcoin-wld,Worldcoin,wld,0.405709,-12.95656,loser,1,2026-09-23
+pump-fun,Pump.fun,pump,0.00400644,-10.85218,loser,2,2026-09-23
+akedo,Akedo,ake,0.0450365,-10.49658,loser,3,2026-09-23
+pepe,Pepe,pepe,4.36e-06,-10.45927,loser,4,2026-09-23
+hedera-hashgraph,Hedera,hbar,0.090117,-8.98684,loser,5,2026-09-23
+filecoin,Filecoin,fil,0.926139,-8.61474,loser,6,2026-09-23
+world-liberty-financial,World Liberty Financial,wlfi,0.053468,-8.40573,loser,7,2026-09-23
+dash,Dash,dash,57.94,-8.15343,loser,8,2026-09-23
+crypto-com-chain,Cronos,cro,0.06111,-8.12118,loser,9,2026-09-23
+memecore,MemeCore,m,1.21,-8.08412,loser,10,2026-09-23
