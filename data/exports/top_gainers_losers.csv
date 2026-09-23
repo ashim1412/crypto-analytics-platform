@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitcoin-cash,Bitcoin Cash,bch,354.46,31.14924,gainer,1,2026-09-23
-pudgy-penguins,Pudgy Penguins,pengu,0.01088164,21.81093,gainer,2,2026-09-23
-uniswap,Uniswap,uni,9.99,14.05827,gainer,3,2026-09-23
-bitway,Bitway,btw,0.931653,10.28712,gainer,4,2026-09-23
-aptos,Aptos,apt,0.825512,9.7907,gainer,5,2026-09-23
-sky,Sky,sky,0.07387,9.71178,gainer,6,2026-09-23
-arbitrum,Arbitrum,arb,0.238868,9.46614,gainer,7,2026-09-23
-quant-network,Quant,qnt,75.03,9.23678,gainer,8,2026-09-23
-ethereum-classic,Ethereum Classic,etc,9.48,8.70408,gainer,9,2026-09-23
-flare-networks,Flare,flr,0.00743535,7.62441,gainer,10,2026-09-23
-akedo,Akedo,ake,0.04673468,-10.88734,loser,1,2026-09-23
-canton-network,Canton,cc,0.112589,-4.74597,loser,2,2026-09-23
-rain,Rain,rain,0.0129029,-4.53905,loser,3,2026-09-23
-pump-fun,Pump.fun,pump,0.00431681,-4.3545,loser,4,2026-09-23
-memecore,MemeCore,m,1.28,-4.34629,loser,5,2026-09-23
-just,JUST,jst,0.112267,-3.20577,loser,6,2026-09-23
-venice-token,Venice Token,vvv,31.34,-2.7748,loser,7,2026-09-23
-kucoin-shares,KuCoin,kcs,7.28,-2.34771,loser,8,2026-09-23
-pepe,Pepe,pepe,4.85e-06,-1.74768,loser,9,2026-09-23
-bittensor,Bittensor,tao,309.87,-1.6066,loser,10,2026-09-23
+bitway,Bitway,btw,0.95927,11.10145,gainer,1,2026-09-23
+sky,Sky,sky,0.074604,10.68097,gainer,2,2026-09-23
+lighter,Lighter,lit,5.26,9.27273,gainer,3,2026-09-23
+pudgy-penguins,Pudgy Penguins,pengu,0.00971304,5.94186,gainer,4,2026-09-23
+stable-2,​​Stable,stable,0.02566168,5.34528,gainer,5,2026-09-23
+bitcoin-cash,Bitcoin Cash,bch,341.95,4.94534,gainer,6,2026-09-23
+arbitrum,Arbitrum,arb,0.222126,3.60422,gainer,7,2026-09-23
+zcash,Zcash,zec,1575.87,2.54982,gainer,8,2026-09-23
+near,NEAR Protocol,near,4.5,2.43688,gainer,9,2026-09-23
+figure-heloc,Figure Heloc,figr_heloc,1.03,2.35646,gainer,10,2026-09-23
+akedo,Akedo,ake,0.04692655,-10.21254,loser,1,2026-09-23
+pepe,Pepe,pepe,4.43e-06,-9.40966,loser,2,2026-09-23
+hedera-hashgraph,Hedera,hbar,0.090656,-7.92663,loser,3,2026-09-23
+pump-fun,Pump.fun,pump,0.00409273,-7.89403,loser,4,2026-09-23
+worldcoin-wld,Worldcoin,wld,0.419526,-7.55677,loser,5,2026-09-23
+kaspa,Kaspa,kas,0.03868452,-7.38919,loser,6,2026-09-23
+crypto-com-chain,Cronos,cro,0.061528,-7.28204,loser,7,2026-09-23
+avalanche-2,Avalanche,avax,10.4,-6.78736,loser,8,2026-09-23
+rain,Rain,rain,0.01249965,-6.76333,loser,9,2026-09-23
+canton-network,Canton,cc,0.108193,-6.57997,loser,10,2026-09-23
