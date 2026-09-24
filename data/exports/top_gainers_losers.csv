@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.012,7.73957,gainer,1,2026-09-24
-litecoin,Litecoin,ltc,66.78,6.30789,gainer,2,2026-09-24
-morpho,Morpho,morpho,2.66,2.26756,gainer,3,2026-09-24
-stable-2,​​Stable,stable,0.0258651,2.15602,gainer,4,2026-09-24
-beldex,Beldex,bdx,0.076527,0.68506,gainer,5,2026-09-24
-figure-heloc,Figure Heloc,figr_heloc,1.035,0.37534,gainer,6,2026-09-24
-pancakeswap-token,PancakeSwap,cake,2.62,0.26621,gainer,7,2026-09-24
-usdd,USDD,usdd,0.999294,0.14638,gainer,8,2026-09-24
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.05201,gainer,9,2026-09-24
-usdgo,USDGO,usdgo,1.0,0.0133,gainer,10,2026-09-24
-pepe,Pepe,pepe,4.25e-06,-11.99219,loser,1,2026-09-24
-akedo,Akedo,ake,0.04238107,-11.80741,loser,2,2026-09-24
-worldcoin-wld,Worldcoin,wld,0.402428,-11.70366,loser,3,2026-09-24
-pump-fun,Pump.fun,pump,0.00380846,-11.43311,loser,4,2026-09-24
-arbitrum,Arbitrum,arb,0.211619,-11.26314,loser,5,2026-09-24
-bittensor,Bittensor,tao,278.86,-9.95098,loser,6,2026-09-24
-near,NEAR Protocol,near,4.17,-9.85546,loser,7,2026-09-24
-avalanche-2,Avalanche,avax,10.07,-9.60957,loser,8,2026-09-24
-zcash,Zcash,zec,1465.4,-9.38017,loser,9,2026-09-24
-uniswap,Uniswap,uni,8.87,-9.00671,loser,10,2026-09-24
+ondo-finance,Ondo,ondo,0.513037,25.6159,gainer,1,2026-09-24
+litecoin,Litecoin,ltc,74.3,25.32718,gainer,2,2026-09-24
+ethereum-classic,Ethereum Classic,etc,9.99,14.75993,gainer,3,2026-09-24
+quant-network,Quant,qnt,82.53,14.12747,gainer,4,2026-09-24
+injective-protocol,Injective,inj,8.51,12.05389,gainer,5,2026-09-24
+bitway,Bitway,btw,1.053,10.71991,gainer,6,2026-09-24
+morpho,Morpho,morpho,2.84,10.37656,gainer,7,2026-09-24
+near,NEAR Protocol,near,4.59,10.16455,gainer,8,2026-09-24
+jupiter-exchange-solana,Jupiter,jup,0.306374,10.0235,gainer,9,2026-09-24
+aptos,Aptos,apt,0.826077,9.1959,gainer,10,2026-09-24
+akedo,Akedo,ake,0.04442057,-3.9575,loser,1,2026-09-24
+pump-fun,Pump.fun,pump,0.00386984,-3.63807,loser,2,2026-09-24
+rain,Rain,rain,0.01205491,-3.24604,loser,3,2026-09-24
+pi-network,Pi Network,pi,0.086571,-1.48199,loser,4,2026-09-24
+bitcoin-cash,Bitcoin Cash,bch,337.57,-1.01102,loser,5,2026-09-24
+arbitrum,Arbitrum,arb,0.216914,-0.98905,loser,6,2026-09-24
+leo-token,LEO Token,leo,8.9,-0.95272,loser,7,2026-09-24
+zcash,Zcash,zec,1515.02,-0.94456,loser,8,2026-09-24
+pax-gold,PAX Gold,paxg,4253.81,-0.62131,loser,9,2026-09-24
+tether-gold,Tether Gold,xaut,4259.0,-0.58656,loser,10,2026-09-24
