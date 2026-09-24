@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.513037,25.6159,gainer,1,2026-09-24
-litecoin,Litecoin,ltc,74.3,25.32718,gainer,2,2026-09-24
-ethereum-classic,Ethereum Classic,etc,9.99,14.75993,gainer,3,2026-09-24
-quant-network,Quant,qnt,82.53,14.12747,gainer,4,2026-09-24
-injective-protocol,Injective,inj,8.51,12.05389,gainer,5,2026-09-24
-bitway,Bitway,btw,1.053,10.71991,gainer,6,2026-09-24
-morpho,Morpho,morpho,2.84,10.37656,gainer,7,2026-09-24
-near,NEAR Protocol,near,4.59,10.16455,gainer,8,2026-09-24
-jupiter-exchange-solana,Jupiter,jup,0.306374,10.0235,gainer,9,2026-09-24
-aptos,Aptos,apt,0.826077,9.1959,gainer,10,2026-09-24
-akedo,Akedo,ake,0.04442057,-3.9575,loser,1,2026-09-24
-pump-fun,Pump.fun,pump,0.00386984,-3.63807,loser,2,2026-09-24
-rain,Rain,rain,0.01205491,-3.24604,loser,3,2026-09-24
-pi-network,Pi Network,pi,0.086571,-1.48199,loser,4,2026-09-24
-bitcoin-cash,Bitcoin Cash,bch,337.57,-1.01102,loser,5,2026-09-24
-arbitrum,Arbitrum,arb,0.216914,-0.98905,loser,6,2026-09-24
-leo-token,LEO Token,leo,8.9,-0.95272,loser,7,2026-09-24
-zcash,Zcash,zec,1515.02,-0.94456,loser,8,2026-09-24
-pax-gold,PAX Gold,paxg,4253.81,-0.62131,loser,9,2026-09-24
-tether-gold,Tether Gold,xaut,4259.0,-0.58656,loser,10,2026-09-24
+ondo-finance,Ondo,ondo,0.508075,24.06689,gainer,1,2026-09-24
+quant-network,Quant,qnt,87.12,23.16565,gainer,2,2026-09-24
+litecoin,Litecoin,ltc,71.29,17.3004,gainer,3,2026-09-24
+ethereum-classic,Ethereum Classic,etc,9.74,11.87299,gainer,4,2026-09-24
+dash,Dash,dash,63.09,9.65278,gainer,5,2026-09-24
+morpho,Morpho,morpho,2.8,9.50151,gainer,6,2026-09-24
+worldcoin-wld,Worldcoin,wld,0.439756,8.64031,gainer,7,2026-09-24
+filecoin,Filecoin,fil,1.0,8.60333,gainer,8,2026-09-24
+render-token,Render,render,1.86,8.19786,gainer,9,2026-09-24
+ethena,Ethena,ena,0.220793,8.18338,gainer,10,2026-09-24
+akedo,Akedo,ake,0.03720674,-16.11986,loser,1,2026-09-24
+bitget-token,Bitget Token,bgb,1.97,-3.55118,loser,2,2026-09-24
+pump-fun,Pump.fun,pump,0.00387354,-3.17093,loser,3,2026-09-24
+pi-network,Pi Network,pi,0.086256,-1.42074,loser,4,2026-09-24
+rain,Rain,rain,0.01209055,-1.24331,loser,5,2026-09-24
+lighter,Lighter,lit,5.31,-1.19676,loser,6,2026-09-24
+nexo,NEXO,nexo,0.860295,-0.68674,loser,7,2026-09-24
+leo-token,LEO Token,leo,8.91,-0.62175,loser,8,2026-09-24
+tether-gold,Tether Gold,xaut,4265.16,-0.52503,loser,9,2026-09-24
+pax-gold,PAX Gold,paxg,4263.9,-0.4606,loser,10,2026-09-24
