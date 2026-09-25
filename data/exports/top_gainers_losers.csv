@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.23,16.44542,gainer,1,2026-09-25
-ethena,Ethena,ena,0.251951,16.32366,gainer,2,2026-09-25
-quant-network,Quant,qnt,95.5,15.59957,gainer,3,2026-09-25
-aerodrome-finance,Aerodrome Finance,aero,0.792485,12.01702,gainer,4,2026-09-25
-near,NEAR Protocol,near,5.1,11.52831,gainer,5,2026-09-25
-canton-network,Canton,cc,0.123485,10.84199,gainer,6,2026-09-25
-sui,Sui,sui,1.1,10.12726,gainer,7,2026-09-25
-chainlink,Chainlink,link,13.82,8.42741,gainer,8,2026-09-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.112792,6.62348,gainer,9,2026-09-25
-ether-fi,Ether.fi,ethfi,0.714275,6.30825,gainer,10,2026-09-25
-akedo,Akedo,ake,0.03702236,-16.3603,loser,1,2026-09-25
-lighter,Lighter,lit,4.74,-8.52949,loser,2,2026-09-25
-ethereum-classic,Ethereum Classic,etc,9.35,-6.35159,loser,3,2026-09-25
-litecoin,Litecoin,ltc,70.12,-5.3444,loser,4,2026-09-25
-memecore,MemeCore,m,1.17,-4.53715,loser,5,2026-09-25
-bitget-token,Bitget Token,bgb,1.98,-3.99831,loser,6,2026-09-25
-morpho,Morpho,morpho,2.72,-3.99234,loser,7,2026-09-25
-injective-protocol,Injective,inj,8.17,-3.81941,loser,8,2026-09-25
-stable-2,​​Stable,stable,0.02636219,-2.67758,loser,9,2026-09-25
-hyperliquid,Hyperliquid,hype,90.88,-2.6034,loser,10,2026-09-25
+bitway,Bitway,btw,1.29,24.91988,gainer,1,2026-09-25
+ethena,Ethena,ena,0.264794,20.21314,gainer,2,2026-09-25
+aerodrome-finance,Aerodrome Finance,aero,0.834276,19.32428,gainer,3,2026-09-25
+sui,Sui,sui,1.18,15.60377,gainer,4,2026-09-25
+canton-network,Canton,cc,0.129615,12.98264,gainer,5,2026-09-25
+jupiter-exchange-solana,Jupiter,jup,0.341709,12.68582,gainer,6,2026-09-25
+quant-network,Quant,qnt,97.43,11.86386,gainer,7,2026-09-25
+near,NEAR Protocol,near,5.11,9.70355,gainer,8,2026-09-25
+worldcoin-wld,Worldcoin,wld,0.48116,9.06909,gainer,9,2026-09-25
+ondo-finance,Ondo,ondo,0.547706,7.79468,gainer,10,2026-09-25
+akedo,Akedo,ake,0.03324622,-10.79498,loser,1,2026-09-25
+lighter,Lighter,lit,4.79,-9.81493,loser,2,2026-09-25
+venice-token,Venice Token,vvv,30.19,-4.46302,loser,3,2026-09-25
+ethereum-classic,Ethereum Classic,etc,9.48,-2.71,loser,4,2026-09-25
+memecore,MemeCore,m,1.19,-2.27682,loser,5,2026-09-25
+morpho,Morpho,morpho,2.75,-1.98436,loser,6,2026-09-25
+hyperliquid,Hyperliquid,hype,91.94,-1.64635,loser,7,2026-09-25
+mantle,Mantle,mnt,0.672266,-1.26815,loser,8,2026-09-25
+leo-token,LEO Token,leo,8.83,-0.90905,loser,9,2026-09-25
+monero,Monero,xmr,560.53,-0.80165,loser,10,2026-09-25
