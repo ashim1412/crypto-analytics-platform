@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ondo-finance,Ondo,ondo,0.535075,31.26152,gainer,1,2026-09-25
-quant-network,Quant,qnt,89.77,28.62735,gainer,2,2026-09-25
-litecoin,Litecoin,ltc,71.6,15.68704,gainer,3,2026-09-25
-ethena,Ethena,ena,0.230682,13.3243,gainer,4,2026-09-25
-stellar,Stellar,xlm,0.223184,12.23522,gainer,5,2026-09-25
-algorand,Algorand,algo,0.114748,11.38699,gainer,6,2026-09-25
-jupiter-exchange-solana,Jupiter,jup,0.310526,10.43348,gainer,7,2026-09-25
-chainlink,Chainlink,link,13.45,10.33243,gainer,8,2026-09-25
-dash,Dash,dash,62.95,10.20849,gainer,9,2026-09-25
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.110433,10.19964,gainer,10,2026-09-25
-akedo,Akedo,ake,0.03471132,-18.28433,loser,1,2026-09-25
-bitway,Bitway,btw,0.961108,-9.41793,loser,2,2026-09-25
-lighter,Lighter,lit,4.97,-7.37124,loser,3,2026-09-25
-bitget-token,Bitget Token,bgb,1.96,-3.83962,loser,4,2026-09-25
-stable-2,​​Stable,stable,0.0262587,-1.40153,loser,5,2026-09-25
-rain,Rain,rain,0.01205211,-1.25626,loser,6,2026-09-25
-pi-network,Pi Network,pi,0.087193,-1.09389,loser,7,2026-09-25
-uniswap,Uniswap,uni,9.2,-1.03106,loser,8,2026-09-25
-tron,TRON,trx,0.340022,-0.79568,loser,9,2026-09-25
-figure-heloc,Figure Heloc,figr_heloc,1.027,-0.73534,loser,10,2026-09-25
+quant-network,Quant,qnt,99.51,40.46002,gainer,1,2026-09-25
+ondo-finance,Ondo,ondo,0.551077,31.18575,gainer,2,2026-09-25
+near,NEAR Protocol,near,4.96,18.13149,gainer,3,2026-09-25
+aerodrome-finance,Aerodrome Finance,aero,0.774782,15.77956,gainer,4,2026-09-25
+chainlink,Chainlink,link,13.9,14.11746,gainer,5,2026-09-25
+ethena,Ethena,ena,0.228681,13.53106,gainer,6,2026-09-25
+jupiter-exchange-solana,Jupiter,jup,0.319264,12.35478,gainer,7,2026-09-25
+algorand,Algorand,algo,0.11762,12.25031,gainer,8,2026-09-25
+sui,Sui,sui,1.055,12.0072,gainer,9,2026-09-25
+venice-token,Venice Token,vvv,32.26,11.71694,gainer,10,2026-09-25
+akedo,Akedo,ake,0.03480542,-17.3564,loser,1,2026-09-25
+memecore,MemeCore,m,1.2,-3.03069,loser,2,2026-09-25
+bitget-token,Bitget Token,bgb,1.98,-2.88627,loser,3,2026-09-25
+leo-token,LEO Token,leo,8.83,-1.00768,loser,4,2026-09-25
+rain,Rain,rain,0.01188221,-0.96882,loser,5,2026-09-25
+tron,TRON,trx,0.33682,-0.78679,loser,6,2026-09-25
+usdgo,USDGO,usdgo,0.999785,-0.05842,loser,7,2026-09-25
+falcon-finance,Falcon USD,usdf,0.995584,-0.00436,loser,8,2026-09-25
+gho,GHO,gho,0.998942,-0.0008,loser,9,2026-09-25
+blockchain-capital,Blockchain Capital,bcap,107.53,0.0,loser,10,2026-09-25
