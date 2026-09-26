@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.527514,16.88338,gainer,1,2026-09-26
-filecoin,Filecoin,fil,1.19,16.2687,gainer,2,2026-09-26
-kaspa,Kaspa,kas,0.04849761,15.78074,gainer,3,2026-09-26
-quant-network,Quant,qnt,110.04,15.60002,gainer,4,2026-09-26
-dash,Dash,dash,72.12,14.11028,gainer,5,2026-09-26
-aerodrome-finance,Aerodrome Finance,aero,0.90316,13.36028,gainer,6,2026-09-26
-canton-network,Canton,cc,0.137096,9.44567,gainer,7,2026-09-26
-rain,Rain,rain,0.01283402,8.24212,gainer,8,2026-09-26
-ethena,Ethena,ena,0.275413,8.03356,gainer,9,2026-09-26
-bittensor,Bittensor,tao,327.39,7.58763,gainer,10,2026-09-26
-bitway,Bitway,btw,1.013,-17.06965,loser,1,2026-09-26
-akedo,Akedo,ake,0.03369712,-7.33023,loser,2,2026-09-26
-near,NEAR Protocol,near,4.83,-6.0924,loser,3,2026-09-26
-injective-protocol,Injective,inj,7.8,-5.4087,loser,4,2026-09-26
-ripple,XRP,xrp,1.55,-2.60297,loser,5,2026-09-26
-pepe,Pepe,pepe,4.43e-06,-1.50367,loser,6,2026-09-26
-venice-token,Venice Token,vvv,30.11,-1.39024,loser,7,2026-09-26
-morpho,Morpho,morpho,2.74,-1.07411,loser,8,2026-09-26
-zcash,Zcash,zec,1548.74,-0.9999,loser,9,2026-09-26
-nexo,NEXO,nexo,0.861303,-0.91439,loser,10,2026-09-26
+quant-network,Quant,qnt,120.9,23.66897,gainer,1,2026-09-26
+kaspa,Kaspa,kas,0.04874986,16.77712,gainer,2,2026-09-26
+dash,Dash,dash,71.51,13.01716,gainer,3,2026-09-26
+worldcoin-wld,Worldcoin,wld,0.531584,12.09442,gainer,4,2026-09-26
+filecoin,Filecoin,fil,1.13,9.54125,gainer,5,2026-09-26
+the-open-network,Gram (prev. Toncoin),gram,1.56,8.71283,gainer,6,2026-09-26
+rain,Rain,rain,0.0129514,6.43655,gainer,7,2026-09-26
+aerodrome-finance,Aerodrome Finance,aero,0.873603,6.16624,gainer,8,2026-09-26
+pump-fun,Pump.fun,pump,0.00439587,6.12634,gainer,9,2026-09-26
+canton-network,Canton,cc,0.135229,4.66175,gainer,10,2026-09-26
+bitway,Bitway,btw,1.038,-19.38474,loser,1,2026-09-26
+injective-protocol,Injective,inj,7.66,-6.20309,loser,2,2026-09-26
+near,NEAR Protocol,near,4.84,-4.31143,loser,3,2026-09-26
+pudgy-penguins,Pudgy Penguins,pengu,0.00988191,-3.97703,loser,4,2026-09-26
+ripple,XRP,xrp,1.52,-3.05718,loser,5,2026-09-26
+venice-token,Venice Token,vvv,29.23,-2.97393,loser,6,2026-09-26
+aptos,Aptos,apt,0.845628,-2.8862,loser,7,2026-09-26
+pepe,Pepe,pepe,4.36e-06,-2.73696,loser,8,2026-09-26
+lighter,Lighter,lit,4.73,-2.08901,loser,9,2026-09-26
+hedera-hashgraph,Hedera,hbar,0.092995,-1.60053,loser,10,2026-09-26
