@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.283214,25.74087,gainer,1,2026-09-26
-aerodrome-finance,Aerodrome Finance,aero,0.899359,16.8998,gainer,2,2026-09-26
-canton-network,Canton,cc,0.135563,14.64936,gainer,3,2026-09-26
-sui,Sui,sui,1.19,14.10483,gainer,4,2026-09-26
-pump-fun,Pump.fun,pump,0.00446271,10.75085,gainer,5,2026-09-26
-quant-network,Quant,qnt,109.22,10.2732,gainer,6,2026-09-26
-jupiter-exchange-solana,Jupiter,jup,0.349805,10.15394,gainer,7,2026-09-26
-blockstack,Stacks,stx,0.345165,8.62147,gainer,8,2026-09-26
-worldcoin-wld,Worldcoin,wld,0.487406,8.20829,gainer,9,2026-09-26
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.118783,8.16503,gainer,10,2026-09-26
-bitway,Bitway,btw,0.913996,-16.28288,loser,1,2026-09-26
-venice-token,Venice Token,vvv,29.72,-7.30824,loser,2,2026-09-26
-akedo,Akedo,ake,0.03294529,-6.21464,loser,3,2026-09-26
-morpho,Morpho,morpho,2.75,-6.16797,loser,4,2026-09-26
-lighter,Lighter,lit,4.81,-3.50687,loser,5,2026-09-26
-zcash,Zcash,zec,1533.72,-2.93913,loser,6,2026-09-26
-injective-protocol,Injective,inj,7.83,-2.87335,loser,7,2026-09-26
-monero,Monero,xmr,554.69,-1.82743,loser,8,2026-09-26
-rain,Rain,rain,0.01166042,-1.74377,loser,9,2026-09-26
-hyperliquid,Hyperliquid,hype,91.89,-1.66371,loser,10,2026-09-26
+worldcoin-wld,Worldcoin,wld,0.527514,16.88338,gainer,1,2026-09-26
+filecoin,Filecoin,fil,1.19,16.2687,gainer,2,2026-09-26
+kaspa,Kaspa,kas,0.04849761,15.78074,gainer,3,2026-09-26
+quant-network,Quant,qnt,110.04,15.60002,gainer,4,2026-09-26
+dash,Dash,dash,72.12,14.11028,gainer,5,2026-09-26
+aerodrome-finance,Aerodrome Finance,aero,0.90316,13.36028,gainer,6,2026-09-26
+canton-network,Canton,cc,0.137096,9.44567,gainer,7,2026-09-26
+rain,Rain,rain,0.01283402,8.24212,gainer,8,2026-09-26
+ethena,Ethena,ena,0.275413,8.03356,gainer,9,2026-09-26
+bittensor,Bittensor,tao,327.39,7.58763,gainer,10,2026-09-26
+bitway,Bitway,btw,1.013,-17.06965,loser,1,2026-09-26
+akedo,Akedo,ake,0.03369712,-7.33023,loser,2,2026-09-26
+near,NEAR Protocol,near,4.83,-6.0924,loser,3,2026-09-26
+injective-protocol,Injective,inj,7.8,-5.4087,loser,4,2026-09-26
+ripple,XRP,xrp,1.55,-2.60297,loser,5,2026-09-26
+pepe,Pepe,pepe,4.43e-06,-1.50367,loser,6,2026-09-26
+venice-token,Venice Token,vvv,30.11,-1.39024,loser,7,2026-09-26
+morpho,Morpho,morpho,2.74,-1.07411,loser,8,2026-09-26
+zcash,Zcash,zec,1548.74,-0.9999,loser,9,2026-09-26
+nexo,NEXO,nexo,0.861303,-0.91439,loser,10,2026-09-26
