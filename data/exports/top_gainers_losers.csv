@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,120.9,23.66897,gainer,1,2026-09-26
-kaspa,Kaspa,kas,0.04874986,16.77712,gainer,2,2026-09-26
-dash,Dash,dash,71.51,13.01716,gainer,3,2026-09-26
-worldcoin-wld,Worldcoin,wld,0.531584,12.09442,gainer,4,2026-09-26
-filecoin,Filecoin,fil,1.13,9.54125,gainer,5,2026-09-26
-the-open-network,Gram (prev. Toncoin),gram,1.56,8.71283,gainer,6,2026-09-26
-rain,Rain,rain,0.0129514,6.43655,gainer,7,2026-09-26
-aerodrome-finance,Aerodrome Finance,aero,0.873603,6.16624,gainer,8,2026-09-26
-pump-fun,Pump.fun,pump,0.00439587,6.12634,gainer,9,2026-09-26
-canton-network,Canton,cc,0.135229,4.66175,gainer,10,2026-09-26
-bitway,Bitway,btw,1.038,-19.38474,loser,1,2026-09-26
-injective-protocol,Injective,inj,7.66,-6.20309,loser,2,2026-09-26
-near,NEAR Protocol,near,4.84,-4.31143,loser,3,2026-09-26
-pudgy-penguins,Pudgy Penguins,pengu,0.00988191,-3.97703,loser,4,2026-09-26
-ripple,XRP,xrp,1.52,-3.05718,loser,5,2026-09-26
-venice-token,Venice Token,vvv,29.23,-2.97393,loser,6,2026-09-26
-aptos,Aptos,apt,0.845628,-2.8862,loser,7,2026-09-26
-pepe,Pepe,pepe,4.36e-06,-2.73696,loser,8,2026-09-26
-lighter,Lighter,lit,4.73,-2.08901,loser,9,2026-09-26
-hedera-hashgraph,Hedera,hbar,0.092995,-1.60053,loser,10,2026-09-26
+quant-network,Quant,qnt,180.76,80.58754,gainer,1,2026-09-27
+rain,Rain,rain,0.01278911,19.06822,gainer,2,2026-09-27
+bitway,Bitway,btw,1.024,12.95517,gainer,3,2026-09-27
+dash,Dash,dash,70.9,12.90281,gainer,4,2026-09-27
+pyth-network,Pyth Network,pyth,0.08318,12.61462,gainer,5,2026-09-27
+kaspa,Kaspa,kas,0.04708081,11.04921,gainer,6,2026-09-27
+the-open-network,Gram (prev. Toncoin),gram,1.59,10.2508,gainer,7,2026-09-27
+filecoin,Filecoin,fil,1.14,9.49891,gainer,8,2026-09-27
+worldcoin-wld,Worldcoin,wld,0.521889,7.08757,gainer,9,2026-09-27
+zcash,Zcash,zec,1640.81,6.12304,gainer,10,2026-09-27
+cardano,Cardano,ada,0.25297,-3.5929,loser,1,2026-09-27
+ripple,XRP,xrp,1.53,-2.97723,loser,2,2026-09-27
+vechain,VeChain,vet,0.0092352,-2.88218,loser,3,2026-09-27
+pepe,Pepe,pepe,4.37e-06,-2.81536,loser,4,2026-09-27
+stellar,Stellar,xlm,0.21558,-2.47004,loser,5,2026-09-27
+dogecoin,Dogecoin,doge,0.096589,-2.35608,loser,6,2026-09-27
+lighter,Lighter,lit,4.79,-2.22967,loser,7,2026-09-27
+bitcoin-cash,Bitcoin Cash,bch,335.57,-2.1179,loser,8,2026-09-27
+venice-token,Venice Token,vvv,29.82,-1.98346,loser,9,2026-09-27
+pancakeswap-token,PancakeSwap,cake,2.74,-1.77633,loser,10,2026-09-27
