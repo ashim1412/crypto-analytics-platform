@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,171.54,60.12659,gainer,1,2026-09-27
-bitway,Bitway,btw,1.14,26.51369,gainer,2,2026-09-27
-worldcoin-wld,Worldcoin,wld,0.5691,17.28671,gainer,3,2026-09-27
-pyth-network,Pyth Network,pyth,0.086131,13.02265,gainer,4,2026-09-27
-the-open-network,Gram (prev. Toncoin),gram,1.63,12.55512,gainer,5,2026-09-27
-kaspa,Kaspa,kas,0.04887591,9.15945,gainer,6,2026-09-27
-zcash,Zcash,zec,1665.43,8.70394,gainer,7,2026-09-27
-dash,Dash,dash,70.74,8.38902,gainer,8,2026-09-27
-near,NEAR Protocol,near,5.23,6.70846,gainer,9,2026-09-27
-rain,Rain,rain,0.01268446,6.42639,gainer,10,2026-09-27
-aerodrome-finance,Aerodrome Finance,aero,0.851677,-7.27315,loser,1,2026-09-27
-ethena,Ethena,ena,0.271821,-4.12071,loser,2,2026-09-27
-vechain,VeChain,vet,0.00932576,-3.12813,loser,3,2026-09-27
-sky,Sky,sky,0.07665,-2.97635,loser,4,2026-09-27
-litecoin,Litecoin,ltc,71.75,-2.46226,loser,5,2026-09-27
-ondo-finance,Ondo,ondo,0.545171,-1.80784,loser,6,2026-09-27
-mantle,Mantle,mnt,0.688992,-1.77781,loser,7,2026-09-27
-jupiter-exchange-solana,Jupiter,jup,0.343288,-1.7502,loser,8,2026-09-27
-world-liberty-financial,World Liberty Financial,wlfi,0.058085,-1.37714,loser,9,2026-09-27
-memecore,MemeCore,m,1.22,-0.98772,loser,10,2026-09-27
+quant-network,Quant,qnt,176.81,50.5117,gainer,1,2026-09-27
+bitway,Bitway,btw,1.17,11.32087,gainer,2,2026-09-27
+the-open-network,Gram (prev. Toncoin),gram,1.64,11.05439,gainer,3,2026-09-27
+pump-fun,Pump.fun,pump,0.00483839,7.79442,gainer,4,2026-09-27
+near,NEAR Protocol,near,5.19,7.02969,gainer,5,2026-09-27
+pyth-network,Pyth Network,pyth,0.082881,6.25243,gainer,6,2026-09-27
+xdce-crowd-sale,XDC Network,xdc,0.03200386,5.18707,gainer,7,2026-09-27
+sui,Sui,sui,1.23,4.03609,gainer,8,2026-09-27
+stable-2,​​Stable,stable,0.02730447,3.5668,gainer,9,2026-09-27
+figure-heloc,Figure Heloc,figr_heloc,1.058,3.35971,gainer,10,2026-09-27
+ether-fi,Ether.fi,ethfi,0.704256,-8.80356,loser,1,2026-09-27
+aerodrome-finance,Aerodrome Finance,aero,0.82657,-7.99917,loser,2,2026-09-27
+dash,Dash,dash,67.04,-5.71927,loser,3,2026-09-27
+bittensor,Bittensor,tao,321.25,-5.41568,loser,4,2026-09-27
+filecoin,Filecoin,fil,1.14,-5.20873,loser,5,2026-09-27
+akedo,Akedo,ake,0.03282662,-4.48702,loser,6,2026-09-27
+aptos,Aptos,apt,0.839058,-4.3976,loser,7,2026-09-27
+memecore,MemeCore,m,1.17,-4.28432,loser,8,2026-09-27
+algorand,Algorand,algo,0.116378,-4.25963,loser,9,2026-09-27
+vechain,VeChain,vet,0.00920894,-4.25173,loser,10,2026-09-27
