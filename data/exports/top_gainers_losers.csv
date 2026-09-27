@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,180.76,80.58754,gainer,1,2026-09-27
-rain,Rain,rain,0.01278911,19.06822,gainer,2,2026-09-27
-bitway,Bitway,btw,1.024,12.95517,gainer,3,2026-09-27
-dash,Dash,dash,70.9,12.90281,gainer,4,2026-09-27
-pyth-network,Pyth Network,pyth,0.08318,12.61462,gainer,5,2026-09-27
-kaspa,Kaspa,kas,0.04708081,11.04921,gainer,6,2026-09-27
-the-open-network,Gram (prev. Toncoin),gram,1.59,10.2508,gainer,7,2026-09-27
-filecoin,Filecoin,fil,1.14,9.49891,gainer,8,2026-09-27
-worldcoin-wld,Worldcoin,wld,0.521889,7.08757,gainer,9,2026-09-27
-zcash,Zcash,zec,1640.81,6.12304,gainer,10,2026-09-27
-cardano,Cardano,ada,0.25297,-3.5929,loser,1,2026-09-27
-ripple,XRP,xrp,1.53,-2.97723,loser,2,2026-09-27
-vechain,VeChain,vet,0.0092352,-2.88218,loser,3,2026-09-27
-pepe,Pepe,pepe,4.37e-06,-2.81536,loser,4,2026-09-27
-stellar,Stellar,xlm,0.21558,-2.47004,loser,5,2026-09-27
-dogecoin,Dogecoin,doge,0.096589,-2.35608,loser,6,2026-09-27
-lighter,Lighter,lit,4.79,-2.22967,loser,7,2026-09-27
-bitcoin-cash,Bitcoin Cash,bch,335.57,-2.1179,loser,8,2026-09-27
-venice-token,Venice Token,vvv,29.82,-1.98346,loser,9,2026-09-27
-pancakeswap-token,PancakeSwap,cake,2.74,-1.77633,loser,10,2026-09-27
+quant-network,Quant,qnt,171.54,60.12659,gainer,1,2026-09-27
+bitway,Bitway,btw,1.14,26.51369,gainer,2,2026-09-27
+worldcoin-wld,Worldcoin,wld,0.5691,17.28671,gainer,3,2026-09-27
+pyth-network,Pyth Network,pyth,0.086131,13.02265,gainer,4,2026-09-27
+the-open-network,Gram (prev. Toncoin),gram,1.63,12.55512,gainer,5,2026-09-27
+kaspa,Kaspa,kas,0.04887591,9.15945,gainer,6,2026-09-27
+zcash,Zcash,zec,1665.43,8.70394,gainer,7,2026-09-27
+dash,Dash,dash,70.74,8.38902,gainer,8,2026-09-27
+near,NEAR Protocol,near,5.23,6.70846,gainer,9,2026-09-27
+rain,Rain,rain,0.01268446,6.42639,gainer,10,2026-09-27
+aerodrome-finance,Aerodrome Finance,aero,0.851677,-7.27315,loser,1,2026-09-27
+ethena,Ethena,ena,0.271821,-4.12071,loser,2,2026-09-27
+vechain,VeChain,vet,0.00932576,-3.12813,loser,3,2026-09-27
+sky,Sky,sky,0.07665,-2.97635,loser,4,2026-09-27
+litecoin,Litecoin,ltc,71.75,-2.46226,loser,5,2026-09-27
+ondo-finance,Ondo,ondo,0.545171,-1.80784,loser,6,2026-09-27
+mantle,Mantle,mnt,0.688992,-1.77781,loser,7,2026-09-27
+jupiter-exchange-solana,Jupiter,jup,0.343288,-1.7502,loser,8,2026-09-27
+world-liberty-financial,World Liberty Financial,wlfi,0.058085,-1.37714,loser,9,2026-09-27
+memecore,MemeCore,m,1.22,-0.98772,loser,10,2026-09-27
