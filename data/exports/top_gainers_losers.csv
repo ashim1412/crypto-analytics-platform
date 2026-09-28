@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,269.55,48.84092,gainer,1,2026-09-28
-bitway,Bitway,btw,1.26,23.84991,gainer,2,2026-09-28
-pump-fun,Pump.fun,pump,0.00515491,17.15758,gainer,3,2026-09-28
-xdce-crowd-sale,XDC Network,xdc,0.03321723,9.61284,gainer,4,2026-09-28
-sui,Sui,sui,1.27,7.19217,gainer,5,2026-09-28
-ondo-finance,Ondo,ondo,0.574669,6.37634,gainer,6,2026-09-28
-jupiter-exchange-solana,Jupiter,jup,0.359851,5.98407,gainer,7,2026-09-28
-sky,Sky,sky,0.081618,4.85572,gainer,8,2026-09-28
-pudgy-penguins,Pudgy Penguins,pengu,0.01026331,4.58853,gainer,9,2026-09-28
-hedera-hashgraph,Hedera,hbar,0.097109,4.34588,gainer,10,2026-09-28
-akedo,Akedo,ake,0.03010179,-10.85809,loser,1,2026-09-28
-lighter,Lighter,lit,4.48,-6.20018,loser,2,2026-09-28
-aerodrome-finance,Aerodrome Finance,aero,0.818828,-5.31189,loser,3,2026-09-28
-venice-token,Venice Token,vvv,28.22,-5.28282,loser,4,2026-09-28
-memecore,MemeCore,m,1.18,-4.64063,loser,5,2026-09-28
-dash,Dash,dash,68.29,-3.75204,loser,6,2026-09-28
-zcash,Zcash,zec,1581.55,-3.49913,loser,7,2026-09-28
-internet-computer,Internet Computer,icp,3.11,-3.24625,loser,8,2026-09-28
-morpho,Morpho,morpho,2.66,-3.13633,loser,9,2026-09-28
-crypto-com-chain,Cronos,cro,0.065788,-3.13441,loser,10,2026-09-28
+quant-network,Quant,qnt,238.31,47.79103,gainer,1,2026-09-28
+hedera-hashgraph,Hedera,hbar,0.119172,25.11991,gainer,2,2026-09-28
+pump-fun,Pump.fun,pump,0.0051249,14.06533,gainer,3,2026-09-28
+algorand,Algorand,algo,0.132511,12.42827,gainer,4,2026-09-28
+bitway,Bitway,btw,1.27,11.63687,gainer,5,2026-09-28
+xdce-crowd-sale,XDC Network,xdc,0.03372857,6.28693,gainer,6,2026-09-28
+sky,Sky,sky,0.0809,4.85956,gainer,7,2026-09-28
+just,JUST,jst,0.129634,3.48132,gainer,8,2026-09-28
+the-open-network,Gram (prev. Toncoin),gram,1.67,2.78116,gainer,9,2026-09-28
+jupiter-exchange-solana,Jupiter,jup,0.346214,1.28645,gainer,10,2026-09-28
+venice-token,Venice Token,vvv,27.83,-11.09848,loser,1,2026-09-28
+worldcoin-wld,Worldcoin,wld,0.516367,-10.09299,loser,2,2026-09-28
+uniswap,Uniswap,uni,9.07,-8.78269,loser,3,2026-09-28
+bittensor,Bittensor,tao,308.9,-7.84881,loser,4,2026-09-28
+pyth-network,Pyth Network,pyth,0.08098,-7.77695,loser,5,2026-09-28
+lighter,Lighter,lit,4.41,-7.69615,loser,6,2026-09-28
+bitcoin-cash,Bitcoin Cash,bch,313.58,-7.52343,loser,7,2026-09-28
+filecoin,Filecoin,fil,1.062,-7.06669,loser,8,2026-09-28
+ether-fi,Ether.fi,ethfi,0.689967,-6.97675,loser,9,2026-09-28
+aerodrome-finance,Aerodrome Finance,aero,0.794395,-6.97674,loser,10,2026-09-28
