@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,189.8,56.98617,gainer,1,2026-09-27
-bitway,Bitway,btw,1.21,16.73581,gainer,2,2026-09-27
-near,NEAR Protocol,near,5.45,12.91973,gainer,3,2026-09-27
-pump-fun,Pump.fun,pump,0.00495019,12.37892,gainer,4,2026-09-27
-sui,Sui,sui,1.27,9.82995,gainer,5,2026-09-27
-pyth-network,Pyth Network,pyth,0.085415,8.10339,gainer,6,2026-09-27
-xdce-crowd-sale,XDC Network,xdc,0.03221066,7.36894,gainer,7,2026-09-27
-sky,Sky,sky,0.081051,5.25068,gainer,8,2026-09-27
-ethena,Ethena,ena,0.283424,5.22738,gainer,9,2026-09-27
-worldcoin-wld,Worldcoin,wld,0.555277,5.12818,gainer,10,2026-09-27
-akedo,Akedo,ake,0.03188573,-6.83299,loser,1,2026-09-27
-dash,Dash,dash,69.04,-4.76787,loser,2,2026-09-27
-rain,Rain,rain,0.01257413,-3.03088,loser,3,2026-09-27
-aerodrome-finance,Aerodrome Finance,aero,0.844858,-2.91757,loser,4,2026-09-27
-mantle,Mantle,mnt,0.67569,-2.03599,loser,5,2026-09-27
-ether-fi,Ether.fi,ethfi,0.715545,-1.70525,loser,6,2026-09-27
-memecore,MemeCore,m,1.19,-1.45559,loser,7,2026-09-27
-monero,Monero,xmr,547.61,-1.04148,loser,8,2026-09-27
-internet-computer,Internet Computer,icp,3.17,-1.00853,loser,9,2026-09-27
-aster-2,Aster,aster,0.728286,-0.97564,loser,10,2026-09-27
+quant-network,Quant,qnt,269.55,48.84092,gainer,1,2026-09-28
+bitway,Bitway,btw,1.26,23.84991,gainer,2,2026-09-28
+pump-fun,Pump.fun,pump,0.00515491,17.15758,gainer,3,2026-09-28
+xdce-crowd-sale,XDC Network,xdc,0.03321723,9.61284,gainer,4,2026-09-28
+sui,Sui,sui,1.27,7.19217,gainer,5,2026-09-28
+ondo-finance,Ondo,ondo,0.574669,6.37634,gainer,6,2026-09-28
+jupiter-exchange-solana,Jupiter,jup,0.359851,5.98407,gainer,7,2026-09-28
+sky,Sky,sky,0.081618,4.85572,gainer,8,2026-09-28
+pudgy-penguins,Pudgy Penguins,pengu,0.01026331,4.58853,gainer,9,2026-09-28
+hedera-hashgraph,Hedera,hbar,0.097109,4.34588,gainer,10,2026-09-28
+akedo,Akedo,ake,0.03010179,-10.85809,loser,1,2026-09-28
+lighter,Lighter,lit,4.48,-6.20018,loser,2,2026-09-28
+aerodrome-finance,Aerodrome Finance,aero,0.818828,-5.31189,loser,3,2026-09-28
+venice-token,Venice Token,vvv,28.22,-5.28282,loser,4,2026-09-28
+memecore,MemeCore,m,1.18,-4.64063,loser,5,2026-09-28
+dash,Dash,dash,68.29,-3.75204,loser,6,2026-09-28
+zcash,Zcash,zec,1581.55,-3.49913,loser,7,2026-09-28
+internet-computer,Internet Computer,icp,3.11,-3.24625,loser,8,2026-09-28
+morpho,Morpho,morpho,2.66,-3.13633,loser,9,2026-09-28
+crypto-com-chain,Cronos,cro,0.065788,-3.13441,loser,10,2026-09-28
