@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hedera-hashgraph,Hedera,hbar,0.124117,31.74614,gainer,1,2026-09-28
-algorand,Algorand,algo,0.135067,14.93497,gainer,2,2026-09-28
-chainlink,Chainlink,link,15.11,8.31998,gainer,3,2026-09-28
-stable-2,​​Stable,stable,0.02881574,5.72843,gainer,4,2026-09-28
-stellar,Stellar,xlm,0.224837,4.77318,gainer,5,2026-09-28
-crypto-com-chain,Cronos,cro,0.068676,4.28306,gainer,6,2026-09-28
-just,JUST,jst,0.129904,3.59837,gainer,7,2026-09-28
-htx-dao,HTX DAO,htx,1.73e-06,1.81353,gainer,8,2026-09-28
-xdce-crowd-sale,XDC Network,xdc,0.03415891,1.45888,gainer,9,2026-09-28
-kucoin-shares,KuCoin,kcs,7.4,1.27988,gainer,10,2026-09-28
-near,NEAR Protocol,near,4.77,-12.43633,loser,1,2026-09-28
-jupiter-exchange-solana,Jupiter,jup,0.322873,-11.32624,loser,2,2026-09-28
-worldcoin-wld,Worldcoin,wld,0.483691,-11.22574,loser,3,2026-09-28
-bitway,Bitway,btw,1.085,-10.59101,loser,4,2026-09-28
-quant-network,Quant,qnt,229.88,-9.78769,loser,5,2026-09-28
-arbitrum,Arbitrum,arb,0.200698,-9.54864,loser,6,2026-09-28
-uniswap,Uniswap,uni,8.7,-9.24445,loser,7,2026-09-28
-pancakeswap-token,PancakeSwap,cake,2.58,-8.35411,loser,8,2026-09-28
-sui,Sui,sui,1.16,-7.76937,loser,9,2026-09-28
-cosmos,Cosmos Hub,atom,1.72,-7.65457,loser,10,2026-09-28
+hedera-hashgraph,Hedera,hbar,0.118343,24.74587,gainer,1,2026-09-29
+algorand,Algorand,algo,0.132808,13.28133,gainer,2,2026-09-29
+chainlink,Chainlink,link,15.0,6.45853,gainer,3,2026-09-29
+stellar,Stellar,xlm,0.224321,4.72758,gainer,4,2026-09-29
+akedo,Akedo,ake,0.03087045,3.96011,gainer,5,2026-09-29
+xdce-crowd-sale,XDC Network,xdc,0.03438514,3.37171,gainer,6,2026-09-29
+crypto-com-chain,Cronos,cro,0.067032,3.16872,gainer,7,2026-09-29
+just,JUST,jst,0.129055,1.21541,gainer,8,2026-09-29
+htx-dao,HTX DAO,htx,1.71e-06,1.12469,gainer,9,2026-09-29
+bitget-token,Bitget Token,bgb,1.98,1.03741,gainer,10,2026-09-29
+quant-network,Quant,qnt,223.03,-18.65919,loser,1,2026-09-29
+near,NEAR Protocol,near,4.58,-12.5596,loser,2,2026-09-29
+ondo-finance,Ondo,ondo,0.494904,-12.51444,loser,3,2026-09-29
+zcash,Zcash,zec,1373.6,-12.33843,loser,4,2026-09-29
+worldcoin-wld,Worldcoin,wld,0.46766,-11.86911,loser,5,2026-09-29
+arbitrum,Arbitrum,arb,0.19417,-11.41406,loser,6,2026-09-29
+dash,Dash,dash,60.0,-11.12031,loser,7,2026-09-29
+sui,Sui,sui,1.11,-11.08485,loser,8,2026-09-29
+bitway,Bitway,btw,1.13,-10.42305,loser,9,2026-09-29
+jupiter-exchange-solana,Jupiter,jup,0.320928,-9.77031,loser,10,2026-09-29
