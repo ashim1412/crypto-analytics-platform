@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hedera-hashgraph,Hedera,hbar,0.118343,24.74587,gainer,1,2026-09-29
-algorand,Algorand,algo,0.132808,13.28133,gainer,2,2026-09-29
-chainlink,Chainlink,link,15.0,6.45853,gainer,3,2026-09-29
-stellar,Stellar,xlm,0.224321,4.72758,gainer,4,2026-09-29
-akedo,Akedo,ake,0.03087045,3.96011,gainer,5,2026-09-29
-xdce-crowd-sale,XDC Network,xdc,0.03438514,3.37171,gainer,6,2026-09-29
-crypto-com-chain,Cronos,cro,0.067032,3.16872,gainer,7,2026-09-29
-just,JUST,jst,0.129055,1.21541,gainer,8,2026-09-29
-htx-dao,HTX DAO,htx,1.71e-06,1.12469,gainer,9,2026-09-29
-bitget-token,Bitget Token,bgb,1.98,1.03741,gainer,10,2026-09-29
-quant-network,Quant,qnt,223.03,-18.65919,loser,1,2026-09-29
-near,NEAR Protocol,near,4.58,-12.5596,loser,2,2026-09-29
-ondo-finance,Ondo,ondo,0.494904,-12.51444,loser,3,2026-09-29
-zcash,Zcash,zec,1373.6,-12.33843,loser,4,2026-09-29
-worldcoin-wld,Worldcoin,wld,0.46766,-11.86911,loser,5,2026-09-29
-arbitrum,Arbitrum,arb,0.19417,-11.41406,loser,6,2026-09-29
-dash,Dash,dash,60.0,-11.12031,loser,7,2026-09-29
-sui,Sui,sui,1.11,-11.08485,loser,8,2026-09-29
-bitway,Bitway,btw,1.13,-10.42305,loser,9,2026-09-29
-jupiter-exchange-solana,Jupiter,jup,0.320928,-9.77031,loser,10,2026-09-29
+aave,Aave,aave,171.18,15.33379,gainer,1,2026-09-29
+internet-computer,Internet Computer,icp,3.35,12.21029,gainer,2,2026-09-29
+avalanche-2,Avalanche,avax,11.72,11.37476,gainer,3,2026-09-29
+crypto-com-chain,Cronos,cro,0.071977,11.22211,gainer,4,2026-09-29
+ether-fi,Ether.fi,ethfi,0.756084,11.0557,gainer,5,2026-09-29
+stellar,Stellar,xlm,0.23344,9.69746,gainer,6,2026-09-29
+chainlink,Chainlink,link,15.4,9.3328,gainer,7,2026-09-29
+stable-2,​​Stable,stable,0.028888,6.43319,gainer,8,2026-09-29
+flare-networks,Flare,flr,0.00742052,5.61868,gainer,9,2026-09-29
+aerodrome-finance,Aerodrome Finance,aero,0.826734,5.43802,gainer,10,2026-09-29
+memecore,MemeCore,m,1.063,-9.18515,loser,1,2026-09-29
+zcash,Zcash,zec,1430.14,-8.72987,loser,2,2026-09-29
+the-open-network,Gram (prev. Toncoin),gram,1.58,-5.09849,loser,3,2026-09-29
+dash,Dash,dash,61.61,-4.82495,loser,4,2026-09-29
+near,NEAR Protocol,near,4.85,-4.6417,loser,5,2026-09-29
+ethena,Ethena,ena,0.252321,-4.2946,loser,6,2026-09-29
+litecoin,Litecoin,ltc,68.97,-3.99386,loser,7,2026-09-29
+kaspa,Kaspa,kas,0.04613928,-2.9859,loser,8,2026-09-29
+jupiter-exchange-solana,Jupiter,jup,0.331604,-2.62576,loser,9,2026-09-29
+nexo,NEXO,nexo,0.842392,-2.57959,loser,10,2026-09-29
