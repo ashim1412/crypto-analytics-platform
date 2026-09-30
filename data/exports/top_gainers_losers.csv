@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,314.58,24.73675,gainer,1,2026-09-30
-pump-fun,Pump.fun,pump,0.00573766,11.12262,gainer,2,2026-09-30
-near,NEAR Protocol,near,5.29,10.51896,gainer,3,2026-09-30
-akedo,Akedo,ake,0.03327974,7.69747,gainer,4,2026-09-30
-pudgy-penguins,Pudgy Penguins,pengu,0.01019252,6.16938,gainer,5,2026-09-30
-aster-2,Aster,aster,0.762887,4.55703,gainer,6,2026-09-30
-mantle,Mantle,mnt,0.690341,3.65867,gainer,7,2026-09-30
-worldcoin-wld,Worldcoin,wld,0.518448,3.64687,gainer,8,2026-09-30
-internet-computer,Internet Computer,icp,3.43,2.62638,gainer,9,2026-09-30
-pepe,Pepe,pepe,4.34e-06,1.7313,gainer,10,2026-09-30
-lighter,Lighter,lit,3.9,-11.80863,loser,1,2026-09-30
-bitway,Bitway,btw,1.14,-11.72004,loser,2,2026-09-30
-hedera-hashgraph,Hedera,hbar,0.108054,-7.96233,loser,3,2026-09-30
-crypto-com-chain,Cronos,cro,0.067124,-7.37781,loser,4,2026-09-30
-xdce-crowd-sale,XDC Network,xdc,0.03407784,-6.4351,loser,5,2026-09-30
-chainlink,Chainlink,link,14.39,-6.26635,loser,6,2026-09-30
-algorand,Algorand,algo,0.125591,-5.44582,loser,7,2026-09-30
-the-open-network,Gram (prev. Toncoin),gram,1.5,-5.22589,loser,8,2026-09-30
-kaspa,Kaspa,kas,0.04375117,-4.55337,loser,9,2026-09-30
-aptos,Aptos,apt,0.800063,-4.52485,loser,10,2026-09-30
+quant-network,Quant,qnt,303.82,22.51843,gainer,1,2026-09-30
+blockstack,Stacks,stx,0.351612,10.44083,gainer,2,2026-09-30
+worldcoin-wld,Worldcoin,wld,0.542344,10.2235,gainer,3,2026-09-30
+ethena,Ethena,ena,0.268893,9.23596,gainer,4,2026-09-30
+near,NEAR Protocol,near,5.38,8.96209,gainer,5,2026-09-30
+akedo,Akedo,ake,0.03250562,6.17144,gainer,6,2026-09-30
+aster-2,Aster,aster,0.763565,5.99088,gainer,7,2026-09-30
+polkadot,Polkadot,dot,1.24,5.78344,gainer,8,2026-09-30
+zcash,Zcash,zec,1468.27,5.32101,gainer,9,2026-09-30
+hyperliquid,Hyperliquid,hype,90.73,5.25254,gainer,10,2026-09-30
+lighter,Lighter,lit,3.98,-10.04322,loser,1,2026-09-30
+sky,Sky,sky,0.079252,-6.70141,loser,2,2026-09-30
+rain,Rain,rain,0.01233744,-4.25248,loser,3,2026-09-30
+aave,Aave,aave,161.35,-4.08087,loser,4,2026-09-30
+stable-2,​​Stable,stable,0.02803173,-3.24032,loser,5,2026-09-30
+injective-protocol,Injective,inj,7.38,-3.14405,loser,6,2026-09-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.113686,-2.94911,loser,7,2026-09-30
+chainlink,Chainlink,link,14.4,-2.1898,loser,8,2026-09-30
+kaspa,Kaspa,kas,0.04347172,-1.97359,loser,9,2026-09-30
+algorand,Algorand,algo,0.125456,-1.4685,loser,10,2026-09-30
