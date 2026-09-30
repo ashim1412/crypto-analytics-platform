@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,303.82,22.51843,gainer,1,2026-09-30
-blockstack,Stacks,stx,0.351612,10.44083,gainer,2,2026-09-30
-worldcoin-wld,Worldcoin,wld,0.542344,10.2235,gainer,3,2026-09-30
-ethena,Ethena,ena,0.268893,9.23596,gainer,4,2026-09-30
-near,NEAR Protocol,near,5.38,8.96209,gainer,5,2026-09-30
-akedo,Akedo,ake,0.03250562,6.17144,gainer,6,2026-09-30
-aster-2,Aster,aster,0.763565,5.99088,gainer,7,2026-09-30
-polkadot,Polkadot,dot,1.24,5.78344,gainer,8,2026-09-30
-zcash,Zcash,zec,1468.27,5.32101,gainer,9,2026-09-30
-hyperliquid,Hyperliquid,hype,90.73,5.25254,gainer,10,2026-09-30
-lighter,Lighter,lit,3.98,-10.04322,loser,1,2026-09-30
-sky,Sky,sky,0.079252,-6.70141,loser,2,2026-09-30
-rain,Rain,rain,0.01233744,-4.25248,loser,3,2026-09-30
-aave,Aave,aave,161.35,-4.08087,loser,4,2026-09-30
-stable-2,​​Stable,stable,0.02803173,-3.24032,loser,5,2026-09-30
-injective-protocol,Injective,inj,7.38,-3.14405,loser,6,2026-09-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.113686,-2.94911,loser,7,2026-09-30
-chainlink,Chainlink,link,14.4,-2.1898,loser,8,2026-09-30
-kaspa,Kaspa,kas,0.04347172,-1.97359,loser,9,2026-09-30
-algorand,Algorand,algo,0.125456,-1.4685,loser,10,2026-09-30
+midnight-3,Midnight,night,0.03874301,19.79244,gainer,1,2026-09-30
+blockstack,Stacks,stx,0.361563,12.8054,gainer,2,2026-09-30
+worldcoin-wld,Worldcoin,wld,0.533031,8.87388,gainer,3,2026-09-30
+quant-network,Quant,qnt,291.88,8.32227,gainer,4,2026-09-30
+near,NEAR Protocol,near,5.29,7.45201,gainer,5,2026-09-30
+hyperliquid,Hyperliquid,hype,90.99,5.93189,gainer,6,2026-09-30
+aster-2,Aster,aster,0.762169,5.26686,gainer,7,2026-09-30
+mantle,Mantle,mnt,0.696139,4.99562,gainer,8,2026-09-30
+xdce-crowd-sale,XDC Network,xdc,0.03448517,3.82658,gainer,9,2026-09-30
+ethena,Ethena,ena,0.259492,3.82042,gainer,10,2026-09-30
+lighter,Lighter,lit,3.88,-13.3588,loser,1,2026-09-30
+sky,Sky,sky,0.077051,-6.81951,loser,2,2026-09-30
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.111599,-5.13575,loser,3,2026-09-30
+aave,Aave,aave,158.74,-4.65893,loser,4,2026-09-30
+stable-2,​​Stable,stable,0.02746035,-4.62867,loser,5,2026-09-30
+avalanche-2,Avalanche,avax,10.93,-4.27161,loser,6,2026-09-30
+injective-protocol,Injective,inj,7.37,-4.23934,loser,7,2026-09-30
+aptos,Aptos,apt,0.76655,-3.86736,loser,8,2026-09-30
+filecoin,Filecoin,fil,1.039,-3.82378,loser,9,2026-09-30
+bitway,Bitway,btw,1.33,-3.47583,loser,10,2026-09-30
