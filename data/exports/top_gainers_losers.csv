@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quant-network,Quant,qnt,290.68,34.21353,gainer,1,2026-09-30
-pump-fun,Pump.fun,pump,0.00586786,24.54806,gainer,2,2026-09-30
-bitway,Bitway,btw,1.4,24.51162,gainer,3,2026-09-30
-ether-fi,Ether.fi,ethfi,0.773118,14.96853,gainer,4,2026-09-30
-pudgy-penguins,Pudgy Penguins,pengu,0.01003389,11.08352,gainer,5,2026-09-30
-internet-computer,Internet Computer,icp,3.38,10.27984,gainer,6,2026-09-30
-aave,Aave,aave,159.96,9.10288,gainer,7,2026-09-30
-avalanche-2,Avalanche,avax,11.37,9.0899,gainer,8,2026-09-30
-flare-networks,Flare,flr,0.00761318,8.64114,gainer,9,2026-09-30
-near,NEAR Protocol,near,4.93,7.28276,gainer,10,2026-09-30
-hedera-hashgraph,Hedera,hbar,0.103286,-12.80082,loser,1,2026-09-30
-lighter,Lighter,lit,3.83,-11.76657,loser,2,2026-09-30
-algorand,Algorand,algo,0.124354,-6.60012,loser,3,2026-09-30
-memecore,MemeCore,m,1.042,-4.31147,loser,4,2026-09-30
-chainlink,Chainlink,link,14.44,-3.99846,loser,5,2026-09-30
-the-open-network,Gram (prev. Toncoin),gram,1.48,-3.79979,loser,6,2026-09-30
-xdce-crowd-sale,XDC Network,xdc,0.03310651,-3.68424,loser,7,2026-09-30
-canton-network,Canton,cc,0.125683,-3.45795,loser,8,2026-09-30
-just,JUST,jst,0.125142,-2.89184,loser,9,2026-09-30
-kaspa,Kaspa,kas,0.04354612,-2.4561,loser,10,2026-09-30
+quant-network,Quant,qnt,314.58,24.73675,gainer,1,2026-09-30
+pump-fun,Pump.fun,pump,0.00573766,11.12262,gainer,2,2026-09-30
+near,NEAR Protocol,near,5.29,10.51896,gainer,3,2026-09-30
+akedo,Akedo,ake,0.03327974,7.69747,gainer,4,2026-09-30
+pudgy-penguins,Pudgy Penguins,pengu,0.01019252,6.16938,gainer,5,2026-09-30
+aster-2,Aster,aster,0.762887,4.55703,gainer,6,2026-09-30
+mantle,Mantle,mnt,0.690341,3.65867,gainer,7,2026-09-30
+worldcoin-wld,Worldcoin,wld,0.518448,3.64687,gainer,8,2026-09-30
+internet-computer,Internet Computer,icp,3.43,2.62638,gainer,9,2026-09-30
+pepe,Pepe,pepe,4.34e-06,1.7313,gainer,10,2026-09-30
+lighter,Lighter,lit,3.9,-11.80863,loser,1,2026-09-30
+bitway,Bitway,btw,1.14,-11.72004,loser,2,2026-09-30
+hedera-hashgraph,Hedera,hbar,0.108054,-7.96233,loser,3,2026-09-30
+crypto-com-chain,Cronos,cro,0.067124,-7.37781,loser,4,2026-09-30
+xdce-crowd-sale,XDC Network,xdc,0.03407784,-6.4351,loser,5,2026-09-30
+chainlink,Chainlink,link,14.39,-6.26635,loser,6,2026-09-30
+algorand,Algorand,algo,0.125591,-5.44582,loser,7,2026-09-30
+the-open-network,Gram (prev. Toncoin),gram,1.5,-5.22589,loser,8,2026-09-30
+kaspa,Kaspa,kas,0.04375117,-4.55337,loser,9,2026-09-30
+aptos,Aptos,apt,0.800063,-4.52485,loser,10,2026-09-30
