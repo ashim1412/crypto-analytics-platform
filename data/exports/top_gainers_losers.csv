@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.42,8.50747,gainer,1,2026-10-02
-sky,Sky,sky,0.084176,8.14878,gainer,2,2026-10-02
-aave,Aave,aave,175.61,8.1397,gainer,3,2026-10-02
-the-open-network,Gram (prev. Toncoin),gram,1.56,4.17254,gainer,4,2026-10-02
-morpho,Morpho,morpho,2.58,3.77119,gainer,5,2026-10-02
-akedo,Akedo,ake,0.03235192,3.58297,gainer,6,2026-10-02
-pepe,Pepe,pepe,4.43e-06,2.95345,gainer,7,2026-10-02
-litecoin,Litecoin,ltc,68.96,2.86109,gainer,8,2026-10-02
-crypto-com-chain,Cronos,cro,0.069648,2.39041,gainer,9,2026-10-02
-uniswap,Uniswap,uni,9.01,2.21699,gainer,10,2026-10-02
-quant-network,Quant,qnt,251.58,-14.35141,loser,1,2026-10-02
-ethena,Ethena,ena,0.242544,-8.86825,loser,2,2026-10-02
-ether-fi,Ether.fi,ethfi,0.726766,-6.28988,loser,3,2026-10-02
-zcash,Zcash,zec,1333.54,-5.39336,loser,4,2026-10-02
-canton-network,Canton,cc,0.120003,-5.22156,loser,5,2026-10-02
-near,NEAR Protocol,near,4.95,-5.1146,loser,6,2026-10-02
-kaspa,Kaspa,kas,0.04180697,-5.01254,loser,7,2026-10-02
-worldcoin-wld,Worldcoin,wld,0.512277,-5.01247,loser,8,2026-10-02
-venice-token,Venice Token,vvv,26.35,-3.32893,loser,9,2026-10-02
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.109122,-3.18853,loser,10,2026-10-02
+sky,Sky,sky,0.091282,15.40421,gainer,1,2026-10-02
+aave,Aave,aave,184.83,11.97501,gainer,2,2026-10-02
+venice-token,Venice Token,vvv,29.99,9.08047,gainer,3,2026-10-02
+morpho,Morpho,morpho,2.65,7.70297,gainer,4,2026-10-02
+aptos,Aptos,apt,0.822676,6.63446,gainer,5,2026-10-02
+pump-fun,Pump.fun,pump,0.00590379,5.48959,gainer,6,2026-10-02
+pepe,Pepe,pepe,4.51e-06,4.91355,gainer,7,2026-10-02
+worldcoin-wld,Worldcoin,wld,0.537686,4.30752,gainer,8,2026-10-02
+litecoin,Litecoin,ltc,69.66,3.74172,gainer,9,2026-10-02
+solana,Solana,sol,122.06,3.69811,gainer,10,2026-10-02
+quant-network,Quant,qnt,244.23,-13.01251,loser,1,2026-10-02
+xdce-crowd-sale,XDC Network,xdc,0.0340037,-4.70613,loser,2,2026-10-02
+lighter,Lighter,lit,3.79,-4.62285,loser,3,2026-10-02
+rain,Rain,rain,0.01165622,-4.5485,loser,4,2026-10-02
+near,NEAR Protocol,near,4.88,-4.51348,loser,5,2026-10-02
+just,JUST,jst,0.128041,-4.20487,loser,6,2026-10-02
+ethena,Ethena,ena,0.248004,-3.8192,loser,7,2026-10-02
+blockstack,Stacks,stx,0.369598,-3.28291,loser,8,2026-10-02
+mantle,Mantle,mnt,0.678275,-1.80139,loser,9,2026-10-02
+crypto-com-chain,Cronos,cro,0.069142,-1.2855,loser,10,2026-10-02
