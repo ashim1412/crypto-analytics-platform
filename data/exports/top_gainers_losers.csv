@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sky,Sky,sky,0.094692,18.43079,gainer,1,2026-10-02
-worldcoin-wld,Worldcoin,wld,0.573536,17.78887,gainer,2,2026-10-02
-midnight-3,Midnight,night,0.04752536,16.95598,gainer,3,2026-10-02
-layerzero,LayerZero,zro,1.94,12.27235,gainer,4,2026-10-02
-aave,Aave,aave,183.66,10.08619,gainer,5,2026-10-02
-venice-token,Venice Token,vvv,29.38,9.29305,gainer,6,2026-10-02
-aptos,Aptos,apt,0.827437,8.4795,gainer,7,2026-10-02
-akedo,Akedo,ake,0.03370605,8.14816,gainer,8,2026-10-02
-morpho,Morpho,morpho,2.62,5.99104,gainer,9,2026-10-02
-pump-fun,Pump.fun,pump,0.00591769,5.81485,gainer,10,2026-10-02
-quant-network,Quant,qnt,248.38,-5.39629,loser,1,2026-10-02
-blockstack,Stacks,stx,0.36277,-5.32925,loser,2,2026-10-02
-lighter,Lighter,lit,3.7,-5.24145,loser,3,2026-10-02
-rain,Rain,rain,0.01143586,-5.21599,loser,4,2026-10-02
-just,JUST,jst,0.128965,-3.51949,loser,5,2026-10-02
-mantle,Mantle,mnt,0.666091,-1.98547,loser,6,2026-10-02
-ethena,Ethena,ena,0.242346,-1.81878,loser,7,2026-10-02
-near,NEAR Protocol,near,4.81,-0.7136,loser,8,2026-10-02
-pancakeswap-token,PancakeSwap,cake,2.56,-0.61374,loser,9,2026-10-02
-pax-gold,PAX Gold,paxg,4148.25,-0.54768,loser,10,2026-10-02
+midnight-3,Midnight,night,0.04635316,18.91164,gainer,1,2026-10-02
+worldcoin-wld,Worldcoin,wld,0.535104,8.43137,gainer,2,2026-10-02
+aave,Aave,aave,179.91,6.02489,gainer,3,2026-10-02
+venice-token,Venice Token,vvv,27.68,4.86007,gainer,4,2026-10-02
+akedo,Akedo,ake,0.03183844,2.90481,gainer,5,2026-10-02
+figure-heloc,Figure Heloc,figr_heloc,1.047,2.36522,gainer,6,2026-10-02
+sky,Sky,sky,0.0865,2.1266,gainer,7,2026-10-02
+litecoin,Litecoin,ltc,69.28,1.29734,gainer,8,2026-10-02
+leo-token,LEO Token,leo,8.95,1.11509,gainer,9,2026-10-02
+algorand,Algorand,algo,0.124513,1.03518,gainer,10,2026-10-02
+pump-fun,Pump.fun,pump,0.00524054,-9.5854,loser,1,2026-10-02
+quant-network,Quant,qnt,229.34,-9.00736,loser,2,2026-10-02
+rain,Rain,rain,0.01112562,-7.8804,loser,3,2026-10-02
+lighter,Lighter,lit,3.54,-6.9567,loser,4,2026-10-02
+ether-fi,Ether.fi,ethfi,0.687157,-5.46643,loser,5,2026-10-02
+pepe,Pepe,pepe,4.17e-06,-5.36272,loser,6,2026-10-02
+chainlink,Chainlink,link,13.59,-5.22043,loser,7,2026-10-02
+bittensor,Bittensor,tao,286.04,-5.19968,loser,8,2026-10-02
+the-open-network,Gram (prev. Toncoin),gram,1.49,-5.08538,loser,9,2026-10-02
+cosmos,Cosmos Hub,atom,1.63,-4.8668,loser,10,2026-10-02
