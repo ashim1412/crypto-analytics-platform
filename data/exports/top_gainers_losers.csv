@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04635316,18.91164,gainer,1,2026-10-02
-worldcoin-wld,Worldcoin,wld,0.535104,8.43137,gainer,2,2026-10-02
-aave,Aave,aave,179.91,6.02489,gainer,3,2026-10-02
-venice-token,Venice Token,vvv,27.68,4.86007,gainer,4,2026-10-02
-akedo,Akedo,ake,0.03183844,2.90481,gainer,5,2026-10-02
-figure-heloc,Figure Heloc,figr_heloc,1.047,2.36522,gainer,6,2026-10-02
-sky,Sky,sky,0.0865,2.1266,gainer,7,2026-10-02
-litecoin,Litecoin,ltc,69.28,1.29734,gainer,8,2026-10-02
-leo-token,LEO Token,leo,8.95,1.11509,gainer,9,2026-10-02
-algorand,Algorand,algo,0.124513,1.03518,gainer,10,2026-10-02
-pump-fun,Pump.fun,pump,0.00524054,-9.5854,loser,1,2026-10-02
-quant-network,Quant,qnt,229.34,-9.00736,loser,2,2026-10-02
-rain,Rain,rain,0.01112562,-7.8804,loser,3,2026-10-02
-lighter,Lighter,lit,3.54,-6.9567,loser,4,2026-10-02
-ether-fi,Ether.fi,ethfi,0.687157,-5.46643,loser,5,2026-10-02
-pepe,Pepe,pepe,4.17e-06,-5.36272,loser,6,2026-10-02
-chainlink,Chainlink,link,13.59,-5.22043,loser,7,2026-10-02
-bittensor,Bittensor,tao,286.04,-5.19968,loser,8,2026-10-02
-the-open-network,Gram (prev. Toncoin),gram,1.49,-5.08538,loser,9,2026-10-02
-cosmos,Cosmos Hub,atom,1.63,-4.8668,loser,10,2026-10-02
+midnight-3,Midnight,night,0.050195,27.64237,gainer,1,2026-10-03
+worldcoin-wld,Worldcoin,wld,0.571236,11.6694,gainer,2,2026-10-03
+sky,Sky,sky,0.088771,6.14804,gainer,3,2026-10-03
+venice-token,Venice Token,vvv,27.81,5.65617,gainer,4,2026-10-03
+aave,Aave,aave,182.28,4.32339,gainer,5,2026-10-03
+akedo,Akedo,ake,0.03333985,3.92222,gainer,6,2026-10-03
+injective-protocol,Injective,inj,7.71,3.69472,gainer,7,2026-10-03
+filecoin,Filecoin,fil,1.051,3.04595,gainer,8,2026-10-03
+just,JUST,jst,0.134556,3.01644,gainer,9,2026-10-03
+figure-heloc,Figure Heloc,figr_heloc,1.044,2.41272,gainer,10,2026-10-03
+rain,Rain,rain,0.00990518,-17.57121,loser,1,2026-10-03
+lighter,Lighter,lit,3.54,-6.64724,loser,2,2026-10-03
+crypto-com-chain,Cronos,cro,0.06604,-4.96161,loser,3,2026-10-03
+stable-2,​​Stable,stable,0.02725603,-4.74211,loser,4,2026-10-03
+near,NEAR Protocol,near,4.71,-4.33263,loser,5,2026-10-03
+the-open-network,Gram (prev. Toncoin),gram,1.5,-3.93047,loser,6,2026-10-03
+jupiter-exchange-solana,Jupiter,jup,0.318657,-3.51476,loser,7,2026-10-03
+pepe,Pepe,pepe,4.27e-06,-3.50197,loser,8,2026-10-03
+mantle,Mantle,mnt,0.652724,-3.39396,loser,9,2026-10-03
+pancakeswap-token,PancakeSwap,cake,2.49,-3.33921,loser,10,2026-10-03
