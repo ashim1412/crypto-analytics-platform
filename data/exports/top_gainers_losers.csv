@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.051105,15.01243,gainer,1,2026-10-03
-worldcoin-wld,Worldcoin,wld,0.606063,12.30822,gainer,2,2026-10-03
-quant-network,Quant,qnt,257.62,11.21364,gainer,3,2026-10-03
-just,JUST,jst,0.136174,5.92792,gainer,4,2026-10-03
-layerzero,LayerZero,zro,1.93,4.26435,gainer,5,2026-10-03
-filecoin,Filecoin,fil,1.059,2.292,gainer,6,2026-10-03
-figure-heloc,Figure Heloc,figr_heloc,1.045,2.18375,gainer,7,2026-10-03
-uniswap,Uniswap,uni,9.25,2.05592,gainer,8,2026-10-03
-internet-computer,Internet Computer,icp,3.32,1.60787,gainer,9,2026-10-03
-injective-protocol,Injective,inj,7.59,0.65392,gainer,10,2026-10-03
-lighter,Lighter,lit,3.5,-8.79217,loser,1,2026-10-03
-rain,Rain,rain,0.01063579,-8.65261,loser,2,2026-10-03
-venice-token,Venice Token,vvv,27.67,-7.851,loser,3,2026-10-03
-bittensor,Bittensor,tao,291.56,-6.5559,loser,4,2026-10-03
-stable-2,​​Stable,stable,0.02660626,-5.93762,loser,5,2026-10-03
-pepe,Pepe,pepe,4.28e-06,-5.9072,loser,6,2026-10-03
-ethena,Ethena,ena,0.234131,-5.53182,loser,7,2026-10-03
-zcash,Zcash,zec,1315.24,-5.51599,loser,8,2026-10-03
-ether-fi,Ether.fi,ethfi,0.698967,-5.40374,loser,9,2026-10-03
-stellar,Stellar,xlm,0.214025,-5.31262,loser,10,2026-10-03
+just,JUST,jst,0.136761,7.32862,gainer,1,2026-10-03
+worldcoin-wld,Worldcoin,wld,0.602828,5.90034,gainer,2,2026-10-03
+midnight-3,Midnight,night,0.050064,4.83499,gainer,3,2026-10-03
+injective-protocol,Injective,inj,7.67,3.46905,gainer,4,2026-10-03
+figure-heloc,Figure Heloc,figr_heloc,1.048,3.40765,gainer,5,2026-10-03
+filecoin,Filecoin,fil,1.074,3.19799,gainer,6,2026-10-03
+layerzero,LayerZero,zro,2.05,2.9148,gainer,7,2026-10-03
+bitway,Bitway,btw,1.47,2.91064,gainer,8,2026-10-03
+blockstack,Stacks,stx,0.376091,2.70643,gainer,9,2026-10-03
+morpho,Morpho,morpho,2.69,1.92459,gainer,10,2026-10-03
+rain,Rain,rain,0.01033303,-9.8136,loser,1,2026-10-03
+stable-2,​​Stable,stable,0.02648882,-6.95332,loser,2,2026-10-03
+ether-fi,Ether.fi,ethfi,0.698477,-6.32989,loser,3,2026-10-03
+zcash,Zcash,zec,1298.84,-5.75111,loser,4,2026-10-03
+bittensor,Bittensor,tao,291.84,-5.42807,loser,5,2026-10-03
+lighter,Lighter,lit,3.51,-5.13973,loser,6,2026-10-03
+venice-token,Venice Token,vvv,28.04,-5.04381,loser,7,2026-10-03
+mantle,Mantle,mnt,0.643375,-4.89452,loser,8,2026-10-03
+ethena,Ethena,ena,0.233278,-4.61777,loser,9,2026-10-03
+crypto-com-chain,Cronos,cro,0.066041,-4.51591,loser,10,2026-10-03
