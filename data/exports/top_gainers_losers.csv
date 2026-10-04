@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pump-fun,Pump.fun,pump,0.00629805,17.66892,gainer,1,2026-10-03
-layerzero,LayerZero,zro,2.05,15.8937,gainer,2,2026-10-03
-quant-network,Quant,qnt,258.58,12.76357,gainer,3,2026-10-03
-worldcoin-wld,Worldcoin,wld,0.58995,9.64426,gainer,4,2026-10-03
-morpho,Morpho,morpho,2.77,9.10741,gainer,5,2026-10-03
-aerodrome-finance,Aerodrome Finance,aero,0.831922,7.46764,gainer,6,2026-10-03
-blockstack,Stacks,stx,0.382076,6.80356,gainer,7,2026-10-03
-jupiter-exchange-solana,Jupiter,jup,0.329993,6.16579,gainer,8,2026-10-03
-just,JUST,jst,0.138519,5.93913,gainer,9,2026-10-03
-filecoin,Filecoin,fil,1.06,5.76287,gainer,10,2026-10-03
-stable-2,​​Stable,stable,0.02687647,-3.18856,loser,1,2026-10-03
-figure-heloc,Figure Heloc,figr_heloc,1.025,-2.02504,loser,2,2026-10-03
-memecore,MemeCore,m,1.035,-1.94177,loser,3,2026-10-03
-mantle,Mantle,mnt,0.641249,-1.47971,loser,4,2026-10-03
-aave,Aave,aave,179.82,-0.66942,loser,5,2026-10-03
-world-liberty-financial,World Liberty Financial,wlfi,0.054771,-0.46393,loser,6,2026-10-03
-nexo,NEXO,nexo,0.843105,-0.31934,loser,7,2026-10-03
-lighter,Lighter,lit,3.57,-0.19771,loser,8,2026-10-03
-pax-gold,PAX Gold,paxg,4146.29,-0.08126,loser,9,2026-10-03
-tether-gold,Tether Gold,xaut,4140.53,-0.06438,loser,10,2026-10-03
+rain,Rain,rain,0.01335114,34.92367,gainer,1,2026-10-04
+layerzero,LayerZero,zro,2.03,15.87571,gainer,2,2026-10-04
+pump-fun,Pump.fun,pump,0.00631831,13.93992,gainer,3,2026-10-04
+morpho,Morpho,morpho,2.77,8.07209,gainer,4,2026-10-04
+canton-network,Canton,cc,0.126495,5.9908,gainer,5,2026-10-04
+akedo,Akedo,ake,0.03522617,5.86128,gainer,6,2026-10-04
+quant-network,Quant,qnt,269.97,5.62351,gainer,7,2026-10-04
+aerodrome-finance,Aerodrome Finance,aero,0.830256,5.31777,gainer,8,2026-10-04
+ether-fi,Ether.fi,ethfi,0.733143,4.89865,gainer,9,2026-10-04
+sky,Sky,sky,0.09216,4.35555,gainer,10,2026-10-04
+bitway,Bitway,btw,0.961328,-31.01475,loser,1,2026-10-04
+stable-2,​​Stable,stable,0.02668857,-2.52744,loser,2,2026-10-04
+cardano,Cardano,ada,0.242854,-1.54523,loser,3,2026-10-04
+mantle,Mantle,mnt,0.64108,-1.5292,loser,4,2026-10-04
+injective-protocol,Injective,inj,7.57,-1.32215,loser,5,2026-10-04
+zcash,Zcash,zec,1305.93,-1.25762,loser,6,2026-10-04
+internet-computer,Internet Computer,icp,3.31,-1.2064,loser,7,2026-10-04
+pi-network,Pi Network,pi,0.088286,-1.00296,loser,8,2026-10-04
+aster-2,Aster,aster,0.712248,-0.73692,loser,9,2026-10-04
+render-token,Render,render,1.95,-0.69994,loser,10,2026-10-04
