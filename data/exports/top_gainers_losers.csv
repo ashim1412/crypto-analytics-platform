@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.01335114,34.92367,gainer,1,2026-10-04
-layerzero,LayerZero,zro,2.03,15.87571,gainer,2,2026-10-04
-pump-fun,Pump.fun,pump,0.00631831,13.93992,gainer,3,2026-10-04
-morpho,Morpho,morpho,2.77,8.07209,gainer,4,2026-10-04
-canton-network,Canton,cc,0.126495,5.9908,gainer,5,2026-10-04
-akedo,Akedo,ake,0.03522617,5.86128,gainer,6,2026-10-04
-quant-network,Quant,qnt,269.97,5.62351,gainer,7,2026-10-04
-aerodrome-finance,Aerodrome Finance,aero,0.830256,5.31777,gainer,8,2026-10-04
-ether-fi,Ether.fi,ethfi,0.733143,4.89865,gainer,9,2026-10-04
-sky,Sky,sky,0.09216,4.35555,gainer,10,2026-10-04
-bitway,Bitway,btw,0.961328,-31.01475,loser,1,2026-10-04
-stable-2,​​Stable,stable,0.02668857,-2.52744,loser,2,2026-10-04
-cardano,Cardano,ada,0.242854,-1.54523,loser,3,2026-10-04
-mantle,Mantle,mnt,0.64108,-1.5292,loser,4,2026-10-04
-injective-protocol,Injective,inj,7.57,-1.32215,loser,5,2026-10-04
-zcash,Zcash,zec,1305.93,-1.25762,loser,6,2026-10-04
-internet-computer,Internet Computer,icp,3.31,-1.2064,loser,7,2026-10-04
-pi-network,Pi Network,pi,0.088286,-1.00296,loser,8,2026-10-04
-aster-2,Aster,aster,0.712248,-0.73692,loser,9,2026-10-04
-render-token,Render,render,1.95,-0.69994,loser,10,2026-10-04
+pump-fun,Pump.fun,pump,0.0062758,13.59553,gainer,1,2026-10-04
+aerodrome-finance,Aerodrome Finance,aero,0.853721,7.50803,gainer,2,2026-10-04
+akedo,Akedo,ake,0.03484697,6.85669,gainer,3,2026-10-04
+near,NEAR Protocol,near,4.91,4.90018,gainer,4,2026-10-04
+cosmos,Cosmos Hub,atom,1.76,4.6626,gainer,5,2026-10-04
+ether-fi,Ether.fi,ethfi,0.731186,4.59387,gainer,6,2026-10-04
+morpho,Morpho,morpho,2.74,4.47896,gainer,7,2026-10-04
+bittensor,Bittensor,tao,302.73,4.30487,gainer,8,2026-10-04
+crypto-com-chain,Cronos,cro,0.068625,4.16995,gainer,9,2026-10-04
+sky,Sky,sky,0.092088,4.05833,gainer,10,2026-10-04
+bitway,Bitway,btw,1.18,-18.28255,loser,1,2026-10-04
+worldcoin-wld,Worldcoin,wld,0.585006,-1.95996,loser,2,2026-10-04
+uniswap,Uniswap,uni,9.07,-1.13297,loser,3,2026-10-04
+pi-network,Pi Network,pi,0.087665,-1.10924,loser,4,2026-10-04
+aptos,Aptos,apt,0.794018,-1.08126,loser,5,2026-10-04
+midnight-3,Midnight,night,0.04933564,-0.98214,loser,6,2026-10-04
+kaspa,Kaspa,kas,0.04207143,-0.81839,loser,7,2026-10-04
+render-token,Render,render,1.95,-0.56695,loser,8,2026-10-04
+tron,TRON,trx,0.336091,-0.31647,loser,9,2026-10-04
+aave,Aave,aave,180.68,-0.27237,loser,10,2026-10-04
