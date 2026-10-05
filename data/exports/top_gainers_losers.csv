@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.21,25.24359,gainer,1,2026-10-05
-cardano,Cardano,ada,0.269484,10.53287,gainer,2,2026-10-05
-venice-token,Venice Token,vvv,29.92,7.3881,gainer,3,2026-10-05
-blockstack,Stacks,stx,0.400946,6.08765,gainer,4,2026-10-05
-sui,Sui,sui,1.25,5.80668,gainer,5,2026-10-05
-shiba-inu,Shiba Inu,shib,5.96e-06,4.71514,gainer,6,2026-10-05
-stellar,Stellar,xlm,0.224929,4.40259,gainer,7,2026-10-05
-sky,Sky,sky,0.095716,4.06134,gainer,8,2026-10-05
-dogecoin,Dogecoin,doge,0.096474,3.92078,gainer,9,2026-10-05
-crypto-com-chain,Cronos,cro,0.0688,3.84401,gainer,10,2026-10-05
-rain,Rain,rain,0.01144035,-13.40253,loser,1,2026-10-05
-quant-network,Quant,qnt,252.58,-6.57392,loser,2,2026-10-05
-midnight-3,Midnight,night,0.04551018,-6.55806,loser,3,2026-10-05
-layerzero,LayerZero,zro,1.92,-6.28339,loser,4,2026-10-05
-akedo,Akedo,ake,0.03364922,-3.4501,loser,5,2026-10-05
-worldcoin-wld,Worldcoin,wld,0.582939,-1.8402,loser,6,2026-10-05
-morpho,Morpho,morpho,2.73,-1.46249,loser,7,2026-10-05
-bittensor,Bittensor,tao,305.65,-0.81061,loser,8,2026-10-05
-avalanche-2,Avalanche,avax,11.01,-0.5847,loser,9,2026-10-05
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,-0.4159,loser,10,2026-10-05
+cardano,Cardano,ada,0.271181,10.64744,gainer,1,2026-10-05
+lighter,Lighter,lit,3.88,7.37889,gainer,2,2026-10-05
+ethena,Ethena,ena,0.253175,6.73298,gainer,3,2026-10-05
+sky,Sky,sky,0.098502,6.6574,gainer,4,2026-10-05
+okb,OKB,okb,127.42,5.25813,gainer,5,2026-10-05
+venice-token,Venice Token,vvv,29.31,4.89894,gainer,6,2026-10-05
+kaspa,Kaspa,kas,0.04400122,4.89475,gainer,7,2026-10-05
+pepe,Pepe,pepe,4.48e-06,4.81802,gainer,8,2026-10-05
+shiba-inu,Shiba Inu,shib,5.95e-06,4.17148,gainer,9,2026-10-05
+bitway,Bitway,btw,1.22,3.32742,gainer,10,2026-10-05
+akedo,Akedo,ake,0.03125499,-9.69595,loser,1,2026-10-05
+layerzero,LayerZero,zro,1.95,-3.76166,loser,2,2026-10-05
+worldcoin-wld,Worldcoin,wld,0.566137,-3.18262,loser,3,2026-10-05
+midnight-3,Midnight,night,0.04808331,-2.44551,loser,4,2026-10-05
+morpho,Morpho,morpho,2.69,-1.68078,loser,5,2026-10-05
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.106807,-1.61318,loser,6,2026-10-05
+uniswap,Uniswap,uni,8.93,-1.22855,loser,7,2026-10-05
+bitcoin-cash,Bitcoin Cash,bch,314.93,-1.17721,loser,8,2026-10-05
+litecoin,Litecoin,ltc,70.6,-0.9356,loser,9,2026-10-05
+cosmos,Cosmos Hub,atom,1.76,-0.82884,loser,10,2026-10-05
