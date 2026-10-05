@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cardano,Cardano,ada,0.271181,10.64744,gainer,1,2026-10-05
-lighter,Lighter,lit,3.88,7.37889,gainer,2,2026-10-05
-ethena,Ethena,ena,0.253175,6.73298,gainer,3,2026-10-05
-sky,Sky,sky,0.098502,6.6574,gainer,4,2026-10-05
-okb,OKB,okb,127.42,5.25813,gainer,5,2026-10-05
-venice-token,Venice Token,vvv,29.31,4.89894,gainer,6,2026-10-05
-kaspa,Kaspa,kas,0.04400122,4.89475,gainer,7,2026-10-05
-pepe,Pepe,pepe,4.48e-06,4.81802,gainer,8,2026-10-05
-shiba-inu,Shiba Inu,shib,5.95e-06,4.17148,gainer,9,2026-10-05
-bitway,Bitway,btw,1.22,3.32742,gainer,10,2026-10-05
-akedo,Akedo,ake,0.03125499,-9.69595,loser,1,2026-10-05
-layerzero,LayerZero,zro,1.95,-3.76166,loser,2,2026-10-05
-worldcoin-wld,Worldcoin,wld,0.566137,-3.18262,loser,3,2026-10-05
-midnight-3,Midnight,night,0.04808331,-2.44551,loser,4,2026-10-05
-morpho,Morpho,morpho,2.69,-1.68078,loser,5,2026-10-05
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.106807,-1.61318,loser,6,2026-10-05
-uniswap,Uniswap,uni,8.93,-1.22855,loser,7,2026-10-05
-bitcoin-cash,Bitcoin Cash,bch,314.93,-1.17721,loser,8,2026-10-05
-litecoin,Litecoin,ltc,70.6,-0.9356,loser,9,2026-10-05
-cosmos,Cosmos Hub,atom,1.76,-0.82884,loser,10,2026-10-05
+midnight-3,Midnight,night,0.051132,15.21963,gainer,1,2026-10-05
+filecoin,Filecoin,fil,1.18,11.59527,gainer,2,2026-10-05
+lighter,Lighter,lit,4.03,9.74649,gainer,3,2026-10-05
+layerzero,LayerZero,zro,2.11,7.24202,gainer,4,2026-10-05
+internet-computer,Internet Computer,icp,3.58,6.57886,gainer,5,2026-10-05
+okb,OKB,okb,128.54,5.48387,gainer,6,2026-10-05
+near,NEAR Protocol,near,5.18,5.44494,gainer,7,2026-10-05
+aptos,Aptos,apt,0.84264,5.06594,gainer,8,2026-10-05
+hyperliquid,Hyperliquid,hype,94.19,4.16875,gainer,9,2026-10-05
+aster-2,Aster,aster,0.73714,3.84684,gainer,10,2026-10-05
+sky,Sky,sky,0.088264,-8.43305,loser,1,2026-10-05
+akedo,Akedo,ake,0.03102483,-7.39814,loser,2,2026-10-05
+aerodrome-finance,Aerodrome Finance,aero,0.846011,-4.42731,loser,3,2026-10-05
+algorand,Algorand,algo,0.127606,-3.90382,loser,4,2026-10-05
+venice-token,Venice Token,vvv,28.82,-3.86466,loser,5,2026-10-05
+blockstack,Stacks,stx,0.377811,-3.65548,loser,6,2026-10-05
+stellar,Stellar,xlm,0.216148,-3.28509,loser,7,2026-10-05
+just,JUST,jst,0.135447,-3.07797,loser,8,2026-10-05
+memecore,MemeCore,m,1.014,-3.06674,loser,9,2026-10-05
+chainlink,Chainlink,link,13.86,-2.91841,loser,10,2026-10-05
