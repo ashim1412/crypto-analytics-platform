@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-sky,Sky,sky,0.097498,9.8821,gainer,1,2026-10-04
-canton-network,Canton,cc,0.128176,4.52922,gainer,2,2026-10-04
-figure-heloc,Figure Heloc,figr_heloc,1.07,4.33418,gainer,3,2026-10-04
-akedo,Akedo,ake,0.03429373,4.13612,gainer,4,2026-10-04
-near,NEAR Protocol,near,4.96,3.62559,gainer,5,2026-10-04
-venice-token,Venice Token,vvv,29.68,3.44244,gainer,6,2026-10-04
-aerodrome-finance,Aerodrome Finance,aero,0.858961,2.78649,gainer,7,2026-10-04
-ether-fi,Ether.fi,ethfi,0.740725,2.55496,gainer,8,2026-10-04
-cosmos,Cosmos Hub,atom,1.76,2.44467,gainer,9,2026-10-04
-crypto-com-chain,Cronos,cro,0.06784,2.43384,gainer,10,2026-10-04
-bitway,Bitway,btw,1.25,-17.0467,loser,1,2026-10-04
-midnight-3,Midnight,night,0.04562275,-5.27403,loser,2,2026-10-04
-worldcoin-wld,Worldcoin,wld,0.577192,-2.85897,loser,3,2026-10-04
-monero,Monero,xmr,544.85,-2.81531,loser,4,2026-10-04
-morpho,Morpho,morpho,2.71,-2.64236,loser,5,2026-10-04
-injective-protocol,Injective,inj,7.46,-2.32866,loser,6,2026-10-04
-layerzero,LayerZero,zro,1.99,-2.26386,loser,7,2026-10-04
-pi-network,Pi Network,pi,0.086577,-2.24728,loser,8,2026-10-04
-kaspa,Kaspa,kas,0.04230323,-1.44791,loser,9,2026-10-04
-stable-2,​​Stable,stable,0.02653791,-1.31574,loser,10,2026-10-04
+bitway,Bitway,btw,1.21,25.24359,gainer,1,2026-10-05
+cardano,Cardano,ada,0.269484,10.53287,gainer,2,2026-10-05
+venice-token,Venice Token,vvv,29.92,7.3881,gainer,3,2026-10-05
+blockstack,Stacks,stx,0.400946,6.08765,gainer,4,2026-10-05
+sui,Sui,sui,1.25,5.80668,gainer,5,2026-10-05
+shiba-inu,Shiba Inu,shib,5.96e-06,4.71514,gainer,6,2026-10-05
+stellar,Stellar,xlm,0.224929,4.40259,gainer,7,2026-10-05
+sky,Sky,sky,0.095716,4.06134,gainer,8,2026-10-05
+dogecoin,Dogecoin,doge,0.096474,3.92078,gainer,9,2026-10-05
+crypto-com-chain,Cronos,cro,0.0688,3.84401,gainer,10,2026-10-05
+rain,Rain,rain,0.01144035,-13.40253,loser,1,2026-10-05
+quant-network,Quant,qnt,252.58,-6.57392,loser,2,2026-10-05
+midnight-3,Midnight,night,0.04551018,-6.55806,loser,3,2026-10-05
+layerzero,LayerZero,zro,1.92,-6.28339,loser,4,2026-10-05
+akedo,Akedo,ake,0.03364922,-3.4501,loser,5,2026-10-05
+worldcoin-wld,Worldcoin,wld,0.582939,-1.8402,loser,6,2026-10-05
+morpho,Morpho,morpho,2.73,-1.46249,loser,7,2026-10-05
+bittensor,Bittensor,tao,305.65,-0.81061,loser,8,2026-10-05
+avalanche-2,Avalanche,avax,11.01,-0.5847,loser,9,2026-10-05
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,-0.4159,loser,10,2026-10-05
