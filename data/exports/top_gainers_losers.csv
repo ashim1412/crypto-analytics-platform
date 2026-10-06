@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,2.13,11.30637,gainer,1,2026-10-06
-midnight-3,Midnight,night,0.04985465,10.09345,gainer,2,2026-10-06
-filecoin,Filecoin,fil,1.16,9.88879,gainer,3,2026-10-06
-lighter,Lighter,lit,3.99,9.35447,gainer,4,2026-10-06
-near,NEAR Protocol,near,5.25,7.74135,gainer,5,2026-10-06
-okb,OKB,okb,130.82,6.47801,gainer,6,2026-10-06
-quant-network,Quant,qnt,264.88,5.31935,gainer,7,2026-10-06
-stable-2,​​Stable,stable,0.027852,4.82987,gainer,8,2026-10-06
-jupiter-exchange-solana,Jupiter,jup,0.345622,4.67113,gainer,9,2026-10-06
-internet-computer,Internet Computer,icp,3.46,4.17496,gainer,10,2026-10-06
-sky,Sky,sky,0.087312,-9.26638,loser,1,2026-10-06
-akedo,Akedo,ake,0.03030345,-8.70729,loser,2,2026-10-06
-dash,Dash,dash,56.86,-4.88162,loser,3,2026-10-06
-stellar,Stellar,xlm,0.214251,-4.42797,loser,4,2026-10-06
-pepe,Pepe,pepe,4.28e-06,-3.99155,loser,5,2026-10-06
-blockstack,Stacks,stx,0.377593,-3.82305,loser,6,2026-10-06
-sui,Sui,sui,1.19,-3.7994,loser,7,2026-10-06
-memecore,MemeCore,m,1.011,-3.42815,loser,8,2026-10-06
-venice-token,Venice Token,vvv,28.51,-3.34008,loser,9,2026-10-06
-hedera-hashgraph,Hedera,hbar,0.100839,-3.30324,loser,10,2026-10-06
+layerzero,LayerZero,zro,2.2,12.99271,gainer,1,2026-10-06
+render-token,Render,render,2.16,8.38809,gainer,2,2026-10-06
+okb,OKB,okb,136.3,6.90636,gainer,3,2026-10-06
+filecoin,Filecoin,fil,1.16,6.18835,gainer,4,2026-10-06
+midnight-3,Midnight,night,0.050295,6.14071,gainer,5,2026-10-06
+avalanche-2,Avalanche,avax,11.64,5.96986,gainer,6,2026-10-06
+near,NEAR Protocol,near,5.21,4.37949,gainer,7,2026-10-06
+jupiter-exchange-solana,Jupiter,jup,0.346494,3.51493,gainer,8,2026-10-06
+injective-protocol,Injective,inj,7.8,3.32487,gainer,9,2026-10-06
+stable-2,​​Stable,stable,0.02776233,2.97248,gainer,10,2026-10-06
+sky,Sky,sky,0.0901,-8.57923,loser,1,2026-10-06
+ethena,Ethena,ena,0.241088,-6.31224,loser,2,2026-10-06
+venice-token,Venice Token,vvv,27.87,-5.5674,loser,3,2026-10-06
+memecore,MemeCore,m,0.999067,-4.28562,loser,4,2026-10-06
+rain,Rain,rain,0.01141026,-3.85862,loser,5,2026-10-06
+dash,Dash,dash,57.11,-3.7857,loser,6,2026-10-06
+bitway,Bitway,btw,1.18,-3.73569,loser,7,2026-10-06
+algorand,Algorand,algo,0.126094,-3.52352,loser,8,2026-10-06
+akedo,Akedo,ake,0.03000205,-3.485,loser,9,2026-10-06
+pepe,Pepe,pepe,4.37e-06,-2.78866,loser,10,2026-10-06
