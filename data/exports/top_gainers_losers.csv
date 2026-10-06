@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,2.2,12.99271,gainer,1,2026-10-06
-render-token,Render,render,2.16,8.38809,gainer,2,2026-10-06
-okb,OKB,okb,136.3,6.90636,gainer,3,2026-10-06
-filecoin,Filecoin,fil,1.16,6.18835,gainer,4,2026-10-06
-midnight-3,Midnight,night,0.050295,6.14071,gainer,5,2026-10-06
-avalanche-2,Avalanche,avax,11.64,5.96986,gainer,6,2026-10-06
-near,NEAR Protocol,near,5.21,4.37949,gainer,7,2026-10-06
-jupiter-exchange-solana,Jupiter,jup,0.346494,3.51493,gainer,8,2026-10-06
-injective-protocol,Injective,inj,7.8,3.32487,gainer,9,2026-10-06
-stable-2,​​Stable,stable,0.02776233,2.97248,gainer,10,2026-10-06
-sky,Sky,sky,0.0901,-8.57923,loser,1,2026-10-06
-ethena,Ethena,ena,0.241088,-6.31224,loser,2,2026-10-06
-venice-token,Venice Token,vvv,27.87,-5.5674,loser,3,2026-10-06
-memecore,MemeCore,m,0.999067,-4.28562,loser,4,2026-10-06
-rain,Rain,rain,0.01141026,-3.85862,loser,5,2026-10-06
-dash,Dash,dash,57.11,-3.7857,loser,6,2026-10-06
-bitway,Bitway,btw,1.18,-3.73569,loser,7,2026-10-06
-algorand,Algorand,algo,0.126094,-3.52352,loser,8,2026-10-06
-akedo,Akedo,ake,0.03000205,-3.485,loser,9,2026-10-06
-pepe,Pepe,pepe,4.37e-06,-2.78866,loser,10,2026-10-06
+layerzero,LayerZero,zro,2.25,8.16217,gainer,1,2026-10-06
+injective-protocol,Injective,inj,8.14,6.64193,gainer,2,2026-10-06
+okb,OKB,okb,135.92,5.35304,gainer,3,2026-10-06
+avalanche-2,Avalanche,avax,11.53,4.87402,gainer,4,2026-10-06
+xdce-crowd-sale,XDC Network,xdc,0.03405082,3.89501,gainer,5,2026-10-06
+just,JUST,jst,0.140405,2.9838,gainer,6,2026-10-06
+ether-fi,Ether.fi,ethfi,0.773014,2.95293,gainer,7,2026-10-06
+memecore,MemeCore,m,1.052,2.73293,gainer,8,2026-10-06
+stable-2,​​Stable,stable,0.02787864,2.37722,gainer,9,2026-10-06
+world-liberty-financial,World Liberty Financial,wlfi,0.056337,2.19265,gainer,10,2026-10-06
+mantle,Mantle,mnt,0.591033,-9.3731,loser,1,2026-10-06
+lighter,Lighter,lit,3.77,-8.19509,loser,2,2026-10-06
+uniswap,Uniswap,uni,8.52,-6.81728,loser,3,2026-10-06
+internet-computer,Internet Computer,icp,3.38,-5.7526,loser,4,2026-10-06
+dash,Dash,dash,55.77,-5.57864,loser,5,2026-10-06
+worldcoin-wld,Worldcoin,wld,0.547897,-5.29755,loser,6,2026-10-06
+pump-fun,Pump.fun,pump,0.00615434,-5.14321,loser,7,2026-10-06
+ethena,Ethena,ena,0.238703,-4.70588,loser,8,2026-10-06
+arbitrum,Arbitrum,arb,0.200597,-4.49265,loser,9,2026-10-06
+venice-token,Venice Token,vvv,27.19,-4.48967,loser,10,2026-10-06
