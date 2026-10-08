@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.368675,12.07286,gainer,1,2026-10-08
-raydium,Raydium,ray,2.45,11.55037,gainer,2,2026-10-08
-bitway,Bitway,btw,1.35,10.51034,gainer,3,2026-10-08
-near,NEAR Protocol,near,5.3,6.99492,gainer,4,2026-10-08
-cosmos,Cosmos Hub,atom,1.74,2.24951,gainer,5,2026-10-08
-injective-protocol,Injective,inj,7.46,1.15831,gainer,6,2026-10-08
-tron,TRON,trx,0.335714,1.00371,gainer,7,2026-10-08
-aerodrome-finance,Aerodrome Finance,aero,0.795611,0.86478,gainer,8,2026-10-08
-htx-dao,HTX DAO,htx,1.7e-06,0.77885,gainer,9,2026-10-08
-binancecoin,BNB,bnb,771.01,0.72638,gainer,10,2026-10-08
-sky,Sky,sky,0.079333,-8.25603,loser,1,2026-10-08
-midnight-3,Midnight,night,0.04584584,-6.755,loser,2,2026-10-08
-ether-fi,Ether.fi,ethfi,0.717712,-6.38257,loser,3,2026-10-08
-lighter,Lighter,lit,3.54,-5.15207,loser,4,2026-10-08
-venice-token,Venice Token,vvv,25.25,-5.04084,loser,5,2026-10-08
-stable-2,​​Stable,stable,0.02645821,-4.84626,loser,6,2026-10-08
-kaspa,Kaspa,kas,0.03984763,-4.0367,loser,7,2026-10-08
-vechain,VeChain,vet,0.00791874,-3.93869,loser,8,2026-10-08
-uniswap,Uniswap,uni,7.87,-3.47622,loser,9,2026-10-08
-blockstack,Stacks,stx,0.36587,-3.47113,loser,10,2026-10-08
+jupiter-exchange-solana,Jupiter,jup,0.368879,15.18902,gainer,1,2026-10-08
+bitway,Bitway,btw,1.38,15.15516,gainer,2,2026-10-08
+algorand,Algorand,algo,0.131147,12.32332,gainer,3,2026-10-08
+akedo,Akedo,ake,0.03036583,7.93629,gainer,4,2026-10-08
+cosmos,Cosmos Hub,atom,1.79,6.06977,gainer,5,2026-10-08
+ondo-finance,Ondo,ondo,0.480594,3.95269,gainer,6,2026-10-08
+aptos,Aptos,apt,0.781812,3.58251,gainer,7,2026-10-08
+filecoin,Filecoin,fil,1.082,3.00232,gainer,8,2026-10-08
+world-liberty-financial,World Liberty Financial,wlfi,0.05542,2.21585,gainer,9,2026-10-08
+ether-fi,Ether.fi,ethfi,0.719876,2.12804,gainer,10,2026-10-08
+venice-token,Venice Token,vvv,23.31,-11.09036,loser,1,2026-10-08
+pump-fun,Pump.fun,pump,0.00578676,-8.98633,loser,2,2026-10-08
+zcash,Zcash,zec,1208.31,-7.43915,loser,3,2026-10-08
+midnight-3,Midnight,night,0.04463595,-6.65407,loser,4,2026-10-08
+ethena,Ethena,ena,0.216192,-5.89566,loser,5,2026-10-08
+okb,OKB,okb,124.25,-5.80586,loser,6,2026-10-08
+layerzero,LayerZero,zro,2.03,-5.24354,loser,7,2026-10-08
+sky,Sky,sky,0.078773,-5.08973,loser,8,2026-10-08
+blockstack,Stacks,stx,0.377786,-5.07265,loser,9,2026-10-08
+rain,Rain,rain,0.0105662,-5.04739,loser,10,2026-10-08
