@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-raydium,Raydium,ray,2.49,11.48882,gainer,1,2026-10-07
-bitway,Bitway,btw,1.29,6.44771,gainer,2,2026-10-07
-near,NEAR Protocol,near,5.28,3.69024,gainer,3,2026-10-07
-just,JUST,jst,0.141129,0.36486,gainer,4,2026-10-07
-open-usd,Open USD,ousd,1.005,0.33513,gainer,5,2026-10-07
-usdgo,USDGO,usdgo,1.0,0.01293,gainer,6,2026-10-07
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.24,0.00978,gainer,7,2026-10-07
-hashnote-usyc,Circle USYC,usyc,1.14,0.00935,gainer,8,2026-10-07
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,gainer,9,2026-10-07
-blockchain-capital,Blockchain Capital,bcap,108.18,0.0,gainer,10,2026-10-07
-sky,Sky,sky,0.079288,-11.22341,loser,1,2026-10-07
-injective-protocol,Injective,inj,7.37,-10.35316,loser,2,2026-10-07
-filecoin,Filecoin,fil,1.042,-10.25095,loser,3,2026-10-07
-aptos,Aptos,apt,0.749197,-9.90319,loser,4,2026-10-07
-uniswap,Uniswap,uni,7.76,-8.95118,loser,5,2026-10-07
-arbitrum,Arbitrum,arb,0.182878,-8.83527,loser,6,2026-10-07
-ether-fi,Ether.fi,ethfi,0.713336,-8.31072,loser,7,2026-10-07
-venice-token,Venice Token,vvv,25.08,-7.76567,loser,8,2026-10-07
-hedera-hashgraph,Hedera,hbar,0.09247,-7.49833,loser,9,2026-10-07
-polkadot,Polkadot,dot,1.12,-7.48833,loser,10,2026-10-07
+jupiter-exchange-solana,Jupiter,jup,0.368675,12.07286,gainer,1,2026-10-08
+raydium,Raydium,ray,2.45,11.55037,gainer,2,2026-10-08
+bitway,Bitway,btw,1.35,10.51034,gainer,3,2026-10-08
+near,NEAR Protocol,near,5.3,6.99492,gainer,4,2026-10-08
+cosmos,Cosmos Hub,atom,1.74,2.24951,gainer,5,2026-10-08
+injective-protocol,Injective,inj,7.46,1.15831,gainer,6,2026-10-08
+tron,TRON,trx,0.335714,1.00371,gainer,7,2026-10-08
+aerodrome-finance,Aerodrome Finance,aero,0.795611,0.86478,gainer,8,2026-10-08
+htx-dao,HTX DAO,htx,1.7e-06,0.77885,gainer,9,2026-10-08
+binancecoin,BNB,bnb,771.01,0.72638,gainer,10,2026-10-08
+sky,Sky,sky,0.079333,-8.25603,loser,1,2026-10-08
+midnight-3,Midnight,night,0.04584584,-6.755,loser,2,2026-10-08
+ether-fi,Ether.fi,ethfi,0.717712,-6.38257,loser,3,2026-10-08
+lighter,Lighter,lit,3.54,-5.15207,loser,4,2026-10-08
+venice-token,Venice Token,vvv,25.25,-5.04084,loser,5,2026-10-08
+stable-2,​​Stable,stable,0.02645821,-4.84626,loser,6,2026-10-08
+kaspa,Kaspa,kas,0.03984763,-4.0367,loser,7,2026-10-08
+vechain,VeChain,vet,0.00791874,-3.93869,loser,8,2026-10-08
+uniswap,Uniswap,uni,7.87,-3.47622,loser,9,2026-10-08
+blockstack,Stacks,stx,0.36587,-3.47113,loser,10,2026-10-08
