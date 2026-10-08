@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-jupiter-exchange-solana,Jupiter,jup,0.368879,15.18902,gainer,1,2026-10-08
-bitway,Bitway,btw,1.38,15.15516,gainer,2,2026-10-08
-algorand,Algorand,algo,0.131147,12.32332,gainer,3,2026-10-08
-akedo,Akedo,ake,0.03036583,7.93629,gainer,4,2026-10-08
-cosmos,Cosmos Hub,atom,1.79,6.06977,gainer,5,2026-10-08
-ondo-finance,Ondo,ondo,0.480594,3.95269,gainer,6,2026-10-08
-aptos,Aptos,apt,0.781812,3.58251,gainer,7,2026-10-08
-filecoin,Filecoin,fil,1.082,3.00232,gainer,8,2026-10-08
-world-liberty-financial,World Liberty Financial,wlfi,0.05542,2.21585,gainer,9,2026-10-08
-ether-fi,Ether.fi,ethfi,0.719876,2.12804,gainer,10,2026-10-08
-venice-token,Venice Token,vvv,23.31,-11.09036,loser,1,2026-10-08
-pump-fun,Pump.fun,pump,0.00578676,-8.98633,loser,2,2026-10-08
-zcash,Zcash,zec,1208.31,-7.43915,loser,3,2026-10-08
-midnight-3,Midnight,night,0.04463595,-6.65407,loser,4,2026-10-08
-ethena,Ethena,ena,0.216192,-5.89566,loser,5,2026-10-08
-okb,OKB,okb,124.25,-5.80586,loser,6,2026-10-08
-layerzero,LayerZero,zro,2.03,-5.24354,loser,7,2026-10-08
-sky,Sky,sky,0.078773,-5.08973,loser,8,2026-10-08
-blockstack,Stacks,stx,0.377786,-5.07265,loser,9,2026-10-08
-rain,Rain,rain,0.0105662,-5.04739,loser,10,2026-10-08
+pyth-network,Pyth Network,pyth,0.083529,14.85026,gainer,1,2026-10-08
+bitway,Bitway,btw,1.4,7.67921,gainer,2,2026-10-08
+aerodrome-finance,Aerodrome Finance,aero,0.820123,3.31709,gainer,3,2026-10-08
+cosmos,Cosmos Hub,atom,1.76,3.11302,gainer,4,2026-10-08
+memecore,MemeCore,m,1.061,2.83353,gainer,5,2026-10-08
+ondo-finance,Ondo,ondo,0.481192,2.54847,gainer,6,2026-10-08
+filecoin,Filecoin,fil,1.07,2.3452,gainer,7,2026-10-08
+blockstack,Stacks,stx,0.378379,2.2707,gainer,8,2026-10-08
+lighter,Lighter,lit,3.62,1.52503,gainer,9,2026-10-08
+figure-heloc,Figure Heloc,figr_heloc,1.027,1.04055,gainer,10,2026-10-08
+near,NEAR Protocol,near,4.53,-15.23966,loser,1,2026-10-08
+zcash,Zcash,zec,1183.48,-10.75995,loser,2,2026-10-08
+layerzero,LayerZero,zro,2.0,-10.28218,loser,3,2026-10-08
+venice-token,Venice Token,vvv,22.83,-9.59764,loser,4,2026-10-08
+render-token,Render,render,1.84,-8.63742,loser,5,2026-10-08
+avalanche-2,Avalanche,avax,10.1,-8.5901,loser,6,2026-10-08
+injective-protocol,Injective,inj,6.81,-8.51045,loser,7,2026-10-08
+internet-computer,Internet Computer,icp,2.94,-8.41026,loser,8,2026-10-08
+pump-fun,Pump.fun,pump,0.00564156,-8.36971,loser,9,2026-10-08
+cardano,Cardano,ada,0.234602,-7.80695,loser,10,2026-10-08
