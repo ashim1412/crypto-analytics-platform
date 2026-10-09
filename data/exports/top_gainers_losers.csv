@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.51,10.25643,gainer,1,2026-10-09
-xdce-crowd-sale,XDC Network,xdc,0.03524608,9.02624,gainer,2,2026-10-09
-cosmos,Cosmos Hub,atom,1.94,8.24087,gainer,3,2026-10-09
-polkadot,Polkadot,dot,1.17,6.62283,gainer,4,2026-10-09
-layerzero,LayerZero,zro,2.14,6.51236,gainer,5,2026-10-09
-kaspa,Kaspa,kas,0.04167374,5.817,gainer,6,2026-10-09
-canton-network,Canton,cc,0.12614,5.15055,gainer,7,2026-10-09
-aerodrome-finance,Aerodrome Finance,aero,0.813985,5.14116,gainer,8,2026-10-09
-blockstack,Stacks,stx,0.397109,5.11067,gainer,9,2026-10-09
-quant-network,Quant,qnt,248.43,5.04538,gainer,10,2026-10-09
-algorand,Algorand,algo,0.118607,-9.93843,loser,1,2026-10-09
-bitcoin-cash,Bitcoin Cash,bch,277.4,-5.45418,loser,2,2026-10-09
-memecore,MemeCore,m,1.001,-4.63446,loser,3,2026-10-09
-stable-2,​​Stable,stable,0.02495338,-4.4976,loser,4,2026-10-09
-near,NEAR Protocol,near,4.86,-4.22884,loser,5,2026-10-09
-uniswap,Uniswap,uni,7.39,-4.12589,loser,6,2026-10-09
-venice-token,Venice Token,vvv,22.56,-3.98157,loser,7,2026-10-09
-render-token,Render,render,1.9,-3.87734,loser,8,2026-10-09
-worldcoin-wld,Worldcoin,wld,0.497138,-3.7018,loser,9,2026-10-09
-injective-protocol,Injective,inj,7.06,-3.645,loser,10,2026-10-09
+cosmos,Cosmos Hub,atom,2.06,16.99338,gainer,1,2026-10-09
+bitway,Bitway,btw,1.57,12.45208,gainer,2,2026-10-09
+polkadot,Polkadot,dot,1.22,11.63153,gainer,3,2026-10-09
+xdce-crowd-sale,XDC Network,xdc,0.03527378,10.6161,gainer,4,2026-10-09
+aptos,Aptos,apt,0.807841,9.26466,gainer,5,2026-10-09
+jupiter-exchange-solana,Jupiter,jup,0.370021,8.71062,gainer,6,2026-10-09
+near,NEAR Protocol,near,4.83,6.42882,gainer,7,2026-10-09
+worldcoin-wld,Worldcoin,wld,0.505286,4.99747,gainer,8,2026-10-09
+kaspa,Kaspa,kas,0.04134612,4.91644,gainer,9,2026-10-09
+world-liberty-financial,World Liberty Financial,wlfi,0.057089,4.42039,gainer,10,2026-10-09
+pump-fun,Pump.fun,pump,0.00539874,-4.95585,loser,1,2026-10-09
+venice-token,Venice Token,vvv,21.75,-4.65474,loser,2,2026-10-09
+algorand,Algorand,algo,0.11357,-4.47803,loser,3,2026-10-09
+memecore,MemeCore,m,1.025,-2.96736,loser,4,2026-10-09
+ether-fi,Ether.fi,ethfi,0.666029,-2.76456,loser,5,2026-10-09
+bitcoin-cash,Bitcoin Cash,bch,275.44,-2.57983,loser,6,2026-10-09
+layerzero,LayerZero,zro,1.94,-2.47276,loser,7,2026-10-09
+aerodrome-finance,Aerodrome Finance,aero,0.800512,-2.20671,loser,8,2026-10-09
+figure-heloc,Figure Heloc,figr_heloc,1.003,-2.10705,loser,9,2026-10-09
+stable-2,​​Stable,stable,0.02559913,-1.57933,loser,10,2026-10-09
