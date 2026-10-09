@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-blockstack,Stacks,stx,0.39995,9.65235,gainer,1,2026-10-09
-bitway,Bitway,btw,1.44,6.94498,gainer,2,2026-10-09
-aerodrome-finance,Aerodrome Finance,aero,0.845946,6.16179,gainer,3,2026-10-09
-lighter,Lighter,lit,3.71,5.19336,gainer,4,2026-10-09
-cosmos,Cosmos Hub,atom,1.83,5.04826,gainer,5,2026-10-09
-polkadot,Polkadot,dot,1.15,4.43314,gainer,6,2026-10-09
-raydium,Raydium,ray,2.51,2.71308,gainer,7,2026-10-09
-filecoin,Filecoin,fil,1.087,2.57689,gainer,8,2026-10-09
-memecore,MemeCore,m,1.062,2.31841,gainer,9,2026-10-09
-just,JUST,jst,0.141512,2.14787,gainer,10,2026-10-09
-near,NEAR Protocol,near,4.71,-10.89322,loser,1,2026-10-09
-pump-fun,Pump.fun,pump,0.0056145,-9.56498,loser,2,2026-10-09
-venice-token,Venice Token,vvv,23.01,-8.65573,loser,3,2026-10-09
-cardano,Cardano,ada,0.234931,-7.39656,loser,4,2026-10-09
-sui,Sui,sui,1.055,-7.02427,loser,5,2026-10-09
-uniswap,Uniswap,uni,7.32,-6.94068,loser,6,2026-10-09
-bitcoin-cash,Bitcoin Cash,bch,278.2,-6.8231,loser,7,2026-10-09
-zcash,Zcash,zec,1218.42,-6.36148,loser,8,2026-10-09
-injective-protocol,Injective,inj,6.96,-6.35424,loser,9,2026-10-09
-avalanche-2,Avalanche,avax,10.3,-6.26307,loser,10,2026-10-09
+bitway,Bitway,btw,1.51,10.25643,gainer,1,2026-10-09
+xdce-crowd-sale,XDC Network,xdc,0.03524608,9.02624,gainer,2,2026-10-09
+cosmos,Cosmos Hub,atom,1.94,8.24087,gainer,3,2026-10-09
+polkadot,Polkadot,dot,1.17,6.62283,gainer,4,2026-10-09
+layerzero,LayerZero,zro,2.14,6.51236,gainer,5,2026-10-09
+kaspa,Kaspa,kas,0.04167374,5.817,gainer,6,2026-10-09
+canton-network,Canton,cc,0.12614,5.15055,gainer,7,2026-10-09
+aerodrome-finance,Aerodrome Finance,aero,0.813985,5.14116,gainer,8,2026-10-09
+blockstack,Stacks,stx,0.397109,5.11067,gainer,9,2026-10-09
+quant-network,Quant,qnt,248.43,5.04538,gainer,10,2026-10-09
+algorand,Algorand,algo,0.118607,-9.93843,loser,1,2026-10-09
+bitcoin-cash,Bitcoin Cash,bch,277.4,-5.45418,loser,2,2026-10-09
+memecore,MemeCore,m,1.001,-4.63446,loser,3,2026-10-09
+stable-2,​​Stable,stable,0.02495338,-4.4976,loser,4,2026-10-09
+near,NEAR Protocol,near,4.86,-4.22884,loser,5,2026-10-09
+uniswap,Uniswap,uni,7.39,-4.12589,loser,6,2026-10-09
+venice-token,Venice Token,vvv,22.56,-3.98157,loser,7,2026-10-09
+render-token,Render,render,1.9,-3.87734,loser,8,2026-10-09
+worldcoin-wld,Worldcoin,wld,0.497138,-3.7018,loser,9,2026-10-09
+injective-protocol,Injective,inj,7.06,-3.645,loser,10,2026-10-09
