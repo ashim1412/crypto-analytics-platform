@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pyth-network,Pyth Network,pyth,0.083529,14.85026,gainer,1,2026-10-08
-bitway,Bitway,btw,1.4,7.67921,gainer,2,2026-10-08
-aerodrome-finance,Aerodrome Finance,aero,0.820123,3.31709,gainer,3,2026-10-08
-cosmos,Cosmos Hub,atom,1.76,3.11302,gainer,4,2026-10-08
-memecore,MemeCore,m,1.061,2.83353,gainer,5,2026-10-08
-ondo-finance,Ondo,ondo,0.481192,2.54847,gainer,6,2026-10-08
-filecoin,Filecoin,fil,1.07,2.3452,gainer,7,2026-10-08
-blockstack,Stacks,stx,0.378379,2.2707,gainer,8,2026-10-08
-lighter,Lighter,lit,3.62,1.52503,gainer,9,2026-10-08
-figure-heloc,Figure Heloc,figr_heloc,1.027,1.04055,gainer,10,2026-10-08
-near,NEAR Protocol,near,4.53,-15.23966,loser,1,2026-10-08
-zcash,Zcash,zec,1183.48,-10.75995,loser,2,2026-10-08
-layerzero,LayerZero,zro,2.0,-10.28218,loser,3,2026-10-08
-venice-token,Venice Token,vvv,22.83,-9.59764,loser,4,2026-10-08
-render-token,Render,render,1.84,-8.63742,loser,5,2026-10-08
-avalanche-2,Avalanche,avax,10.1,-8.5901,loser,6,2026-10-08
-injective-protocol,Injective,inj,6.81,-8.51045,loser,7,2026-10-08
-internet-computer,Internet Computer,icp,2.94,-8.41026,loser,8,2026-10-08
-pump-fun,Pump.fun,pump,0.00564156,-8.36971,loser,9,2026-10-08
-cardano,Cardano,ada,0.234602,-7.80695,loser,10,2026-10-08
+blockstack,Stacks,stx,0.39995,9.65235,gainer,1,2026-10-09
+bitway,Bitway,btw,1.44,6.94498,gainer,2,2026-10-09
+aerodrome-finance,Aerodrome Finance,aero,0.845946,6.16179,gainer,3,2026-10-09
+lighter,Lighter,lit,3.71,5.19336,gainer,4,2026-10-09
+cosmos,Cosmos Hub,atom,1.83,5.04826,gainer,5,2026-10-09
+polkadot,Polkadot,dot,1.15,4.43314,gainer,6,2026-10-09
+raydium,Raydium,ray,2.51,2.71308,gainer,7,2026-10-09
+filecoin,Filecoin,fil,1.087,2.57689,gainer,8,2026-10-09
+memecore,MemeCore,m,1.062,2.31841,gainer,9,2026-10-09
+just,JUST,jst,0.141512,2.14787,gainer,10,2026-10-09
+near,NEAR Protocol,near,4.71,-10.89322,loser,1,2026-10-09
+pump-fun,Pump.fun,pump,0.0056145,-9.56498,loser,2,2026-10-09
+venice-token,Venice Token,vvv,23.01,-8.65573,loser,3,2026-10-09
+cardano,Cardano,ada,0.234931,-7.39656,loser,4,2026-10-09
+sui,Sui,sui,1.055,-7.02427,loser,5,2026-10-09
+uniswap,Uniswap,uni,7.32,-6.94068,loser,6,2026-10-09
+bitcoin-cash,Bitcoin Cash,bch,278.2,-6.8231,loser,7,2026-10-09
+zcash,Zcash,zec,1218.42,-6.36148,loser,8,2026-10-09
+injective-protocol,Injective,inj,6.96,-6.35424,loser,9,2026-10-09
+avalanche-2,Avalanche,avax,10.3,-6.26307,loser,10,2026-10-09
