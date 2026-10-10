@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-cosmos,Cosmos Hub,atom,2.06,16.99338,gainer,1,2026-10-09
-bitway,Bitway,btw,1.57,12.45208,gainer,2,2026-10-09
-polkadot,Polkadot,dot,1.22,11.63153,gainer,3,2026-10-09
-xdce-crowd-sale,XDC Network,xdc,0.03527378,10.6161,gainer,4,2026-10-09
-aptos,Aptos,apt,0.807841,9.26466,gainer,5,2026-10-09
-jupiter-exchange-solana,Jupiter,jup,0.370021,8.71062,gainer,6,2026-10-09
-near,NEAR Protocol,near,4.83,6.42882,gainer,7,2026-10-09
-worldcoin-wld,Worldcoin,wld,0.505286,4.99747,gainer,8,2026-10-09
-kaspa,Kaspa,kas,0.04134612,4.91644,gainer,9,2026-10-09
-world-liberty-financial,World Liberty Financial,wlfi,0.057089,4.42039,gainer,10,2026-10-09
-pump-fun,Pump.fun,pump,0.00539874,-4.95585,loser,1,2026-10-09
-venice-token,Venice Token,vvv,21.75,-4.65474,loser,2,2026-10-09
-algorand,Algorand,algo,0.11357,-4.47803,loser,3,2026-10-09
-memecore,MemeCore,m,1.025,-2.96736,loser,4,2026-10-09
-ether-fi,Ether.fi,ethfi,0.666029,-2.76456,loser,5,2026-10-09
-bitcoin-cash,Bitcoin Cash,bch,275.44,-2.57983,loser,6,2026-10-09
-layerzero,LayerZero,zro,1.94,-2.47276,loser,7,2026-10-09
-aerodrome-finance,Aerodrome Finance,aero,0.800512,-2.20671,loser,8,2026-10-09
-figure-heloc,Figure Heloc,figr_heloc,1.003,-2.10705,loser,9,2026-10-09
-stable-2,​​Stable,stable,0.02559913,-1.57933,loser,10,2026-10-09
+polkadot,Polkadot,dot,1.28,11.81238,gainer,1,2026-10-10
+bitway,Bitway,btw,1.59,10.37593,gainer,2,2026-10-10
+aptos,Aptos,apt,0.836801,10.32591,gainer,3,2026-10-10
+cosmos,Cosmos Hub,atom,2.0,9.04997,gainer,4,2026-10-10
+cardano,Cardano,ada,0.252664,7.93193,gainer,5,2026-10-10
+xdce-crowd-sale,XDC Network,xdc,0.0354541,7.7989,gainer,6,2026-10-10
+filecoin,Filecoin,fil,1.17,7.4841,gainer,7,2026-10-10
+jupiter-exchange-solana,Jupiter,jup,0.375107,7.25141,gainer,8,2026-10-10
+worldcoin-wld,Worldcoin,wld,0.523285,7.16947,gainer,9,2026-10-10
+near,NEAR Protocol,near,4.99,6.42285,gainer,10,2026-10-10
+aerodrome-finance,Aerodrome Finance,aero,0.802552,-5.59078,loser,1,2026-10-10
+layerzero,LayerZero,zro,1.95,-5.26787,loser,2,2026-10-10
+monero,Monero,xmr,519.21,-4.3417,loser,3,2026-10-10
+lighter,Lighter,lit,3.57,-3.08795,loser,4,2026-10-10
+memecore,MemeCore,m,1.025,-3.05716,loser,5,2026-10-10
+figure-heloc,Figure Heloc,figr_heloc,1.001,-2.80111,loser,6,2026-10-10
+algorand,Algorand,algo,0.115082,-2.70322,loser,7,2026-10-10
+ether-fi,Ether.fi,ethfi,0.67891,-2.41738,loser,8,2026-10-10
+pump-fun,Pump.fun,pump,0.00548637,-1.97112,loser,9,2026-10-10
+kucoin-shares,KuCoin,kcs,7.58,-1.32781,loser,10,2026-10-10
