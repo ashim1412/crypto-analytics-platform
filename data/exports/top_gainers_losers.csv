@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-starknet,Starknet,strk,0.111512,57.73785,gainer,1,2026-10-11
-aerodrome-finance,Aerodrome Finance,aero,0.973447,14.14872,gainer,2,2026-10-11
-arbitrum,Arbitrum,arb,0.201087,8.95541,gainer,3,2026-10-11
-bitway,Bitway,btw,1.68,7.53449,gainer,4,2026-10-11
-injective-protocol,Injective,inj,7.67,5.90163,gainer,5,2026-10-11
-layerzero,LayerZero,zro,2.06,5.16716,gainer,6,2026-10-11
-aptos,Aptos,apt,0.849903,4.38541,gainer,7,2026-10-11
-ether-fi,Ether.fi,ethfi,0.703504,3.86777,gainer,8,2026-10-11
-algorand,Algorand,algo,0.118213,2.73915,gainer,9,2026-10-11
-gatechain-token,Gate,gt,10.95,2.42151,gainer,10,2026-10-11
-memecore,MemeCore,m,0.950632,-5.12905,loser,1,2026-10-11
-filecoin,Filecoin,fil,1.096,-3.4975,loser,2,2026-10-11
-aave,Aave,aave,166.73,-3.49664,loser,3,2026-10-11
-cardano,Cardano,ada,0.246494,-3.42402,loser,4,2026-10-11
-ondo-finance,Ondo,ondo,0.48418,-2.84411,loser,5,2026-10-11
-lighter,Lighter,lit,3.57,-2.76648,loser,6,2026-10-11
-jupiter-exchange-solana,Jupiter,jup,0.360195,-2.67909,loser,7,2026-10-11
-crypto-com-chain,Cronos,cro,0.059329,-2.63821,loser,8,2026-10-11
-sui,Sui,sui,1.093,-2.43551,loser,9,2026-10-11
-blockstack,Stacks,stx,0.389312,-2.38173,loser,10,2026-10-11
+starknet,Starknet,strk,0.119776,24.80249,gainer,1,2026-10-11
+aptos,Aptos,apt,0.927054,9.1033,gainer,2,2026-10-11
+algorand,Algorand,algo,0.12944,8.96897,gainer,3,2026-10-11
+ethena,Ethena,ena,0.240286,8.31843,gainer,4,2026-10-11
+ether-fi,Ether.fi,ethfi,0.735053,7.87708,gainer,5,2026-10-11
+venice-token,Venice Token,vvv,24.19,7.8573,gainer,6,2026-10-11
+arbitrum,Arbitrum,arb,0.199217,7.02003,gainer,7,2026-10-11
+near,NEAR Protocol,near,5.76,6.57757,gainer,8,2026-10-11
+aerodrome-finance,Aerodrome Finance,aero,0.963685,6.54733,gainer,9,2026-10-11
+figure-heloc,Figure Heloc,figr_heloc,1.056,5.48645,gainer,10,2026-10-11
+memecore,MemeCore,m,0.947916,-4.40233,loser,1,2026-10-11
+blockstack,Stacks,stx,0.392618,-4.24959,loser,2,2026-10-11
+just,JUST,jst,0.135506,-2.53048,loser,3,2026-10-11
+stable-2,​​Stable,stable,0.02722073,-1.303,loser,4,2026-10-11
+crypto-com-chain,Cronos,cro,0.061054,-0.54699,loser,5,2026-10-11
+polkadot,Polkadot,dot,1.25,-0.5175,loser,6,2026-10-11
+aave,Aave,aave,170.05,-0.47108,loser,7,2026-10-11
+okb,OKB,okb,125.48,-0.11204,loser,8,2026-10-11
+open-usd,Open USD,ousd,0.997168,-0.11122,loser,9,2026-10-11
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,-0.07582,loser,10,2026-10-11
