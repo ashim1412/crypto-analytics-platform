@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-starknet,Starknet,strk,0.116624,57.17109,gainer,1,2026-10-11
-aerodrome-finance,Aerodrome Finance,aero,0.939324,16.91957,gainer,2,2026-10-11
-injective-protocol,Injective,inj,7.66,9.74668,gainer,3,2026-10-11
-worldcoin-wld,Worldcoin,wld,0.564212,8.39558,gainer,4,2026-10-11
-figure-heloc,Figure Heloc,figr_heloc,1.065,6.3862,gainer,5,2026-10-11
-near,NEAR Protocol,near,5.29,6.23673,gainer,6,2026-10-11
-rain,Rain,rain,0.01091926,6.02868,gainer,7,2026-10-11
-arbitrum,Arbitrum,arb,0.193282,4.76378,gainer,8,2026-10-11
-midnight-3,Midnight,night,0.04939321,4.68355,gainer,9,2026-10-11
-ether-fi,Ether.fi,ethfi,0.711947,4.54184,gainer,10,2026-10-11
-jupiter-exchange-solana,Jupiter,jup,0.357317,-5.30113,loser,1,2026-10-11
-memecore,MemeCore,m,0.980564,-4.31008,loser,2,2026-10-11
-quant-network,Quant,qnt,237.37,-3.91496,loser,3,2026-10-11
-kaspa,Kaspa,kas,0.04019944,-3.02824,loser,4,2026-10-11
-just,JUST,jst,0.138223,-2.89783,loser,5,2026-10-11
-cosmos,Cosmos Hub,atom,1.98,-2.48476,loser,6,2026-10-11
-cardano,Cardano,ada,0.249045,-2.44058,loser,7,2026-10-11
-polkadot,Polkadot,dot,1.25,-2.39724,loser,8,2026-10-11
-canton-network,Canton,cc,0.119441,-2.28294,loser,9,2026-10-11
-crypto-com-chain,Cronos,cro,0.060152,-2.05577,loser,10,2026-10-11
+starknet,Starknet,strk,0.111512,57.73785,gainer,1,2026-10-11
+aerodrome-finance,Aerodrome Finance,aero,0.973447,14.14872,gainer,2,2026-10-11
+arbitrum,Arbitrum,arb,0.201087,8.95541,gainer,3,2026-10-11
+bitway,Bitway,btw,1.68,7.53449,gainer,4,2026-10-11
+injective-protocol,Injective,inj,7.67,5.90163,gainer,5,2026-10-11
+layerzero,LayerZero,zro,2.06,5.16716,gainer,6,2026-10-11
+aptos,Aptos,apt,0.849903,4.38541,gainer,7,2026-10-11
+ether-fi,Ether.fi,ethfi,0.703504,3.86777,gainer,8,2026-10-11
+algorand,Algorand,algo,0.118213,2.73915,gainer,9,2026-10-11
+gatechain-token,Gate,gt,10.95,2.42151,gainer,10,2026-10-11
+memecore,MemeCore,m,0.950632,-5.12905,loser,1,2026-10-11
+filecoin,Filecoin,fil,1.096,-3.4975,loser,2,2026-10-11
+aave,Aave,aave,166.73,-3.49664,loser,3,2026-10-11
+cardano,Cardano,ada,0.246494,-3.42402,loser,4,2026-10-11
+ondo-finance,Ondo,ondo,0.48418,-2.84411,loser,5,2026-10-11
+lighter,Lighter,lit,3.57,-2.76648,loser,6,2026-10-11
+jupiter-exchange-solana,Jupiter,jup,0.360195,-2.67909,loser,7,2026-10-11
+crypto-com-chain,Cronos,cro,0.059329,-2.63821,loser,8,2026-10-11
+sui,Sui,sui,1.093,-2.43551,loser,9,2026-10-11
+blockstack,Stacks,stx,0.389312,-2.38173,loser,10,2026-10-11
