@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-starknet,Starknet,strk,0.116304,13.33425,gainer,1,2026-10-11
-filecoin,Filecoin,fil,1.24,10.35153,gainer,2,2026-10-11
-internet-computer,Internet Computer,icp,3.39,7.66267,gainer,3,2026-10-11
-ether-fi,Ether.fi,ethfi,0.737783,7.31571,gainer,4,2026-10-11
-ethena,Ethena,ena,0.236184,5.95956,gainer,5,2026-10-11
-algorand,Algorand,algo,0.125265,5.77217,gainer,6,2026-10-11
-figure-heloc,Figure Heloc,figr_heloc,1.056,5.48321,gainer,7,2026-10-11
-venice-token,Venice Token,vvv,24.3,5.37533,gainer,8,2026-10-11
-arbitrum,Arbitrum,arb,0.198084,5.27661,gainer,9,2026-10-11
-near,NEAR Protocol,near,5.65,5.18174,gainer,10,2026-10-11
-rain,Rain,rain,0.01036519,-8.08166,loser,1,2026-10-11
-memecore,MemeCore,m,0.93186,-6.25182,loser,2,2026-10-11
-midnight-3,Midnight,night,0.04892031,-3.914,loser,3,2026-10-11
-cosmos,Cosmos Hub,atom,1.92,-3.12976,loser,4,2026-10-11
-blockstack,Stacks,stx,0.395551,-2.5984,loser,5,2026-10-11
-worldcoin-wld,Worldcoin,wld,0.550508,-2.11213,loser,6,2026-10-11
-mantle,Mantle,mnt,0.562842,-1.28284,loser,7,2026-10-11
-stable-2,​​Stable,stable,0.02699292,-0.65008,loser,8,2026-10-11
-open-usd,Open USD,ousd,0.993984,-0.46261,loser,9,2026-10-11
-crypto-com-chain,Cronos,cro,0.060545,-0.44247,loser,10,2026-10-11
+internet-computer,Internet Computer,icp,3.47,12.5199,gainer,1,2026-10-12
+near,NEAR Protocol,near,5.84,10.08093,gainer,2,2026-10-12
+filecoin,Filecoin,fil,1.23,9.99566,gainer,3,2026-10-12
+ethena,Ethena,ena,0.24077,7.64566,gainer,4,2026-10-12
+venice-token,Venice Token,vvv,24.49,7.53506,gainer,5,2026-10-12
+layerzero,LayerZero,zro,2.13,6.85219,gainer,6,2026-10-12
+algorand,Algorand,algo,0.127395,6.67967,gainer,7,2026-10-12
+canton-network,Canton,cc,0.12634,5.78015,gainer,8,2026-10-12
+avalanche-2,Avalanche,avax,10.89,5.45391,gainer,9,2026-10-12
+ondo-finance,Ondo,ondo,0.51842,5.2924,gainer,10,2026-10-12
+memecore,MemeCore,m,0.927019,-5.12929,loser,1,2026-10-12
+cosmos,Cosmos Hub,atom,1.91,-3.34615,loser,2,2026-10-12
+starknet,Starknet,strk,0.114349,-3.22402,loser,3,2026-10-12
+blockstack,Stacks,stx,0.391154,-2.81661,loser,4,2026-10-12
+midnight-3,Midnight,night,0.04843442,-1.78065,loser,5,2026-10-12
+nexo,NEXO,nexo,0.833023,-1.6643,loser,6,2026-10-12
+worldcoin-wld,Worldcoin,wld,0.553907,-1.42194,loser,7,2026-10-12
+aerodrome-finance,Aerodrome Finance,aero,0.929687,-1.20301,loser,8,2026-10-12
+the-open-network,Gram (prev. Toncoin),gram,1.44,-1.00323,loser,9,2026-10-12
+just,JUST,jst,0.137453,-0.99922,loser,10,2026-10-12
