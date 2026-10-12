@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-internet-computer,Internet Computer,icp,3.47,12.5199,gainer,1,2026-10-12
-near,NEAR Protocol,near,5.84,10.08093,gainer,2,2026-10-12
-filecoin,Filecoin,fil,1.23,9.99566,gainer,3,2026-10-12
-ethena,Ethena,ena,0.24077,7.64566,gainer,4,2026-10-12
-venice-token,Venice Token,vvv,24.49,7.53506,gainer,5,2026-10-12
-layerzero,LayerZero,zro,2.13,6.85219,gainer,6,2026-10-12
-algorand,Algorand,algo,0.127395,6.67967,gainer,7,2026-10-12
-canton-network,Canton,cc,0.12634,5.78015,gainer,8,2026-10-12
-avalanche-2,Avalanche,avax,10.89,5.45391,gainer,9,2026-10-12
-ondo-finance,Ondo,ondo,0.51842,5.2924,gainer,10,2026-10-12
-memecore,MemeCore,m,0.927019,-5.12929,loser,1,2026-10-12
-cosmos,Cosmos Hub,atom,1.91,-3.34615,loser,2,2026-10-12
-starknet,Starknet,strk,0.114349,-3.22402,loser,3,2026-10-12
-blockstack,Stacks,stx,0.391154,-2.81661,loser,4,2026-10-12
-midnight-3,Midnight,night,0.04843442,-1.78065,loser,5,2026-10-12
-nexo,NEXO,nexo,0.833023,-1.6643,loser,6,2026-10-12
-worldcoin-wld,Worldcoin,wld,0.553907,-1.42194,loser,7,2026-10-12
-aerodrome-finance,Aerodrome Finance,aero,0.929687,-1.20301,loser,8,2026-10-12
-the-open-network,Gram (prev. Toncoin),gram,1.44,-1.00323,loser,9,2026-10-12
-just,JUST,jst,0.137453,-0.99922,loser,10,2026-10-12
+layerzero,LayerZero,zro,2.42,18.0055,gainer,1,2026-10-12
+filecoin,Filecoin,fil,1.22,10.97252,gainer,2,2026-10-12
+render-token,Render,render,2.1,9.86658,gainer,3,2026-10-12
+beldex,Beldex,bdx,0.087493,9.02978,gainer,4,2026-10-12
+internet-computer,Internet Computer,icp,3.39,7.89989,gainer,5,2026-10-12
+algorand,Algorand,algo,0.127246,6.65173,gainer,6,2026-10-12
+bitway,Bitway,btw,1.77,5.77716,gainer,7,2026-10-12
+venice-token,Venice Token,vvv,23.94,5.51695,gainer,8,2026-10-12
+near,NEAR Protocol,near,5.61,4.62327,gainer,9,2026-10-12
+zcash,Zcash,zec,1283.78,4.41151,gainer,10,2026-10-12
+starknet,Starknet,strk,0.096386,-11.24559,loser,1,2026-10-12
+cosmos,Cosmos Hub,atom,1.86,-8.08998,loser,2,2026-10-12
+aerodrome-finance,Aerodrome Finance,aero,0.906585,-7.16541,loser,3,2026-10-12
+quant-network,Quant,qnt,231.28,-5.63054,loser,4,2026-10-12
+figure-heloc,Figure Heloc,figr_heloc,1.001,-5.22667,loser,5,2026-10-12
+midnight-3,Midnight,night,0.04686656,-4.1432,loser,6,2026-10-12
+worldcoin-wld,Worldcoin,wld,0.536812,-4.0539,loser,7,2026-10-12
+jupiter-exchange-solana,Jupiter,jup,0.352603,-3.57391,loser,8,2026-10-12
+the-open-network,Gram (prev. Toncoin),gram,1.39,-3.48489,loser,9,2026-10-12
+arbitrum,Arbitrum,arb,0.191844,-2.5979,loser,10,2026-10-12
