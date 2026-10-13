@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-blockstack,Stacks,stx,0.436377,12.60914,gainer,1,2026-10-13
-beldex,Beldex,bdx,0.089989,10.5882,gainer,2,2026-10-13
-render-token,Render,render,2.15,8.83911,gainer,3,2026-10-13
-bitway,Bitway,btw,1.78,6.57689,gainer,4,2026-10-13
-pyth-network,Pyth Network,pyth,0.085657,5.57227,gainer,5,2026-10-13
-kucoin-shares,KuCoin,kcs,7.82,1.04935,gainer,6,2026-10-13
-nexo,NEXO,nexo,0.837381,0.27208,gainer,7,2026-10-13
-open-usd,Open USD,ousd,0.999393,0.14322,gainer,8,2026-10-13
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.10351,0.12662,gainer,9,2026-10-13
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.0767,gainer,10,2026-10-13
-ethena,Ethena,ena,0.211522,-12.85856,loser,1,2026-10-13
-pump-fun,Pump.fun,pump,0.0050487,-11.71067,loser,2,2026-10-13
-lighter,Lighter,lit,3.45,-11.04161,loser,3,2026-10-13
-internet-computer,Internet Computer,icp,3.16,-9.13315,loser,4,2026-10-13
-near,NEAR Protocol,near,5.31,-8.84656,loser,5,2026-10-13
-aptos,Aptos,apt,0.823602,-8.47002,loser,6,2026-10-13
-venice-token,Venice Token,vvv,22.77,-8.34761,loser,7,2026-10-13
-jupiter-exchange-solana,Jupiter,jup,0.334599,-8.25598,loser,8,2026-10-13
-kaspa,Kaspa,kas,0.03839268,-7.82879,loser,9,2026-10-13
-ondo-finance,Ondo,ondo,0.482137,-7.00193,loser,10,2026-10-13
+bitway,Bitway,btw,1.9,7.07827,gainer,1,2026-10-13
+blockstack,Stacks,stx,0.410339,6.65448,gainer,2,2026-10-13
+figure-heloc,Figure Heloc,figr_heloc,1.065,6.37634,gainer,3,2026-10-13
+beldex,Beldex,bdx,0.0876,0.88774,gainer,4,2026-10-13
+canton-network,Canton,cc,0.125816,0.77874,gainer,5,2026-10-13
+bitcoin,Bitcoin,btc,83261.0,0.62337,gainer,6,2026-10-13
+pax-gold,PAX Gold,paxg,4178.87,0.39589,gainer,7,2026-10-13
+open-usd,Open USD,ousd,0.998916,0.393,gainer,8,2026-10-13
+tether-gold,Tether Gold,xaut,4175.3,0.32919,gainer,9,2026-10-13
+just,JUST,jst,0.138537,0.31709,gainer,10,2026-10-13
+layerzero,LayerZero,zro,2.05,-13.40773,loser,1,2026-10-13
+starknet,Starknet,strk,0.089819,-13.26673,loser,2,2026-10-13
+memecore,MemeCore,m,0.857392,-11.26848,loser,3,2026-10-13
+quant-network,Quant,qnt,205.23,-11.22927,loser,4,2026-10-13
+pump-fun,Pump.fun,pump,0.00497516,-10.89088,loser,5,2026-10-13
+near,NEAR Protocol,near,5.1,-9.65802,loser,6,2026-10-13
+lighter,Lighter,lit,3.32,-9.35385,loser,7,2026-10-13
+venice-token,Venice Token,vvv,22.02,-8.25387,loser,8,2026-10-13
+zcash,Zcash,zec,1188.42,-7.52124,loser,9,2026-10-13
+ethena,Ethena,ena,0.211428,-7.24081,loser,10,2026-10-13
