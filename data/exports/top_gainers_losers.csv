@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.089152,10.97562,gainer,1,2026-10-12
-bitway,Bitway,btw,1.75,7.81028,gainer,2,2026-10-12
-render-token,Render,render,2.08,3.86819,gainer,3,2026-10-12
-pyth-network,Pyth Network,pyth,0.081199,2.97018,gainer,4,2026-10-12
-blockstack,Stacks,stx,0.408543,2.34819,gainer,5,2026-10-12
-open-usd,Open USD,ousd,0.999277,0.2515,gainer,6,2026-10-12
-kucoin-shares,KuCoin,kcs,7.77,0.15301,gainer,7,2026-10-12
-just,JUST,jst,0.13785,0.13853,gainer,8,2026-10-12
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.06484,gainer,9,2026-10-12
-blockchain-capital,Blockchain Capital,bcap,105.74,0.04731,gainer,10,2026-10-12
-near,NEAR Protocol,near,5.04,-14.24151,loser,1,2026-10-12
-ethena,Ethena,ena,0.205305,-13.3591,loser,2,2026-10-12
-pump-fun,Pump.fun,pump,0.0049596,-11.72756,loser,3,2026-10-12
-aptos,Aptos,apt,0.79527,-11.67208,loser,4,2026-10-12
-lighter,Lighter,lit,3.39,-11.64323,loser,5,2026-10-12
-worldcoin-wld,Worldcoin,wld,0.496436,-11.36549,loser,6,2026-10-12
-ondo-finance,Ondo,ondo,0.467324,-10.60373,loser,7,2026-10-12
-filecoin,Filecoin,fil,1.099,-10.28397,loser,8,2026-10-12
-uniswap,Uniswap,uni,6.96,-10.27325,loser,9,2026-10-12
-internet-computer,Internet Computer,icp,3.12,-9.85171,loser,10,2026-10-12
+blockstack,Stacks,stx,0.436377,12.60914,gainer,1,2026-10-13
+beldex,Beldex,bdx,0.089989,10.5882,gainer,2,2026-10-13
+render-token,Render,render,2.15,8.83911,gainer,3,2026-10-13
+bitway,Bitway,btw,1.78,6.57689,gainer,4,2026-10-13
+pyth-network,Pyth Network,pyth,0.085657,5.57227,gainer,5,2026-10-13
+kucoin-shares,KuCoin,kcs,7.82,1.04935,gainer,6,2026-10-13
+nexo,NEXO,nexo,0.837381,0.27208,gainer,7,2026-10-13
+open-usd,Open USD,ousd,0.999393,0.14322,gainer,8,2026-10-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.10351,0.12662,gainer,9,2026-10-13
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.0767,gainer,10,2026-10-13
+ethena,Ethena,ena,0.211522,-12.85856,loser,1,2026-10-13
+pump-fun,Pump.fun,pump,0.0050487,-11.71067,loser,2,2026-10-13
+lighter,Lighter,lit,3.45,-11.04161,loser,3,2026-10-13
+internet-computer,Internet Computer,icp,3.16,-9.13315,loser,4,2026-10-13
+near,NEAR Protocol,near,5.31,-8.84656,loser,5,2026-10-13
+aptos,Aptos,apt,0.823602,-8.47002,loser,6,2026-10-13
+venice-token,Venice Token,vvv,22.77,-8.34761,loser,7,2026-10-13
+jupiter-exchange-solana,Jupiter,jup,0.334599,-8.25598,loser,8,2026-10-13
+kaspa,Kaspa,kas,0.03839268,-7.82879,loser,9,2026-10-13
+ondo-finance,Ondo,ondo,0.482137,-7.00193,loser,10,2026-10-13
