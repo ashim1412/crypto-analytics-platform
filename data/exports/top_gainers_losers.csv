@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.49,33.298,gainer,1,2026-10-14
-pearl-2,Pearl,prl,1.98,19.35801,gainer,2,2026-10-14
-blockstack,Stacks,stx,0.437764,3.93853,gainer,3,2026-10-14
-monero,Monero,xmr,552.28,3.42889,gainer,4,2026-10-14
-zcash,Zcash,zec,1236.53,3.19044,gainer,5,2026-10-14
-bitcoin-cash,Bitcoin Cash,bch,277.41,2.95707,gainer,6,2026-10-14
-xdce-crowd-sale,XDC Network,xdc,0.03518246,2.8601,gainer,7,2026-10-14
-algorand,Algorand,algo,0.12007,2.69211,gainer,8,2026-10-14
-venice-token,Venice Token,vvv,22.95,2.68257,gainer,9,2026-10-14
-pepe,Pepe,pepe,4.15e-06,2.14746,gainer,10,2026-10-14
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.098192,-5.40149,loser,1,2026-10-14
-kucoin-shares,KuCoin,kcs,7.4,-5.0423,loser,2,2026-10-14
-render-token,Render,render,1.98,-4.87059,loser,3,2026-10-14
-quant-network,Quant,qnt,210.24,-4.23412,loser,4,2026-10-14
-layerzero,LayerZero,zro,2.0,-4.03091,loser,5,2026-10-14
-internet-computer,Internet Computer,icp,3.07,-2.64161,loser,6,2026-10-14
-beldex,Beldex,bdx,0.083863,-2.63263,loser,7,2026-10-14
-polkadot,Polkadot,dot,1.13,-2.33165,loser,8,2026-10-14
-rain,Rain,rain,0.00975636,-1.85195,loser,9,2026-10-14
-mantle,Mantle,mnt,0.535064,-1.62278,loser,10,2026-10-14
+bitway,Bitway,btw,2.39,23.26592,gainer,1,2026-10-14
+pearl-2,Pearl,prl,2.0,8.71903,gainer,2,2026-10-14
+venice-token,Venice Token,vvv,22.41,3.49031,gainer,3,2026-10-14
+monero,Monero,xmr,546.95,3.30828,gainer,4,2026-10-14
+just,JUST,jst,0.139901,1.79514,gainer,5,2026-10-14
+tron,TRON,trx,0.333116,1.70554,gainer,6,2026-10-14
+leo-token,LEO Token,leo,9.04,1.58717,gainer,7,2026-10-14
+okb,OKB,okb,122.86,1.26676,gainer,8,2026-10-14
+htx-dao,HTX DAO,htx,1.67e-06,1.14074,gainer,9,2026-10-14
+xdce-crowd-sale,XDC Network,xdc,0.03433867,0.92559,gainer,10,2026-10-14
+kucoin-shares,KuCoin,kcs,7.22,-8.84566,loser,1,2026-10-14
+canton-network,Canton,cc,0.117725,-8.74821,loser,2,2026-10-14
+rain,Rain,rain,0.00921661,-7.94266,loser,3,2026-10-14
+ethena,Ethena,ena,0.195287,-7.10229,loser,4,2026-10-14
+sky,Sky,sky,0.071178,-6.74334,loser,5,2026-10-14
+uniswap,Uniswap,uni,7.17,-5.6833,loser,6,2026-10-14
+beldex,Beldex,bdx,0.082237,-5.64752,loser,7,2026-10-14
+layerzero,LayerZero,zro,1.9,-5.42585,loser,8,2026-10-14
+ondo-finance,Ondo,ondo,0.443131,-5.2457,loser,9,2026-10-14
+filecoin,Filecoin,fil,1.081,-5.19384,loser,10,2026-10-14
