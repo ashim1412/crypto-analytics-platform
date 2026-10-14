@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.97,12.88712,gainer,1,2026-10-13
-injective-protocol,Injective,inj,8.14,9.62574,gainer,2,2026-10-13
-uniswap,Uniswap,uni,7.6,5.54879,gainer,3,2026-10-13
-pepe,Pepe,pepe,4.21e-06,5.30553,gainer,4,2026-10-13
-filecoin,Filecoin,fil,1.16,5.06226,gainer,5,2026-10-13
-canton-network,Canton,cc,0.1274,5.03326,gainer,6,2026-10-13
-arbitrum,Arbitrum,arb,0.191107,4.03549,gainer,7,2026-10-13
-cosmos,Cosmos Hub,atom,1.89,3.25333,gainer,8,2026-10-13
-aptos,Aptos,apt,0.840987,3.21126,gainer,9,2026-10-13
-aster-2,Aster,aster,0.709779,2.50836,gainer,10,2026-10-13
-memecore,MemeCore,m,0.835075,-9.67769,loser,1,2026-10-13
-lighter,Lighter,lit,3.37,-5.39356,loser,2,2026-10-13
-quant-network,Quant,qnt,215.67,-4.92192,loser,3,2026-10-13
-layerzero,LayerZero,zro,2.02,-4.69028,loser,4,2026-10-13
-ether-fi,Ether.fi,ethfi,0.681401,-4.12805,loser,5,2026-10-13
-ondo-finance,Ondo,ondo,0.46636,-3.60859,loser,6,2026-10-13
-rain,Rain,rain,0.01001543,-3.31167,loser,7,2026-10-13
-figure-heloc,Figure Heloc,figr_heloc,1.03,-3.17275,loser,8,2026-10-13
-polkadot,Polkadot,dot,1.17,-2.23601,loser,9,2026-10-13
-midnight-3,Midnight,night,0.04448414,-2.22743,loser,10,2026-10-13
+bitway,Bitway,btw,2.36,32.08889,gainer,1,2026-10-14
+injective-protocol,Injective,inj,8.08,9.87645,gainer,2,2026-10-14
+zcash,Zcash,zec,1272.57,6.42191,gainer,3,2026-10-14
+blockstack,Stacks,stx,0.433754,5.53985,gainer,4,2026-10-14
+pepe,Pepe,pepe,4.19e-06,5.47827,gainer,5,2026-10-14
+uniswap,Uniswap,uni,7.51,5.15607,gainer,6,2026-10-14
+arbitrum,Arbitrum,arb,0.191728,4.37321,gainer,7,2026-10-14
+monero,Monero,xmr,551.25,4.01497,gainer,8,2026-10-14
+filecoin,Filecoin,fil,1.16,3.82702,gainer,9,2026-10-14
+aptos,Aptos,apt,0.835472,3.68366,gainer,10,2026-10-14
+kucoin-shares,KuCoin,kcs,7.32,-6.75694,loser,1,2026-10-14
+quant-network,Quant,qnt,213.7,-5.9875,loser,2,2026-10-14
+memecore,MemeCore,m,0.844121,-5.84156,loser,3,2026-10-14
+figure-heloc,Figure Heloc,figr_heloc,1.026,-3.5805,loser,4,2026-10-14
+render-token,Render,render,2.07,-3.08384,loser,5,2026-10-14
+near,NEAR Protocol,near,5.13,-2.554,loser,6,2026-10-14
+ondo-finance,Ondo,ondo,0.468986,-1.46056,loser,7,2026-10-14
+midnight-3,Midnight,night,0.04499664,-1.2981,loser,8,2026-10-14
+layerzero,LayerZero,zro,2.06,-1.2359,loser,9,2026-10-14
+stellar,Stellar,xlm,0.19006,-0.98268,loser,10,2026-10-14
