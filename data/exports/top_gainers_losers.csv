@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.39,23.26592,gainer,1,2026-10-14
-pearl-2,Pearl,prl,2.0,8.71903,gainer,2,2026-10-14
-venice-token,Venice Token,vvv,22.41,3.49031,gainer,3,2026-10-14
-monero,Monero,xmr,546.95,3.30828,gainer,4,2026-10-14
-just,JUST,jst,0.139901,1.79514,gainer,5,2026-10-14
-tron,TRON,trx,0.333116,1.70554,gainer,6,2026-10-14
-leo-token,LEO Token,leo,9.04,1.58717,gainer,7,2026-10-14
-okb,OKB,okb,122.86,1.26676,gainer,8,2026-10-14
-htx-dao,HTX DAO,htx,1.67e-06,1.14074,gainer,9,2026-10-14
-xdce-crowd-sale,XDC Network,xdc,0.03433867,0.92559,gainer,10,2026-10-14
-kucoin-shares,KuCoin,kcs,7.22,-8.84566,loser,1,2026-10-14
-canton-network,Canton,cc,0.117725,-8.74821,loser,2,2026-10-14
-rain,Rain,rain,0.00921661,-7.94266,loser,3,2026-10-14
-ethena,Ethena,ena,0.195287,-7.10229,loser,4,2026-10-14
-sky,Sky,sky,0.071178,-6.74334,loser,5,2026-10-14
-uniswap,Uniswap,uni,7.17,-5.6833,loser,6,2026-10-14
-beldex,Beldex,bdx,0.082237,-5.64752,loser,7,2026-10-14
-layerzero,LayerZero,zro,1.9,-5.42585,loser,8,2026-10-14
-ondo-finance,Ondo,ondo,0.443131,-5.2457,loser,9,2026-10-14
-filecoin,Filecoin,fil,1.081,-5.19384,loser,10,2026-10-14
+bitway,Bitway,btw,2.26,16.22011,gainer,1,2026-10-14
+pyth-network,Pyth Network,pyth,0.085526,8.91656,gainer,2,2026-10-14
+venice-token,Venice Token,vvv,23.36,6.1815,gainer,3,2026-10-14
+pearl-2,Pearl,prl,1.94,5.47421,gainer,4,2026-10-14
+monero,Monero,xmr,552.56,2.5902,gainer,5,2026-10-14
+just,JUST,jst,0.141258,2.41547,gainer,6,2026-10-14
+tron,TRON,trx,0.332738,1.3073,gainer,7,2026-10-14
+leo-token,LEO Token,leo,9.01,1.20892,gainer,8,2026-10-14
+htx-dao,HTX DAO,htx,1.66e-06,1.01002,gainer,9,2026-10-14
+stable-2,​​Stable,stable,0.02676988,0.88838,gainer,10,2026-10-14
+canton-network,Canton,cc,0.116173,-9.11356,loser,1,2026-10-14
+kucoin-shares,KuCoin,kcs,7.17,-8.97746,loser,2,2026-10-14
+rain,Rain,rain,0.00913863,-8.8066,loser,3,2026-10-14
+render-token,Render,render,1.92,-7.99698,loser,4,2026-10-14
+ethena,Ethena,ena,0.194975,-7.88531,loser,5,2026-10-14
+lighter,Lighter,lit,3.11,-7.442,loser,6,2026-10-14
+injective-protocol,Injective,inj,7.58,-7.18927,loser,7,2026-10-14
+sky,Sky,sky,0.071334,-7.08594,loser,8,2026-10-14
+filecoin,Filecoin,fil,1.086,-7.04852,loser,9,2026-10-14
+zcash,Zcash,zec,1137.67,-6.73129,loser,10,2026-10-14
