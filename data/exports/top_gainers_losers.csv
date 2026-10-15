@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pyth-network,Pyth Network,pyth,0.100084,23.03181,gainer,1,2026-10-15
-akedo,Akedo,ake,0.03146108,22.78461,gainer,2,2026-10-15
-starknet,Starknet,strk,0.091866,18.45808,gainer,3,2026-10-15
-layerzero,LayerZero,zro,2.1,10.55478,gainer,4,2026-10-15
-venice-token,Venice Token,vvv,24.74,9.87262,gainer,5,2026-10-15
-aerodrome-finance,Aerodrome Finance,aero,0.893157,4.54744,gainer,6,2026-10-15
-morpho,Morpho,morpho,2.42,4.16793,gainer,7,2026-10-15
-uniswap,Uniswap,uni,7.48,4.15963,gainer,8,2026-10-15
-aptos,Aptos,apt,0.827127,3.86397,gainer,9,2026-10-15
-near,NEAR Protocol,near,5.06,3.69016,gainer,10,2026-10-15
-bitway,Bitway,btw,1.89,-20.18931,loser,1,2026-10-15
-canton-network,Canton,cc,0.109721,-6.62094,loser,2,2026-10-15
-pump-fun,Pump.fun,pump,0.00450425,-5.24166,loser,3,2026-10-15
-lighter,Lighter,lit,3.06,-4.86037,loser,4,2026-10-15
-okb,OKB,okb,117.82,-4.59983,loser,5,2026-10-15
-just,JUST,jst,0.134599,-3.83211,loser,6,2026-10-15
-rain,Rain,rain,0.008899,-3.6129,loser,7,2026-10-15
-kaspa,Kaspa,kas,0.03592147,-3.51279,loser,8,2026-10-15
-algorand,Algorand,algo,0.113976,-2.06189,loser,9,2026-10-15
-blockstack,Stacks,stx,0.409576,-1.74101,loser,10,2026-10-15
+akedo,Akedo,ake,0.0316667,19.26908,gainer,1,2026-10-15
+starknet,Starknet,strk,0.087759,14.55058,gainer,2,2026-10-15
+near,NEAR Protocol,near,5.35,11.88857,gainer,3,2026-10-15
+injective-protocol,Injective,inj,8.44,11.24485,gainer,4,2026-10-15
+pyth-network,Pyth Network,pyth,0.094402,10.31123,gainer,5,2026-10-15
+layerzero,LayerZero,zro,2.09,9.45226,gainer,6,2026-10-15
+zcash,Zcash,zec,1234.06,8.58514,gainer,7,2026-10-15
+venice-token,Venice Token,vvv,25.02,7.30281,gainer,8,2026-10-15
+filecoin,Filecoin,fil,1.16,7.28201,gainer,9,2026-10-15
+arbitrum,Arbitrum,arb,0.194072,7.11729,gainer,10,2026-10-15
+bitway,Bitway,btw,1.91,-13.77877,loser,1,2026-10-15
+canton-network,Canton,cc,0.106401,-8.46925,loser,2,2026-10-15
+just,JUST,jst,0.133057,-5.74064,loser,3,2026-10-15
+blockstack,Stacks,stx,0.402612,-4.68848,loser,4,2026-10-15
+okb,OKB,okb,118.05,-3.55484,loser,5,2026-10-15
+kaspa,Kaspa,kas,0.03635095,-2.60145,loser,6,2026-10-15
+pump-fun,Pump.fun,pump,0.00460105,-2.57885,loser,7,2026-10-15
+jupiter-exchange-solana,Jupiter,jup,0.31162,-2.37396,loser,8,2026-10-15
+memecore,MemeCore,m,0.817109,-1.77868,loser,9,2026-10-15
+lighter,Lighter,lit,3.08,-1.71318,loser,10,2026-10-15
