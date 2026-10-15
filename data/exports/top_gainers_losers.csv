@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.26,16.22011,gainer,1,2026-10-14
-pyth-network,Pyth Network,pyth,0.085526,8.91656,gainer,2,2026-10-14
-venice-token,Venice Token,vvv,23.36,6.1815,gainer,3,2026-10-14
-pearl-2,Pearl,prl,1.94,5.47421,gainer,4,2026-10-14
-monero,Monero,xmr,552.56,2.5902,gainer,5,2026-10-14
-just,JUST,jst,0.141258,2.41547,gainer,6,2026-10-14
-tron,TRON,trx,0.332738,1.3073,gainer,7,2026-10-14
-leo-token,LEO Token,leo,9.01,1.20892,gainer,8,2026-10-14
-htx-dao,HTX DAO,htx,1.66e-06,1.01002,gainer,9,2026-10-14
-stable-2,​​Stable,stable,0.02676988,0.88838,gainer,10,2026-10-14
-canton-network,Canton,cc,0.116173,-9.11356,loser,1,2026-10-14
-kucoin-shares,KuCoin,kcs,7.17,-8.97746,loser,2,2026-10-14
-rain,Rain,rain,0.00913863,-8.8066,loser,3,2026-10-14
-render-token,Render,render,1.92,-7.99698,loser,4,2026-10-14
-ethena,Ethena,ena,0.194975,-7.88531,loser,5,2026-10-14
-lighter,Lighter,lit,3.11,-7.442,loser,6,2026-10-14
-injective-protocol,Injective,inj,7.58,-7.18927,loser,7,2026-10-14
-sky,Sky,sky,0.071334,-7.08594,loser,8,2026-10-14
-filecoin,Filecoin,fil,1.086,-7.04852,loser,9,2026-10-14
-zcash,Zcash,zec,1137.67,-6.73129,loser,10,2026-10-14
+pyth-network,Pyth Network,pyth,0.086302,8.78906,gainer,1,2026-10-15
+bitway,Bitway,btw,2.38,4.81191,gainer,2,2026-10-15
+figure-heloc,Figure Heloc,figr_heloc,1.039,1.3224,gainer,3,2026-10-15
+htx-dao,HTX DAO,htx,1.66e-06,0.60509,gainer,4,2026-10-15
+tron,TRON,trx,0.331576,0.56811,gainer,5,2026-10-15
+leo-token,LEO Token,leo,9.03,0.07797,gainer,6,2026-10-15
+monero,Monero,xmr,549.61,0.07564,gainer,7,2026-10-15
+open-usd,Open USD,ousd,0.99903,0.03989,gainer,8,2026-10-15
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.24,0.03907,gainer,9,2026-10-15
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.03751,gainer,10,2026-10-15
+zcash,Zcash,zec,1128.86,-11.32844,loser,1,2026-10-15
+ethena,Ethena,ena,0.192071,-9.45096,loser,2,2026-10-15
+rain,Rain,rain,0.0090786,-9.03897,loser,3,2026-10-15
+lighter,Lighter,lit,3.07,-8.92687,loser,4,2026-10-15
+canton-network,Canton,cc,0.113177,-8.88038,loser,5,2026-10-15
+render-token,Render,render,1.89,-8.63754,loser,6,2026-10-15
+sky,Sky,sky,0.070844,-8.49735,loser,7,2026-10-15
+pump-fun,Pump.fun,pump,0.004687,-7.87637,loser,8,2026-10-15
+near,NEAR Protocol,near,4.74,-7.41259,loser,9,2026-10-15
+injective-protocol,Injective,inj,7.56,-7.07568,loser,10,2026-10-15
