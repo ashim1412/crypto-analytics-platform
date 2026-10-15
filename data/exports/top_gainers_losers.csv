@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.02930234,16.74657,gainer,1,2026-10-15
-pyth-network,Pyth Network,pyth,0.085818,4.86754,gainer,2,2026-10-15
-beldex,Beldex,bdx,0.083839,1.19432,gainer,3,2026-10-15
-pax-gold,PAX Gold,paxg,4152.18,0.22231,gainer,4,2026-10-15
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.17587,gainer,5,2026-10-15
-leo-token,LEO Token,leo,9.03,0.13497,gainer,6,2026-10-15
-tether-gold,Tether Gold,xaut,4146.4,0.11436,gainer,7,2026-10-15
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.24,0.03907,gainer,8,2026-10-15
-usdgo,USDGO,usdgo,1.0,0.01353,gainer,9,2026-10-15
-hashnote-usyc,Circle USYC,usyc,1.14,0.0094,gainer,10,2026-10-15
-bitway,Bitway,btw,2.01,-21.10693,loser,1,2026-10-15
-pump-fun,Pump.fun,pump,0.00424033,-15.91764,loser,2,2026-10-15
-canton-network,Canton,cc,0.105926,-12.55627,loser,3,2026-10-15
-zcash,Zcash,zec,1082.55,-12.53031,loser,4,2026-10-15
-ethena,Ethena,ena,0.183945,-12.49349,loser,5,2026-10-15
-rain,Rain,rain,0.00852611,-12.45978,loser,6,2026-10-15
-lighter,Lighter,lit,2.94,-12.04948,loser,7,2026-10-15
-blockstack,Stacks,stx,0.386268,-11.23124,loser,8,2026-10-15
-injective-protocol,Injective,inj,7.13,-10.18222,loser,9,2026-10-15
-algorand,Algorand,algo,0.108256,-10.12463,loser,10,2026-10-15
+pyth-network,Pyth Network,pyth,0.100084,23.03181,gainer,1,2026-10-15
+akedo,Akedo,ake,0.03146108,22.78461,gainer,2,2026-10-15
+starknet,Starknet,strk,0.091866,18.45808,gainer,3,2026-10-15
+layerzero,LayerZero,zro,2.1,10.55478,gainer,4,2026-10-15
+venice-token,Venice Token,vvv,24.74,9.87262,gainer,5,2026-10-15
+aerodrome-finance,Aerodrome Finance,aero,0.893157,4.54744,gainer,6,2026-10-15
+morpho,Morpho,morpho,2.42,4.16793,gainer,7,2026-10-15
+uniswap,Uniswap,uni,7.48,4.15963,gainer,8,2026-10-15
+aptos,Aptos,apt,0.827127,3.86397,gainer,9,2026-10-15
+near,NEAR Protocol,near,5.06,3.69016,gainer,10,2026-10-15
+bitway,Bitway,btw,1.89,-20.18931,loser,1,2026-10-15
+canton-network,Canton,cc,0.109721,-6.62094,loser,2,2026-10-15
+pump-fun,Pump.fun,pump,0.00450425,-5.24166,loser,3,2026-10-15
+lighter,Lighter,lit,3.06,-4.86037,loser,4,2026-10-15
+okb,OKB,okb,117.82,-4.59983,loser,5,2026-10-15
+just,JUST,jst,0.134599,-3.83211,loser,6,2026-10-15
+rain,Rain,rain,0.008899,-3.6129,loser,7,2026-10-15
+kaspa,Kaspa,kas,0.03592147,-3.51279,loser,8,2026-10-15
+algorand,Algorand,algo,0.113976,-2.06189,loser,9,2026-10-15
+blockstack,Stacks,stx,0.409576,-1.74101,loser,10,2026-10-15
