@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-injective-protocol,Injective,inj,9.16,27.78254,gainer,1,2026-10-16
-ether-fi,Ether.fi,ethfi,0.701272,17.07501,gainer,2,2026-10-16
-layerzero,LayerZero,zro,2.21,16.66336,gainer,3,2026-10-16
-near,NEAR Protocol,near,5.24,13.82809,gainer,4,2026-10-16
-arbitrum,Arbitrum,arb,0.198645,13.7671,gainer,5,2026-10-16
-aptos,Aptos,apt,0.866957,12.35362,gainer,6,2026-10-16
-zcash,Zcash,zec,1221.57,11.96651,gainer,7,2026-10-16
-filecoin,Filecoin,fil,1.15,11.73919,gainer,8,2026-10-16
-worldcoin-wld,Worldcoin,wld,0.522616,11.43775,gainer,9,2026-10-16
-bittensor,Bittensor,tao,286.89,10.20367,gainer,10,2026-10-16
-bitway,Bitway,btw,1.89,-5.71233,loser,1,2026-10-16
-canton-network,Canton,cc,0.103576,-2.40801,loser,2,2026-10-16
-xdce-crowd-sale,XDC Network,xdc,0.03394596,-0.43396,loser,3,2026-10-16
-blockchain-capital,Blockchain Capital,bcap,105.74,0.0,loser,4,2026-10-16
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,5,2026-10-16
-usdgo,USDGO,usdgo,1.0,0.00634,loser,6,2026-10-16
-hashnote-usyc,Circle USYC,usyc,1.14,0.00919,loser,7,2026-10-16
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.25,0.00936,loser,8,2026-10-16
-global-dollar,Global Dollar,usdg,1.0,0.01055,loser,9,2026-10-16
-world-liberty-financial,World Liberty Financial,wlfi,0.057,0.01171,loser,10,2026-10-16
+celestia,Celestia,tia,0.694108,17.73117,gainer,1,2026-10-16
+injective-protocol,Injective,inj,9.02,13.16437,gainer,2,2026-10-16
+filecoin,Filecoin,fil,1.18,9.87122,gainer,3,2026-10-16
+polkadot,Polkadot,dot,1.19,6.83409,gainer,4,2026-10-16
+ether-fi,Ether.fi,ethfi,0.690493,5.04888,gainer,5,2026-10-16
+arbitrum,Arbitrum,arb,0.196688,4.28623,gainer,6,2026-10-16
+lighter,Lighter,lit,3.16,3.46492,gainer,7,2026-10-16
+algorand,Algorand,algo,0.11792,3.38047,gainer,8,2026-10-16
+worldcoin-wld,Worldcoin,wld,0.517641,3.16051,gainer,9,2026-10-16
+bittensor,Bittensor,tao,281.84,2.9393,gainer,10,2026-10-16
+pyth-network,Pyth Network,pyth,0.086843,-12.51547,loser,1,2026-10-16
+canton-network,Canton,cc,0.103223,-6.06575,loser,2,2026-10-16
+venice-token,Venice Token,vvv,23.63,-5.20877,loser,3,2026-10-16
+midnight-3,Midnight,night,0.04151994,-4.97979,loser,4,2026-10-16
+pump-fun,Pump.fun,pump,0.00430171,-4.5859,loser,5,2026-10-16
+pepe,Pepe,pepe,4.01e-06,-4.28859,loser,6,2026-10-16
+pancakeswap-token,PancakeSwap,cake,2.16,-4.08653,loser,7,2026-10-16
+uniswap,Uniswap,uni,7.29,-3.50597,loser,8,2026-10-16
+quant-network,Quant,qnt,202.71,-3.27726,loser,9,2026-10-16
+jupiter-exchange-solana,Jupiter,jup,0.304287,-3.12907,loser,10,2026-10-16
