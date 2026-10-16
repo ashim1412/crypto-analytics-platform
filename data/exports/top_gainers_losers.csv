@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.0316667,19.26908,gainer,1,2026-10-15
-starknet,Starknet,strk,0.087759,14.55058,gainer,2,2026-10-15
-near,NEAR Protocol,near,5.35,11.88857,gainer,3,2026-10-15
-injective-protocol,Injective,inj,8.44,11.24485,gainer,4,2026-10-15
-pyth-network,Pyth Network,pyth,0.094402,10.31123,gainer,5,2026-10-15
-layerzero,LayerZero,zro,2.09,9.45226,gainer,6,2026-10-15
-zcash,Zcash,zec,1234.06,8.58514,gainer,7,2026-10-15
-venice-token,Venice Token,vvv,25.02,7.30281,gainer,8,2026-10-15
-filecoin,Filecoin,fil,1.16,7.28201,gainer,9,2026-10-15
-arbitrum,Arbitrum,arb,0.194072,7.11729,gainer,10,2026-10-15
-bitway,Bitway,btw,1.91,-13.77877,loser,1,2026-10-15
-canton-network,Canton,cc,0.106401,-8.46925,loser,2,2026-10-15
-just,JUST,jst,0.133057,-5.74064,loser,3,2026-10-15
-blockstack,Stacks,stx,0.402612,-4.68848,loser,4,2026-10-15
-okb,OKB,okb,118.05,-3.55484,loser,5,2026-10-15
-kaspa,Kaspa,kas,0.03635095,-2.60145,loser,6,2026-10-15
-pump-fun,Pump.fun,pump,0.00460105,-2.57885,loser,7,2026-10-15
-jupiter-exchange-solana,Jupiter,jup,0.31162,-2.37396,loser,8,2026-10-15
-memecore,MemeCore,m,0.817109,-1.77868,loser,9,2026-10-15
-lighter,Lighter,lit,3.08,-1.71318,loser,10,2026-10-15
+akedo,Akedo,ake,0.03155215,16.46502,gainer,1,2026-10-16
+injective-protocol,Injective,inj,8.71,14.68816,gainer,2,2026-10-16
+layerzero,LayerZero,zro,2.18,14.22146,gainer,3,2026-10-16
+near,NEAR Protocol,near,5.32,11.1595,gainer,4,2026-10-16
+venice-token,Venice Token,vvv,24.91,10.13566,gainer,5,2026-10-16
+zcash,Zcash,zec,1223.85,7.80507,gainer,6,2026-10-16
+arbitrum,Arbitrum,arb,0.193611,7.30202,gainer,7,2026-10-16
+pyth-network,Pyth Network,pyth,0.092545,6.40834,gainer,8,2026-10-16
+ondo-finance,Ondo,ondo,0.466698,5.59499,gainer,9,2026-10-16
+rain,Rain,rain,0.0096226,5.57237,gainer,10,2026-10-16
+bitway,Bitway,btw,1.81,-23.22884,loser,1,2026-10-16
+canton-network,Canton,cc,0.10633,-6.62528,loser,2,2026-10-16
+just,JUST,jst,0.132038,-4.92034,loser,3,2026-10-16
+pump-fun,Pump.fun,pump,0.00450178,-4.83094,loser,4,2026-10-16
+okb,OKB,okb,117.17,-3.71645,loser,5,2026-10-16
+midnight-3,Midnight,night,0.04188134,-2.82187,loser,6,2026-10-16
+memecore,MemeCore,m,0.800827,-2.38938,loser,7,2026-10-16
+kaspa,Kaspa,kas,0.03584478,-2.18671,loser,8,2026-10-16
+blockstack,Stacks,stx,0.422165,-1.92579,loser,9,2026-10-16
+jupiter-exchange-solana,Jupiter,jup,0.313291,-1.53862,loser,10,2026-10-16
