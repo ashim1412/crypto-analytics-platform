@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.03155215,16.46502,gainer,1,2026-10-16
-injective-protocol,Injective,inj,8.71,14.68816,gainer,2,2026-10-16
-layerzero,LayerZero,zro,2.18,14.22146,gainer,3,2026-10-16
-near,NEAR Protocol,near,5.32,11.1595,gainer,4,2026-10-16
-venice-token,Venice Token,vvv,24.91,10.13566,gainer,5,2026-10-16
-zcash,Zcash,zec,1223.85,7.80507,gainer,6,2026-10-16
-arbitrum,Arbitrum,arb,0.193611,7.30202,gainer,7,2026-10-16
-pyth-network,Pyth Network,pyth,0.092545,6.40834,gainer,8,2026-10-16
-ondo-finance,Ondo,ondo,0.466698,5.59499,gainer,9,2026-10-16
-rain,Rain,rain,0.0096226,5.57237,gainer,10,2026-10-16
-bitway,Bitway,btw,1.81,-23.22884,loser,1,2026-10-16
-canton-network,Canton,cc,0.10633,-6.62528,loser,2,2026-10-16
-just,JUST,jst,0.132038,-4.92034,loser,3,2026-10-16
-pump-fun,Pump.fun,pump,0.00450178,-4.83094,loser,4,2026-10-16
-okb,OKB,okb,117.17,-3.71645,loser,5,2026-10-16
-midnight-3,Midnight,night,0.04188134,-2.82187,loser,6,2026-10-16
-memecore,MemeCore,m,0.800827,-2.38938,loser,7,2026-10-16
-kaspa,Kaspa,kas,0.03584478,-2.18671,loser,8,2026-10-16
-blockstack,Stacks,stx,0.422165,-1.92579,loser,9,2026-10-16
-jupiter-exchange-solana,Jupiter,jup,0.313291,-1.53862,loser,10,2026-10-16
+injective-protocol,Injective,inj,9.16,27.78254,gainer,1,2026-10-16
+ether-fi,Ether.fi,ethfi,0.701272,17.07501,gainer,2,2026-10-16
+layerzero,LayerZero,zro,2.21,16.66336,gainer,3,2026-10-16
+near,NEAR Protocol,near,5.24,13.82809,gainer,4,2026-10-16
+arbitrum,Arbitrum,arb,0.198645,13.7671,gainer,5,2026-10-16
+aptos,Aptos,apt,0.866957,12.35362,gainer,6,2026-10-16
+zcash,Zcash,zec,1221.57,11.96651,gainer,7,2026-10-16
+filecoin,Filecoin,fil,1.15,11.73919,gainer,8,2026-10-16
+worldcoin-wld,Worldcoin,wld,0.522616,11.43775,gainer,9,2026-10-16
+bittensor,Bittensor,tao,286.89,10.20367,gainer,10,2026-10-16
+bitway,Bitway,btw,1.89,-5.71233,loser,1,2026-10-16
+canton-network,Canton,cc,0.103576,-2.40801,loser,2,2026-10-16
+xdce-crowd-sale,XDC Network,xdc,0.03394596,-0.43396,loser,3,2026-10-16
+blockchain-capital,Blockchain Capital,bcap,105.74,0.0,loser,4,2026-10-16
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,5,2026-10-16
+usdgo,USDGO,usdgo,1.0,0.00634,loser,6,2026-10-16
+hashnote-usyc,Circle USYC,usyc,1.14,0.00919,loser,7,2026-10-16
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.25,0.00936,loser,8,2026-10-16
+global-dollar,Global Dollar,usdg,1.0,0.01055,loser,9,2026-10-16
+world-liberty-financial,World Liberty Financial,wlfi,0.057,0.01171,loser,10,2026-10-16
