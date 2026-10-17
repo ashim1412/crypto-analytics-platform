@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-celestia,Celestia,tia,0.679233,16.09134,gainer,1,2026-10-16
-injective-protocol,Injective,inj,8.71,3.67599,gainer,2,2026-10-16
-polkadot,Polkadot,dot,1.16,2.96552,gainer,3,2026-10-16
-monero,Monero,xmr,557.52,2.1523,gainer,4,2026-10-16
-lighter,Lighter,lit,3.14,1.76944,gainer,5,2026-10-16
-mantle,Mantle,mnt,0.536763,1.45522,gainer,6,2026-10-16
-just,JUST,jst,0.135108,1.44302,gainer,7,2026-10-16
-aptos,Aptos,apt,0.843607,1.28751,gainer,8,2026-10-16
-bitway,Bitway,btw,1.95,1.25715,gainer,9,2026-10-16
-pi-network,Pi Network,pi,0.080191,1.15168,gainer,10,2026-10-16
-pyth-network,Pyth Network,pyth,0.084005,-11.98276,loser,1,2026-10-16
-venice-token,Venice Token,vvv,22.89,-9.15898,loser,2,2026-10-16
-zcash,Zcash,zec,1148.7,-7.05255,loser,3,2026-10-16
-near,NEAR Protocol,near,5.03,-6.26349,loser,4,2026-10-16
-akedo,Akedo,ake,0.03073865,-4.93147,loser,5,2026-10-16
-pump-fun,Pump.fun,pump,0.0043566,-4.91674,loser,6,2026-10-16
-rain,Rain,rain,0.00890479,-4.58077,loser,7,2026-10-16
-memecore,MemeCore,m,0.777658,-4.54975,loser,8,2026-10-16
-aerodrome-finance,Aerodrome Finance,aero,0.872732,-4.11778,loser,9,2026-10-16
-midnight-3,Midnight,night,0.04086963,-4.05642,loser,10,2026-10-16
+celestia,Celestia,tia,0.686756,16.80832,gainer,1,2026-10-17
+bitway,Bitway,btw,2.02,12.34103,gainer,2,2026-10-17
+just,JUST,jst,0.13604,2.94146,gainer,3,2026-10-17
+lighter,Lighter,lit,3.15,2.94069,gainer,4,2026-10-17
+worldcoin-wld,Worldcoin,wld,0.510709,1.32995,gainer,5,2026-10-17
+mantle,Mantle,mnt,0.53737,1.2199,gainer,6,2026-10-17
+aster-2,Aster,aster,0.708798,1.04261,gainer,7,2026-10-17
+cosmos,Cosmos Hub,atom,1.75,0.81917,gainer,8,2026-10-17
+pi-network,Pi Network,pi,0.080077,0.79313,gainer,9,2026-10-17
+figure-heloc,Figure Heloc,figr_heloc,1.036,0.51998,gainer,10,2026-10-17
+layerzero,LayerZero,zro,1.95,-10.39693,loser,1,2026-10-17
+venice-token,Venice Token,vvv,22.76,-8.66547,loser,2,2026-10-17
+blockstack,Stacks,stx,0.386188,-8.65445,loser,3,2026-10-17
+pyth-network,Pyth Network,pyth,0.08577,-7.53046,loser,4,2026-10-17
+rain,Rain,rain,0.00892999,-7.20366,loser,5,2026-10-17
+zcash,Zcash,zec,1143.79,-6.74558,loser,6,2026-10-17
+aerodrome-finance,Aerodrome Finance,aero,0.872894,-5.48448,loser,7,2026-10-17
+near,NEAR Protocol,near,5.04,-5.42516,loser,8,2026-10-17
+stable-2,​​Stable,stable,0.02605447,-4.56972,loser,9,2026-10-17
+ondo-finance,Ondo,ondo,0.448718,-4.02452,loser,10,2026-10-17
