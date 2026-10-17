@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,3.22,6.11657,gainer,1,2026-10-17
-celestia,Celestia,tia,0.715725,4.88007,gainer,2,2026-10-17
-pump-fun,Pump.fun,pump,0.00463922,3.40995,gainer,3,2026-10-17
-akedo,Akedo,ake,0.03078143,1.68882,gainer,4,2026-10-17
-kucoin-shares,KuCoin,kcs,7.44,1.52247,gainer,5,2026-10-17
-bitway,Bitway,btw,2.03,0.89876,gainer,6,2026-10-17
-mantle,Mantle,mnt,0.541738,0.43165,gainer,7,2026-10-17
-htx-dao,HTX DAO,htx,1.66e-06,0.41635,gainer,8,2026-10-17
-polkadot,Polkadot,dot,1.15,0.37442,gainer,9,2026-10-17
-figure-heloc,Figure Heloc,figr_heloc,1.034,0.29473,gainer,10,2026-10-17
-layerzero,LayerZero,zro,1.94,-12.85394,loser,1,2026-10-17
-pyth-network,Pyth Network,pyth,0.08456,-9.52556,loser,2,2026-10-17
-blockstack,Stacks,stx,0.379497,-8.17729,loser,3,2026-10-17
-kaspa,Kaspa,kas,0.03530569,-6.34205,loser,4,2026-10-17
-arbitrum,Arbitrum,arb,0.187795,-6.00235,loser,5,2026-10-17
-algorand,Algorand,algo,0.113094,-5.58967,loser,6,2026-10-17
-venice-token,Venice Token,vvv,23.27,-5.07656,loser,7,2026-10-17
-bittensor,Bittensor,tao,274.44,-4.99112,loser,8,2026-10-17
-injective-protocol,Injective,inj,8.75,-4.8674,loser,9,2026-10-17
-aptos,Aptos,apt,0.828264,-4.69262,loser,10,2026-10-17
+bitway,Bitway,btw,2.39,23.57324,gainer,1,2026-10-17
+pump-fun,Pump.fun,pump,0.00453374,2.4519,gainer,2,2026-10-17
+pancakeswap-token,PancakeSwap,cake,2.24,2.15083,gainer,3,2026-10-17
+akedo,Akedo,ake,0.02919948,1.27057,gainer,4,2026-10-17
+kucoin-shares,KuCoin,kcs,7.47,0.90629,gainer,5,2026-10-17
+htx-dao,HTX DAO,htx,1.66e-06,0.52959,gainer,6,2026-10-17
+leo-token,LEO Token,leo,9.05,0.45033,gainer,7,2026-10-17
+tron,TRON,trx,0.336105,0.06113,gainer,8,2026-10-17
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.02898,gainer,9,2026-10-17
+usdd,USDD,usdd,0.998034,0.01882,gainer,10,2026-10-17
+layerzero,LayerZero,zro,1.91,-12.17827,loser,1,2026-10-17
+blockstack,Stacks,stx,0.366186,-10.61863,loser,2,2026-10-17
+algorand,Algorand,algo,0.112117,-6.59576,loser,3,2026-10-17
+aptos,Aptos,apt,0.810503,-6.55689,loser,4,2026-10-17
+arbitrum,Arbitrum,arb,0.186312,-6.20719,loser,5,2026-10-17
+ethena,Ethena,ena,0.193402,-6.008,loser,6,2026-10-17
+celestia,Celestia,tia,0.671957,-5.91922,loser,7,2026-10-17
+kaspa,Kaspa,kas,0.03554775,-5.84177,loser,8,2026-10-17
+venice-token,Venice Token,vvv,22.74,-5.76002,loser,9,2026-10-17
+injective-protocol,Injective,inj,8.57,-5.70624,loser,10,2026-10-17
