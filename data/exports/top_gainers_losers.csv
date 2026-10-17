@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-celestia,Celestia,tia,0.686756,16.80832,gainer,1,2026-10-17
-bitway,Bitway,btw,2.02,12.34103,gainer,2,2026-10-17
-just,JUST,jst,0.13604,2.94146,gainer,3,2026-10-17
-lighter,Lighter,lit,3.15,2.94069,gainer,4,2026-10-17
-worldcoin-wld,Worldcoin,wld,0.510709,1.32995,gainer,5,2026-10-17
-mantle,Mantle,mnt,0.53737,1.2199,gainer,6,2026-10-17
-aster-2,Aster,aster,0.708798,1.04261,gainer,7,2026-10-17
-cosmos,Cosmos Hub,atom,1.75,0.81917,gainer,8,2026-10-17
-pi-network,Pi Network,pi,0.080077,0.79313,gainer,9,2026-10-17
-figure-heloc,Figure Heloc,figr_heloc,1.036,0.51998,gainer,10,2026-10-17
-layerzero,LayerZero,zro,1.95,-10.39693,loser,1,2026-10-17
-venice-token,Venice Token,vvv,22.76,-8.66547,loser,2,2026-10-17
-blockstack,Stacks,stx,0.386188,-8.65445,loser,3,2026-10-17
-pyth-network,Pyth Network,pyth,0.08577,-7.53046,loser,4,2026-10-17
-rain,Rain,rain,0.00892999,-7.20366,loser,5,2026-10-17
-zcash,Zcash,zec,1143.79,-6.74558,loser,6,2026-10-17
-aerodrome-finance,Aerodrome Finance,aero,0.872894,-5.48448,loser,7,2026-10-17
-near,NEAR Protocol,near,5.04,-5.42516,loser,8,2026-10-17
-stable-2,​​Stable,stable,0.02605447,-4.56972,loser,9,2026-10-17
-ondo-finance,Ondo,ondo,0.448718,-4.02452,loser,10,2026-10-17
+lighter,Lighter,lit,3.22,6.11657,gainer,1,2026-10-17
+celestia,Celestia,tia,0.715725,4.88007,gainer,2,2026-10-17
+pump-fun,Pump.fun,pump,0.00463922,3.40995,gainer,3,2026-10-17
+akedo,Akedo,ake,0.03078143,1.68882,gainer,4,2026-10-17
+kucoin-shares,KuCoin,kcs,7.44,1.52247,gainer,5,2026-10-17
+bitway,Bitway,btw,2.03,0.89876,gainer,6,2026-10-17
+mantle,Mantle,mnt,0.541738,0.43165,gainer,7,2026-10-17
+htx-dao,HTX DAO,htx,1.66e-06,0.41635,gainer,8,2026-10-17
+polkadot,Polkadot,dot,1.15,0.37442,gainer,9,2026-10-17
+figure-heloc,Figure Heloc,figr_heloc,1.034,0.29473,gainer,10,2026-10-17
+layerzero,LayerZero,zro,1.94,-12.85394,loser,1,2026-10-17
+pyth-network,Pyth Network,pyth,0.08456,-9.52556,loser,2,2026-10-17
+blockstack,Stacks,stx,0.379497,-8.17729,loser,3,2026-10-17
+kaspa,Kaspa,kas,0.03530569,-6.34205,loser,4,2026-10-17
+arbitrum,Arbitrum,arb,0.187795,-6.00235,loser,5,2026-10-17
+algorand,Algorand,algo,0.113094,-5.58967,loser,6,2026-10-17
+venice-token,Venice Token,vvv,23.27,-5.07656,loser,7,2026-10-17
+bittensor,Bittensor,tao,274.44,-4.99112,loser,8,2026-10-17
+injective-protocol,Injective,inj,8.75,-4.8674,loser,9,2026-10-17
+aptos,Aptos,apt,0.828264,-4.69262,loser,10,2026-10-17
