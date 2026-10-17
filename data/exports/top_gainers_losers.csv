@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.39,23.57324,gainer,1,2026-10-17
-pump-fun,Pump.fun,pump,0.00453374,2.4519,gainer,2,2026-10-17
-pancakeswap-token,PancakeSwap,cake,2.24,2.15083,gainer,3,2026-10-17
-akedo,Akedo,ake,0.02919948,1.27057,gainer,4,2026-10-17
-kucoin-shares,KuCoin,kcs,7.47,0.90629,gainer,5,2026-10-17
-htx-dao,HTX DAO,htx,1.66e-06,0.52959,gainer,6,2026-10-17
-leo-token,LEO Token,leo,9.05,0.45033,gainer,7,2026-10-17
-tron,TRON,trx,0.336105,0.06113,gainer,8,2026-10-17
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.02898,gainer,9,2026-10-17
-usdd,USDD,usdd,0.998034,0.01882,gainer,10,2026-10-17
-layerzero,LayerZero,zro,1.91,-12.17827,loser,1,2026-10-17
-blockstack,Stacks,stx,0.366186,-10.61863,loser,2,2026-10-17
-algorand,Algorand,algo,0.112117,-6.59576,loser,3,2026-10-17
-aptos,Aptos,apt,0.810503,-6.55689,loser,4,2026-10-17
-arbitrum,Arbitrum,arb,0.186312,-6.20719,loser,5,2026-10-17
-ethena,Ethena,ena,0.193402,-6.008,loser,6,2026-10-17
-celestia,Celestia,tia,0.671957,-5.91922,loser,7,2026-10-17
-kaspa,Kaspa,kas,0.03554775,-5.84177,loser,8,2026-10-17
-venice-token,Venice Token,vvv,22.74,-5.76002,loser,9,2026-10-17
-injective-protocol,Injective,inj,8.57,-5.70624,loser,10,2026-10-17
+bitway,Bitway,btw,2.65,38.52737,gainer,1,2026-10-17
+pump-fun,Pump.fun,pump,0.00447336,4.03789,gainer,2,2026-10-17
+pancakeswap-token,PancakeSwap,cake,2.21,2.70424,gainer,3,2026-10-17
+hedera-hashgraph,Hedera,hbar,0.084305,2.31131,gainer,4,2026-10-17
+morpho,Morpho,morpho,2.38,2.06234,gainer,5,2026-10-17
+midnight-3,Midnight,night,0.04143678,1.79411,gainer,6,2026-10-17
+canton-network,Canton,cc,0.104353,1.55148,gainer,7,2026-10-17
+injective-protocol,Injective,inj,8.74,1.5276,gainer,8,2026-10-17
+zcash,Zcash,zec,1150.95,1.50737,gainer,9,2026-10-17
+the-open-network,Gram (prev. Toncoin),gram,1.37,1.43914,gainer,10,2026-10-17
+layerzero,LayerZero,zro,1.9,-6.23034,loser,1,2026-10-17
+blockstack,Stacks,stx,0.371857,-4.26963,loser,2,2026-10-17
+arbitrum,Arbitrum,arb,0.183426,-4.26238,loser,3,2026-10-17
+filecoin,Filecoin,fil,1.088,-3.61482,loser,4,2026-10-17
+aptos,Aptos,apt,0.810168,-3.09123,loser,5,2026-10-17
+algorand,Algorand,algo,0.111852,-2.98199,loser,6,2026-10-17
+akedo,Akedo,ake,0.0289991,-2.87387,loser,7,2026-10-17
+ethena,Ethena,ena,0.191692,-2.66388,loser,8,2026-10-17
+gatechain-token,Gate,gt,10.06,-1.96031,loser,9,2026-10-17
+sui,Sui,sui,0.990087,-1.85917,loser,10,2026-10-17
