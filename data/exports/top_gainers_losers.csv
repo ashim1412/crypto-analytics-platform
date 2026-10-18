@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.44,21.86748,gainer,1,2026-10-18
-pearl-2,Pearl,prl,1.86,8.87127,gainer,2,2026-10-18
-monero,Monero,xmr,585.06,5.95377,gainer,3,2026-10-18
-hedera-hashgraph,Hedera,hbar,0.08726,4.59184,gainer,4,2026-10-18
-rain,Rain,rain,0.00921502,4.30381,gainer,5,2026-10-18
-figure-heloc,Figure Heloc,figr_heloc,1.068,3.19776,gainer,6,2026-10-18
-morpho,Morpho,morpho,2.41,1.71202,gainer,7,2026-10-18
-just,JUST,jst,0.135693,1.65722,gainer,8,2026-10-18
-pancakeswap-token,PancakeSwap,cake,2.2,1.47307,gainer,9,2026-10-18
-nexo,NEXO,nexo,0.814899,0.78297,gainer,10,2026-10-18
-celestia,Celestia,tia,0.65576,-8.07987,loser,1,2026-10-18
-midnight-3,Midnight,night,0.04024577,-6.89839,loser,2,2026-10-18
-filecoin,Filecoin,fil,1.063,-6.79062,loser,3,2026-10-18
-pump-fun,Pump.fun,pump,0.00432936,-6.67905,loser,4,2026-10-18
-memecore,MemeCore,m,0.747771,-6.03804,loser,5,2026-10-18
-aerodrome-finance,Aerodrome Finance,aero,0.848828,-4.57244,loser,6,2026-10-18
-layerzero,LayerZero,zro,1.86,-4.04419,loser,7,2026-10-18
-lighter,Lighter,lit,3.1,-3.9046,loser,8,2026-10-18
-render-token,Render,render,1.84,-3.70051,loser,9,2026-10-18
-zcash,Zcash,zec,1134.69,-3.66458,loser,10,2026-10-18
+pearl-2,Pearl,prl,1.96,15.9657,gainer,1,2026-10-18
+monero,Monero,xmr,589.61,7.32042,gainer,2,2026-10-18
+bitway,Bitway,btw,2.35,6.46316,gainer,3,2026-10-18
+rain,Rain,rain,0.00925434,4.80859,gainer,4,2026-10-18
+hedera-hashgraph,Hedera,hbar,0.086902,4.17349,gainer,5,2026-10-18
+figure-heloc,Figure Heloc,figr_heloc,1.075,4.02441,gainer,6,2026-10-18
+akedo,Akedo,ake,0.0299422,2.36773,gainer,7,2026-10-18
+memecore,MemeCore,m,0.773683,0.40335,gainer,8,2026-10-18
+global-dollar,Global Dollar,usdg,1.0,0.0256,gainer,9,2026-10-18
+leo-token,LEO Token,leo,9.04,0.02533,gainer,10,2026-10-18
+aerodrome-finance,Aerodrome Finance,aero,0.799881,-7.75633,loser,1,2026-10-18
+layerzero,LayerZero,zro,1.76,-7.59886,loser,2,2026-10-18
+filecoin,Filecoin,fil,1.028,-7.54001,loser,3,2026-10-18
+lighter,Lighter,lit,2.95,-7.47921,loser,4,2026-10-18
+pump-fun,Pump.fun,pump,0.00422565,-6.42523,loser,5,2026-10-18
+near,NEAR Protocol,near,4.71,-6.23549,loser,6,2026-10-18
+midnight-3,Midnight,night,0.03927591,-6.20504,loser,7,2026-10-18
+quant-network,Quant,qnt,190.01,-6.19311,loser,8,2026-10-18
+ethena,Ethena,ena,0.181726,-5.81538,loser,9,2026-10-18
+zcash,Zcash,zec,1095.49,-5.78578,loser,10,2026-10-18
