@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,2.33,15.11773,gainer,1,2026-10-18
-pearl-2,Pearl,prl,1.81,7.35233,gainer,2,2026-10-18
-monero,Monero,xmr,584.85,4.93092,gainer,3,2026-10-18
-hedera-hashgraph,Hedera,hbar,0.086607,3.61845,gainer,4,2026-10-18
-rain,Rain,rain,0.00922692,3.3097,gainer,5,2026-10-18
-figure-heloc,Figure Heloc,figr_heloc,1.067,2.98534,gainer,6,2026-10-18
-pancakeswap-token,PancakeSwap,cake,2.2,1.5149,gainer,7,2026-10-18
-morpho,Morpho,morpho,2.4,1.206,gainer,8,2026-10-18
-the-open-network,Gram (prev. Toncoin),gram,1.36,0.99653,gainer,9,2026-10-18
-lighter,Lighter,lit,3.15,0.33696,gainer,10,2026-10-18
-filecoin,Filecoin,fil,1.066,-5.98338,loser,1,2026-10-18
-polkadot,Polkadot,dot,1.11,-4.91447,loser,2,2026-10-18
-aptos,Aptos,apt,0.796741,-4.34569,loser,3,2026-10-18
-akedo,Akedo,ake,0.02977578,-4.20796,loser,4,2026-10-18
-blockstack,Stacks,stx,0.369954,-4.18491,loser,5,2026-10-18
-memecore,MemeCore,m,0.75018,-4.11067,loser,6,2026-10-18
-pump-fun,Pump.fun,pump,0.00436434,-3.45389,loser,7,2026-10-18
-worldcoin-wld,Worldcoin,wld,0.493866,-3.24219,loser,8,2026-10-18
-arbitrum,Arbitrum,arb,0.182715,-3.14903,loser,9,2026-10-18
-jupiter-exchange-solana,Jupiter,jup,0.292617,-3.04736,loser,10,2026-10-18
+bitway,Bitway,btw,2.44,21.86748,gainer,1,2026-10-18
+pearl-2,Pearl,prl,1.86,8.87127,gainer,2,2026-10-18
+monero,Monero,xmr,585.06,5.95377,gainer,3,2026-10-18
+hedera-hashgraph,Hedera,hbar,0.08726,4.59184,gainer,4,2026-10-18
+rain,Rain,rain,0.00921502,4.30381,gainer,5,2026-10-18
+figure-heloc,Figure Heloc,figr_heloc,1.068,3.19776,gainer,6,2026-10-18
+morpho,Morpho,morpho,2.41,1.71202,gainer,7,2026-10-18
+just,JUST,jst,0.135693,1.65722,gainer,8,2026-10-18
+pancakeswap-token,PancakeSwap,cake,2.2,1.47307,gainer,9,2026-10-18
+nexo,NEXO,nexo,0.814899,0.78297,gainer,10,2026-10-18
+celestia,Celestia,tia,0.65576,-8.07987,loser,1,2026-10-18
+midnight-3,Midnight,night,0.04024577,-6.89839,loser,2,2026-10-18
+filecoin,Filecoin,fil,1.063,-6.79062,loser,3,2026-10-18
+pump-fun,Pump.fun,pump,0.00432936,-6.67905,loser,4,2026-10-18
+memecore,MemeCore,m,0.747771,-6.03804,loser,5,2026-10-18
+aerodrome-finance,Aerodrome Finance,aero,0.848828,-4.57244,loser,6,2026-10-18
+layerzero,LayerZero,zro,1.86,-4.04419,loser,7,2026-10-18
+lighter,Lighter,lit,3.1,-3.9046,loser,8,2026-10-18
+render-token,Render,render,1.84,-3.70051,loser,9,2026-10-18
+zcash,Zcash,zec,1134.69,-3.66458,loser,10,2026-10-18
