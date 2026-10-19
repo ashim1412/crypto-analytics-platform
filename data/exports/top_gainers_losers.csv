@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,24.0,7.90471,gainer,1,2026-10-19
-arbitrum,Arbitrum,arb,0.190871,5.37125,gainer,2,2026-10-19
-akedo,Akedo,ake,0.03084052,5.05157,gainer,3,2026-10-19
-pepe,Pepe,pepe,4.05e-06,4.70259,gainer,4,2026-10-19
-zcash,Zcash,zec,1172.44,3.22774,gainer,5,2026-10-19
-ether-fi,Ether.fi,ethfi,0.693328,3.21092,gainer,6,2026-10-19
-pearl-2,Pearl,prl,1.88,2.93223,gainer,7,2026-10-19
-sui,Sui,sui,1.001,2.61196,gainer,8,2026-10-19
-near,NEAR Protocol,near,5.06,2.51864,gainer,9,2026-10-19
-just,JUST,jst,0.138149,2.30957,gainer,10,2026-10-19
-stable-2,​​Stable,stable,0.02410307,-4.90627,loser,1,2026-10-19
-aerodrome-finance,Aerodrome Finance,aero,0.799441,-4.78358,loser,2,2026-10-19
-bitway,Bitway,btw,2.33,-3.5498,loser,3,2026-10-19
-render-token,Render,render,1.81,-2.02727,loser,4,2026-10-19
-hedera-hashgraph,Hedera,hbar,0.084064,-1.88781,loser,5,2026-10-19
-xdce-crowd-sale,XDC Network,xdc,0.03317351,-1.51511,loser,6,2026-10-19
-quant-network,Quant,qnt,193.23,-1.4499,loser,7,2026-10-19
-aptos,Aptos,apt,0.780912,-1.35401,loser,8,2026-10-19
-morpho,Morpho,morpho,2.35,-1.13362,loser,9,2026-10-19
-injective-protocol,Injective,inj,8.53,-1.10626,loser,10,2026-10-19
+arbitrum,Arbitrum,arb,0.194972,6.48415,gainer,1,2026-10-19
+venice-token,Venice Token,vvv,23.58,4.71936,gainer,2,2026-10-19
+pepe,Pepe,pepe,4.07e-06,4.6183,gainer,3,2026-10-19
+ether-fi,Ether.fi,ethfi,0.690762,3.51605,gainer,4,2026-10-19
+pump-fun,Pump.fun,pump,0.00441584,2.63735,gainer,5,2026-10-19
+morpho,Morpho,morpho,2.46,2.53698,gainer,6,2026-10-19
+akedo,Akedo,ake,0.03019669,1.83143,gainer,7,2026-10-19
+crypto-com-chain,Cronos,cro,0.057346,1.73522,gainer,8,2026-10-19
+cosmos,Cosmos Hub,atom,1.73,1.65814,gainer,9,2026-10-19
+canton-network,Canton,cc,0.102886,1.64323,gainer,10,2026-10-19
+bitway,Bitway,btw,2.11,-13.63609,loser,1,2026-10-19
+hedera-hashgraph,Hedera,hbar,0.083001,-7.09266,loser,2,2026-10-19
+aerodrome-finance,Aerodrome Finance,aero,0.784917,-5.94566,loser,3,2026-10-19
+memecore,MemeCore,m,0.720467,-4.46616,loser,4,2026-10-19
+aptos,Aptos,apt,0.768297,-4.15359,loser,5,2026-10-19
+filecoin,Filecoin,fil,1.028,-3.00509,loser,6,2026-10-19
+pi-network,Pi Network,pi,0.077766,-2.82303,loser,7,2026-10-19
+render-token,Render,render,1.79,-2.53595,loser,8,2026-10-19
+aave,Aave,aave,150.2,-2.3091,loser,9,2026-10-19
+avalanche-2,Avalanche,avax,9.61,-1.83691,loser,10,2026-10-19
