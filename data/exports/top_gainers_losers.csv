@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,prl,1.96,4.981,gainer,1,2026-10-18
-figure-heloc,Figure Heloc,figr_heloc,1.075,4.38565,gainer,2,2026-10-18
-rain,Rain,rain,0.00898408,2.12904,gainer,3,2026-10-18
-monero,Monero,xmr,573.67,2.06297,gainer,4,2026-10-18
-akedo,Akedo,ake,0.02943045,1.64393,gainer,5,2026-10-18
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.05292,gainer,6,2026-10-18
-bfusd,BFUSD,bfusd,0.998946,0.04082,gainer,7,2026-10-18
-gho,GHO,gho,0.998854,0.03908,gainer,8,2026-10-18
-global-dollar,Global Dollar,usdg,1.0,0.02555,gainer,9,2026-10-18
-leo-token,LEO Token,leo,9.04,0.01625,gainer,10,2026-10-18
-pump-fun,Pump.fun,pump,0.00388318,-13.15623,loser,1,2026-10-18
-injective-protocol,Injective,inj,7.87,-10.02539,loser,2,2026-10-18
-aerodrome-finance,Aerodrome Finance,aero,0.771197,-9.84436,loser,3,2026-10-18
-bitway,Bitway,btw,2.41,-9.69768,loser,4,2026-10-18
-lighter,Lighter,lit,2.84,-9.25683,loser,5,2026-10-18
-layerzero,LayerZero,zro,1.74,-8.59054,loser,6,2026-10-18
-worldcoin-wld,Worldcoin,wld,0.461174,-8.55571,loser,7,2026-10-18
-zcash,Zcash,zec,1052.59,-8.54486,loser,8,2026-10-18
-quant-network,Quant,qnt,182.66,-8.24212,loser,9,2026-10-18
-ethena,Ethena,ena,0.17623,-8.15717,loser,10,2026-10-18
+venice-token,Venice Token,vvv,24.0,7.90471,gainer,1,2026-10-19
+arbitrum,Arbitrum,arb,0.190871,5.37125,gainer,2,2026-10-19
+akedo,Akedo,ake,0.03084052,5.05157,gainer,3,2026-10-19
+pepe,Pepe,pepe,4.05e-06,4.70259,gainer,4,2026-10-19
+zcash,Zcash,zec,1172.44,3.22774,gainer,5,2026-10-19
+ether-fi,Ether.fi,ethfi,0.693328,3.21092,gainer,6,2026-10-19
+pearl-2,Pearl,prl,1.88,2.93223,gainer,7,2026-10-19
+sui,Sui,sui,1.001,2.61196,gainer,8,2026-10-19
+near,NEAR Protocol,near,5.06,2.51864,gainer,9,2026-10-19
+just,JUST,jst,0.138149,2.30957,gainer,10,2026-10-19
+stable-2,​​Stable,stable,0.02410307,-4.90627,loser,1,2026-10-19
+aerodrome-finance,Aerodrome Finance,aero,0.799441,-4.78358,loser,2,2026-10-19
+bitway,Bitway,btw,2.33,-3.5498,loser,3,2026-10-19
+render-token,Render,render,1.81,-2.02727,loser,4,2026-10-19
+hedera-hashgraph,Hedera,hbar,0.084064,-1.88781,loser,5,2026-10-19
+xdce-crowd-sale,XDC Network,xdc,0.03317351,-1.51511,loser,6,2026-10-19
+quant-network,Quant,qnt,193.23,-1.4499,loser,7,2026-10-19
+aptos,Aptos,apt,0.780912,-1.35401,loser,8,2026-10-19
+morpho,Morpho,morpho,2.35,-1.13362,loser,9,2026-10-19
+injective-protocol,Injective,inj,8.53,-1.10626,loser,10,2026-10-19
