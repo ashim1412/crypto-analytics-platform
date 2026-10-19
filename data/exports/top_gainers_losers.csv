@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,23.83,10.0476,gainer,1,2026-10-19
-arbitrum,Arbitrum,arb,0.193865,8.07048,gainer,2,2026-10-19
-morpho,Morpho,morpho,2.5,8.00602,gainer,3,2026-10-19
-worldcoin-wld,Worldcoin,wld,0.510515,7.90002,gainer,4,2026-10-19
-layerzero,LayerZero,zro,1.89,7.31765,gainer,5,2026-10-19
-polkadot,Polkadot,dot,1.15,7.25061,gainer,6,2026-10-19
-pump-fun,Pump.fun,pump,0.0043991,7.19372,gainer,7,2026-10-19
-injective-protocol,Injective,inj,8.57,6.30701,gainer,8,2026-10-19
-pepe,Pepe,pepe,4.1e-06,6.16853,gainer,9,2026-10-19
-lighter,Lighter,lit,3.05,5.75827,gainer,10,2026-10-19
-bitway,Bitway,btw,1.73,-24.78121,loser,1,2026-10-19
-world-liberty-financial,World Liberty Financial,wlfi,0.053838,-5.42744,loser,2,2026-10-19
-memecore,MemeCore,m,0.712247,-5.29066,loser,3,2026-10-19
-pearl-2,Pearl,prl,1.91,-4.00779,loser,4,2026-10-19
-hedera-hashgraph,Hedera,hbar,0.08228,-2.81484,loser,5,2026-10-19
-aerodrome-finance,Aerodrome Finance,aero,0.777082,-2.7444,loser,6,2026-10-19
-rain,Rain,rain,0.0089944,-2.31525,loser,7,2026-10-19
-filecoin,Filecoin,fil,1.008,-1.22467,loser,8,2026-10-19
-aptos,Aptos,apt,0.760678,-1.19542,loser,9,2026-10-19
-pi-network,Pi Network,pi,0.077921,-0.94128,loser,10,2026-10-19
+venice-token,Venice Token,vvv,24.31,13.80827,gainer,1,2026-10-19
+worldcoin-wld,Worldcoin,wld,0.515745,11.23525,gainer,2,2026-10-19
+pump-fun,Pump.fun,pump,0.00438598,10.79382,gainer,3,2026-10-19
+arbitrum,Arbitrum,arb,0.196044,9.7657,gainer,4,2026-10-19
+morpho,Morpho,morpho,2.47,7.7883,gainer,5,2026-10-19
+injective-protocol,Injective,inj,8.52,7.64695,gainer,6,2026-10-19
+canton-network,Canton,cc,0.10412,7.22275,gainer,7,2026-10-19
+pearl-2,Pearl,prl,2.02,6.69775,gainer,8,2026-10-19
+dash,Dash,dash,50.22,6.38646,gainer,9,2026-10-19
+polkadot,Polkadot,dot,1.13,6.37355,gainer,10,2026-10-19
+bitway,Bitway,btw,2.12,-13.9992,loser,1,2026-10-19
+world-liberty-financial,World Liberty Financial,wlfi,0.054589,-4.18756,loser,2,2026-10-19
+rain,Rain,rain,0.00881837,-3.01208,loser,3,2026-10-19
+memecore,MemeCore,m,0.722256,-2.84316,loser,4,2026-10-19
+hedera-hashgraph,Hedera,hbar,0.082235,-1.33494,loser,5,2026-10-19
+akedo,Akedo,ake,0.02976308,-1.10937,loser,6,2026-10-19
+tron,TRON,trx,0.330899,-0.462,loser,7,2026-10-19
+leo-token,LEO Token,leo,9.01,-0.29862,loser,8,2026-10-19
+htx-dao,HTX DAO,htx,1.65e-06,-0.09725,loser,9,2026-10-19
+tether-gold,Tether Gold,xaut,4139.82,-0.06676,loser,10,2026-10-19
