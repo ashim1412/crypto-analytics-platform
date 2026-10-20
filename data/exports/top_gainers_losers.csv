@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.533232,9.13282,gainer,1,2026-10-20
-arbitrum,Arbitrum,arb,0.198881,4.77626,gainer,2,2026-10-20
-morpho,Morpho,morpho,2.46,4.33511,gainer,3,2026-10-20
-canton-network,Canton,cc,0.106126,3.88101,gainer,4,2026-10-20
-cosmos,Cosmos Hub,atom,1.77,3.71717,gainer,5,2026-10-20
-pepe,Pepe,pepe,4.16e-06,2.50032,gainer,6,2026-10-20
-sky,Sky,sky,0.071065,2.41641,gainer,7,2026-10-20
-just,JUST,jst,0.140906,2.06533,gainer,8,2026-10-20
-dash,Dash,dash,50.04,1.56842,gainer,9,2026-10-20
-pump-fun,Pump.fun,pump,0.00438698,1.35862,gainer,10,2026-10-20
-bitway,Bitway,btw,1.96,-15.09301,loser,1,2026-10-20
-rain,Rain,rain,0.00874686,-6.15637,loser,2,2026-10-20
-world-liberty-financial,World Liberty Financial,wlfi,0.053878,-5.95522,loser,3,2026-10-20
-near,NEAR Protocol,near,4.8,-4.73911,loser,4,2026-10-20
-zcash,Zcash,zec,1136.71,-3.73154,loser,5,2026-10-20
-blockstack,Stacks,stx,0.356935,-3.56204,loser,6,2026-10-20
-filecoin,Filecoin,fil,1.012,-3.43275,loser,7,2026-10-20
-aptos,Aptos,apt,0.758366,-2.90217,loser,8,2026-10-20
-avalanche-2,Avalanche,avax,9.51,-2.66342,loser,9,2026-10-20
-aave,Aave,aave,149.31,-2.16166,loser,10,2026-10-20
+memecore,MemeCore,m,0.783726,7.47646,gainer,1,2026-10-20
+worldcoin-wld,Worldcoin,wld,0.531306,6.3532,gainer,2,2026-10-20
+pearl-2,Pearl,pearl,1.95,6.07925,gainer,3,2026-10-20
+akedo,Akedo,ake,0.03094843,3.6718,gainer,4,2026-10-20
+monero,Monero,xmr,612.59,3.63243,gainer,5,2026-10-20
+layerzero,LayerZero,zro,1.91,3.39451,gainer,6,2026-10-20
+just,JUST,jst,0.1408,2.95706,gainer,7,2026-10-20
+polkadot,Polkadot,dot,1.14,2.85143,gainer,8,2026-10-20
+lighter,Lighter,lit,3.19,2.7501,gainer,9,2026-10-20
+pepe,Pepe,pepe,4.17e-06,2.69908,gainer,10,2026-10-20
+bitway,Bitway,btw,1.77,-17.67706,loser,1,2026-10-20
+rain,Rain,rain,0.00823489,-10.56879,loser,2,2026-10-20
+world-liberty-financial,World Liberty Financial,wlfi,0.053223,-6.55161,loser,3,2026-10-20
+blockstack,Stacks,stx,0.349388,-6.49876,loser,4,2026-10-20
+near,NEAR Protocol,near,4.69,-6.3831,loser,5,2026-10-20
+quant-network,Quant,qnt,193.5,-3.69582,loser,6,2026-10-20
+xdce-crowd-sale,XDC Network,xdc,0.0319973,-3.48989,loser,7,2026-10-20
+arbitrum,Arbitrum,arb,0.189455,-3.43648,loser,8,2026-10-20
+midnight-3,Midnight,night,0.03859445,-2.77552,loser,9,2026-10-20
+filecoin,Filecoin,fil,1.006,-2.69972,loser,10,2026-10-20
