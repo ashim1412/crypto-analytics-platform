@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-zcash,Zcash,zec,1263.34,10.79677,gainer,1,2026-10-21
-akedo,Akedo,ake,0.0332477,9.79178,gainer,2,2026-10-21
-pyth-network,Pyth Network,pyth,0.079357,9.68713,gainer,3,2026-10-21
-worldcoin-wld,Worldcoin,wld,0.583977,9.52897,gainer,4,2026-10-21
-aptos,Aptos,apt,0.824041,8.79918,gainer,5,2026-10-21
-pearl-2,Pearl,pearl,2.14,8.57908,gainer,6,2026-10-21
-kaspa,Kaspa,kas,0.03751866,8.44208,gainer,7,2026-10-21
-rain,Rain,rain,0.00947083,8.25448,gainer,8,2026-10-21
-pump-fun,Pump.fun,pump,0.00475059,8.21686,gainer,9,2026-10-21
-lighter,Lighter,lit,3.37,8.13463,gainer,10,2026-10-21
-morpho,Morpho,morpho,2.31,-5.94568,loser,1,2026-10-21
-arbitrum,Arbitrum,arb,0.191938,-3.78863,loser,2,2026-10-21
-monero,Monero,xmr,580.16,-3.07497,loser,3,2026-10-21
-cosmos,Cosmos Hub,atom,1.74,-1.71002,loser,4,2026-10-21
-xdce-crowd-sale,XDC Network,xdc,0.03226539,-0.8197,loser,5,2026-10-21
-the-open-network,Gram (prev. Toncoin),gram,1.35,-0.42697,loser,6,2026-10-21
-kucoin-shares,KuCoin,kcs,7.37,-0.39144,loser,7,2026-10-21
-tether-gold,Tether Gold,xaut,4117.27,-0.35055,loser,8,2026-10-21
-canton-network,Canton,cc,0.105476,-0.3127,loser,9,2026-10-21
-pax-gold,PAX Gold,paxg,4122.82,-0.23271,loser,10,2026-10-21
+akedo,Akedo,ake,0.0362175,19.18985,gainer,1,2026-10-21
+pearl-2,Pearl,pearl,2.33,18.66497,gainer,2,2026-10-21
+zcash,Zcash,zec,1275.46,12.36974,gainer,3,2026-10-21
+rain,Rain,rain,0.0092565,12.25355,gainer,4,2026-10-21
+ethena,Ethena,ena,0.20608,11.55617,gainer,5,2026-10-21
+near,NEAR Protocol,near,5.17,10.95938,gainer,6,2026-10-21
+kaspa,Kaspa,kas,0.03867365,10.83358,gainer,7,2026-10-21
+pyth-network,Pyth Network,pyth,0.080073,10.32232,gainer,8,2026-10-21
+pepe,Pepe,pepe,4.57e-06,9.70974,gainer,9,2026-10-21
+worldcoin-wld,Worldcoin,wld,0.581762,9.45591,gainer,10,2026-10-21
+morpho,Morpho,morpho,2.34,-3.17842,loser,1,2026-10-21
+memecore,MemeCore,m,0.761986,-2.81767,loser,2,2026-10-21
+monero,Monero,xmr,596.59,-2.39705,loser,3,2026-10-21
+bitway,Bitway,btw,1.75,-2.32132,loser,4,2026-10-21
+tron,TRON,trx,0.330734,-0.43588,loser,5,2026-10-21
+just,JUST,jst,0.140303,-0.32248,loser,6,2026-10-21
+usdd,USDD,usdd,0.997871,-0.0919,loser,7,2026-10-21
+usd-coin,USDC,usdc,0.999437,-0.04296,loser,8,2026-10-21
+ethena-usde,Ethena USDe,usde,0.999253,-0.04261,loser,9,2026-10-21
+usdgo,USDGO,usdgo,1.0,-0.02179,loser,10,2026-10-21
