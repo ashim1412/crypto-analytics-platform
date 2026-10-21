@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-worldcoin-wld,Worldcoin,wld,0.587289,15.25983,gainer,1,2026-10-20
-pepe,Pepe,pepe,4.58e-06,11.71825,gainer,2,2026-10-20
-zcash,Zcash,zec,1239.1,10.62041,gainer,3,2026-10-20
-aptos,Aptos,apt,0.834764,10.38605,gainer,4,2026-10-20
-pyth-network,Pyth Network,pyth,0.07947,10.2403,gainer,5,2026-10-20
-lighter,Lighter,lit,3.33,10.10473,gainer,6,2026-10-20
-aerodrome-finance,Aerodrome Finance,aero,0.863941,9.83142,gainer,7,2026-10-20
-pump-fun,Pump.fun,pump,0.00477213,9.51048,gainer,8,2026-10-20
-sky,Sky,sky,0.076057,8.67236,gainer,9,2026-10-20
-jupiter-exchange-solana,Jupiter,jup,0.315623,8.3717,gainer,10,2026-10-20
-bitway,Bitway,btw,1.69,-19.52658,loser,1,2026-10-20
-morpho,Morpho,morpho,2.37,-2.91374,loser,2,2026-10-20
-blockstack,Stacks,stx,0.353509,-1.62451,loser,3,2026-10-20
-xdce-crowd-sale,XDC Network,xdc,0.03222802,-1.60227,loser,4,2026-10-20
-arbitrum,Arbitrum,arb,0.189948,-1.127,loser,5,2026-10-20
-midnight-3,Midnight,night,0.03966114,-0.96745,loser,6,2026-10-20
-the-open-network,Gram (prev. Toncoin),gram,1.34,-0.80312,loser,7,2026-10-20
-kucoin-shares,KuCoin,kcs,7.36,-0.66105,loser,8,2026-10-20
-tether-gold,Tether Gold,xaut,4120.5,-0.38117,loser,9,2026-10-20
-pax-gold,PAX Gold,paxg,4125.98,-0.28455,loser,10,2026-10-20
+zcash,Zcash,zec,1263.34,10.79677,gainer,1,2026-10-21
+akedo,Akedo,ake,0.0332477,9.79178,gainer,2,2026-10-21
+pyth-network,Pyth Network,pyth,0.079357,9.68713,gainer,3,2026-10-21
+worldcoin-wld,Worldcoin,wld,0.583977,9.52897,gainer,4,2026-10-21
+aptos,Aptos,apt,0.824041,8.79918,gainer,5,2026-10-21
+pearl-2,Pearl,pearl,2.14,8.57908,gainer,6,2026-10-21
+kaspa,Kaspa,kas,0.03751866,8.44208,gainer,7,2026-10-21
+rain,Rain,rain,0.00947083,8.25448,gainer,8,2026-10-21
+pump-fun,Pump.fun,pump,0.00475059,8.21686,gainer,9,2026-10-21
+lighter,Lighter,lit,3.37,8.13463,gainer,10,2026-10-21
+morpho,Morpho,morpho,2.31,-5.94568,loser,1,2026-10-21
+arbitrum,Arbitrum,arb,0.191938,-3.78863,loser,2,2026-10-21
+monero,Monero,xmr,580.16,-3.07497,loser,3,2026-10-21
+cosmos,Cosmos Hub,atom,1.74,-1.71002,loser,4,2026-10-21
+xdce-crowd-sale,XDC Network,xdc,0.03226539,-0.8197,loser,5,2026-10-21
+the-open-network,Gram (prev. Toncoin),gram,1.35,-0.42697,loser,6,2026-10-21
+kucoin-shares,KuCoin,kcs,7.37,-0.39144,loser,7,2026-10-21
+tether-gold,Tether Gold,xaut,4117.27,-0.35055,loser,8,2026-10-21
+canton-network,Canton,cc,0.105476,-0.3127,loser,9,2026-10-21
+pax-gold,PAX Gold,paxg,4122.82,-0.23271,loser,10,2026-10-21
