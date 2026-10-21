@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.0362175,19.18985,gainer,1,2026-10-21
-pearl-2,Pearl,pearl,2.33,18.66497,gainer,2,2026-10-21
-zcash,Zcash,zec,1275.46,12.36974,gainer,3,2026-10-21
-rain,Rain,rain,0.0092565,12.25355,gainer,4,2026-10-21
-ethena,Ethena,ena,0.20608,11.55617,gainer,5,2026-10-21
-near,NEAR Protocol,near,5.17,10.95938,gainer,6,2026-10-21
-kaspa,Kaspa,kas,0.03867365,10.83358,gainer,7,2026-10-21
-pyth-network,Pyth Network,pyth,0.080073,10.32232,gainer,8,2026-10-21
-pepe,Pepe,pepe,4.57e-06,9.70974,gainer,9,2026-10-21
-worldcoin-wld,Worldcoin,wld,0.581762,9.45591,gainer,10,2026-10-21
-morpho,Morpho,morpho,2.34,-3.17842,loser,1,2026-10-21
-memecore,MemeCore,m,0.761986,-2.81767,loser,2,2026-10-21
-monero,Monero,xmr,596.59,-2.39705,loser,3,2026-10-21
-bitway,Bitway,btw,1.75,-2.32132,loser,4,2026-10-21
-tron,TRON,trx,0.330734,-0.43588,loser,5,2026-10-21
-just,JUST,jst,0.140303,-0.32248,loser,6,2026-10-21
-usdd,USDD,usdd,0.997871,-0.0919,loser,7,2026-10-21
-usd-coin,USDC,usdc,0.999437,-0.04296,loser,8,2026-10-21
-ethena-usde,Ethena USDe,usde,0.999253,-0.04261,loser,9,2026-10-21
-usdgo,USDGO,usdgo,1.0,-0.02179,loser,10,2026-10-21
+ethena,Ethena,ena,0.220725,15.83504,gainer,1,2026-10-21
+lighter,Lighter,lit,3.5,12.64505,gainer,2,2026-10-21
+zcash,Zcash,zec,1338.38,12.59249,gainer,3,2026-10-21
+near,NEAR Protocol,near,5.41,11.89179,gainer,4,2026-10-21
+blockstack,Stacks,stx,0.374218,10.0462,gainer,5,2026-10-21
+pump-fun,Pump.fun,pump,0.00495305,9.78042,gainer,6,2026-10-21
+venice-token,Venice Token,vvv,27.73,9.28356,gainer,7,2026-10-21
+xdce-crowd-sale,XDC Network,xdc,0.03529414,9.0689,gainer,8,2026-10-21
+midnight-3,Midnight,night,0.04313138,8.88394,gainer,9,2026-10-21
+layerzero,LayerZero,zro,2.09,8.24143,gainer,10,2026-10-21
+bitway,Bitway,btw,1.42,-24.13892,loser,1,2026-10-21
+monero,Monero,xmr,596.94,-3.75151,loser,2,2026-10-21
+memecore,MemeCore,m,0.765465,-1.05071,loser,3,2026-10-21
+open-usd,Open USD,ousd,0.998786,-0.08805,loser,4,2026-10-21
+htx-dao,HTX DAO,htx,1.65e-06,-0.05099,loser,5,2026-10-21
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,-0.04288,loser,6,2026-10-21
+usdgo,USDGO,usdgo,1.0,-0.01993,loser,7,2026-10-21
+usd-coin,USDC,usdc,0.999618,-0.01898,loser,8,2026-10-21
+dai,Dai,dai,1.0,-0.00241,loser,9,2026-10-21
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,10,2026-10-21
