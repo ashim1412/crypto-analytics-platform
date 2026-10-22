@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.8,27.95479,gainer,1,2026-10-22
-memecore,MemeCore,m,0.898268,17.38909,gainer,2,2026-10-22
-akedo,Akedo,ake,0.03053203,15.36088,gainer,3,2026-10-22
-lighter,Lighter,lit,3.62,3.18609,gainer,4,2026-10-22
-monero,Monero,xmr,615.21,3.09425,gainer,5,2026-10-22
-figure-heloc,Figure Heloc,figr_heloc,1.03,0.51089,gainer,6,2026-10-22
-falcon-finance,Falcon USD,usdf,0.995914,0.08462,gainer,7,2026-10-22
-open-usd,Open USD,ousd,0.999043,0.04434,gainer,8,2026-10-22
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.03175,gainer,9,2026-10-22
-usdd,USDD,usdd,0.999121,0.031,gainer,10,2026-10-22
-layerzero,LayerZero,zro,1.78,-15.06216,loser,1,2026-10-22
-ethena,Ethena,ena,0.198328,-10.49306,loser,2,2026-10-22
-filecoin,Filecoin,fil,0.959866,-10.03347,loser,3,2026-10-22
-blockstack,Stacks,stx,0.336106,-10.01573,loser,4,2026-10-22
-midnight-3,Midnight,night,0.03897002,-9.66849,loser,5,2026-10-22
-injective-protocol,Injective,inj,7.96,-9.05905,loser,6,2026-10-22
-near,NEAR Protocol,near,4.95,-8.95812,loser,7,2026-10-22
-zcash,Zcash,zec,1235.45,-8.06848,loser,8,2026-10-22
-ether-fi,Ether.fi,ethfi,0.663341,-8.05021,loser,9,2026-10-22
-venice-token,Venice Token,vvv,25.61,-7.8123,loser,10,2026-10-22
+akedo,Akedo,ake,0.03089944,19.25971,gainer,1,2026-10-22
+memecore,MemeCore,m,0.853569,14.35591,gainer,2,2026-10-22
+beldex,Beldex,bdx,0.076927,4.24699,gainer,3,2026-10-22
+figure-heloc,Figure Heloc,figr_heloc,1.041,1.48181,gainer,4,2026-10-22
+just,JUST,jst,0.139582,0.23776,gainer,5,2026-10-22
+dai,Dai,dai,0.999799,0.06604,gainer,6,2026-10-22
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.25,0.01001,gainer,7,2026-10-22
+hashnote-usyc,Circle USYC,usyc,1.14,0.00926,gainer,8,2026-10-22
+usdgo,USDGO,usdgo,1.0,0.00533,gainer,9,2026-10-22
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,gainer,10,2026-10-22
+blockstack,Stacks,stx,0.323796,-12.95013,loser,1,2026-10-22
+canton-network,Canton,cc,0.101558,-11.8412,loser,2,2026-10-22
+layerzero,LayerZero,zro,1.79,-10.68103,loser,3,2026-10-22
+quant-network,Quant,qnt,187.1,-10.56318,loser,4,2026-10-22
+filecoin,Filecoin,fil,0.962686,-10.49618,loser,5,2026-10-22
+pump-fun,Pump.fun,pump,0.00458183,-10.45588,loser,6,2026-10-22
+zcash,Zcash,zec,1210.96,-10.06844,loser,7,2026-10-22
+ether-fi,Ether.fi,ethfi,0.652308,-9.85914,loser,8,2026-10-22
+midnight-3,Midnight,night,0.03853506,-9.27824,loser,9,2026-10-22
+render-token,Render,render,1.75,-9.01961,loser,10,2026-10-22
