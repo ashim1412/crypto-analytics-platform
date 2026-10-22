@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,3.81,12.38527,gainer,1,2026-10-22
-pearl-2,Pearl,pearl,2.36,10.9772,gainer,2,2026-10-22
-xdce-crowd-sale,XDC Network,xdc,0.03509639,8.83845,gainer,3,2026-10-22
-pump-fun,Pump.fun,pump,0.00507978,6.22001,gainer,4,2026-10-22
-monero,Monero,xmr,612.12,5.82187,gainer,5,2026-10-22
-venice-token,Venice Token,vvv,27.45,5.69828,gainer,6,2026-10-22
-ethena,Ethena,ena,0.209884,5.64017,gainer,7,2026-10-22
-mantle,Mantle,mnt,0.560116,4.44106,gainer,8,2026-10-22
-quant-network,Quant,qnt,205.42,4.35753,gainer,9,2026-10-22
-near,NEAR Protocol,near,5.2,4.16367,gainer,10,2026-10-22
-bitway,Bitway,btw,1.71,-17.44621,loser,1,2026-10-22
-injective-protocol,Injective,inj,8.47,-7.95517,loser,2,2026-10-22
-rain,Rain,rain,0.00900267,-5.1145,loser,3,2026-10-22
-aerodrome-finance,Aerodrome Finance,aero,0.821058,-4.49514,loser,4,2026-10-22
-layerzero,LayerZero,zro,1.93,-4.31148,loser,5,2026-10-22
-uniswap,Uniswap,uni,7.36,-3.10932,loser,6,2026-10-22
-internet-computer,Internet Computer,icp,2.85,-2.86606,loser,7,2026-10-22
-avalanche-2,Avalanche,avax,9.47,-2.72962,loser,8,2026-10-22
-memecore,MemeCore,m,0.753787,-2.62701,loser,9,2026-10-22
-arbitrum,Arbitrum,arb,0.187392,-2.55324,loser,10,2026-10-22
+memecore,MemeCore,m,0.885173,15.73079,gainer,1,2026-10-22
+lighter,Lighter,lit,3.69,9.27592,gainer,2,2026-10-22
+monero,Monero,xmr,647.29,8.71085,gainer,3,2026-10-22
+venice-token,Venice Token,vvv,27.59,6.61191,gainer,4,2026-10-22
+bitway,Bitway,btw,1.81,3.17783,gainer,5,2026-10-22
+xdce-crowd-sale,XDC Network,xdc,0.0353545,2.49804,gainer,6,2026-10-22
+dash,Dash,dash,51.24,0.78107,gainer,7,2026-10-22
+figure-heloc,Figure Heloc,figr_heloc,1.029,0.42153,gainer,8,2026-10-22
+just,JUST,jst,0.140723,0.26523,gainer,9,2026-10-22
+kucoin-shares,KuCoin,kcs,7.38,0.25279,gainer,10,2026-10-22
+akedo,Akedo,ake,0.02851658,-21.36582,loser,1,2026-10-22
+blockstack,Stacks,stx,0.337869,-7.48958,loser,2,2026-10-22
+layerzero,LayerZero,zro,1.86,-7.47981,loser,3,2026-10-22
+injective-protocol,Injective,inj,8.12,-7.19379,loser,4,2026-10-22
+ether-fi,Ether.fi,ethfi,0.667069,-6.89736,loser,5,2026-10-22
+aptos,Aptos,apt,0.776983,-5.97472,loser,6,2026-10-22
+worldcoin-wld,Worldcoin,wld,0.549425,-5.72145,loser,7,2026-10-22
+rain,Rain,rain,0.00876941,-5.40969,loser,8,2026-10-22
+arbitrum,Arbitrum,arb,0.182008,-5.17363,loser,9,2026-10-22
+uniswap,Uniswap,uni,7.1,-4.94519,loser,10,2026-10-22
