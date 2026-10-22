@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.885173,15.73079,gainer,1,2026-10-22
-lighter,Lighter,lit,3.69,9.27592,gainer,2,2026-10-22
-monero,Monero,xmr,647.29,8.71085,gainer,3,2026-10-22
-venice-token,Venice Token,vvv,27.59,6.61191,gainer,4,2026-10-22
-bitway,Bitway,btw,1.81,3.17783,gainer,5,2026-10-22
-xdce-crowd-sale,XDC Network,xdc,0.0353545,2.49804,gainer,6,2026-10-22
-dash,Dash,dash,51.24,0.78107,gainer,7,2026-10-22
-figure-heloc,Figure Heloc,figr_heloc,1.029,0.42153,gainer,8,2026-10-22
-just,JUST,jst,0.140723,0.26523,gainer,9,2026-10-22
-kucoin-shares,KuCoin,kcs,7.38,0.25279,gainer,10,2026-10-22
-akedo,Akedo,ake,0.02851658,-21.36582,loser,1,2026-10-22
-blockstack,Stacks,stx,0.337869,-7.48958,loser,2,2026-10-22
-layerzero,LayerZero,zro,1.86,-7.47981,loser,3,2026-10-22
-injective-protocol,Injective,inj,8.12,-7.19379,loser,4,2026-10-22
-ether-fi,Ether.fi,ethfi,0.667069,-6.89736,loser,5,2026-10-22
-aptos,Aptos,apt,0.776983,-5.97472,loser,6,2026-10-22
-worldcoin-wld,Worldcoin,wld,0.549425,-5.72145,loser,7,2026-10-22
-rain,Rain,rain,0.00876941,-5.40969,loser,8,2026-10-22
-arbitrum,Arbitrum,arb,0.182008,-5.17363,loser,9,2026-10-22
-uniswap,Uniswap,uni,7.1,-4.94519,loser,10,2026-10-22
+bitway,Bitway,btw,1.8,27.95479,gainer,1,2026-10-22
+memecore,MemeCore,m,0.898268,17.38909,gainer,2,2026-10-22
+akedo,Akedo,ake,0.03053203,15.36088,gainer,3,2026-10-22
+lighter,Lighter,lit,3.62,3.18609,gainer,4,2026-10-22
+monero,Monero,xmr,615.21,3.09425,gainer,5,2026-10-22
+figure-heloc,Figure Heloc,figr_heloc,1.03,0.51089,gainer,6,2026-10-22
+falcon-finance,Falcon USD,usdf,0.995914,0.08462,gainer,7,2026-10-22
+open-usd,Open USD,ousd,0.999043,0.04434,gainer,8,2026-10-22
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.03175,gainer,9,2026-10-22
+usdd,USDD,usdd,0.999121,0.031,gainer,10,2026-10-22
+layerzero,LayerZero,zro,1.78,-15.06216,loser,1,2026-10-22
+ethena,Ethena,ena,0.198328,-10.49306,loser,2,2026-10-22
+filecoin,Filecoin,fil,0.959866,-10.03347,loser,3,2026-10-22
+blockstack,Stacks,stx,0.336106,-10.01573,loser,4,2026-10-22
+midnight-3,Midnight,night,0.03897002,-9.66849,loser,5,2026-10-22
+injective-protocol,Injective,inj,7.96,-9.05905,loser,6,2026-10-22
+near,NEAR Protocol,near,4.95,-8.95812,loser,7,2026-10-22
+zcash,Zcash,zec,1235.45,-8.06848,loser,8,2026-10-22
+ether-fi,Ether.fi,ethfi,0.663341,-8.05021,loser,9,2026-10-22
+venice-token,Venice Token,vvv,25.61,-7.8123,loser,10,2026-10-22
