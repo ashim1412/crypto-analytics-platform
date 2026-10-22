@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,3.82,12.70473,gainer,1,2026-10-21
-pearl-2,Pearl,pearl,2.34,12.16888,gainer,2,2026-10-21
-ethena,Ethena,ena,0.217531,10.66877,gainer,3,2026-10-21
-xdce-crowd-sale,XDC Network,xdc,0.03564871,10.63366,gainer,4,2026-10-21
-canton-network,Canton,cc,0.115114,9.64875,gainer,5,2026-10-21
-zcash,Zcash,zec,1346.41,8.43347,gainer,6,2026-10-21
-venice-token,Venice Token,vvv,27.1,7.40724,gainer,7,2026-10-21
-midnight-3,Midnight,night,0.04245027,6.75794,gainer,8,2026-10-21
-vechain,VeChain,vet,0.00757221,6.60553,gainer,9,2026-10-21
-quant-network,Quant,qnt,209.22,6.57245,gainer,10,2026-10-21
-aerodrome-finance,Aerodrome Finance,aero,0.829524,-4.14844,loser,1,2026-10-21
-memecore,MemeCore,m,0.746414,-2.60189,loser,2,2026-10-21
-bitway,Bitway,btw,1.65,-2.41052,loser,3,2026-10-21
-worldcoin-wld,Worldcoin,wld,0.574818,-2.28675,loser,4,2026-10-21
-aptos,Aptos,apt,0.83035,-0.56277,loser,5,2026-10-21
-rain,Rain,rain,0.00915209,-0.48881,loser,6,2026-10-21
-monero,Monero,xmr,616.87,-0.31234,loser,7,2026-10-21
-just,JUST,jst,0.139275,-0.22979,loser,8,2026-10-21
-figure-heloc,Figure Heloc,figr_heloc,1.026,-0.13488,loser,9,2026-10-21
-aster-2,Aster,aster,0.715514,-0.12101,loser,10,2026-10-21
+lighter,Lighter,lit,3.81,12.38527,gainer,1,2026-10-22
+pearl-2,Pearl,pearl,2.36,10.9772,gainer,2,2026-10-22
+xdce-crowd-sale,XDC Network,xdc,0.03509639,8.83845,gainer,3,2026-10-22
+pump-fun,Pump.fun,pump,0.00507978,6.22001,gainer,4,2026-10-22
+monero,Monero,xmr,612.12,5.82187,gainer,5,2026-10-22
+venice-token,Venice Token,vvv,27.45,5.69828,gainer,6,2026-10-22
+ethena,Ethena,ena,0.209884,5.64017,gainer,7,2026-10-22
+mantle,Mantle,mnt,0.560116,4.44106,gainer,8,2026-10-22
+quant-network,Quant,qnt,205.42,4.35753,gainer,9,2026-10-22
+near,NEAR Protocol,near,5.2,4.16367,gainer,10,2026-10-22
+bitway,Bitway,btw,1.71,-17.44621,loser,1,2026-10-22
+injective-protocol,Injective,inj,8.47,-7.95517,loser,2,2026-10-22
+rain,Rain,rain,0.00900267,-5.1145,loser,3,2026-10-22
+aerodrome-finance,Aerodrome Finance,aero,0.821058,-4.49514,loser,4,2026-10-22
+layerzero,LayerZero,zro,1.93,-4.31148,loser,5,2026-10-22
+uniswap,Uniswap,uni,7.36,-3.10932,loser,6,2026-10-22
+internet-computer,Internet Computer,icp,2.85,-2.86606,loser,7,2026-10-22
+avalanche-2,Avalanche,avax,9.47,-2.72962,loser,8,2026-10-22
+memecore,MemeCore,m,0.753787,-2.62701,loser,9,2026-10-22
+arbitrum,Arbitrum,arb,0.187392,-2.55324,loser,10,2026-10-22
