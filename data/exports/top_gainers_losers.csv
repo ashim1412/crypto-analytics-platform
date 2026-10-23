@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.03333768,15.67956,gainer,1,2026-10-23
-pepe,Pepe,pepe,4.96e-06,10.93244,gainer,2,2026-10-23
-polkadot,Polkadot,dot,1.18,5.29772,gainer,3,2026-10-23
-cosmos,Cosmos Hub,atom,1.78,5.12563,gainer,4,2026-10-23
-memecore,MemeCore,m,0.897216,3.53311,gainer,5,2026-10-23
-bitcoin-cash,Bitcoin Cash,bch,285.22,3.27658,gainer,6,2026-10-23
-dash,Dash,dash,52.81,3.09965,gainer,7,2026-10-23
-vechain,VeChain,vet,0.00732454,2.39727,gainer,8,2026-10-23
-binancecoin,BNB,bnb,747.29,1.74741,gainer,9,2026-10-23
-morpho,Morpho,morpho,2.3,1.70373,gainer,10,2026-10-23
-lighter,Lighter,lit,3.38,-8.98786,loser,1,2026-10-23
-pearl-2,Pearl,pearl,2.08,-7.75795,loser,2,2026-10-23
-quant-network,Quant,qnt,182.69,-6.82763,loser,3,2026-10-23
-blockstack,Stacks,stx,0.318819,-5.87988,loser,4,2026-10-23
-monero,Monero,xmr,610.51,-5.61878,loser,5,2026-10-23
-pump-fun,Pump.fun,pump,0.00457537,-5.07838,loser,6,2026-10-23
-venice-token,Venice Token,vvv,26.32,-4.96547,loser,7,2026-10-23
-render-token,Render,render,1.77,-3.94138,loser,8,2026-10-23
-layerzero,LayerZero,zro,1.79,-3.9072,loser,9,2026-10-23
-zcash,Zcash,zec,1212.88,-3.70854,loser,10,2026-10-23
+akedo,Akedo,ake,0.03489102,13.48786,gainer,1,2026-10-23
+pepe,Pepe,pepe,4.87e-06,9.79525,gainer,2,2026-10-23
+dash,Dash,dash,53.77,6.94991,gainer,3,2026-10-23
+cosmos,Cosmos Hub,atom,1.79,5.58468,gainer,4,2026-10-23
+vechain,VeChain,vet,0.00736355,4.68316,gainer,5,2026-10-23
+bitcoin-cash,Bitcoin Cash,bch,286.83,4.40194,gainer,6,2026-10-23
+ethena,Ethena,ena,0.206682,4.09233,gainer,7,2026-10-23
+shiba-inu,Shiba Inu,shib,5.12e-06,2.62269,gainer,8,2026-10-23
+canton-network,Canton,cc,0.104901,2.59322,gainer,9,2026-10-23
+binancecoin,BNB,bnb,747.62,2.35212,gainer,10,2026-10-23
+lighter,Lighter,lit,3.32,-8.16376,loser,1,2026-10-23
+aerodrome-finance,Aerodrome Finance,aero,0.744651,-7.44855,loser,2,2026-10-23
+blockstack,Stacks,stx,0.318686,-5.42692,loser,3,2026-10-23
+pearl-2,Pearl,pearl,1.98,-5.254,loser,4,2026-10-23
+quant-network,Quant,qnt,182.44,-4.35187,loser,5,2026-10-23
+bitway,Bitway,btw,1.74,-3.65376,loser,6,2026-10-23
+rain,Rain,rain,0.00836192,-3.63334,loser,7,2026-10-23
+world-liberty-financial,World Liberty Financial,wlfi,0.053094,-3.46479,loser,8,2026-10-23
+render-token,Render,render,1.77,-2.5958,loser,9,2026-10-23
+sky,Sky,sky,0.072633,-2.47043,loser,10,2026-10-23
