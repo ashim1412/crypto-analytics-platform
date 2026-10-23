@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-akedo,Akedo,ake,0.03250163,43.19986,gainer,1,2026-10-23
-memecore,MemeCore,m,0.8761,16.25953,gainer,2,2026-10-23
-bitway,Bitway,btw,1.87,10.27307,gainer,3,2026-10-23
-beldex,Beldex,bdx,0.079607,8.32266,gainer,4,2026-10-23
-dash,Dash,dash,55.06,7.37678,gainer,5,2026-10-23
-polkadot,Polkadot,dot,1.16,2.50438,gainer,6,2026-10-23
-cosmos,Cosmos Hub,atom,1.76,2.27015,gainer,7,2026-10-23
-falcon-finance,Falcon USD,usdf,0.994842,0.04565,gainer,8,2026-10-23
-dai,Dai,dai,0.99997,0.04,gainer,9,2026-10-23
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.25,0.01001,gainer,10,2026-10-23
-lighter,Lighter,lit,3.43,-8.98809,loser,1,2026-10-23
-pump-fun,Pump.fun,pump,0.00461068,-8.94118,loser,2,2026-10-23
-midnight-3,Midnight,night,0.03801466,-7.75334,loser,3,2026-10-23
-layerzero,LayerZero,zro,1.79,-7.69543,loser,4,2026-10-23
-quant-network,Quant,qnt,189.12,-7.66988,loser,5,2026-10-23
-ether-fi,Ether.fi,ethfi,0.647781,-7.52074,loser,6,2026-10-23
-pearl-2,Pearl,pearl,2.19,-7.50169,loser,7,2026-10-23
-zcash,Zcash,zec,1215.77,-6.78147,loser,8,2026-10-23
-aptos,Aptos,apt,0.76551,-6.43099,loser,9,2026-10-23
-render-token,Render,render,1.76,-6.37844,loser,10,2026-10-23
+akedo,Akedo,ake,0.03333768,15.67956,gainer,1,2026-10-23
+pepe,Pepe,pepe,4.96e-06,10.93244,gainer,2,2026-10-23
+polkadot,Polkadot,dot,1.18,5.29772,gainer,3,2026-10-23
+cosmos,Cosmos Hub,atom,1.78,5.12563,gainer,4,2026-10-23
+memecore,MemeCore,m,0.897216,3.53311,gainer,5,2026-10-23
+bitcoin-cash,Bitcoin Cash,bch,285.22,3.27658,gainer,6,2026-10-23
+dash,Dash,dash,52.81,3.09965,gainer,7,2026-10-23
+vechain,VeChain,vet,0.00732454,2.39727,gainer,8,2026-10-23
+binancecoin,BNB,bnb,747.29,1.74741,gainer,9,2026-10-23
+morpho,Morpho,morpho,2.3,1.70373,gainer,10,2026-10-23
+lighter,Lighter,lit,3.38,-8.98786,loser,1,2026-10-23
+pearl-2,Pearl,pearl,2.08,-7.75795,loser,2,2026-10-23
+quant-network,Quant,qnt,182.69,-6.82763,loser,3,2026-10-23
+blockstack,Stacks,stx,0.318819,-5.87988,loser,4,2026-10-23
+monero,Monero,xmr,610.51,-5.61878,loser,5,2026-10-23
+pump-fun,Pump.fun,pump,0.00457537,-5.07838,loser,6,2026-10-23
+venice-token,Venice Token,vvv,26.32,-4.96547,loser,7,2026-10-23
+render-token,Render,render,1.77,-3.94138,loser,8,2026-10-23
+layerzero,LayerZero,zro,1.79,-3.9072,loser,9,2026-10-23
+zcash,Zcash,zec,1212.88,-3.70854,loser,10,2026-10-23
