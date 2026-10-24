@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,1.002,11.87222,gainer,1,2026-10-24
-just,JUST,jst,0.140521,0.52708,gainer,2,2026-10-24
-open-usd,Open USD,ousd,0.999887,0.21403,gainer,3,2026-10-24
-leo-token,LEO Token,leo,9.04,0.1155,gainer,4,2026-10-24
-dai,Dai,dai,1.0,0.03919,gainer,5,2026-10-24
-ethena-usde,Ethena USDe,usde,0.999505,0.01647,gainer,6,2026-10-24
-falcon-finance,Falcon USD,usdf,0.994811,0.01593,gainer,7,2026-10-24
-usd-coin,USDC,usdc,0.999689,0.01551,gainer,8,2026-10-24
-ripple-usd,Ripple USD,rlusd,1.0,0.01437,gainer,9,2026-10-24
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.01409,gainer,10,2026-10-24
-akedo,Akedo,ake,0.02892965,-15.96029,loser,1,2026-10-24
-worldcoin-wld,Worldcoin,wld,0.46376,-13.08087,loser,2,2026-10-24
-near,NEAR Protocol,near,4.36,-10.91858,loser,3,2026-10-24
-pepe,Pepe,pepe,4.33e-06,-10.74052,loser,4,2026-10-24
-pearl-2,Pearl,pearl,1.82,-10.05491,loser,5,2026-10-24
-pump-fun,Pump.fun,pump,0.00413802,-9.95695,loser,6,2026-10-24
-cosmos,Cosmos Hub,atom,1.63,-9.21069,loser,7,2026-10-24
-jupiter-exchange-solana,Jupiter,jup,0.28246,-8.87298,loser,8,2026-10-24
-ethena,Ethena,ena,0.18754,-8.65536,loser,9,2026-10-24
-lighter,Lighter,lit,3.09,-8.37773,loser,10,2026-10-24
+beldex,Beldex,bdx,0.077273,5.1985,gainer,1,2026-10-24
+memecore,MemeCore,m,0.917523,3.37179,gainer,2,2026-10-24
+rain,Rain,rain,0.00845108,2.19014,gainer,3,2026-10-24
+monero,Monero,xmr,604.8,1.44969,gainer,4,2026-10-24
+figure-heloc,Figure Heloc,figr_heloc,1.032,0.86763,gainer,5,2026-10-24
+aster-2,Aster,aster,0.701812,0.3689,gainer,6,2026-10-24
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.08403,gainer,7,2026-10-24
+usdgo,USDGO,usdgo,1.0,0.03757,gainer,8,2026-10-24
+united-stables,United Stables,u,0.999318,0.02958,gainer,9,2026-10-24
+dai,Dai,dai,1.0,0.0289,gainer,10,2026-10-24
+akedo,Akedo,ake,0.03086635,-20.84955,loser,1,2026-10-24
+worldcoin-wld,Worldcoin,wld,0.463313,-10.80112,loser,2,2026-10-24
+ethena,Ethena,ena,0.187336,-9.88292,loser,3,2026-10-24
+pearl-2,Pearl,pearl,1.87,-8.77154,loser,4,2026-10-24
+aave,Aave,aave,136.16,-6.8961,loser,5,2026-10-24
+polkadot,Polkadot,dot,1.04,-6.76346,loser,6,2026-10-24
+aerodrome-finance,Aerodrome Finance,aero,0.697832,-6.28017,loser,7,2026-10-24
+near,NEAR Protocol,near,4.44,-6.11359,loser,8,2026-10-24
+arbitrum,Arbitrum,arb,0.16704,-6.0441,loser,9,2026-10-24
+cosmos,Cosmos Hub,atom,1.64,-5.98817,loser,10,2026-10-24
