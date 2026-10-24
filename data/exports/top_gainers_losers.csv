@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.933799,6.6049,gainer,1,2026-10-24
-akedo,Akedo,ake,0.0340296,4.67182,gainer,2,2026-10-24
-pepe,Pepe,pepe,4.52e-06,1.90956,gainer,3,2026-10-24
-midnight-3,Midnight,night,0.03846073,1.15712,gainer,4,2026-10-24
-gatechain-token,Gate,gt,10.01,1.07443,gainer,5,2026-10-24
-binancecoin,BNB,bnb,739.96,0.88419,gainer,6,2026-10-24
-aster-2,Aster,aster,0.703558,0.84512,gainer,7,2026-10-24
-just,JUST,jst,0.141032,0.72018,gainer,8,2026-10-24
-vechain,VeChain,vet,0.00719297,0.7077,gainer,9,2026-10-24
-canton-network,Canton,cc,0.102795,0.50032,gainer,10,2026-10-24
-worldcoin-wld,Worldcoin,wld,0.478874,-13.77089,loser,1,2026-10-24
-lighter,Lighter,lit,3.11,-9.62076,loser,2,2026-10-24
-pearl-2,Pearl,pearl,2.01,-8.1771,loser,3,2026-10-24
-pump-fun,Pump.fun,pump,0.00424234,-7.9794,loser,4,2026-10-24
-aerodrome-finance,Aerodrome Finance,aero,0.727994,-7.89723,loser,5,2026-10-24
-polkadot,Polkadot,dot,1.087,-6.24423,loser,6,2026-10-24
-near,NEAR Protocol,near,4.64,-6.02221,loser,7,2026-10-24
-the-open-network,Gram (prev. Toncoin),gram,1.23,-5.79534,loser,8,2026-10-24
-arbitrum,Arbitrum,arb,0.17062,-5.54547,loser,9,2026-10-24
-dash,Dash,dash,52.06,-5.45967,loser,10,2026-10-24
+memecore,MemeCore,m,1.065,20.80097,gainer,1,2026-10-24
+just,JUST,jst,0.141093,0.63724,gainer,2,2026-10-24
+tron,TRON,trx,0.329712,0.1301,gainer,3,2026-10-24
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.07012,gainer,4,2026-10-24
+open-usd,Open USD,ousd,0.999365,0.06655,gainer,5,2026-10-24
+gho,GHO,gho,0.998423,0.04797,gainer,6,2026-10-24
+hashnote-usyc,Circle USYC,usyc,1.14,0.03019,gainer,7,2026-10-24
+ethena-usde,Ethena USDe,usde,0.999481,0.0237,gainer,8,2026-10-24
+paypal-usd,PayPal USD,pyusd,1.0,0.02099,gainer,9,2026-10-24
+global-dollar,Global Dollar,usdg,1.0,0.01839,gainer,10,2026-10-24
+worldcoin-wld,Worldcoin,wld,0.466858,-13.21164,loser,1,2026-10-24
+pepe,Pepe,pepe,4.33e-06,-11.72467,loser,2,2026-10-24
+polkadot,Polkadot,dot,1.057,-10.92462,loser,3,2026-10-24
+near,NEAR Protocol,near,4.43,-9.94252,loser,4,2026-10-24
+aerodrome-finance,Aerodrome Finance,aero,0.710674,-9.19973,loser,5,2026-10-24
+lighter,Lighter,lit,3.08,-9.02767,loser,6,2026-10-24
+pump-fun,Pump.fun,pump,0.00418819,-8.37046,loser,7,2026-10-24
+cosmos,Cosmos Hub,atom,1.65,-8.02626,loser,8,2026-10-24
+venice-token,Venice Token,vvv,24.22,-7.7844,loser,9,2026-10-24
+aptos,Aptos,apt,0.715403,-6.96729,loser,10,2026-10-24
