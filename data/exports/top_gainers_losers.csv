@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-monero,Monero,xmr,614.64,6.24537,gainer,1,2026-10-25
-lighter,Lighter,lit,3.28,5.7792,gainer,2,2026-10-25
-figure-heloc,Figure Heloc,figr_heloc,1.063,4.16124,gainer,3,2026-10-25
-zcash,Zcash,zec,1216.18,3.41821,gainer,4,2026-10-25
-pump-fun,Pump.fun,pump,0.00431987,2.32195,gainer,5,2026-10-25
-layerzero,LayerZero,zro,1.73,1.72739,gainer,6,2026-10-25
-the-open-network,Gram (prev. Toncoin),gram,1.25,1.53387,gainer,7,2026-10-25
-aster-2,Aster,aster,0.713117,1.51809,gainer,8,2026-10-25
-ripple,XRP,xrp,1.3,1.12876,gainer,9,2026-10-25
-beldex,Beldex,bdx,0.075442,0.71982,gainer,10,2026-10-25
-akedo,Akedo,ake,0.03165281,-9.58594,loser,1,2026-10-25
-pearl-2,Pearl,pearl,1.85,-8.00344,loser,2,2026-10-25
-vechain,VeChain,vet,0.00683103,-4.85207,loser,3,2026-10-25
-morpho,Morpho,morpho,2.13,-4.73413,loser,4,2026-10-25
-aave,Aave,aave,137.5,-4.71577,loser,5,2026-10-25
-ether-fi,Ether.fi,ethfi,0.617131,-4.5447,loser,6,2026-10-25
-aerodrome-finance,Aerodrome Finance,aero,0.695513,-4.44182,loser,7,2026-10-25
-jupiter-exchange-solana,Jupiter,jup,0.287911,-3.92482,loser,8,2026-10-25
-cosmos,Cosmos Hub,atom,1.63,-3.42418,loser,9,2026-10-25
-near,NEAR Protocol,near,4.49,-3.21886,loser,10,2026-10-25
+lighter,Lighter,lit,3.2,3.56053,gainer,1,2026-10-25
+zcash,Zcash,zec,1189.87,3.35772,gainer,2,2026-10-25
+monero,Monero,xmr,604.58,3.07989,gainer,3,2026-10-25
+nexo,NEXO,nexo,0.81169,2.14363,gainer,4,2026-10-25
+aster-2,Aster,aster,0.701569,1.56108,gainer,5,2026-10-25
+layerzero,LayerZero,zro,1.72,1.48526,gainer,6,2026-10-25
+ripple,XRP,xrp,1.29,1.30755,gainer,7,2026-10-25
+quant-network,Quant,qnt,180.87,1.24815,gainer,8,2026-10-25
+binancecoin,BNB,bnb,737.67,0.79517,gainer,9,2026-10-25
+hyperliquid,Hyperliquid,hype,75.8,0.59378,gainer,10,2026-10-25
+memecore,MemeCore,m,0.926314,-12.29225,loser,1,2026-10-25
+pearl-2,Pearl,pearl,1.77,-11.07785,loser,2,2026-10-25
+worldcoin-wld,Worldcoin,wld,0.445687,-4.59097,loser,3,2026-10-25
+vechain,VeChain,vet,0.00672065,-4.45702,loser,4,2026-10-25
+ether-fi,Ether.fi,ethfi,0.605072,-4.13036,loser,5,2026-10-25
+xdce-crowd-sale,XDC Network,xdc,0.03216168,-4.12189,loser,6,2026-10-25
+jupiter-exchange-solana,Jupiter,jup,0.280885,-3.74918,loser,7,2026-10-25
+morpho,Morpho,morpho,2.08,-3.71007,loser,8,2026-10-25
+sui,Sui,sui,0.911853,-3.3852,loser,9,2026-10-25
+polkadot,Polkadot,dot,1.024,-3.32559,loser,10,2026-10-25
