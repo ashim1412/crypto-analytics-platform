@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-ethena,Ethena,ena,0.201532,7.92409,gainer,1,2026-10-25
-zcash,Zcash,zec,1213.31,7.37852,gainer,2,2026-10-25
-dash,Dash,dash,53.23,6.69884,gainer,3,2026-10-25
-rain,Rain,rain,0.00839884,6.16332,gainer,4,2026-10-25
-quant-network,Quant,qnt,185.6,6.08165,gainer,5,2026-10-25
-pearl-2,Pearl,pearl,1.92,4.82776,gainer,6,2026-10-25
-venice-token,Venice Token,vvv,24.63,3.94073,gainer,7,2026-10-25
-lighter,Lighter,lit,3.18,3.67473,gainer,8,2026-10-25
-layerzero,LayerZero,zro,1.74,3.6514,gainer,9,2026-10-25
-near,NEAR Protocol,near,4.51,3.47032,gainer,10,2026-10-25
-memecore,MemeCore,m,0.930429,-4.64263,loser,1,2026-10-25
-xdce-crowd-sale,XDC Network,xdc,0.03151783,-4.40966,loser,2,2026-10-25
-akedo,Akedo,ake,0.02860832,-3.34708,loser,3,2026-10-25
-bitway,Bitway,btw,1.72,-2.71892,loser,4,2026-10-25
-morpho,Morpho,morpho,2.08,-2.42756,loser,5,2026-10-25
-worldcoin-wld,Worldcoin,wld,0.45378,-1.7128,loser,6,2026-10-25
-polkadot,Polkadot,dot,1.034,-0.73091,loser,7,2026-10-25
-sui,Sui,sui,0.916104,-0.63425,loser,8,2026-10-25
-pi-network,Pi Network,pi,0.076121,-0.61167,loser,9,2026-10-25
-leo-token,LEO Token,leo,8.99,-0.53115,loser,10,2026-10-25
+ethena,Ethena,ena,0.206108,9.21939,gainer,1,2026-10-25
+quant-network,Quant,qnt,194.89,8.73835,gainer,2,2026-10-25
+pyth-network,Pyth Network,pyth,0.075102,7.45649,gainer,3,2026-10-25
+injective-protocol,Injective,inj,8.04,6.07423,gainer,4,2026-10-25
+venice-token,Venice Token,vvv,25.57,5.22178,gainer,5,2026-10-25
+mantle,Mantle,mnt,0.522876,2.98679,gainer,6,2026-10-25
+uniswap,Uniswap,uni,6.97,2.5333,gainer,7,2026-10-25
+layerzero,LayerZero,zro,1.78,2.52526,gainer,8,2026-10-25
+figure-heloc,Figure Heloc,figr_heloc,1.056,2.21674,gainer,9,2026-10-25
+ether-fi,Ether.fi,ethfi,0.629499,2.04002,gainer,10,2026-10-25
+xdce-crowd-sale,XDC Network,xdc,0.03146119,-3.68881,loser,1,2026-10-25
+bitway,Bitway,btw,1.68,-3.08134,loser,2,2026-10-25
+pepe,Pepe,pepe,4.35e-06,-3.06004,loser,3,2026-10-25
+worldcoin-wld,Worldcoin,wld,0.4549,-2.43955,loser,4,2026-10-25
+pi-network,Pi Network,pi,0.075566,-2.08268,loser,5,2026-10-25
+morpho,Morpho,morpho,2.09,-2.08108,loser,6,2026-10-25
+monero,Monero,xmr,596.18,-2.02481,loser,7,2026-10-25
+rain,Rain,rain,0.00838931,-1.77005,loser,8,2026-10-25
+crypto-com-chain,Cronos,cro,0.05454,-1.53915,loser,9,2026-10-25
+sui,Sui,sui,0.925612,-1.33284,loser,10,2026-10-25
