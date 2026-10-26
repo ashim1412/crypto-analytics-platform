@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-memecore,MemeCore,m,0.944623,5.37508,gainer,1,2026-10-26
-pyth-network,Pyth Network,pyth,0.074601,5.04923,gainer,2,2026-10-26
-quant-network,Quant,qnt,189.8,4.70191,gainer,3,2026-10-26
-ethena,Ethena,ena,0.204725,4.70074,gainer,4,2026-10-26
-rain,Rain,rain,0.00849675,3.45199,gainer,5,2026-10-26
-venice-token,Venice Token,vvv,24.98,1.07811,gainer,6,2026-10-26
-injective-protocol,Injective,inj,7.79,1.02218,gainer,7,2026-10-26
-layerzero,LayerZero,zro,1.75,0.95202,gainer,8,2026-10-26
-uniswap,Uniswap,uni,6.87,0.55059,gainer,9,2026-10-26
-near,NEAR Protocol,near,4.51,0.29347,gainer,10,2026-10-26
-bitway,Bitway,btw,1.62,-7.46347,loser,1,2026-10-26
-xdce-crowd-sale,XDC Network,xdc,0.03109644,-5.69811,loser,2,2026-10-26
-pepe,Pepe,pepe,4.25e-06,-5.60441,loser,3,2026-10-26
-worldcoin-wld,Worldcoin,wld,0.445295,-4.9983,loser,4,2026-10-26
-morpho,Morpho,morpho,2.03,-4.65131,loser,5,2026-10-26
-midnight-3,Midnight,night,0.03655201,-4.59384,loser,6,2026-10-26
-pearl-2,Pearl,pearl,1.77,-4.31218,loser,7,2026-10-26
-lighter,Lighter,lit,3.14,-4.08986,loser,8,2026-10-26
-monero,Monero,xmr,589.74,-4.07112,loser,9,2026-10-26
-pump-fun,Pump.fun,pump,0.00419102,-3.40462,loser,10,2026-10-26
+quant-network,Quant,qnt,220.43,22.23119,gainer,1,2026-10-26
+akedo,Akedo,ake,0.03171272,9.18864,gainer,2,2026-10-26
+memecore,MemeCore,m,1.005,7.64695,gainer,3,2026-10-26
+ethena,Ethena,ena,0.206063,7.2852,gainer,4,2026-10-26
+pyth-network,Pyth Network,pyth,0.075333,6.7542,gainer,5,2026-10-26
+xdce-crowd-sale,XDC Network,xdc,0.03386272,5.96297,gainer,6,2026-10-26
+uniswap,Uniswap,uni,7.02,5.20236,gainer,7,2026-10-26
+ether-fi,Ether.fi,ethfi,0.634939,4.99367,gainer,8,2026-10-26
+arbitrum,Arbitrum,arb,0.171429,4.38542,gainer,9,2026-10-26
+near,NEAR Protocol,near,4.57,4.10981,gainer,10,2026-10-26
+bitway,Bitway,btw,1.52,-11.27602,loser,1,2026-10-26
+morpho,Morpho,morpho,2.02,-2.61976,loser,2,2026-10-26
+monero,Monero,xmr,588.55,-2.54092,loser,3,2026-10-26
+lighter,Lighter,lit,3.1,-2.495,loser,4,2026-10-26
+the-open-network,Gram (prev. Toncoin),gram,1.22,-2.1193,loser,5,2026-10-26
+rain,Rain,rain,0.00809033,-2.06722,loser,6,2026-10-26
+nexo,NEXO,nexo,0.79785,-1.89013,loser,7,2026-10-26
+layerzero,LayerZero,zro,1.69,-1.28651,loser,8,2026-10-26
+pepe,Pepe,pepe,4.38e-06,-1.2829,loser,9,2026-10-26
+gatechain-token,Gate,gt,9.7,-1.23897,loser,10,2026-10-26
