@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.52,58.68258,gainer,1,2026-10-27
-memecore,MemeCore,m,1.05,9.17473,gainer,2,2026-10-27
-zcash,Zcash,zec,1302.44,5.57922,gainer,3,2026-10-27
-dash,Dash,dash,55.03,5.57088,gainer,4,2026-10-27
-ether-fi,Ether.fi,ethfi,0.664102,5.04265,gainer,5,2026-10-27
-morpho,Morpho,morpho,2.16,4.70568,gainer,6,2026-10-27
-bitcoin-cash,Bitcoin Cash,bch,289.78,4.00846,gainer,7,2026-10-27
-injective-protocol,Injective,inj,8.11,3.61152,gainer,8,2026-10-27
-aerodrome-finance,Aerodrome Finance,aero,0.702539,3.10448,gainer,9,2026-10-27
-venice-token,Venice Token,vvv,25.57,2.83684,gainer,10,2026-10-27
-rain,Rain,rain,0.00717729,-9.51015,loser,1,2026-10-27
-quant-network,Quant,qnt,198.71,-4.62061,loser,2,2026-10-27
-pearl-2,Pearl,pearl,1.74,-3.75042,loser,3,2026-10-27
-sky,Sky,sky,0.065386,-3.71431,loser,4,2026-10-27
-render-token,Render,render,1.68,-2.8909,loser,5,2026-10-27
-aave,Aave,aave,132.05,-2.33153,loser,6,2026-10-27
-crypto-com-chain,Cronos,cro,0.052681,-2.16116,loser,7,2026-10-27
-polkadot,Polkadot,dot,0.986511,-2.15863,loser,8,2026-10-27
-lighter,Lighter,lit,3.03,-2.13289,loser,9,2026-10-27
-world-liberty-financial,World Liberty Financial,wlfi,0.052286,-1.91769,loser,10,2026-10-27
+bitway,Bitway,btw,1.74,49.13125,gainer,1,2026-10-27
+memecore,MemeCore,m,1.063,11.88535,gainer,2,2026-10-27
+zcash,Zcash,zec,1294.93,5.80646,gainer,3,2026-10-27
+dash,Dash,dash,55.24,4.82129,gainer,4,2026-10-27
+pepe,Pepe,pepe,4.48e-06,4.65628,gainer,5,2026-10-27
+hyperliquid,Hyperliquid,hype,80.92,4.50241,gainer,6,2026-10-27
+ether-fi,Ether.fi,ethfi,0.667221,4.29732,gainer,7,2026-10-27
+bitcoin-cash,Bitcoin Cash,bch,289.51,4.11934,gainer,8,2026-10-27
+near,NEAR Protocol,near,4.61,3.44521,gainer,9,2026-10-27
+midnight-3,Midnight,night,0.04099861,2.87045,gainer,10,2026-10-27
+rain,Rain,rain,0.00718176,-5.37968,loser,1,2026-10-27
+pearl-2,Pearl,pearl,1.74,-5.35836,loser,2,2026-10-27
+sky,Sky,sky,0.064724,-4.56709,loser,3,2026-10-27
+pancakeswap-token,PancakeSwap,cake,2.07,-2.56515,loser,4,2026-10-27
+aave,Aave,aave,131.7,-2.20318,loser,5,2026-10-27
+figure-heloc,Figure Heloc,figr_heloc,1.02,-2.05574,loser,6,2026-10-27
+quant-network,Quant,qnt,198.53,-1.77715,loser,7,2026-10-27
+render-token,Render,render,1.68,-1.56212,loser,8,2026-10-27
+nexo,NEXO,nexo,0.792196,-1.31466,loser,9,2026-10-27
+internet-computer,Internet Computer,icp,2.56,-1.30238,loser,10,2026-10-27
