@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-quack-ai,Quack AI,q,0.208367,277.70411,gainer,1,2026-10-27
-midnight-3,Midnight,night,0.03982168,9.27435,gainer,2,2026-10-27
-xdce-crowd-sale,XDC Network,xdc,0.03379903,9.27372,gainer,3,2026-10-27
-dash,Dash,dash,53.91,6.98222,gainer,4,2026-10-27
-morpho,Morpho,morpho,2.15,6.62011,gainer,5,2026-10-27
-quant-network,Quant,qnt,202.26,6.50451,gainer,6,2026-10-27
-ether-fi,Ether.fi,ethfi,0.645261,4.91742,gainer,7,2026-10-27
-pancakeswap-token,PancakeSwap,cake,2.13,3.52146,gainer,8,2026-10-27
-uniswap,Uniswap,uni,7.04,3.16558,gainer,9,2026-10-27
-hyperliquid,Hyperliquid,hype,77.81,2.94144,gainer,10,2026-10-27
-bitway,Bitway,btw,1.29,-22.94223,loser,1,2026-10-27
-rain,Rain,rain,0.00723192,-14.35671,loser,2,2026-10-27
-layerzero,LayerZero,zro,1.61,-5.84553,loser,3,2026-10-27
-lighter,Lighter,lit,2.98,-4.49911,loser,4,2026-10-27
-sky,Sky,sky,0.065104,-3.90941,loser,5,2026-10-27
-the-open-network,Gram (prev. Toncoin),gram,1.2,-3.26483,loser,6,2026-10-27
-akedo,Akedo,ake,0.03070769,-2.09311,loser,7,2026-10-27
-canton-network,Canton,cc,0.098191,-2.0202,loser,8,2026-10-27
-polkadot,Polkadot,dot,0.996685,-1.84481,loser,9,2026-10-27
-aptos,Aptos,apt,0.682349,-1.77318,loser,10,2026-10-27
+morpho,Morpho,morpho,2.17,7.60536,gainer,1,2026-10-27
+dash,Dash,dash,54.84,5.55667,gainer,2,2026-10-27
+venice-token,Venice Token,vvv,25.57,4.99292,gainer,3,2026-10-27
+midnight-3,Midnight,night,0.03933336,4.91094,gainer,4,2026-10-27
+xdce-crowd-sale,XDC Network,xdc,0.03433232,3.93107,gainer,5,2026-10-27
+ether-fi,Ether.fi,ethfi,0.65876,3.91529,gainer,6,2026-10-27
+injective-protocol,Injective,inj,7.89,3.19774,gainer,7,2026-10-27
+zcash,Zcash,zec,1256.0,2.70589,gainer,8,2026-10-27
+ripple,XRP,xrp,1.3,1.47766,gainer,9,2026-10-27
+hyperliquid,Hyperliquid,hype,77.97,1.47348,gainer,10,2026-10-27
+rain,Rain,rain,0.00708356,-12.38022,loser,1,2026-10-27
+bitway,Bitway,btw,1.42,-8.12709,loser,2,2026-10-27
+akedo,Akedo,ake,0.02949539,-6.009,loser,3,2026-10-27
+sky,Sky,sky,0.064897,-6.00477,loser,4,2026-10-27
+pearl-2,Pearl,pearl,1.75,-4.01687,loser,5,2026-10-27
+canton-network,Canton,cc,0.096991,-3.93516,loser,6,2026-10-27
+just,JUST,jst,0.136513,-3.71216,loser,7,2026-10-27
+pyth-network,Pyth Network,pyth,0.072912,-2.9003,loser,8,2026-10-27
+quant-network,Quant,qnt,205.25,-2.81788,loser,9,2026-10-27
+aave,Aave,aave,131.38,-2.77721,loser,10,2026-10-27
