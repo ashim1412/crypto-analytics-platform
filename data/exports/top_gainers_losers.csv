@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.73,15.20987,gainer,1,2026-10-28
-pepe,Pepe,pepe,4.84e-06,7.78582,gainer,2,2026-10-28
-memecore,MemeCore,m,1.12,5.64993,gainer,3,2026-10-28
-leo-token,LEO Token,leo,9.4,4.44362,gainer,4,2026-10-28
-litecoin,Litecoin,ltc,58.65,3.50119,gainer,5,2026-10-28
-just,JUST,jst,0.140974,2.04543,gainer,6,2026-10-28
-kucoin-shares,KuCoin,kcs,7.56,2.02799,gainer,7,2026-10-28
-morpho,Morpho,morpho,2.2,1.88815,gainer,8,2026-10-28
-pearl-2,Pearl,pearl,1.77,1.60419,gainer,9,2026-10-28
-canton-network,Canton,cc,0.099829,0.77246,gainer,10,2026-10-28
-venice-token,Venice Token,vvv,23.8,-8.22118,loser,1,2026-10-28
-ethena,Ethena,ena,0.195402,-7.29781,loser,2,2026-10-28
-beldex,Beldex,bdx,0.070953,-5.57717,loser,3,2026-10-28
-lighter,Lighter,lit,2.93,-4.89343,loser,4,2026-10-28
-injective-protocol,Injective,inj,7.71,-4.78666,loser,5,2026-10-28
-rain,Rain,rain,0.00693735,-3.73341,loser,6,2026-10-28
-dash,Dash,dash,53.06,-3.68415,loser,7,2026-10-28
-xdce-crowd-sale,XDC Network,xdc,0.0328071,-3.37303,loser,8,2026-10-28
-worldcoin-wld,Worldcoin,wld,0.422371,-3.1265,loser,9,2026-10-28
-zcash,Zcash,zec,1268.27,-3.10968,loser,10,2026-10-28
+pepe,Pepe,pepe,5.07e-06,11.69609,gainer,1,2026-10-28
+pearl-2,Pearl,pearl,1.86,6.73194,gainer,2,2026-10-28
+pump-fun,Pump.fun,pump,0.00459882,6.12391,gainer,3,2026-10-28
+arbitrum,Arbitrum,arb,0.176414,5.06995,gainer,4,2026-10-28
+litecoin,Litecoin,ltc,59.44,4.42156,gainer,5,2026-10-28
+leo-token,LEO Token,leo,9.42,4.18987,gainer,6,2026-10-28
+kaspa,Kaspa,kas,0.03671468,4.0232,gainer,7,2026-10-28
+layerzero,LayerZero,zro,1.74,3.66582,gainer,8,2026-10-28
+uniswap,Uniswap,uni,7.31,3.0598,gainer,9,2026-10-28
+chainlink,Chainlink,link,11.88,2.99216,gainer,10,2026-10-28
+venice-token,Venice Token,vvv,24.07,-7.13074,loser,1,2026-10-28
+rain,Rain,rain,0.00693496,-3.70185,loser,2,2026-10-28
+lighter,Lighter,lit,2.98,-3.54482,loser,3,2026-10-28
+bitway,Bitway,btw,1.73,-2.7027,loser,4,2026-10-28
+dash,Dash,dash,53.77,-2.60704,loser,5,2026-10-28
+xdce-crowd-sale,XDC Network,xdc,0.03290635,-2.38225,loser,6,2026-10-28
+memecore,MemeCore,m,1.044,-2.05027,loser,7,2026-10-28
+monero,Monero,xmr,598.05,-1.56151,loser,8,2026-10-28
+beldex,Beldex,bdx,0.074265,-1.2109,loser,9,2026-10-28
+mantle,Mantle,mnt,0.508717,-1.10473,loser,10,2026-10-28
