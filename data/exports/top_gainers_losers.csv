@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.73,17.38464,gainer,1,2026-10-28
-pepe,Pepe,pepe,4.95e-06,15.92696,gainer,2,2026-10-28
-memecore,MemeCore,m,1.098,7.00776,gainer,3,2026-10-28
-bitcoin-cash,Bitcoin Cash,bch,298.04,6.31798,gainer,4,2026-10-28
-canton-network,Canton,cc,0.101458,5.30531,gainer,5,2026-10-28
-hyperliquid,Hyperliquid,hype,81.44,4.86446,gainer,6,2026-10-28
-layerzero,LayerZero,zro,1.73,4.50515,gainer,7,2026-10-28
-aerodrome-finance,Aerodrome Finance,aero,0.704174,4.16962,gainer,8,2026-10-28
-zcash,Zcash,zec,1300.16,4.14725,gainer,9,2026-10-28
-jupiter-exchange-solana,Jupiter,jup,0.285249,4.10942,gainer,10,2026-10-28
-venice-token,Venice Token,vvv,24.56,-4.34779,loser,1,2026-10-28
-xdce-crowd-sale,XDC Network,xdc,0.03358976,-2.78738,loser,2,2026-10-28
-dash,Dash,dash,53.53,-1.92007,loser,3,2026-10-28
-pearl-2,Pearl,pearl,1.73,-1.11469,loser,4,2026-10-28
-quant-network,Quant,qnt,200.06,-1.02586,loser,5,2026-10-28
-beldex,Beldex,bdx,0.073578,-0.89552,loser,6,2026-10-28
-rain,Rain,rain,0.0070142,-0.66295,loser,7,2026-10-28
-pancakeswap-token,PancakeSwap,cake,2.11,-0.26019,loser,8,2026-10-28
-open-usd,Open USD,ousd,0.998709,-0.24846,loser,9,2026-10-28
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.13,-0.19504,loser,10,2026-10-28
+bitway,Bitway,btw,1.73,15.20987,gainer,1,2026-10-28
+pepe,Pepe,pepe,4.84e-06,7.78582,gainer,2,2026-10-28
+memecore,MemeCore,m,1.12,5.64993,gainer,3,2026-10-28
+leo-token,LEO Token,leo,9.4,4.44362,gainer,4,2026-10-28
+litecoin,Litecoin,ltc,58.65,3.50119,gainer,5,2026-10-28
+just,JUST,jst,0.140974,2.04543,gainer,6,2026-10-28
+kucoin-shares,KuCoin,kcs,7.56,2.02799,gainer,7,2026-10-28
+morpho,Morpho,morpho,2.2,1.88815,gainer,8,2026-10-28
+pearl-2,Pearl,pearl,1.77,1.60419,gainer,9,2026-10-28
+canton-network,Canton,cc,0.099829,0.77246,gainer,10,2026-10-28
+venice-token,Venice Token,vvv,23.8,-8.22118,loser,1,2026-10-28
+ethena,Ethena,ena,0.195402,-7.29781,loser,2,2026-10-28
+beldex,Beldex,bdx,0.070953,-5.57717,loser,3,2026-10-28
+lighter,Lighter,lit,2.93,-4.89343,loser,4,2026-10-28
+injective-protocol,Injective,inj,7.71,-4.78666,loser,5,2026-10-28
+rain,Rain,rain,0.00693735,-3.73341,loser,6,2026-10-28
+dash,Dash,dash,53.06,-3.68415,loser,7,2026-10-28
+xdce-crowd-sale,XDC Network,xdc,0.0328071,-3.37303,loser,8,2026-10-28
+worldcoin-wld,Worldcoin,wld,0.422371,-3.1265,loser,9,2026-10-28
+zcash,Zcash,zec,1268.27,-3.10968,loser,10,2026-10-28
