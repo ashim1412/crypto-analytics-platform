@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,95.06,18.4288,gainer,1,2026-10-29
-pepe,Pepe,pepe,5.43e-06,11.12224,gainer,2,2026-10-29
-lighter,Lighter,lit,3.2,9.13577,gainer,3,2026-10-29
-ethena,Ethena,ena,0.213547,8.83365,gainer,4,2026-10-29
-pump-fun,Pump.fun,pump,0.00451231,7.20603,gainer,5,2026-10-29
-zcash,Zcash,zec,1347.94,5.47039,gainer,6,2026-10-29
-venice-token,Venice Token,vvv,25.05,4.82418,gainer,7,2026-10-29
-pi-network,Pi Network,pi,0.07942,4.64645,gainer,8,2026-10-29
-injective-protocol,Injective,inj,8.07,4.39954,gainer,9,2026-10-29
-uniswap,Uniswap,uni,7.3,3.46192,gainer,10,2026-10-29
-bitway,Bitway,btw,1.55,-10.87531,loser,1,2026-10-29
-memecore,MemeCore,m,1.039,-7.41273,loser,2,2026-10-29
-rain,Rain,rain,0.00646555,-6.96912,loser,3,2026-10-29
-kucoin-shares,KuCoin,kcs,7.35,-2.85715,loser,4,2026-10-29
-dash,Dash,dash,51.8,-2.70581,loser,5,2026-10-29
-ripple,XRP,xrp,1.29,-1.60904,loser,6,2026-10-29
-hedera-hashgraph,Hedera,hbar,0.073973,-1.19483,loser,7,2026-10-29
-near,NEAR Protocol,near,4.54,-1.10509,loser,8,2026-10-29
-midnight-3,Midnight,night,0.03948548,-1.0902,loser,9,2026-10-29
-the-open-network,Gram (prev. Toncoin),gram,1.22,-0.83196,loser,10,2026-10-29
+hyperliquid,Hyperliquid,hype,92.63,14.50019,gainer,1,2026-10-29
+tron,TRON,trx,0.364133,10.6078,gainer,2,2026-10-29
+htx-dao,HTX DAO,htx,1.67e-06,2.9988,gainer,3,2026-10-29
+monero,Monero,xmr,613.24,2.70448,gainer,4,2026-10-29
+just,JUST,jst,0.143373,2.0695,gainer,5,2026-10-29
+pi-network,Pi Network,pi,0.077403,1.08695,gainer,6,2026-10-29
+leo-token,LEO Token,leo,9.46,0.34486,gainer,7,2026-10-29
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.2072,gainer,8,2026-10-29
+okb,OKB,okb,111.31,0.1677,gainer,9,2026-10-29
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.054,0.01271,gainer,10,2026-10-29
+pearl-2,Pearl,pearl,1.62,-13.4728,loser,1,2026-10-29
+uniswap,Uniswap,uni,6.29,-13.41684,loser,2,2026-10-29
+ethena,Ethena,ena,0.182002,-12.91536,loser,3,2026-10-29
+near,NEAR Protocol,near,4.13,-12.38989,loser,4,2026-10-29
+bitway,Bitway,btw,1.52,-12.20097,loser,5,2026-10-29
+aptos,Aptos,apt,0.621417,-11.49865,loser,6,2026-10-29
+arbitrum,Arbitrum,arb,0.154758,-11.2225,loser,7,2026-10-29
+worldcoin-wld,Worldcoin,wld,0.389516,-10.97136,loser,8,2026-10-29
+dash,Dash,dash,48.0,-10.28175,loser,9,2026-10-29
+pepe,Pepe,pepe,4.49e-06,-10.2211,loser,10,2026-10-29
