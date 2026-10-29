@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pepe,Pepe,pepe,5.07e-06,11.69609,gainer,1,2026-10-28
-pearl-2,Pearl,pearl,1.86,6.73194,gainer,2,2026-10-28
-pump-fun,Pump.fun,pump,0.00459882,6.12391,gainer,3,2026-10-28
-arbitrum,Arbitrum,arb,0.176414,5.06995,gainer,4,2026-10-28
-litecoin,Litecoin,ltc,59.44,4.42156,gainer,5,2026-10-28
-leo-token,LEO Token,leo,9.42,4.18987,gainer,6,2026-10-28
-kaspa,Kaspa,kas,0.03671468,4.0232,gainer,7,2026-10-28
-layerzero,LayerZero,zro,1.74,3.66582,gainer,8,2026-10-28
-uniswap,Uniswap,uni,7.31,3.0598,gainer,9,2026-10-28
-chainlink,Chainlink,link,11.88,2.99216,gainer,10,2026-10-28
-venice-token,Venice Token,vvv,24.07,-7.13074,loser,1,2026-10-28
-rain,Rain,rain,0.00693496,-3.70185,loser,2,2026-10-28
-lighter,Lighter,lit,2.98,-3.54482,loser,3,2026-10-28
-bitway,Bitway,btw,1.73,-2.7027,loser,4,2026-10-28
-dash,Dash,dash,53.77,-2.60704,loser,5,2026-10-28
-xdce-crowd-sale,XDC Network,xdc,0.03290635,-2.38225,loser,6,2026-10-28
-memecore,MemeCore,m,1.044,-2.05027,loser,7,2026-10-28
-monero,Monero,xmr,598.05,-1.56151,loser,8,2026-10-28
-beldex,Beldex,bdx,0.074265,-1.2109,loser,9,2026-10-28
-mantle,Mantle,mnt,0.508717,-1.10473,loser,10,2026-10-28
+pearl-2,Pearl,pearl,1.75,4.86642,gainer,1,2026-10-29
+pepe,Pepe,pepe,4.98e-06,2.67598,gainer,2,2026-10-29
+just,JUST,jst,0.140265,1.23512,gainer,3,2026-10-29
+leo-token,LEO Token,leo,9.46,1.103,gainer,4,2026-10-29
+litecoin,Litecoin,ltc,57.98,1.01844,gainer,5,2026-10-29
+binancecoin,BNB,bnb,749.24,0.68378,gainer,6,2026-10-29
+okb,OKB,okb,110.24,0.39993,gainer,7,2026-10-29
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.13,0.21339,gainer,8,2026-10-29
+usdd,USDD,usdd,0.998121,0.1132,gainer,9,2026-10-29
+figure-heloc,Figure Heloc,figr_heloc,1.031,0.09107,gainer,10,2026-10-29
+venice-token,Venice Token,vvv,23.02,-9.34213,loser,1,2026-10-29
+lighter,Lighter,lit,2.84,-6.62436,loser,2,2026-10-29
+midnight-3,Midnight,night,0.03948786,-6.62155,loser,3,2026-10-29
+mantle,Mantle,mnt,0.500246,-5.74214,loser,4,2026-10-29
+rain,Rain,rain,0.00677821,-5.73179,loser,5,2026-10-29
+dash,Dash,dash,51.75,-5.73022,loser,6,2026-10-29
+ethena,Ethena,ena,0.196405,-5.49059,loser,7,2026-10-29
+worldcoin-wld,Worldcoin,wld,0.415666,-5.43069,loser,8,2026-10-29
+zcash,Zcash,zec,1240.18,-5.36785,loser,9,2026-10-29
+near,NEAR Protocol,near,4.46,-4.93851,loser,10,2026-10-29
