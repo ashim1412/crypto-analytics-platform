@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.75,4.86642,gainer,1,2026-10-29
-pepe,Pepe,pepe,4.98e-06,2.67598,gainer,2,2026-10-29
-just,JUST,jst,0.140265,1.23512,gainer,3,2026-10-29
-leo-token,LEO Token,leo,9.46,1.103,gainer,4,2026-10-29
-litecoin,Litecoin,ltc,57.98,1.01844,gainer,5,2026-10-29
-binancecoin,BNB,bnb,749.24,0.68378,gainer,6,2026-10-29
-okb,OKB,okb,110.24,0.39993,gainer,7,2026-10-29
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.13,0.21339,gainer,8,2026-10-29
-usdd,USDD,usdd,0.998121,0.1132,gainer,9,2026-10-29
-figure-heloc,Figure Heloc,figr_heloc,1.031,0.09107,gainer,10,2026-10-29
-venice-token,Venice Token,vvv,23.02,-9.34213,loser,1,2026-10-29
-lighter,Lighter,lit,2.84,-6.62436,loser,2,2026-10-29
-midnight-3,Midnight,night,0.03948786,-6.62155,loser,3,2026-10-29
-mantle,Mantle,mnt,0.500246,-5.74214,loser,4,2026-10-29
-rain,Rain,rain,0.00677821,-5.73179,loser,5,2026-10-29
-dash,Dash,dash,51.75,-5.73022,loser,6,2026-10-29
-ethena,Ethena,ena,0.196405,-5.49059,loser,7,2026-10-29
-worldcoin-wld,Worldcoin,wld,0.415666,-5.43069,loser,8,2026-10-29
-zcash,Zcash,zec,1240.18,-5.36785,loser,9,2026-10-29
-near,NEAR Protocol,near,4.46,-4.93851,loser,10,2026-10-29
+hyperliquid,Hyperliquid,hype,87.47,7.40176,gainer,1,2026-10-29
+pi-network,Pi Network,pi,0.0794,3.49938,gainer,2,2026-10-29
+bitway,Bitway,btw,1.77,2.29858,gainer,3,2026-10-29
+just,JUST,jst,0.141099,0.91102,gainer,4,2026-10-29
+uniswap,Uniswap,uni,7.22,0.9065,gainer,5,2026-10-29
+pearl-2,Pearl,pearl,1.78,0.83158,gainer,6,2026-10-29
+pump-fun,Pump.fun,pump,0.00435983,0.70546,gainer,7,2026-10-29
+leo-token,LEO Token,leo,9.46,0.69654,gainer,8,2026-10-29
+litecoin,Litecoin,ltc,58.06,0.45252,gainer,9,2026-10-29
+nexo,NEXO,nexo,0.799128,0.39682,gainer,10,2026-10-29
+bitcoin-cash,Bitcoin Cash,bch,279.89,-6.2022,loser,1,2026-10-29
+mantle,Mantle,mnt,0.496334,-5.98271,loser,2,2026-10-29
+dash,Dash,dash,50.53,-5.63898,loser,3,2026-10-29
+midnight-3,Midnight,night,0.03828126,-5.5661,loser,4,2026-10-29
+near,NEAR Protocol,near,4.42,-5.3894,loser,5,2026-10-29
+jupiter-exchange-solana,Jupiter,jup,0.270872,-5.07569,loser,6,2026-10-29
+layerzero,LayerZero,zro,1.65,-4.78853,loser,7,2026-10-29
+venice-token,Venice Token,vvv,23.58,-3.86554,loser,8,2026-10-29
+memecore,MemeCore,m,1.054,-3.82026,loser,9,2026-10-29
+aptos,Aptos,apt,0.672257,-3.68571,loser,10,2026-10-29
