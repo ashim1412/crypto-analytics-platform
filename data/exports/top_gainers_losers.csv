@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-hyperliquid,Hyperliquid,hype,92.63,14.50019,gainer,1,2026-10-29
-tron,TRON,trx,0.364133,10.6078,gainer,2,2026-10-29
-htx-dao,HTX DAO,htx,1.67e-06,2.9988,gainer,3,2026-10-29
-monero,Monero,xmr,613.24,2.70448,gainer,4,2026-10-29
-just,JUST,jst,0.143373,2.0695,gainer,5,2026-10-29
-pi-network,Pi Network,pi,0.077403,1.08695,gainer,6,2026-10-29
-leo-token,LEO Token,leo,9.46,0.34486,gainer,7,2026-10-29
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.2072,gainer,8,2026-10-29
-okb,OKB,okb,111.31,0.1677,gainer,9,2026-10-29
-janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.054,0.01271,gainer,10,2026-10-29
-pearl-2,Pearl,pearl,1.62,-13.4728,loser,1,2026-10-29
-uniswap,Uniswap,uni,6.29,-13.41684,loser,2,2026-10-29
-ethena,Ethena,ena,0.182002,-12.91536,loser,3,2026-10-29
-near,NEAR Protocol,near,4.13,-12.38989,loser,4,2026-10-29
-bitway,Bitway,btw,1.52,-12.20097,loser,5,2026-10-29
-aptos,Aptos,apt,0.621417,-11.49865,loser,6,2026-10-29
-arbitrum,Arbitrum,arb,0.154758,-11.2225,loser,7,2026-10-29
-worldcoin-wld,Worldcoin,wld,0.389516,-10.97136,loser,8,2026-10-29
-dash,Dash,dash,48.0,-10.28175,loser,9,2026-10-29
-pepe,Pepe,pepe,4.49e-06,-10.2211,loser,10,2026-10-29
+hyperliquid,Hyperliquid,hype,90.89,15.96563,gainer,1,2026-10-30
+tron,TRON,trx,0.351858,6.5214,gainer,2,2026-10-30
+monero,Monero,xmr,608.29,4.20508,gainer,3,2026-10-30
+htx-dao,HTX DAO,htx,1.68e-06,3.88929,gainer,4,2026-10-30
+pi-network,Pi Network,pi,0.077706,2.95904,gainer,5,2026-10-30
+zcash,Zcash,zec,1261.89,1.98557,gainer,6,2026-10-30
+okb,OKB,okb,112.15,1.71974,gainer,7,2026-10-30
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.47842,gainer,8,2026-10-30
+bianrensheng,币安人生 (BinanceLife),币安人生,0.522477,0.45671,gainer,9,2026-10-30
+open-usd,Open USD,ousd,1.001,0.15875,gainer,10,2026-10-30
+bitway,Bitway,btw,1.5,-15.42083,loser,1,2026-10-30
+pearl-2,Pearl,pearl,1.55,-12.07082,loser,2,2026-10-30
+ether-fi,Ether.fi,ethfi,0.581297,-11.34776,loser,3,2026-10-30
+pancakeswap-token,PancakeSwap,cake,1.86,-9.222,loser,4,2026-10-30
+aptos,Aptos,apt,0.605099,-8.86011,loser,5,2026-10-30
+near,NEAR Protocol,near,4.07,-8.68372,loser,6,2026-10-30
+layerzero,LayerZero,zro,1.49,-8.36583,loser,7,2026-10-30
+dash,Dash,dash,47.39,-8.17659,loser,8,2026-10-30
+morpho,Morpho,morpho,2.01,-7.76038,loser,9,2026-10-30
+worldcoin-wld,Worldcoin,wld,0.38026,-7.59295,loser,10,2026-10-30
