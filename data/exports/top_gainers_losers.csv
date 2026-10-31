@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04002887,8.09966,gainer,1,2026-10-30
-layerzero,LayerZero,zro,1.71,5.89928,gainer,2,2026-10-30
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.094066,5.2117,gainer,3,2026-10-30
-polkadot,Polkadot,dot,0.975242,5.15833,gainer,4,2026-10-30
-uniswap,Uniswap,uni,6.99,4.48553,gainer,5,2026-10-30
-bitcoin-cash,Bitcoin Cash,bch,289.76,4.27961,gainer,6,2026-10-30
-internet-computer,Internet Computer,icp,2.54,4.24382,gainer,7,2026-10-30
-ondo-finance,Ondo,ondo,0.411985,4.20415,gainer,8,2026-10-30
-filecoin,Filecoin,fil,0.8688,4.08175,gainer,9,2026-10-30
-near,NEAR Protocol,near,4.33,2.98396,gainer,10,2026-10-30
-bitway,Bitway,btw,1.16,-23.61863,loser,1,2026-10-30
-lighter,Lighter,lit,2.71,-9.19081,loser,2,2026-10-30
-pearl-2,Pearl,pearl,1.53,-9.08009,loser,3,2026-10-30
-memecore,MemeCore,m,0.958627,-5.90787,loser,4,2026-10-30
-kaspa,Kaspa,kas,0.03264231,-5.72676,loser,5,2026-10-30
-rain,Rain,rain,0.00634121,-5.72021,loser,6,2026-10-30
-injective-protocol,Injective,inj,7.15,-5.39948,loser,7,2026-10-30
-venice-token,Venice Token,vvv,22.24,-4.87661,loser,8,2026-10-30
-tron,TRON,trx,0.330064,-4.73423,loser,9,2026-10-30
-morpho,Morpho,morpho,2.06,-4.59841,loser,10,2026-10-30
+layerzero,LayerZero,zro,1.69,13.74702,gainer,1,2026-10-31
+ondo-finance,Ondo,ondo,0.417711,11.0367,gainer,2,2026-10-31
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.093437,9.10542,gainer,3,2026-10-31
+ether-fi,Ether.fi,ethfi,0.628183,8.78946,gainer,4,2026-10-31
+quant-network,Quant,qnt,195.79,8.52164,gainer,5,2026-10-31
+chainlink,Chainlink,link,11.56,8.19812,gainer,6,2026-10-31
+aave,Aave,aave,130.92,8.03445,gainer,7,2026-10-31
+blockstack,Stacks,stx,0.296317,7.85528,gainer,8,2026-10-31
+near,NEAR Protocol,near,4.34,7.25981,gainer,9,2026-10-31
+midnight-3,Midnight,night,0.03965211,7.15866,gainer,10,2026-10-31
+bitway,Bitway,btw,1.19,-20.63064,loser,1,2026-10-31
+tron,TRON,trx,0.325935,-7.74628,loser,2,2026-10-31
+memecore,MemeCore,m,0.961154,-4.35642,loser,3,2026-10-31
+htx-dao,HTX DAO,htx,1.6e-06,-4.25009,loser,4,2026-10-31
+rain,Rain,rain,0.00628598,-3.38927,loser,5,2026-10-31
+tether-gold,Tether Gold,xaut,3878.04,-2.79495,loser,6,2026-10-31
+monero,Monero,xmr,591.16,-2.63915,loser,7,2026-10-31
+pax-gold,PAX Gold,paxg,3896.65,-2.5174,loser,8,2026-10-31
+pearl-2,Pearl,pearl,1.52,-2.19244,loser,9,2026-10-31
+world-liberty-financial,World Liberty Financial,wlfi,0.0499189,-1.60226,loser,10,2026-10-31
