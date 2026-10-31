@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-blockstack,Stacks,stx,0.313957,11.70981,gainer,1,2026-10-31
-aave,Aave,aave,132.67,5.41738,gainer,2,2026-10-31
-ondo-finance,Ondo,ondo,0.408226,4.5347,gainer,3,2026-10-31
-pancakeswap-token,PancakeSwap,cake,1.94,4.25513,gainer,4,2026-10-31
-chainlink,Chainlink,link,11.56,4.20278,gainer,5,2026-10-31
-morpho,Morpho,morpho,2.14,3.23884,gainer,6,2026-10-31
-ethena,Ethena,ena,0.191465,2.76043,gainer,7,2026-10-31
-filecoin,Filecoin,fil,0.861895,2.59462,gainer,8,2026-10-31
-stellar,Stellar,xlm,0.168748,2.29873,gainer,9,2026-10-31
-polkadot,Polkadot,dot,0.955501,2.02478,gainer,10,2026-10-31
-bitway,Bitway,btw,1.15,-23.89443,loser,1,2026-10-31
-pearl-2,Pearl,pearl,1.46,-8.32922,loser,2,2026-10-31
-rain,Rain,rain,0.00613726,-8.05766,loser,3,2026-10-31
-tron,TRON,trx,0.320014,-5.7337,loser,4,2026-10-31
-hyperliquid,Hyperliquid,hype,87.78,-5.7078,loser,5,2026-10-31
-memecore,MemeCore,m,0.945976,-4.43404,loser,6,2026-10-31
-dash,Dash,dash,47.85,-4.32531,loser,7,2026-10-31
-lighter,Lighter,lit,2.72,-3.8608,loser,8,2026-10-31
-htx-dao,HTX DAO,htx,1.59e-06,-2.9749,loser,9,2026-10-31
-tether-gold,Tether Gold,xaut,3873.37,-2.53361,loser,10,2026-10-31
+blockstack,Stacks,stx,0.320511,13.31164,gainer,1,2026-10-31
+morpho,Morpho,morpho,2.33,12.57703,gainer,2,2026-10-31
+aave,Aave,aave,136.19,7.61572,gainer,3,2026-10-31
+the-open-network,Gram (prev. Toncoin),gram,1.22,6.42744,gainer,4,2026-10-31
+ether-fi,Ether.fi,ethfi,0.637774,6.32792,gainer,5,2026-10-31
+injective-protocol,Injective,inj,7.53,5.6632,gainer,6,2026-10-31
+venice-token,Venice Token,vvv,23.37,5.51801,gainer,7,2026-10-31
+zcash,Zcash,zec,1280.97,4.34751,gainer,8,2026-10-31
+quant-network,Quant,qnt,201.33,4.1969,gainer,9,2026-10-31
+aster-2,Aster,aster,0.703347,4.18033,gainer,10,2026-10-31
+tron,TRON,trx,0.311053,-7.28186,loser,1,2026-10-31
+memecore,MemeCore,m,0.917711,-5.76086,loser,2,2026-10-31
+rain,Rain,rain,0.00613599,-4.46694,loser,3,2026-10-31
+pearl-2,Pearl,pearl,1.46,-4.45607,loser,4,2026-10-31
+htx-dao,HTX DAO,htx,1.55e-06,-4.40168,loser,5,2026-10-31
+hyperliquid,Hyperliquid,hype,87.59,-4.39465,loser,6,2026-10-31
+bitway,Bitway,btw,1.12,-3.9152,loser,7,2026-10-31
+worldcoin-wld,Worldcoin,wld,0.402122,-2.89718,loser,8,2026-10-31
+pepe,Pepe,pepe,4.97e-06,-2.5487,loser,9,2026-10-31
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.092765,-2.05641,loser,10,2026-10-31
