@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,1.69,13.74702,gainer,1,2026-10-31
-ondo-finance,Ondo,ondo,0.417711,11.0367,gainer,2,2026-10-31
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.093437,9.10542,gainer,3,2026-10-31
-ether-fi,Ether.fi,ethfi,0.628183,8.78946,gainer,4,2026-10-31
-quant-network,Quant,qnt,195.79,8.52164,gainer,5,2026-10-31
-chainlink,Chainlink,link,11.56,8.19812,gainer,6,2026-10-31
-aave,Aave,aave,130.92,8.03445,gainer,7,2026-10-31
-blockstack,Stacks,stx,0.296317,7.85528,gainer,8,2026-10-31
-near,NEAR Protocol,near,4.34,7.25981,gainer,9,2026-10-31
-midnight-3,Midnight,night,0.03965211,7.15866,gainer,10,2026-10-31
-bitway,Bitway,btw,1.19,-20.63064,loser,1,2026-10-31
-tron,TRON,trx,0.325935,-7.74628,loser,2,2026-10-31
-memecore,MemeCore,m,0.961154,-4.35642,loser,3,2026-10-31
-htx-dao,HTX DAO,htx,1.6e-06,-4.25009,loser,4,2026-10-31
-rain,Rain,rain,0.00628598,-3.38927,loser,5,2026-10-31
-tether-gold,Tether Gold,xaut,3878.04,-2.79495,loser,6,2026-10-31
-monero,Monero,xmr,591.16,-2.63915,loser,7,2026-10-31
-pax-gold,PAX Gold,paxg,3896.65,-2.5174,loser,8,2026-10-31
-pearl-2,Pearl,pearl,1.52,-2.19244,loser,9,2026-10-31
-world-liberty-financial,World Liberty Financial,wlfi,0.0499189,-1.60226,loser,10,2026-10-31
+blockstack,Stacks,stx,0.313957,11.70981,gainer,1,2026-10-31
+aave,Aave,aave,132.67,5.41738,gainer,2,2026-10-31
+ondo-finance,Ondo,ondo,0.408226,4.5347,gainer,3,2026-10-31
+pancakeswap-token,PancakeSwap,cake,1.94,4.25513,gainer,4,2026-10-31
+chainlink,Chainlink,link,11.56,4.20278,gainer,5,2026-10-31
+morpho,Morpho,morpho,2.14,3.23884,gainer,6,2026-10-31
+ethena,Ethena,ena,0.191465,2.76043,gainer,7,2026-10-31
+filecoin,Filecoin,fil,0.861895,2.59462,gainer,8,2026-10-31
+stellar,Stellar,xlm,0.168748,2.29873,gainer,9,2026-10-31
+polkadot,Polkadot,dot,0.955501,2.02478,gainer,10,2026-10-31
+bitway,Bitway,btw,1.15,-23.89443,loser,1,2026-10-31
+pearl-2,Pearl,pearl,1.46,-8.32922,loser,2,2026-10-31
+rain,Rain,rain,0.00613726,-8.05766,loser,3,2026-10-31
+tron,TRON,trx,0.320014,-5.7337,loser,4,2026-10-31
+hyperliquid,Hyperliquid,hype,87.78,-5.7078,loser,5,2026-10-31
+memecore,MemeCore,m,0.945976,-4.43404,loser,6,2026-10-31
+dash,Dash,dash,47.85,-4.32531,loser,7,2026-10-31
+lighter,Lighter,lit,2.72,-3.8608,loser,8,2026-10-31
+htx-dao,HTX DAO,htx,1.59e-06,-2.9749,loser,9,2026-10-31
+tether-gold,Tether Gold,xaut,3873.37,-2.53361,loser,10,2026-10-31
