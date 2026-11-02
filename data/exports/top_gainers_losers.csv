@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.52,5.59841,gainer,1,2026-11-02
-blockstack,Stacks,stx,0.335752,4.35039,gainer,2,2026-11-02
-midnight-3,Midnight,night,0.04175818,2.83235,gainer,3,2026-11-02
-okb,OKB,okb,113.73,2.73686,gainer,4,2026-11-02
-just,JUST,jst,0.138827,2.66552,gainer,5,2026-11-02
-binancecoin,BNB,bnb,711.07,1.32466,gainer,6,2026-11-02
-tron,TRON,trx,0.313593,1.301,gainer,7,2026-11-02
-uniswap,Uniswap,uni,7.21,1.29648,gainer,8,2026-11-02
-ethereum,Ethereum,eth,2292.16,1.27228,gainer,9,2026-11-02
-zcash,Zcash,zec,1253.71,1.13111,gainer,10,2026-11-02
-rain,Rain,rain,0.00579144,-6.50423,loser,1,2026-11-02
-morpho,Morpho,morpho,2.22,-5.39752,loser,2,2026-11-02
-near,NEAR Protocol,near,4.27,-3.45709,loser,3,2026-11-02
-venice-token,Venice Token,vvv,22.77,-3.15703,loser,4,2026-11-02
-memecore,MemeCore,m,0.865182,-3.09986,loser,5,2026-11-02
-ether-fi,Ether.fi,ethfi,0.606075,-2.94573,loser,6,2026-11-02
-worldcoin-wld,Worldcoin,wld,0.386214,-2.90004,loser,7,2026-11-02
-pepe,Pepe,pepe,4.88e-06,-2.64908,loser,8,2026-11-02
-bitway,Bitway,btw,1.075,-2.57588,loser,9,2026-11-02
-chainlink,Chainlink,link,11.29,-2.21373,loser,10,2026-11-02
+rain,Rain,rain,0.00664659,10.09657,gainer,1,2026-11-02
+beldex,Beldex,bdx,0.073428,2.51978,gainer,2,2026-11-02
+tron,TRON,trx,0.317428,2.18688,gainer,3,2026-11-02
+pearl-2,Pearl,pearl,1.53,2.08451,gainer,4,2026-11-02
+zcash,Zcash,zec,1265.54,2.07252,gainer,5,2026-11-02
+just,JUST,jst,0.139744,1.93258,gainer,6,2026-11-02
+tether-gold,Tether Gold,xaut,3932.78,1.53988,gainer,7,2026-11-02
+htx-dao,HTX DAO,htx,1.56e-06,1.50144,gainer,8,2026-11-02
+pax-gold,PAX Gold,paxg,3942.6,1.24499,gainer,9,2026-11-02
+quant-network,Quant,qnt,202.28,0.9342,gainer,10,2026-11-02
+layerzero,LayerZero,zro,1.76,-8.07014,loser,1,2026-11-02
+near,NEAR Protocol,near,4.11,-6.53861,loser,2,2026-11-02
+ether-fi,Ether.fi,ethfi,0.590068,-4.58727,loser,3,2026-11-02
+aave,Aave,aave,132.41,-4.43132,loser,4,2026-11-02
+venice-token,Venice Token,vvv,22.19,-4.25646,loser,5,2026-11-02
+ondo-finance,Ondo,ondo,0.392868,-3.75026,loser,6,2026-11-02
+ethena,Ethena,ena,0.179292,-3.67316,loser,7,2026-11-02
+lighter,Lighter,lit,3.13,-3.60902,loser,8,2026-11-02
+worldcoin-wld,Worldcoin,wld,0.384524,-3.44146,loser,9,2026-11-02
+morpho,Morpho,morpho,2.23,-3.25011,loser,10,2026-11-02
