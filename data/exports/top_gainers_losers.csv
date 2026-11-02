@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00671237,6.71851,gainer,1,2026-11-01
-pearl-2,Pearl,pearl,1.54,6.54255,gainer,2,2026-11-01
-okb,OKB,okb,113.91,3.3144,gainer,3,2026-11-01
-figure-heloc,Figure Heloc,figr_heloc,1.076,2.98643,gainer,4,2026-11-01
-tron,TRON,trx,0.312832,2.98089,gainer,5,2026-11-01
-midnight-3,Midnight,night,0.04203042,2.19681,gainer,6,2026-11-01
-lighter,Lighter,lit,3.17,1.61899,gainer,7,2026-11-01
-gatechain-token,Gate,gt,9.67,1.45027,gainer,8,2026-11-01
-just,JUST,jst,0.137922,1.19218,gainer,9,2026-11-01
-bitway,Bitway,btw,1.13,1.12313,gainer,10,2026-11-01
-memecore,MemeCore,m,0.839741,-7.5535,loser,1,2026-11-01
-morpho,Morpho,morpho,2.25,-5.88189,loser,2,2026-11-01
-ethena,Ethena,ena,0.181263,-3.84306,loser,3,2026-11-01
-near,NEAR Protocol,near,4.27,-3.82042,loser,4,2026-11-01
-zcash,Zcash,zec,1222.74,-3.76789,loser,5,2026-11-01
-chainlink,Chainlink,link,11.37,-3.70894,loser,6,2026-11-01
-cosmos,Cosmos Hub,atom,1.46,-3.43288,loser,7,2026-11-01
-pepe,Pepe,pepe,4.88e-06,-2.77067,loser,8,2026-11-01
-ether-fi,Ether.fi,ethfi,0.610417,-2.70607,loser,9,2026-11-01
-layerzero,LayerZero,zro,1.8,-2.06821,loser,10,2026-11-01
+pearl-2,Pearl,pearl,1.52,5.59841,gainer,1,2026-11-02
+blockstack,Stacks,stx,0.335752,4.35039,gainer,2,2026-11-02
+midnight-3,Midnight,night,0.04175818,2.83235,gainer,3,2026-11-02
+okb,OKB,okb,113.73,2.73686,gainer,4,2026-11-02
+just,JUST,jst,0.138827,2.66552,gainer,5,2026-11-02
+binancecoin,BNB,bnb,711.07,1.32466,gainer,6,2026-11-02
+tron,TRON,trx,0.313593,1.301,gainer,7,2026-11-02
+uniswap,Uniswap,uni,7.21,1.29648,gainer,8,2026-11-02
+ethereum,Ethereum,eth,2292.16,1.27228,gainer,9,2026-11-02
+zcash,Zcash,zec,1253.71,1.13111,gainer,10,2026-11-02
+rain,Rain,rain,0.00579144,-6.50423,loser,1,2026-11-02
+morpho,Morpho,morpho,2.22,-5.39752,loser,2,2026-11-02
+near,NEAR Protocol,near,4.27,-3.45709,loser,3,2026-11-02
+venice-token,Venice Token,vvv,22.77,-3.15703,loser,4,2026-11-02
+memecore,MemeCore,m,0.865182,-3.09986,loser,5,2026-11-02
+ether-fi,Ether.fi,ethfi,0.606075,-2.94573,loser,6,2026-11-02
+worldcoin-wld,Worldcoin,wld,0.386214,-2.90004,loser,7,2026-11-02
+pepe,Pepe,pepe,4.88e-06,-2.64908,loser,8,2026-11-02
+bitway,Bitway,btw,1.075,-2.57588,loser,9,2026-11-02
+chainlink,Chainlink,link,11.29,-2.21373,loser,10,2026-11-02
