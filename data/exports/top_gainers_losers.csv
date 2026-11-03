@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00681011,12.29629,gainer,1,2026-11-03
-tron,TRON,trx,0.319214,2.02739,gainer,2,2026-11-03
-just,JUST,jst,0.14039,1.66925,gainer,3,2026-11-03
-htx-dao,HTX DAO,htx,1.56e-06,1.60422,gainer,4,2026-11-03
-tether-gold,Tether Gold,xaut,3935.59,1.08141,gainer,5,2026-11-03
-pax-gold,PAX Gold,paxg,3949.54,0.99057,gainer,6,2026-11-03
-monero,Monero,xmr,604.59,0.93404,gainer,7,2026-11-03
-beldex,Beldex,bdx,0.073202,0.82911,gainer,8,2026-11-03
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.33566,gainer,9,2026-11-03
-world-liberty-financial,World Liberty Financial,wlfi,0.050016,0.16607,gainer,10,2026-11-03
-near,NEAR Protocol,near,3.86,-9.98267,loser,1,2026-11-03
-bitway,Bitway,btw,0.971536,-9.13782,loser,2,2026-11-03
-zcash,Zcash,zec,1132.43,-8.34672,loser,3,2026-11-03
-ethena,Ethena,ena,0.170616,-6.97983,loser,4,2026-11-03
-venice-token,Venice Token,vvv,21.36,-6.80475,loser,5,2026-11-03
-ether-fi,Ether.fi,ethfi,0.574662,-6.69895,loser,6,2026-11-03
-jupiter-exchange-solana,Jupiter,jup,0.24118,-6.50844,loser,7,2026-11-03
-aave,Aave,aave,126.23,-6.23885,loser,8,2026-11-03
-arbitrum,Arbitrum,arb,0.15548,-5.33604,loser,9,2026-11-03
-pump-fun,Pump.fun,pump,0.0039682,-5.29676,loser,10,2026-11-03
+layerzero,LayerZero,zro,1.83,4.75617,gainer,1,2026-11-03
+blockstack,Stacks,stx,0.327947,3.9436,gainer,2,2026-11-03
+pump-fun,Pump.fun,pump,0.00423106,3.65679,gainer,3,2026-11-03
+midnight-3,Midnight,night,0.04187486,3.27032,gainer,4,2026-11-03
+lighter,Lighter,lit,3.19,3.18664,gainer,5,2026-11-03
+monero,Monero,xmr,624.46,2.51713,gainer,6,2026-11-03
+world-liberty-financial,World Liberty Financial,wlfi,0.051185,2.43732,gainer,7,2026-11-03
+canton-network,Canton,cc,0.097172,2.43273,gainer,8,2026-11-03
+injective-protocol,Injective,inj,7.36,2.413,gainer,9,2026-11-03
+ripple,XRP,xrp,1.28,2.36877,gainer,10,2026-11-03
+bitway,Bitway,btw,0.972038,-10.25771,loser,1,2026-11-03
+near,NEAR Protocol,near,3.88,-5.40334,loser,2,2026-11-03
+morpho,Morpho,morpho,2.11,-5.07445,loser,3,2026-11-03
+kaspa,Kaspa,kas,0.03096087,-4.55485,loser,4,2026-11-03
+rain,Rain,rain,0.00624014,-4.18764,loser,5,2026-11-03
+zcash,Zcash,zec,1205.09,-3.52692,loser,6,2026-11-03
+ethena,Ethena,ena,0.17173,-3.31316,loser,7,2026-11-03
+dash,Dash,dash,46.28,-3.1029,loser,8,2026-11-03
+the-open-network,Gram (prev. Toncoin),gram,1.16,-2.78281,loser,9,2026-11-03
+okb,OKB,okb,109.0,-2.66965,loser,10,2026-11-03
