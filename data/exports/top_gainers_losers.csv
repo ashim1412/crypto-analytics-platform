@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,1.83,4.75617,gainer,1,2026-11-03
-blockstack,Stacks,stx,0.327947,3.9436,gainer,2,2026-11-03
-pump-fun,Pump.fun,pump,0.00423106,3.65679,gainer,3,2026-11-03
-midnight-3,Midnight,night,0.04187486,3.27032,gainer,4,2026-11-03
-lighter,Lighter,lit,3.19,3.18664,gainer,5,2026-11-03
-monero,Monero,xmr,624.46,2.51713,gainer,6,2026-11-03
-world-liberty-financial,World Liberty Financial,wlfi,0.051185,2.43732,gainer,7,2026-11-03
-canton-network,Canton,cc,0.097172,2.43273,gainer,8,2026-11-03
-injective-protocol,Injective,inj,7.36,2.413,gainer,9,2026-11-03
-ripple,XRP,xrp,1.28,2.36877,gainer,10,2026-11-03
-bitway,Bitway,btw,0.972038,-10.25771,loser,1,2026-11-03
-near,NEAR Protocol,near,3.88,-5.40334,loser,2,2026-11-03
-morpho,Morpho,morpho,2.11,-5.07445,loser,3,2026-11-03
-kaspa,Kaspa,kas,0.03096087,-4.55485,loser,4,2026-11-03
-rain,Rain,rain,0.00624014,-4.18764,loser,5,2026-11-03
-zcash,Zcash,zec,1205.09,-3.52692,loser,6,2026-11-03
-ethena,Ethena,ena,0.17173,-3.31316,loser,7,2026-11-03
-dash,Dash,dash,46.28,-3.1029,loser,8,2026-11-03
-the-open-network,Gram (prev. Toncoin),gram,1.16,-2.78281,loser,9,2026-11-03
-okb,OKB,okb,109.0,-2.66965,loser,10,2026-11-03
+layerzero,LayerZero,zro,1.88,10.225,gainer,1,2026-11-03
+pump-fun,Pump.fun,pump,0.00433414,9.82671,gainer,2,2026-11-03
+lighter,Lighter,lit,3.31,8.78796,gainer,3,2026-11-03
+venice-token,Venice Token,vvv,22.61,6.58691,gainer,4,2026-11-03
+zcash,Zcash,zec,1222.68,6.53929,gainer,5,2026-11-03
+midnight-3,Midnight,night,0.04263207,5.86267,gainer,6,2026-11-03
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.091921,4.68991,gainer,7,2026-11-03
+injective-protocol,Injective,inj,7.23,4.12886,gainer,8,2026-11-03
+canton-network,Canton,cc,0.096624,3.70646,gainer,9,2026-11-03
+monero,Monero,xmr,628.09,3.58127,gainer,10,2026-11-03
+kaspa,Kaspa,kas,0.03102779,-2.65851,loser,1,2026-11-03
+rain,Rain,rain,0.00653169,-2.5561,loser,2,2026-11-03
+leo-token,LEO Token,leo,9.27,-1.4142,loser,3,2026-11-03
+the-open-network,Gram (prev. Toncoin),gram,1.17,-1.32137,loser,4,2026-11-03
+bitget-token,Bitget Token,bgb,1.75,-1.24346,loser,5,2026-11-03
+cosmos,Cosmos Hub,atom,1.41,-1.19489,loser,6,2026-11-03
+worldcoin-wld,Worldcoin,wld,0.374027,-1.06522,loser,7,2026-11-03
+quant-network,Quant,qnt,192.61,-1.03797,loser,8,2026-11-03
+okb,OKB,okb,107.68,-0.80212,loser,9,2026-11-03
+figure-heloc,Figure Heloc,figr_heloc,1.033,-0.76121,loser,10,2026-11-03
