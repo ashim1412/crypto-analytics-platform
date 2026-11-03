@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00664659,10.09657,gainer,1,2026-11-02
-beldex,Beldex,bdx,0.073428,2.51978,gainer,2,2026-11-02
-tron,TRON,trx,0.317428,2.18688,gainer,3,2026-11-02
-pearl-2,Pearl,pearl,1.53,2.08451,gainer,4,2026-11-02
-zcash,Zcash,zec,1265.54,2.07252,gainer,5,2026-11-02
-just,JUST,jst,0.139744,1.93258,gainer,6,2026-11-02
-tether-gold,Tether Gold,xaut,3932.78,1.53988,gainer,7,2026-11-02
-htx-dao,HTX DAO,htx,1.56e-06,1.50144,gainer,8,2026-11-02
-pax-gold,PAX Gold,paxg,3942.6,1.24499,gainer,9,2026-11-02
-quant-network,Quant,qnt,202.28,0.9342,gainer,10,2026-11-02
-layerzero,LayerZero,zro,1.76,-8.07014,loser,1,2026-11-02
-near,NEAR Protocol,near,4.11,-6.53861,loser,2,2026-11-02
-ether-fi,Ether.fi,ethfi,0.590068,-4.58727,loser,3,2026-11-02
-aave,Aave,aave,132.41,-4.43132,loser,4,2026-11-02
-venice-token,Venice Token,vvv,22.19,-4.25646,loser,5,2026-11-02
-ondo-finance,Ondo,ondo,0.392868,-3.75026,loser,6,2026-11-02
-ethena,Ethena,ena,0.179292,-3.67316,loser,7,2026-11-02
-lighter,Lighter,lit,3.13,-3.60902,loser,8,2026-11-02
-worldcoin-wld,Worldcoin,wld,0.384524,-3.44146,loser,9,2026-11-02
-morpho,Morpho,morpho,2.23,-3.25011,loser,10,2026-11-02
+rain,Rain,rain,0.00681011,12.29629,gainer,1,2026-11-03
+tron,TRON,trx,0.319214,2.02739,gainer,2,2026-11-03
+just,JUST,jst,0.14039,1.66925,gainer,3,2026-11-03
+htx-dao,HTX DAO,htx,1.56e-06,1.60422,gainer,4,2026-11-03
+tether-gold,Tether Gold,xaut,3935.59,1.08141,gainer,5,2026-11-03
+pax-gold,PAX Gold,paxg,3949.54,0.99057,gainer,6,2026-11-03
+monero,Monero,xmr,604.59,0.93404,gainer,7,2026-11-03
+beldex,Beldex,bdx,0.073202,0.82911,gainer,8,2026-11-03
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.14,0.33566,gainer,9,2026-11-03
+world-liberty-financial,World Liberty Financial,wlfi,0.050016,0.16607,gainer,10,2026-11-03
+near,NEAR Protocol,near,3.86,-9.98267,loser,1,2026-11-03
+bitway,Bitway,btw,0.971536,-9.13782,loser,2,2026-11-03
+zcash,Zcash,zec,1132.43,-8.34672,loser,3,2026-11-03
+ethena,Ethena,ena,0.170616,-6.97983,loser,4,2026-11-03
+venice-token,Venice Token,vvv,21.36,-6.80475,loser,5,2026-11-03
+ether-fi,Ether.fi,ethfi,0.574662,-6.69895,loser,6,2026-11-03
+jupiter-exchange-solana,Jupiter,jup,0.24118,-6.50844,loser,7,2026-11-03
+aave,Aave,aave,126.23,-6.23885,loser,8,2026-11-03
+arbitrum,Arbitrum,arb,0.15548,-5.33604,loser,9,2026-11-03
+pump-fun,Pump.fun,pump,0.0039682,-5.29676,loser,10,2026-11-03
