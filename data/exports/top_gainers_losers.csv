@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.096,11.27398,gainer,1,2026-11-04
-pearl-2,Pearl,pearl,1.48,8.52119,gainer,2,2026-11-04
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.095269,8.46451,gainer,3,2026-11-04
-lighter,Lighter,lit,3.45,8.06626,gainer,4,2026-11-04
-zcash,Zcash,zec,1283.45,7.05863,gainer,5,2026-11-04
-venice-token,Venice Token,vvv,23.17,6.09247,gainer,6,2026-11-04
-blockstack,Stacks,stx,0.344154,5.87076,gainer,7,2026-11-04
-algorand,Algorand,algo,0.097419,4.98908,gainer,8,2026-11-04
-ethena,Ethena,ena,0.178818,4.84221,gainer,9,2026-11-04
-morpho,Morpho,morpho,2.2,4.59982,gainer,10,2026-11-04
-rain,Rain,rain,0.00600688,-4.76905,loser,1,2026-11-04
-world-liberty-financial,World Liberty Financial,wlfi,0.04943654,-3.58625,loser,2,2026-11-04
-mantle,Mantle,mnt,0.457217,-2.96723,loser,3,2026-11-04
-memecore,MemeCore,m,0.842006,-2.63335,loser,4,2026-11-04
-filecoin,Filecoin,fil,0.855472,-1.70565,loser,5,2026-11-04
-pi-network,Pi Network,pi,0.075138,-1.63234,loser,6,2026-11-04
-stellar,Stellar,xlm,0.162584,-1.61218,loser,7,2026-11-04
-beldex,Beldex,bdx,0.07207,-1.11472,loser,8,2026-11-04
-okb,OKB,okb,107.76,-1.09245,loser,9,2026-11-04
-bitcoin-cash,Bitcoin Cash,bch,273.19,-0.9403,loser,10,2026-11-04
+injective-protocol,Injective,inj,8.06,11.12435,gainer,1,2026-11-04
+pearl-2,Pearl,pearl,1.6,9.83929,gainer,2,2026-11-04
+blockstack,Stacks,stx,0.360623,9.66956,gainer,3,2026-11-04
+uniswap,Uniswap,uni,7.8,8.2721,gainer,4,2026-11-04
+render-token,Render,render,1.62,7.96406,gainer,5,2026-11-04
+bitway,Bitway,btw,1.042,7.77951,gainer,6,2026-11-04
+dash,Dash,dash,49.85,7.73718,gainer,7,2026-11-04
+zcash,Zcash,zec,1319.46,7.41494,gainer,8,2026-11-04
+pancakeswap-token,PancakeSwap,cake,2.04,6.52011,gainer,9,2026-11-04
+algorand,Algorand,algo,0.099508,6.50898,gainer,10,2026-11-04
+rain,Rain,rain,0.00597535,-10.15302,loser,1,2026-11-04
+world-liberty-financial,World Liberty Financial,wlfi,0.04807395,-5.95738,loser,2,2026-11-04
+memecore,MemeCore,m,0.836012,-2.73537,loser,3,2026-11-04
+layerzero,LayerZero,zro,1.85,-2.09732,loser,4,2026-11-04
+pump-fun,Pump.fun,pump,0.00430679,-1.87075,loser,5,2026-11-04
+just,JUST,jst,0.140159,-1.79043,loser,6,2026-11-04
+hyperliquid,Hyperliquid,hype,84.23,-1.6903,loser,7,2026-11-04
+venice-token,Venice Token,vvv,22.42,-1.48365,loser,8,2026-11-04
+tron,TRON,trx,0.319681,-0.82169,loser,9,2026-11-04
+htx-dao,HTX DAO,htx,1.57e-06,-0.55969,loser,10,2026-11-04
