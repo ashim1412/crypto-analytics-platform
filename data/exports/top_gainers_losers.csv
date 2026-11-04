@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-layerzero,LayerZero,zro,1.82,7.53527,gainer,1,2026-11-04
-bitway,Bitway,btw,0.977387,7.52342,gainer,2,2026-11-04
-pump-fun,Pump.fun,pump,0.00415019,6.10955,gainer,3,2026-11-04
-lighter,Lighter,lit,3.21,5.02421,gainer,4,2026-11-04
-zcash,Zcash,zec,1178.11,4.15366,gainer,5,2026-11-04
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.090656,3.80267,gainer,6,2026-11-04
-uniswap,Uniswap,uni,7.1,3.43375,gainer,7,2026-11-04
-injective-protocol,Injective,inj,7.09,3.35645,gainer,8,2026-11-04
-monero,Monero,xmr,625.83,3.23007,gainer,9,2026-11-04
-pepe,Pepe,pepe,4.81e-06,2.49633,gainer,10,2026-11-04
-pi-network,Pi Network,pi,0.073743,-3.54793,loser,1,2026-11-04
-kaspa,Kaspa,kas,0.03023368,-3.04915,loser,2,2026-11-04
-filecoin,Filecoin,fil,0.835794,-2.78863,loser,3,2026-11-04
-chainlink,Chainlink,link,10.75,-2.7444,loser,4,2026-11-04
-rain,Rain,rain,0.0064141,-2.50574,loser,5,2026-11-04
-world-liberty-financial,World Liberty Financial,wlfi,0.04887907,-2.28888,loser,6,2026-11-04
-the-open-network,Gram (prev. Toncoin),gram,1.15,-2.25736,loser,7,2026-11-04
-mantle,Mantle,mnt,0.45822,-2.22466,loser,8,2026-11-04
-dash,Dash,dash,44.65,-2.17026,loser,9,2026-11-04
-cosmos,Cosmos Hub,atom,1.39,-1.85255,loser,10,2026-11-04
+bitway,Bitway,btw,1.096,11.27398,gainer,1,2026-11-04
+pearl-2,Pearl,pearl,1.48,8.52119,gainer,2,2026-11-04
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.095269,8.46451,gainer,3,2026-11-04
+lighter,Lighter,lit,3.45,8.06626,gainer,4,2026-11-04
+zcash,Zcash,zec,1283.45,7.05863,gainer,5,2026-11-04
+venice-token,Venice Token,vvv,23.17,6.09247,gainer,6,2026-11-04
+blockstack,Stacks,stx,0.344154,5.87076,gainer,7,2026-11-04
+algorand,Algorand,algo,0.097419,4.98908,gainer,8,2026-11-04
+ethena,Ethena,ena,0.178818,4.84221,gainer,9,2026-11-04
+morpho,Morpho,morpho,2.2,4.59982,gainer,10,2026-11-04
+rain,Rain,rain,0.00600688,-4.76905,loser,1,2026-11-04
+world-liberty-financial,World Liberty Financial,wlfi,0.04943654,-3.58625,loser,2,2026-11-04
+mantle,Mantle,mnt,0.457217,-2.96723,loser,3,2026-11-04
+memecore,MemeCore,m,0.842006,-2.63335,loser,4,2026-11-04
+filecoin,Filecoin,fil,0.855472,-1.70565,loser,5,2026-11-04
+pi-network,Pi Network,pi,0.075138,-1.63234,loser,6,2026-11-04
+stellar,Stellar,xlm,0.162584,-1.61218,loser,7,2026-11-04
+beldex,Beldex,bdx,0.07207,-1.11472,loser,8,2026-11-04
+okb,OKB,okb,107.76,-1.09245,loser,9,2026-11-04
+bitcoin-cash,Bitcoin Cash,bch,273.19,-0.9403,loser,10,2026-11-04
