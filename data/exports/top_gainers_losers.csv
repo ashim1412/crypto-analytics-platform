@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.65,10.29174,gainer,1,2026-11-05
-injective-protocol,Injective,inj,8.24,7.17637,gainer,2,2026-11-05
-cosmos,Cosmos Hub,atom,1.52,6.64119,gainer,3,2026-11-05
-bitcoin-cash,Bitcoin Cash,bch,287.25,5.0009,gainer,4,2026-11-05
-render-token,Render,render,1.59,3.77396,gainer,5,2026-11-05
-dash,Dash,dash,48.16,3.42026,gainer,6,2026-11-05
-pancakeswap-token,PancakeSwap,cake,1.98,3.34913,gainer,7,2026-11-05
-ethereum-classic,Ethereum Classic,etc,7.33,3.25972,gainer,8,2026-11-05
-internet-computer,Internet Computer,icp,2.61,3.15148,gainer,9,2026-11-05
-gatechain-token,Gate,gt,9.83,3.09306,gainer,10,2026-11-05
-bitway,Bitway,btw,1.008,-9.06113,loser,1,2026-11-05
-world-liberty-financial,World Liberty Financial,wlfi,0.04561892,-8.26546,loser,2,2026-11-05
-venice-token,Venice Token,vvv,21.48,-6.95454,loser,3,2026-11-05
-layerzero,LayerZero,zro,1.73,-6.37048,loser,4,2026-11-05
-midnight-3,Midnight,night,0.04091001,-5.36264,loser,5,2026-11-05
-memecore,MemeCore,m,0.808669,-3.92687,loser,6,2026-11-05
-hyperliquid,Hyperliquid,hype,81.62,-3.34355,loser,7,2026-11-05
-pump-fun,Pump.fun,pump,0.00420341,-2.83527,loser,8,2026-11-05
-the-open-network,Gram (prev. Toncoin),gram,1.14,-2.55871,loser,9,2026-11-05
-rain,Rain,rain,0.0058818,-2.39077,loser,10,2026-11-05
+bitway,Bitway,btw,1.13,7.98641,gainer,1,2026-11-05
+rain,Rain,rain,0.00610389,2.20675,gainer,2,2026-11-05
+lighter,Lighter,lit,3.4,1.29077,gainer,3,2026-11-05
+pearl-2,Pearl,pearl,1.61,0.74233,gainer,4,2026-11-05
+tether-gold,Tether Gold,xaut,4071.92,0.63212,gainer,5,2026-11-05
+pax-gold,PAX Gold,paxg,4080.44,0.52768,gainer,6,2026-11-05
+injective-protocol,Injective,inj,8.09,0.48582,gainer,7,2026-11-05
+figure-heloc,Figure Heloc,figr_heloc,1.031,0.17373,gainer,8,2026-11-05
+open-usd,Open USD,ousd,1.0,0.13773,gainer,9,2026-11-05
+falcon-finance,Falcon USD,usdf,0.994143,0.13282,gainer,10,2026-11-05
+layerzero,LayerZero,zro,1.6,-13.20346,loser,1,2026-11-05
+uniswap,Uniswap,uni,6.78,-13.04989,loser,2,2026-11-05
+ether-fi,Ether.fi,ethfi,0.532322,-11.89405,loser,3,2026-11-05
+ethena,Ethena,ena,0.161673,-11.73091,loser,4,2026-11-05
+worldcoin-wld,Worldcoin,wld,0.337198,-11.66609,loser,5,2026-11-05
+ondo-finance,Ondo,ondo,0.366665,-11.39684,loser,6,2026-11-05
+dash,Dash,dash,44.45,-10.55559,loser,7,2026-11-05
+sui,Sui,sui,0.840893,-10.44675,loser,8,2026-11-05
+filecoin,Filecoin,fil,0.791068,-10.07785,loser,9,2026-11-05
+near,NEAR Protocol,near,3.67,-9.75387,loser,10,2026-11-05
