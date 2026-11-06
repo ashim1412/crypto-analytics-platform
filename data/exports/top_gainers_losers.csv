@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.13,7.98641,gainer,1,2026-11-05
-rain,Rain,rain,0.00610389,2.20675,gainer,2,2026-11-05
-lighter,Lighter,lit,3.4,1.29077,gainer,3,2026-11-05
-pearl-2,Pearl,pearl,1.61,0.74233,gainer,4,2026-11-05
-tether-gold,Tether Gold,xaut,4071.92,0.63212,gainer,5,2026-11-05
-pax-gold,PAX Gold,paxg,4080.44,0.52768,gainer,6,2026-11-05
-injective-protocol,Injective,inj,8.09,0.48582,gainer,7,2026-11-05
-figure-heloc,Figure Heloc,figr_heloc,1.031,0.17373,gainer,8,2026-11-05
-open-usd,Open USD,ousd,1.0,0.13773,gainer,9,2026-11-05
-falcon-finance,Falcon USD,usdf,0.994143,0.13282,gainer,10,2026-11-05
-layerzero,LayerZero,zro,1.6,-13.20346,loser,1,2026-11-05
-uniswap,Uniswap,uni,6.78,-13.04989,loser,2,2026-11-05
-ether-fi,Ether.fi,ethfi,0.532322,-11.89405,loser,3,2026-11-05
-ethena,Ethena,ena,0.161673,-11.73091,loser,4,2026-11-05
-worldcoin-wld,Worldcoin,wld,0.337198,-11.66609,loser,5,2026-11-05
-ondo-finance,Ondo,ondo,0.366665,-11.39684,loser,6,2026-11-05
-dash,Dash,dash,44.45,-10.55559,loser,7,2026-11-05
-sui,Sui,sui,0.840893,-10.44675,loser,8,2026-11-05
-filecoin,Filecoin,fil,0.791068,-10.07785,loser,9,2026-11-05
-near,NEAR Protocol,near,3.67,-9.75387,loser,10,2026-11-05
+bitway,Bitway,btw,1.12,8.29163,gainer,1,2026-11-06
+injective-protocol,Injective,inj,8.35,3.53566,gainer,2,2026-11-06
+rain,Rain,rain,0.00610355,2.29161,gainer,3,2026-11-06
+arbitrum,Arbitrum,arb,0.165897,1.32512,gainer,4,2026-11-06
+pearl-2,Pearl,pearl,1.62,0.99387,gainer,5,2026-11-06
+just,JUST,jst,0.141075,0.69393,gainer,6,2026-11-06
+world-liberty-financial,World Liberty Financial,wlfi,0.04770291,0.26651,gainer,7,2026-11-06
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.24077,gainer,8,2026-11-06
+falcon-finance,Falcon USD,usdf,0.994165,0.06658,gainer,9,2026-11-06
+united-stables,United Stables,u,0.999272,0.05414,gainer,10,2026-11-06
+layerzero,LayerZero,zro,1.58,-13.93389,loser,1,2026-11-06
+midnight-3,Midnight,night,0.03847696,-10.93915,loser,2,2026-11-06
+ethena,Ethena,ena,0.162717,-10.6143,loser,3,2026-11-06
+uniswap,Uniswap,uni,6.97,-9.72809,loser,4,2026-11-06
+mantle,Mantle,mnt,0.43764,-9.4681,loser,5,2026-11-06
+ondo-finance,Ondo,ondo,0.373379,-9.43462,loser,6,2026-11-06
+dash,Dash,dash,44.88,-9.29094,loser,7,2026-11-06
+near,NEAR Protocol,near,3.69,-8.87495,loser,8,2026-11-06
+pump-fun,Pump.fun,pump,0.00393894,-8.75807,loser,9,2026-11-06
+quant-network,Quant,qnt,189.62,-8.42119,loser,10,2026-11-06
