@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.19,17.33831,gainer,1,2026-11-06
-world-liberty-financial,World Liberty Financial,wlfi,0.04678692,3.96566,gainer,2,2026-11-06
-arbitrum,Arbitrum,arb,0.168397,3.74283,gainer,3,2026-11-06
-pepe,Pepe,pepe,5.11e-06,3.65545,gainer,4,2026-11-06
-memecore,MemeCore,m,0.827982,2.14408,gainer,5,2026-11-06
-pearl-2,Pearl,pearl,1.66,0.8473,gainer,6,2026-11-06
-zcash,Zcash,zec,1312.98,0.69538,gainer,7,2026-11-06
-lighter,Lighter,lit,3.41,0.57867,gainer,8,2026-11-06
-injective-protocol,Injective,inj,8.31,0.53096,gainer,9,2026-11-06
-open-usd,Open USD,ousd,1.002,0.27403,gainer,10,2026-11-06
-ripple,XRP,xrp,1.19,-9.26506,loser,1,2026-11-06
-bitcoin-cash,Bitcoin Cash,bch,265.81,-7.58075,loser,2,2026-11-06
-ethena,Ethena,ena,0.165324,-7.43607,loser,3,2026-11-06
-cosmos,Cosmos Hub,atom,1.41,-7.30549,loser,4,2026-11-06
-worldcoin-wld,Worldcoin,wld,0.346303,-6.78051,loser,5,2026-11-06
-stellar,Stellar,xlm,0.153367,-6.63351,loser,6,2026-11-06
-filecoin,Filecoin,fil,0.806281,-6.4479,loser,7,2026-11-06
-ondo-finance,Ondo,ondo,0.373337,-6.41173,loser,8,2026-11-06
-ethereum,Ethereum,eth,2238.6,-6.19372,loser,9,2026-11-06
-internet-computer,Internet Computer,icp,2.44,-5.98199,loser,10,2026-11-06
+pearl-2,Pearl,pearl,1.86,16.96206,gainer,1,2026-11-06
+ether-fi,Ether.fi,ethfi,0.581673,9.03216,gainer,2,2026-11-06
+bitway,Bitway,btw,1.22,7.40311,gainer,3,2026-11-06
+arbitrum,Arbitrum,arb,0.166648,6.20158,gainer,4,2026-11-06
+dash,Dash,dash,47.18,6.06104,gainer,5,2026-11-06
+zcash,Zcash,zec,1331.59,5.35934,gainer,6,2026-11-06
+render-token,Render,render,1.58,4.17964,gainer,7,2026-11-06
+aptos,Aptos,apt,0.609926,3.92832,gainer,8,2026-11-06
+pepe,Pepe,pepe,4.97e-06,3.81247,gainer,9,2026-11-06
+bittensor,Bittensor,tao,224.62,3.72031,gainer,10,2026-11-06
+ripple,XRP,xrp,1.18,-3.26578,loser,1,2026-11-06
+lighter,Lighter,lit,3.34,-2.87573,loser,2,2026-11-06
+rain,Rain,rain,0.0058927,-2.45601,loser,3,2026-11-06
+bitcoin-cash,Bitcoin Cash,bch,264.2,-2.09721,loser,4,2026-11-06
+canton-network,Canton,cc,0.094182,-1.54528,loser,5,2026-11-06
+the-open-network,Gram (prev. Toncoin),gram,1.1,-1.52223,loser,6,2026-11-06
+midnight-3,Midnight,night,0.0387729,-1.43951,loser,7,2026-11-06
+nexo,NEXO,nexo,0.740669,-1.40651,loser,8,2026-11-06
+kucoin-shares,KuCoin,kcs,7.09,-1.2796,loser,9,2026-11-06
+aster-2,Aster,aster,0.683796,-0.84242,loser,10,2026-11-06
