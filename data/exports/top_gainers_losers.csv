@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.28,13.42219,gainer,1,2026-11-07
-pearl-2,Pearl,pearl,1.76,8.16954,gainer,2,2026-11-07
-dash,Dash,dash,47.16,4.52357,gainer,3,2026-11-07
-pepe,Pepe,pepe,4.99e-06,2.97267,gainer,4,2026-11-07
-layerzero,LayerZero,zro,1.64,2.87187,gainer,5,2026-11-07
-mantle,Mantle,mnt,0.449176,2.67059,gainer,6,2026-11-07
-hyperliquid,Hyperliquid,hype,79.47,2.56658,gainer,7,2026-11-07
-venice-token,Venice Token,vvv,21.04,2.40664,gainer,8,2026-11-07
-beldex,Beldex,bdx,0.072693,2.11377,gainer,9,2026-11-07
-bittensor,Bittensor,tao,224.43,2.09076,gainer,10,2026-11-07
-bitcoin-cash,Bitcoin Cash,bch,262.02,-5.11363,loser,1,2026-11-07
-rain,Rain,rain,0.00580189,-5.02467,loser,2,2026-11-07
-ripple,XRP,xrp,1.16,-4.01491,loser,3,2026-11-07
-canton-network,Canton,cc,0.094484,-2.82017,loser,4,2026-11-07
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.091628,-2.52155,loser,5,2026-11-07
-cosmos,Cosmos Hub,atom,1.39,-2.37462,loser,6,2026-11-07
-memecore,MemeCore,m,0.816187,-2.2132,loser,7,2026-11-07
-jupiter-exchange-solana,Jupiter,jup,0.241143,-2.17076,loser,8,2026-11-07
-hedera-hashgraph,Hedera,hbar,0.067104,-2.14715,loser,9,2026-11-07
-aster-2,Aster,aster,0.679892,-2.14612,loser,10,2026-11-07
+pearl-2,Pearl,pearl,1.79,8.54152,gainer,1,2026-11-07
+quant-network,Quant,qnt,197.57,4.46467,gainer,2,2026-11-07
+dash,Dash,dash,46.86,2.92916,gainer,3,2026-11-07
+mantle,Mantle,mnt,0.454255,2.81426,gainer,4,2026-11-07
+morpho,Morpho,morpho,2.13,2.16073,gainer,5,2026-11-07
+midnight-3,Midnight,night,0.0400329,1.99952,gainer,6,2026-11-07
+beldex,Beldex,bdx,0.072606,1.99515,gainer,7,2026-11-07
+aave,Aave,aave,131.76,1.67552,gainer,8,2026-11-07
+just,JUST,jst,0.142808,1.10121,gainer,9,2026-11-07
+bitway,Bitway,btw,1.16,0.83873,gainer,10,2026-11-07
+lighter,Lighter,lit,3.24,-5.33874,loser,1,2026-11-07
+pump-fun,Pump.fun,pump,0.00383301,-4.01095,loser,2,2026-11-07
+sky,Sky,sky,0.063865,-3.70598,loser,3,2026-11-07
+xdce-crowd-sale,XDC Network,xdc,0.03115852,-3.21308,loser,4,2026-11-07
+bitcoin-cash,Bitcoin Cash,bch,258.56,-3.10984,loser,5,2026-11-07
+ondo-finance,Ondo,ondo,0.365443,-3.01354,loser,6,2026-11-07
+ethena,Ethena,ena,0.160946,-2.98975,loser,7,2026-11-07
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.09076,-2.95235,loser,8,2026-11-07
+polkadot,Polkadot,dot,0.903139,-2.94109,loser,9,2026-11-07
+pepe,Pepe,pepe,4.9e-06,-2.94105,loser,10,2026-11-07
