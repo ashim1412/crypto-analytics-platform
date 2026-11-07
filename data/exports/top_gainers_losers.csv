@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.79,8.54152,gainer,1,2026-11-07
-quant-network,Quant,qnt,197.57,4.46467,gainer,2,2026-11-07
-dash,Dash,dash,46.86,2.92916,gainer,3,2026-11-07
-mantle,Mantle,mnt,0.454255,2.81426,gainer,4,2026-11-07
-morpho,Morpho,morpho,2.13,2.16073,gainer,5,2026-11-07
-midnight-3,Midnight,night,0.0400329,1.99952,gainer,6,2026-11-07
-beldex,Beldex,bdx,0.072606,1.99515,gainer,7,2026-11-07
-aave,Aave,aave,131.76,1.67552,gainer,8,2026-11-07
-just,JUST,jst,0.142808,1.10121,gainer,9,2026-11-07
-bitway,Bitway,btw,1.16,0.83873,gainer,10,2026-11-07
-lighter,Lighter,lit,3.24,-5.33874,loser,1,2026-11-07
-pump-fun,Pump.fun,pump,0.00383301,-4.01095,loser,2,2026-11-07
-sky,Sky,sky,0.063865,-3.70598,loser,3,2026-11-07
-xdce-crowd-sale,XDC Network,xdc,0.03115852,-3.21308,loser,4,2026-11-07
-bitcoin-cash,Bitcoin Cash,bch,258.56,-3.10984,loser,5,2026-11-07
-ondo-finance,Ondo,ondo,0.365443,-3.01354,loser,6,2026-11-07
-ethena,Ethena,ena,0.160946,-2.98975,loser,7,2026-11-07
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.09076,-2.95235,loser,8,2026-11-07
-polkadot,Polkadot,dot,0.903139,-2.94109,loser,9,2026-11-07
-pepe,Pepe,pepe,4.9e-06,-2.94105,loser,10,2026-11-07
+blockstack,Stacks,stx,0.345572,3.13875,gainer,1,2026-11-07
+uniswap,Uniswap,uni,7.07,2.06365,gainer,2,2026-11-07
+midnight-3,Midnight,night,0.03993801,2.0156,gainer,3,2026-11-07
+mantle,Mantle,mnt,0.450712,1.55424,gainer,4,2026-11-07
+memecore,MemeCore,m,0.829963,0.95515,gainer,5,2026-11-07
+quant-network,Quant,qnt,195.1,0.84172,gainer,6,2026-11-07
+just,JUST,jst,0.143456,0.81528,gainer,7,2026-11-07
+figure-heloc,Figure Heloc,figr_heloc,1.04,0.5418,gainer,8,2026-11-07
+ether-fi,Ether.fi,ethfi,0.58841,0.53667,gainer,9,2026-11-07
+tether-gold,Tether Gold,xaut,4059.83,0.4225,gainer,10,2026-11-07
+pump-fun,Pump.fun,pump,0.00364496,-10.28122,loser,1,2026-11-07
+zcash,Zcash,zec,1261.36,-7.15773,loser,2,2026-11-07
+lighter,Lighter,lit,3.21,-6.47034,loser,3,2026-11-07
+ethena,Ethena,ena,0.158098,-4.74042,loser,4,2026-11-07
+pepe,Pepe,pepe,4.87e-06,-4.33429,loser,5,2026-11-07
+dash,Dash,dash,46.2,-4.28296,loser,6,2026-11-07
+rain,Rain,rain,0.00559325,-4.08213,loser,7,2026-11-07
+bitcoin-cash,Bitcoin Cash,bch,257.52,-3.76161,loser,8,2026-11-07
+bitway,Bitway,btw,1.17,-3.70679,loser,9,2026-11-07
+cosmos,Cosmos Hub,atom,1.38,-3.66861,loser,10,2026-11-07
