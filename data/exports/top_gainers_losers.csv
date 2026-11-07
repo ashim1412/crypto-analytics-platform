@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.86,16.96206,gainer,1,2026-11-06
-ether-fi,Ether.fi,ethfi,0.581673,9.03216,gainer,2,2026-11-06
-bitway,Bitway,btw,1.22,7.40311,gainer,3,2026-11-06
-arbitrum,Arbitrum,arb,0.166648,6.20158,gainer,4,2026-11-06
-dash,Dash,dash,47.18,6.06104,gainer,5,2026-11-06
-zcash,Zcash,zec,1331.59,5.35934,gainer,6,2026-11-06
-render-token,Render,render,1.58,4.17964,gainer,7,2026-11-06
-aptos,Aptos,apt,0.609926,3.92832,gainer,8,2026-11-06
-pepe,Pepe,pepe,4.97e-06,3.81247,gainer,9,2026-11-06
-bittensor,Bittensor,tao,224.62,3.72031,gainer,10,2026-11-06
-ripple,XRP,xrp,1.18,-3.26578,loser,1,2026-11-06
-lighter,Lighter,lit,3.34,-2.87573,loser,2,2026-11-06
-rain,Rain,rain,0.0058927,-2.45601,loser,3,2026-11-06
-bitcoin-cash,Bitcoin Cash,bch,264.2,-2.09721,loser,4,2026-11-06
-canton-network,Canton,cc,0.094182,-1.54528,loser,5,2026-11-06
-the-open-network,Gram (prev. Toncoin),gram,1.1,-1.52223,loser,6,2026-11-06
-midnight-3,Midnight,night,0.0387729,-1.43951,loser,7,2026-11-06
-nexo,NEXO,nexo,0.740669,-1.40651,loser,8,2026-11-06
-kucoin-shares,KuCoin,kcs,7.09,-1.2796,loser,9,2026-11-06
-aster-2,Aster,aster,0.683796,-0.84242,loser,10,2026-11-06
+bitway,Bitway,btw,1.28,13.42219,gainer,1,2026-11-07
+pearl-2,Pearl,pearl,1.76,8.16954,gainer,2,2026-11-07
+dash,Dash,dash,47.16,4.52357,gainer,3,2026-11-07
+pepe,Pepe,pepe,4.99e-06,2.97267,gainer,4,2026-11-07
+layerzero,LayerZero,zro,1.64,2.87187,gainer,5,2026-11-07
+mantle,Mantle,mnt,0.449176,2.67059,gainer,6,2026-11-07
+hyperliquid,Hyperliquid,hype,79.47,2.56658,gainer,7,2026-11-07
+venice-token,Venice Token,vvv,21.04,2.40664,gainer,8,2026-11-07
+beldex,Beldex,bdx,0.072693,2.11377,gainer,9,2026-11-07
+bittensor,Bittensor,tao,224.43,2.09076,gainer,10,2026-11-07
+bitcoin-cash,Bitcoin Cash,bch,262.02,-5.11363,loser,1,2026-11-07
+rain,Rain,rain,0.00580189,-5.02467,loser,2,2026-11-07
+ripple,XRP,xrp,1.16,-4.01491,loser,3,2026-11-07
+canton-network,Canton,cc,0.094484,-2.82017,loser,4,2026-11-07
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.091628,-2.52155,loser,5,2026-11-07
+cosmos,Cosmos Hub,atom,1.39,-2.37462,loser,6,2026-11-07
+memecore,MemeCore,m,0.816187,-2.2132,loser,7,2026-11-07
+jupiter-exchange-solana,Jupiter,jup,0.241143,-2.17076,loser,8,2026-11-07
+hedera-hashgraph,Hedera,hbar,0.067104,-2.14715,loser,9,2026-11-07
+aster-2,Aster,aster,0.679892,-2.14612,loser,10,2026-11-07
