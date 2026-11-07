@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-blockstack,Stacks,stx,0.345572,3.13875,gainer,1,2026-11-07
-uniswap,Uniswap,uni,7.07,2.06365,gainer,2,2026-11-07
-midnight-3,Midnight,night,0.03993801,2.0156,gainer,3,2026-11-07
-mantle,Mantle,mnt,0.450712,1.55424,gainer,4,2026-11-07
-memecore,MemeCore,m,0.829963,0.95515,gainer,5,2026-11-07
-quant-network,Quant,qnt,195.1,0.84172,gainer,6,2026-11-07
-just,JUST,jst,0.143456,0.81528,gainer,7,2026-11-07
-figure-heloc,Figure Heloc,figr_heloc,1.04,0.5418,gainer,8,2026-11-07
-ether-fi,Ether.fi,ethfi,0.58841,0.53667,gainer,9,2026-11-07
-tether-gold,Tether Gold,xaut,4059.83,0.4225,gainer,10,2026-11-07
-pump-fun,Pump.fun,pump,0.00364496,-10.28122,loser,1,2026-11-07
-zcash,Zcash,zec,1261.36,-7.15773,loser,2,2026-11-07
-lighter,Lighter,lit,3.21,-6.47034,loser,3,2026-11-07
-ethena,Ethena,ena,0.158098,-4.74042,loser,4,2026-11-07
-pepe,Pepe,pepe,4.87e-06,-4.33429,loser,5,2026-11-07
-dash,Dash,dash,46.2,-4.28296,loser,6,2026-11-07
-rain,Rain,rain,0.00559325,-4.08213,loser,7,2026-11-07
-bitcoin-cash,Bitcoin Cash,bch,257.52,-3.76161,loser,8,2026-11-07
-bitway,Bitway,btw,1.17,-3.70679,loser,9,2026-11-07
-cosmos,Cosmos Hub,atom,1.38,-3.66861,loser,10,2026-11-07
+midnight-3,Midnight,night,0.03988466,3.09732,gainer,1,2026-11-07
+uniswap,Uniswap,uni,7.05,2.45338,gainer,2,2026-11-07
+quant-network,Quant,qnt,196.55,2.18828,gainer,3,2026-11-07
+mantle,Mantle,mnt,0.452415,1.6113,gainer,4,2026-11-07
+memecore,MemeCore,m,0.837428,1.45913,gainer,5,2026-11-07
+ether-fi,Ether.fi,ethfi,0.589945,1.35037,gainer,6,2026-11-07
+tron,TRON,trx,0.319817,0.43488,gainer,7,2026-11-07
+bitget-token,Bitget Token,bgb,1.74,0.36886,gainer,8,2026-11-07
+just,JUST,jst,0.143459,0.33641,gainer,9,2026-11-07
+tether-gold,Tether Gold,xaut,4060.24,0.32078,gainer,10,2026-11-07
+pump-fun,Pump.fun,pump,0.00363929,-9.09502,loser,1,2026-11-07
+zcash,Zcash,zec,1241.99,-7.1342,loser,2,2026-11-07
+bitcoin-cash,Bitcoin Cash,bch,248.14,-5.73648,loser,3,2026-11-07
+ethena,Ethena,ena,0.156391,-5.2207,loser,4,2026-11-07
+worldcoin-wld,Worldcoin,wld,0.329771,-4.68775,loser,5,2026-11-07
+filecoin,Filecoin,fil,0.78002,-4.59068,loser,6,2026-11-07
+rain,Rain,rain,0.00559095,-4.52967,loser,7,2026-11-07
+pearl-2,Pearl,pearl,1.77,-4.45703,loser,8,2026-11-07
+pepe,Pepe,pepe,4.82e-06,-4.26633,loser,9,2026-11-07
+okb,OKB,okb,101.01,-4.08869,loser,10,2026-11-07
