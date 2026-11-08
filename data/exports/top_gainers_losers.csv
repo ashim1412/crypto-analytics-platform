@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.03988466,3.09732,gainer,1,2026-11-07
-uniswap,Uniswap,uni,7.05,2.45338,gainer,2,2026-11-07
-quant-network,Quant,qnt,196.55,2.18828,gainer,3,2026-11-07
-mantle,Mantle,mnt,0.452415,1.6113,gainer,4,2026-11-07
-memecore,MemeCore,m,0.837428,1.45913,gainer,5,2026-11-07
-ether-fi,Ether.fi,ethfi,0.589945,1.35037,gainer,6,2026-11-07
-tron,TRON,trx,0.319817,0.43488,gainer,7,2026-11-07
-bitget-token,Bitget Token,bgb,1.74,0.36886,gainer,8,2026-11-07
-just,JUST,jst,0.143459,0.33641,gainer,9,2026-11-07
-tether-gold,Tether Gold,xaut,4060.24,0.32078,gainer,10,2026-11-07
-pump-fun,Pump.fun,pump,0.00363929,-9.09502,loser,1,2026-11-07
-zcash,Zcash,zec,1241.99,-7.1342,loser,2,2026-11-07
-bitcoin-cash,Bitcoin Cash,bch,248.14,-5.73648,loser,3,2026-11-07
-ethena,Ethena,ena,0.156391,-5.2207,loser,4,2026-11-07
-worldcoin-wld,Worldcoin,wld,0.329771,-4.68775,loser,5,2026-11-07
-filecoin,Filecoin,fil,0.78002,-4.59068,loser,6,2026-11-07
-rain,Rain,rain,0.00559095,-4.52967,loser,7,2026-11-07
-pearl-2,Pearl,pearl,1.77,-4.45703,loser,8,2026-11-07
-pepe,Pepe,pepe,4.82e-06,-4.26633,loser,9,2026-11-07
-okb,OKB,okb,101.01,-4.08869,loser,10,2026-11-07
+figure-heloc,Figure Heloc,figr_heloc,1.066,4.25518,gainer,1,2026-11-08
+arbitrum,Arbitrum,arb,0.169099,3.07494,gainer,2,2026-11-08
+midnight-3,Midnight,night,0.04007193,2.92805,gainer,3,2026-11-08
+uniswap,Uniswap,uni,7.11,2.04071,gainer,4,2026-11-08
+ether-fi,Ether.fi,ethfi,0.591242,1.54514,gainer,5,2026-11-08
+aave,Aave,aave,130.99,1.12989,gainer,6,2026-11-08
+just,JUST,jst,0.144293,0.89359,gainer,7,2026-11-08
+tron,TRON,trx,0.320281,0.86963,gainer,8,2026-11-08
+mantle,Mantle,mnt,0.453629,0.83912,gainer,9,2026-11-08
+quant-network,Quant,qnt,193.71,0.39753,gainer,10,2026-11-08
+zcash,Zcash,zec,1243.06,-7.83617,loser,1,2026-11-08
+pump-fun,Pump.fun,pump,0.00363301,-7.44021,loser,2,2026-11-08
+ethena,Ethena,ena,0.15405,-6.2031,loser,3,2026-11-08
+lighter,Lighter,lit,3.26,-6.07393,loser,4,2026-11-08
+bitcoin-cash,Bitcoin Cash,bch,247.44,-5.69554,loser,5,2026-11-08
+okb,OKB,okb,100.83,-4.42169,loser,6,2026-11-08
+pepe,Pepe,pepe,4.79e-06,-4.22721,loser,7,2026-11-08
+the-open-network,Gram (prev. Toncoin),gram,1.05,-3.99623,loser,8,2026-11-08
+filecoin,Filecoin,fil,0.779093,-3.97873,loser,9,2026-11-08
+venice-token,Venice Token,vvv,20.27,-3.46853,loser,10,2026-11-08
