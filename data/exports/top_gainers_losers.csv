@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-figure-heloc,Figure Heloc,figr_heloc,1.066,4.25673,gainer,1,2026-11-08
-ether-fi,Ether.fi,ethfi,0.600579,2.6026,gainer,2,2026-11-08
-arbitrum,Arbitrum,arb,0.170194,2.29623,gainer,3,2026-11-08
-midnight-3,Midnight,night,0.04052626,2.26767,gainer,4,2026-11-08
-pepe,Pepe,pepe,4.99e-06,1.73017,gainer,5,2026-11-08
-render-token,Render,render,1.58,1.62502,gainer,6,2026-11-08
-algorand,Algorand,algo,0.095245,1.4989,gainer,7,2026-11-08
-quant-network,Quant,qnt,199.34,0.86001,gainer,8,2026-11-08
-jupiter-exchange-solana,Jupiter,jup,0.242256,0.81797,gainer,9,2026-11-08
-blockstack,Stacks,stx,0.336669,0.6754,gainer,10,2026-11-08
-bitcoin-cash,Bitcoin Cash,bch,246.01,-4.93319,loser,1,2026-11-08
-ethena,Ethena,ena,0.154398,-4.23344,loser,2,2026-11-08
-rain,Rain,rain,0.0054433,-3.46205,loser,3,2026-11-08
-pi-network,Pi Network,pi,0.072806,-3.25092,loser,4,2026-11-08
-pump-fun,Pump.fun,pump,0.00367165,-3.20694,loser,5,2026-11-08
-worldcoin-wld,Worldcoin,wld,0.32788,-3.19866,loser,6,2026-11-08
-filecoin,Filecoin,fil,0.775337,-3.01185,loser,7,2026-11-08
-canton-network,Canton,cc,0.09215,-2.93565,loser,8,2026-11-08
-the-open-network,Gram (prev. Toncoin),gram,1.068,-2.66817,loser,9,2026-11-08
-okb,OKB,okb,102.08,-2.46626,loser,10,2026-11-08
+pepe,Pepe,pepe,5.04e-06,4.73804,gainer,1,2026-11-08
+gatechain-token,Gate,gt,9.95,3.08599,gainer,2,2026-11-08
+dash,Dash,dash,47.03,2.56381,gainer,3,2026-11-08
+figure-heloc,Figure Heloc,figr_heloc,1.056,2.30769,gainer,4,2026-11-08
+pump-fun,Pump.fun,pump,0.00370825,1.86882,gainer,5,2026-11-08
+venice-token,Venice Token,vvv,20.46,1.62379,gainer,6,2026-11-08
+quant-network,Quant,qnt,199.55,1.46628,gainer,7,2026-11-08
+okb,OKB,okb,102.1,1.40471,gainer,8,2026-11-08
+render-token,Render,render,1.55,0.89421,gainer,9,2026-11-08
+monero,Monero,xmr,604.45,0.86127,gainer,10,2026-11-08
+rain,Rain,rain,0.00519881,-6.85151,loser,1,2026-11-08
+memecore,MemeCore,m,0.790586,-5.37718,loser,2,2026-11-08
+bitway,Bitway,btw,1.16,-4.26602,loser,3,2026-11-08
+pi-network,Pi Network,pi,0.071122,-3.87919,loser,4,2026-11-08
+pearl-2,Pearl,pearl,1.72,-3.62625,loser,5,2026-11-08
+blockstack,Stacks,stx,0.32769,-3.20475,loser,6,2026-11-08
+worldcoin-wld,Worldcoin,wld,0.321019,-2.42695,loser,7,2026-11-08
+cosmos,Cosmos Hub,atom,1.33,-2.30733,loser,8,2026-11-08
+lighter,Lighter,lit,3.16,-2.25054,loser,9,2026-11-08
+the-open-network,Gram (prev. Toncoin),gram,1.037,-1.95818,loser,10,2026-11-08
