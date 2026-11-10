@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,2.11,16.13632,gainer,1,2026-11-10
-pi-network,Pi Network,pi,0.069903,6.45213,gainer,2,2026-11-10
-jupiter-exchange-solana,Jupiter,jup,0.253157,5.94245,gainer,3,2026-11-10
-midnight-3,Midnight,night,0.04235886,5.75195,gainer,4,2026-11-10
-xdce-crowd-sale,XDC Network,xdc,0.03112672,5.13304,gainer,5,2026-11-10
-lighter,Lighter,lit,3.26,4.46206,gainer,6,2026-11-10
-pepe,Pepe,pepe,5.32e-06,4.29915,gainer,7,2026-11-10
-ondo-finance,Ondo,ondo,0.371288,3.81173,gainer,8,2026-11-10
-beldex,Beldex,bdx,0.07412,2.30954,gainer,9,2026-11-10
-near,NEAR Protocol,near,3.62,2.25805,gainer,10,2026-11-10
-arbitrum,Arbitrum,arb,0.164281,-10.45139,loser,1,2026-11-10
-rain,Rain,rain,0.00413779,-10.12954,loser,2,2026-11-10
-quant-network,Quant,qnt,183.11,-8.89639,loser,3,2026-11-10
-monero,Monero,xmr,550.86,-7.30744,loser,4,2026-11-10
-venice-token,Venice Token,vvv,19.55,-7.00187,loser,5,2026-11-10
-bitway,Bitway,btw,1.021,-5.64425,loser,6,2026-11-10
-aave,Aave,aave,125.48,-5.46045,loser,7,2026-11-10
-avalanche-2,Avalanche,avax,8.31,-4.08071,loser,8,2026-11-10
-zcash,Zcash,zec,1170.92,-3.94715,loser,9,2026-11-10
-pump-fun,Pump.fun,pump,0.00351313,-3.94348,loser,10,2026-11-10
+bitway,Bitway,btw,1.14,13.15021,gainer,1,2026-11-10
+the-open-network,Gram (prev. Toncoin),gram,1.14,10.44051,gainer,2,2026-11-10
+lighter,Lighter,lit,3.46,6.51828,gainer,3,2026-11-10
+pi-network,Pi Network,pi,0.070597,5.39697,gainer,4,2026-11-10
+midnight-3,Midnight,night,0.04167613,4.076,gainer,5,2026-11-10
+pepe,Pepe,pepe,5.28e-06,3.11621,gainer,6,2026-11-10
+internet-computer,Internet Computer,icp,2.47,3.03106,gainer,7,2026-11-10
+xdce-crowd-sale,XDC Network,xdc,0.03022631,2.11827,gainer,8,2026-11-10
+beldex,Beldex,bdx,0.07312,1.60412,gainer,9,2026-11-10
+okb,OKB,okb,97.8,1.48784,gainer,10,2026-11-10
+rain,Rain,rain,0.00387198,-14.86697,loser,1,2026-11-10
+venice-token,Venice Token,vvv,19.32,-12.13574,loser,2,2026-11-10
+zcash,Zcash,zec,1051.33,-10.86271,loser,3,2026-11-10
+pearl-2,Pearl,pearl,1.47,-10.02963,loser,4,2026-11-10
+dash,Dash,dash,42.87,-9.17799,loser,5,2026-11-10
+arbitrum,Arbitrum,arb,0.159944,-8.41914,loser,6,2026-11-10
+quant-network,Quant,qnt,181.25,-7.21878,loser,7,2026-11-10
+aave,Aave,aave,123.84,-6.1774,loser,8,2026-11-10
+mantle,Mantle,mnt,0.424614,-5.56391,loser,9,2026-11-10
+monero,Monero,xmr,560.64,-5.48034,loser,10,2026-11-10
