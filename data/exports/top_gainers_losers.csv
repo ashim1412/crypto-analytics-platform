@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-arbitrum,Arbitrum,arb,0.181314,7.32432,gainer,1,2026-11-09
-avalanche-2,Avalanche,avax,8.75,7.15648,gainer,2,2026-11-09
-ether-fi,Ether.fi,ethfi,0.619168,4.52409,gainer,3,2026-11-09
-render-token,Render,render,1.6,3.6487,gainer,4,2026-11-09
-aave,Aave,aave,133.01,3.14212,gainer,5,2026-11-09
-pepe,Pepe,pepe,5.18e-06,3.09555,gainer,6,2026-11-09
-cosmos,Cosmos Hub,atom,1.37,2.39096,gainer,7,2026-11-09
-hedera-hashgraph,Hedera,hbar,0.067993,2.18052,gainer,8,2026-11-09
-dash,Dash,dash,47.5,2.11037,gainer,9,2026-11-09
-world-liberty-financial,World Liberty Financial,wlfi,0.0472885,1.85584,gainer,10,2026-11-09
-pearl-2,Pearl,pearl,1.53,-14.15577,loser,1,2026-11-09
-rain,Rain,rain,0.00472741,-12.46292,loser,2,2026-11-09
-pi-network,Pi Network,pi,0.065535,-8.65033,loser,3,2026-11-09
-bitway,Bitway,btw,1.094,-5.84246,loser,4,2026-11-09
-aster-2,Aster,aster,0.639443,-5.52912,loser,5,2026-11-09
-ripple,XRP,xrp,1.096,-5.49164,loser,6,2026-11-09
-ethereum,Ethereum,eth,2120.48,-5.14237,loser,7,2026-11-09
-okb,OKB,okb,97.56,-4.68413,loser,8,2026-11-09
-xdce-crowd-sale,XDC Network,xdc,0.02965607,-4.34561,loser,9,2026-11-09
-zcash,Zcash,zec,1220.43,-4.02912,loser,10,2026-11-09
+pieverse,Pieverse,pieverse,2.12,45.43843,gainer,1,2026-11-10
+stable-2,​​Stable,stable,0.03031782,13.23034,gainer,2,2026-11-10
+avalanche-2,Avalanche,avax,8.68,8.50126,gainer,3,2026-11-10
+jupiter-exchange-solana,Jupiter,jup,0.252815,7.76521,gainer,4,2026-11-10
+ether-fi,Ether.fi,ethfi,0.628574,6.41233,gainer,5,2026-11-10
+venice-token,Venice Token,vvv,21.43,5.47058,gainer,6,2026-11-10
+ondo-finance,Ondo,ondo,0.371116,4.48748,gainer,7,2026-11-10
+midnight-3,Midnight,night,0.04068636,4.36004,gainer,8,2026-11-10
+cosmos,Cosmos Hub,atom,1.37,3.56478,gainer,9,2026-11-10
+world-liberty-financial,World Liberty Financial,wlfi,0.04782858,3.27913,gainer,10,2026-11-10
+bitway,Bitway,btw,1.002,-13.4662,loser,1,2026-11-10
+rain,Rain,rain,0.00451456,-8.43412,loser,2,2026-11-10
+layerzero,LayerZero,zro,1.47,-7.18918,loser,3,2026-11-10
+zcash,Zcash,zec,1169.98,-4.88881,loser,4,2026-11-10
+pi-network,Pi Network,pi,0.066763,-4.46524,loser,5,2026-11-10
+blockstack,Stacks,stx,0.310796,-3.77999,loser,6,2026-11-10
+pearl-2,Pearl,pearl,1.63,-3.64624,loser,7,2026-11-10
+okb,OKB,okb,96.62,-3.54768,loser,8,2026-11-10
+xdce-crowd-sale,XDC Network,xdc,0.02943395,-3.25709,loser,9,2026-11-10
+monero,Monero,xmr,582.4,-2.9999,loser,10,2026-11-10
