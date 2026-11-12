@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04707433,12.4415,gainer,1,2026-11-11
-monero,Monero,xmr,582.0,3.68013,gainer,2,2026-11-11
-aster-2,Aster,aster,0.654942,2.96717,gainer,3,2026-11-11
-figure-heloc,Figure Heloc,figr_heloc,1.066,2.74045,gainer,4,2026-11-11
-the-open-network,Gram (prev. Toncoin),gram,1.17,2.55531,gainer,5,2026-11-11
-crypto-com-chain,Cronos,cro,0.04821267,2.34552,gainer,6,2026-11-11
-venice-token,Venice Token,vvv,19.63,1.98876,gainer,7,2026-11-11
-internet-computer,Internet Computer,icp,2.59,1.92034,gainer,8,2026-11-11
-nexo,NEXO,nexo,0.719408,1.88088,gainer,9,2026-11-11
-stellar,Stellar,xlm,0.146643,1.46196,gainer,10,2026-11-11
-pepe,Pepe,pepe,4.54e-06,-14.63185,loser,1,2026-11-11
-bitway,Bitway,btw,1.011,-12.47009,loser,2,2026-11-11
-zcash,Zcash,zec,962.91,-7.89006,loser,3,2026-11-11
-lighter,Lighter,lit,3.23,-6.43228,loser,4,2026-11-11
-uniswap,Uniswap,uni,6.25,-6.39404,loser,5,2026-11-11
-injective-protocol,Injective,inj,7.45,-6.33653,loser,6,2026-11-11
-quant-network,Quant,qnt,170.12,-6.05823,loser,7,2026-11-11
-arbitrum,Arbitrum,arb,0.1512,-5.8779,loser,8,2026-11-11
-beldex,Beldex,bdx,0.068968,-4.97169,loser,9,2026-11-11
-render-token,Render,render,1.55,-4.40501,loser,10,2026-11-11
+midnight-3,Midnight,night,0.04616124,7.15659,gainer,1,2026-11-12
+crypto-com-chain,Cronos,cro,0.04926599,3.86212,gainer,2,2026-11-12
+figure-heloc,Figure Heloc,figr_heloc,1.066,2.75299,gainer,3,2026-11-12
+venice-token,Venice Token,vvv,19.7,2.34031,gainer,4,2026-11-12
+the-open-network,Gram (prev. Toncoin),gram,1.17,2.2021,gainer,5,2026-11-12
+okb,OKB,okb,98.0,1.89903,gainer,6,2026-11-12
+aster-2,Aster,aster,0.653995,1.89196,gainer,7,2026-11-12
+nexo,NEXO,nexo,0.71474,1.2378,gainer,8,2026-11-12
+stellar,Stellar,xlm,0.146582,1.08898,gainer,9,2026-11-12
+avalanche-2,Avalanche,avax,8.55,1.02589,gainer,10,2026-11-12
+pepe,Pepe,pepe,4.55e-06,-15.76834,loser,1,2026-11-12
+bitway,Bitway,btw,1.033,-13.61998,loser,2,2026-11-12
+injective-protocol,Injective,inj,7.54,-9.098,loser,3,2026-11-12
+quant-network,Quant,qnt,164.58,-8.725,loser,4,2026-11-12
+rain,Rain,rain,0.00380572,-8.54341,loser,5,2026-11-12
+arbitrum,Arbitrum,arb,0.150163,-8.31547,loser,6,2026-11-12
+uniswap,Uniswap,uni,6.23,-6.94773,loser,7,2026-11-12
+ethena,Ethena,ena,0.143241,-6.69467,loser,8,2026-11-12
+lighter,Lighter,lit,3.28,-6.07739,loser,9,2026-11-12
+dash,Dash,dash,41.87,-4.99185,loser,10,2026-11-12
