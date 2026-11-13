@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.073226,6.34961,gainer,1,2026-11-12
-memecore,MemeCore,m,0.823212,5.19192,gainer,2,2026-11-12
-jupiter-exchange-solana,Jupiter,jup,0.264221,3.88821,gainer,3,2026-11-12
-pyth-network,Pyth Network,pyth,0.066685,3.29759,gainer,4,2026-11-12
-cosmos,Cosmos Hub,atom,1.43,3.02804,gainer,5,2026-11-12
-polygon-ecosystem-token,POL (ex-MATIC),pol,0.089281,2.78224,gainer,6,2026-11-12
-aster-2,Aster,aster,0.665365,1.70575,gainer,7,2026-11-12
-just,JUST,jst,0.146452,1.61553,gainer,8,2026-11-12
-stellar,Stellar,xlm,0.148862,1.49054,gainer,9,2026-11-12
-xdce-crowd-sale,XDC Network,xdc,0.02924487,1.46028,gainer,10,2026-11-12
-blockstack,Stacks,stx,0.284525,-8.2912,loser,1,2026-11-12
-monero,Monero,xmr,545.91,-6.42036,loser,2,2026-11-12
-gatechain-token,Gate,gt,9.26,-5.91178,loser,3,2026-11-12
-aave,Aave,aave,113.87,-5.44687,loser,4,2026-11-12
-near,NEAR Protocol,near,3.4,-5.4134,loser,5,2026-11-12
-uniswap,Uniswap,uni,6.02,-5.09186,loser,6,2026-11-12
-figure-heloc,Figure Heloc,figr_heloc,1.001,-4.32229,loser,7,2026-11-12
-ethena,Ethena,ena,0.140064,-4.06883,loser,8,2026-11-12
-binancecoin,BNB,bnb,653.35,-3.98248,loser,9,2026-11-12
-venice-token,Venice Token,vvv,18.92,-3.77743,loser,10,2026-11-12
+beldex,Beldex,bdx,0.072681,3.61895,gainer,1,2026-11-13
+just,JUST,jst,0.145485,0.85808,gainer,2,2026-11-13
+memecore,MemeCore,m,0.797395,0.71399,gainer,3,2026-11-13
+pyth-network,Pyth Network,pyth,0.065152,0.43528,gainer,4,2026-11-13
+usual-usd,Usual USD,usd0,0.998319,0.08464,gainer,5,2026-11-13
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.05063,gainer,6,2026-11-13
+falcon-finance,Falcon USD,usdf,0.995041,0.04446,gainer,7,2026-11-13
+paypal-usd,PayPal USD,pyusd,0.999942,0.03597,gainer,8,2026-11-13
+usd1-wlfi,USD1,usd1,0.998533,0.02945,gainer,9,2026-11-13
+usds,USDS,usds,0.999928,0.02829,gainer,10,2026-11-13
+bitway,Bitway,btw,0.902184,-14.23151,loser,1,2026-11-13
+gatechain-token,Gate,gt,8.9,-9.67462,loser,2,2026-11-13
+blockstack,Stacks,stx,0.278048,-8.8802,loser,3,2026-11-13
+pearl-2,Pearl,pearl,1.36,-7.81683,loser,4,2026-11-13
+venice-token,Venice Token,vvv,18.27,-7.48341,loser,5,2026-11-13
+monero,Monero,xmr,532.24,-7.36379,loser,6,2026-11-13
+midnight-3,Midnight,night,0.04298984,-7.10578,loser,7,2026-11-13
+bitcoin,Bitcoin,btc,69025.0,-6.35761,loser,8,2026-11-13
+aave,Aave,aave,111.5,-6.29537,loser,9,2026-11-13
+binancecoin,BNB,bnb,636.19,-6.18073,loser,10,2026-11-13
