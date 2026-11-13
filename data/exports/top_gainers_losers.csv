@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-lighter,Lighter,lit,3.32,7.26995,gainer,1,2026-11-13
-hyperliquid,Hyperliquid,hype,74.7,5.88549,gainer,2,2026-11-13
-injective-protocol,Injective,inj,7.9,5.8327,gainer,3,2026-11-13
-memecore,MemeCore,m,0.833053,4.94102,gainer,4,2026-11-13
-near,NEAR Protocol,near,3.55,4.44118,gainer,5,2026-11-13
-internet-computer,Internet Computer,icp,2.63,4.20041,gainer,6,2026-11-13
-beldex,Beldex,bdx,0.074785,4.02534,gainer,7,2026-11-13
-pump-fun,Pump.fun,pump,0.00350735,4.00254,gainer,8,2026-11-13
-pepe,Pepe,pepe,4.54e-06,3.77636,gainer,9,2026-11-13
-layerzero,LayerZero,zro,1.58,3.60841,gainer,10,2026-11-13
-the-open-network,Gram (prev. Toncoin),gram,1.13,-11.67759,loser,1,2026-11-13
-bitway,Bitway,btw,0.917075,-8.92378,loser,2,2026-11-13
-figure-heloc,Figure Heloc,figr_heloc,1.001,-6.13631,loser,3,2026-11-13
-bitcoin,Bitcoin,btc,69209.0,-4.71206,loser,4,2026-11-13
-midnight-3,Midnight,night,0.04462361,-4.32654,loser,5,2026-11-13
-whitebit,WhiteBIT Coin,wbt,67.19,-3.96827,loser,6,2026-11-13
-mantle,Mantle,mnt,0.409336,-3.43974,loser,7,2026-11-13
-uniswap,Uniswap,uni,5.86,-3.34937,loser,8,2026-11-13
-ethereum,Ethereum,eth,1956.29,-2.84162,loser,9,2026-11-13
-okb,OKB,okb,94.68,-2.80551,loser,10,2026-11-13
+injective-protocol,Injective,inj,8.01,7.42497,gainer,1,2026-11-13
+pearl-2,Pearl,pearl,1.45,6.3458,gainer,2,2026-11-13
+midnight-3,Midnight,night,0.04666448,2.33003,gainer,3,2026-11-13
+beldex,Beldex,bdx,0.0745,2.29424,gainer,4,2026-11-13
+layerzero,LayerZero,zro,1.58,1.63785,gainer,5,2026-11-13
+leo-token,LEO Token,leo,9.3,1.31844,gainer,6,2026-11-13
+near,NEAR Protocol,near,3.43,0.7026,gainer,7,2026-11-13
+blockstack,Stacks,stx,0.28603,0.46111,gainer,8,2026-11-13
+figure-heloc,Figure Heloc,figr_heloc,1.004,0.2925,gainer,9,2026-11-13
+render-token,Render,render,1.52,0.1178,gainer,10,2026-11-13
+bitway,Bitway,btw,0.812861,-17.88601,loser,1,2026-11-13
+ether-fi,Ether.fi,ethfi,0.572222,-9.90757,loser,2,2026-11-13
+filecoin,Filecoin,fil,0.704547,-5.46302,loser,3,2026-11-13
+gatechain-token,Gate,gt,8.75,-5.44057,loser,4,2026-11-13
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.084439,-5.43923,loser,5,2026-11-13
+ethena,Ethena,ena,0.132841,-5.17499,loser,6,2026-11-13
+uniswap,Uniswap,uni,5.73,-4.73219,loser,7,2026-11-13
+cosmos,Cosmos Hub,atom,1.37,-4.67026,loser,8,2026-11-13
+arbitrum,Arbitrum,arb,0.144033,-4.37464,loser,9,2026-11-13
+hedera-hashgraph,Hedera,hbar,0.061113,-4.30987,loser,10,2026-11-13
