@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-beldex,Beldex,bdx,0.072681,3.61895,gainer,1,2026-11-13
-just,JUST,jst,0.145485,0.85808,gainer,2,2026-11-13
-memecore,MemeCore,m,0.797395,0.71399,gainer,3,2026-11-13
-pyth-network,Pyth Network,pyth,0.065152,0.43528,gainer,4,2026-11-13
-usual-usd,Usual USD,usd0,0.998319,0.08464,gainer,5,2026-11-13
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.05063,gainer,6,2026-11-13
-falcon-finance,Falcon USD,usdf,0.995041,0.04446,gainer,7,2026-11-13
-paypal-usd,PayPal USD,pyusd,0.999942,0.03597,gainer,8,2026-11-13
-usd1-wlfi,USD1,usd1,0.998533,0.02945,gainer,9,2026-11-13
-usds,USDS,usds,0.999928,0.02829,gainer,10,2026-11-13
-bitway,Bitway,btw,0.902184,-14.23151,loser,1,2026-11-13
-gatechain-token,Gate,gt,8.9,-9.67462,loser,2,2026-11-13
-blockstack,Stacks,stx,0.278048,-8.8802,loser,3,2026-11-13
-pearl-2,Pearl,pearl,1.36,-7.81683,loser,4,2026-11-13
-venice-token,Venice Token,vvv,18.27,-7.48341,loser,5,2026-11-13
-monero,Monero,xmr,532.24,-7.36379,loser,6,2026-11-13
-midnight-3,Midnight,night,0.04298984,-7.10578,loser,7,2026-11-13
-bitcoin,Bitcoin,btc,69025.0,-6.35761,loser,8,2026-11-13
-aave,Aave,aave,111.5,-6.29537,loser,9,2026-11-13
-binancecoin,BNB,bnb,636.19,-6.18073,loser,10,2026-11-13
+lighter,Lighter,lit,3.32,7.26995,gainer,1,2026-11-13
+hyperliquid,Hyperliquid,hype,74.7,5.88549,gainer,2,2026-11-13
+injective-protocol,Injective,inj,7.9,5.8327,gainer,3,2026-11-13
+memecore,MemeCore,m,0.833053,4.94102,gainer,4,2026-11-13
+near,NEAR Protocol,near,3.55,4.44118,gainer,5,2026-11-13
+internet-computer,Internet Computer,icp,2.63,4.20041,gainer,6,2026-11-13
+beldex,Beldex,bdx,0.074785,4.02534,gainer,7,2026-11-13
+pump-fun,Pump.fun,pump,0.00350735,4.00254,gainer,8,2026-11-13
+pepe,Pepe,pepe,4.54e-06,3.77636,gainer,9,2026-11-13
+layerzero,LayerZero,zro,1.58,3.60841,gainer,10,2026-11-13
+the-open-network,Gram (prev. Toncoin),gram,1.13,-11.67759,loser,1,2026-11-13
+bitway,Bitway,btw,0.917075,-8.92378,loser,2,2026-11-13
+figure-heloc,Figure Heloc,figr_heloc,1.001,-6.13631,loser,3,2026-11-13
+bitcoin,Bitcoin,btc,69209.0,-4.71206,loser,4,2026-11-13
+midnight-3,Midnight,night,0.04462361,-4.32654,loser,5,2026-11-13
+whitebit,WhiteBIT Coin,wbt,67.19,-3.96827,loser,6,2026-11-13
+mantle,Mantle,mnt,0.409336,-3.43974,loser,7,2026-11-13
+uniswap,Uniswap,uni,5.86,-3.34937,loser,8,2026-11-13
+ethereum,Ethereum,eth,1956.29,-2.84162,loser,9,2026-11-13
+okb,OKB,okb,94.68,-2.80551,loser,10,2026-11-13
