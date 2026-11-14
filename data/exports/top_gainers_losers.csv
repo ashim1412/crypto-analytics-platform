@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.53,12.51758,gainer,1,2026-11-14
-injective-protocol,Injective,inj,7.95,8.05927,gainer,2,2026-11-14
-midnight-3,Midnight,night,0.04591298,6.81355,gainer,3,2026-11-14
-figure-heloc,Figure Heloc,figr_heloc,1.046,4.5388,gainer,4,2026-11-14
-bittensor,Bittensor,tao,211.48,3.98415,gainer,5,2026-11-14
-render-token,Render,render,1.52,3.48157,gainer,6,2026-11-14
-memecore,MemeCore,m,0.817998,2.59782,gainer,7,2026-11-14
-venice-token,Venice Token,vvv,18.73,2.51342,gainer,8,2026-11-14
-pump-fun,Pump.fun,pump,0.00340166,2.41507,gainer,9,2026-11-14
-layerzero,LayerZero,zro,1.56,2.24602,gainer,10,2026-11-14
-bitway,Bitway,btw,0.752222,-16.5352,loser,1,2026-11-14
-ether-fi,Ether.fi,ethfi,0.559707,-7.65587,loser,2,2026-11-14
-pepe,Pepe,pepe,4.26e-06,-6.54002,loser,3,2026-11-14
-the-open-network,Gram (prev. Toncoin),gram,1.071,-5.89006,loser,4,2026-11-14
-internet-computer,Internet Computer,icp,2.39,-5.53302,loser,5,2026-11-14
-aster-2,Aster,aster,0.619482,-5.17312,loser,6,2026-11-14
-hyperliquid,Hyperliquid,hype,68.1,-4.45095,loser,7,2026-11-14
-uniswap,Uniswap,uni,5.57,-4.40937,loser,8,2026-11-14
-gatechain-token,Gate,gt,8.52,-4.39038,loser,9,2026-11-14
-solana,Solana,sol,75.4,-4.23718,loser,10,2026-11-14
+midnight-3,Midnight,night,0.04874272,9.77231,gainer,1,2026-11-14
+pearl-2,Pearl,pearl,1.53,6.40021,gainer,2,2026-11-14
+memecore,MemeCore,m,0.858677,4.83731,gainer,3,2026-11-14
+figure-heloc,Figure Heloc,figr_heloc,1.046,4.54009,gainer,4,2026-11-14
+injective-protocol,Injective,inj,7.94,0.68296,gainer,5,2026-11-14
+leo-token,LEO Token,leo,9.31,0.51598,gainer,6,2026-11-14
+just,JUST,jst,0.145875,0.2565,gainer,7,2026-11-14
+tron,TRON,trx,0.312889,0.12434,gainer,8,2026-11-14
+monero,Monero,xmr,533.79,0.06883,gainer,9,2026-11-14
+hashnote-usyc,Circle USYC,usyc,1.14,0.0391,gainer,10,2026-11-14
+bitway,Bitway,btw,0.666204,-23.63159,loser,1,2026-11-14
+ether-fi,Ether.fi,ethfi,0.541474,-11.22014,loser,2,2026-11-14
+internet-computer,Internet Computer,icp,2.41,-8.40872,loser,3,2026-11-14
+ethena,Ethena,ena,0.127439,-8.23732,loser,4,2026-11-14
+zcash,Zcash,zec,894.17,-7.83843,loser,5,2026-11-14
+hyperliquid,Hyperliquid,hype,68.62,-7.6746,loser,6,2026-11-14
+worldcoin-wld,Worldcoin,wld,0.280665,-6.9514,loser,7,2026-11-14
+filecoin,Filecoin,fil,0.684217,-6.94519,loser,8,2026-11-14
+algorand,Algorand,algo,0.082677,-6.43618,loser,9,2026-11-14
+pump-fun,Pump.fun,pump,0.00327706,-6.23374,loser,10,2026-11-14
