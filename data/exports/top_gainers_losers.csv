@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,1.89,13.69817,gainer,1,2026-11-15
-midnight-3,Midnight,night,0.0479375,4.3916,gainer,2,2026-11-15
-beldex,Beldex,bdx,0.075535,2.49311,gainer,3,2026-11-15
-figure-heloc,Figure Heloc,figr_heloc,1.066,1.86911,gainer,4,2026-11-15
-venice-token,Venice Token,vvv,18.95,0.92927,gainer,5,2026-11-15
-jupiter-exchange-solana,Jupiter,jup,0.259404,0.39501,gainer,6,2026-11-15
-gho,GHO,gho,0.998869,0.06178,gainer,7,2026-11-15
-ethena-usde,Ethena USDe,usde,0.999549,0.04034,gainer,8,2026-11-15
-tether,Tether,usdt,0.999505,0.02814,gainer,9,2026-11-15
-usual-usd,Usual USD,usd0,0.998758,0.01541,gainer,10,2026-11-15
-aster-2,Aster,aster,0.52736,-15.92845,loser,1,2026-11-15
-pump-fun,Pump.fun,pump,0.0029577,-13.65733,loser,2,2026-11-15
-injective-protocol,Injective,inj,6.91,-12.95935,loser,3,2026-11-15
-avalanche-2,Avalanche,avax,7.14,-12.00429,loser,4,2026-11-15
-ether-fi,Ether.fi,ethfi,0.498814,-11.11925,loser,5,2026-11-15
-uniswap,Uniswap,uni,5.02,-10.65433,loser,6,2026-11-15
-bittensor,Bittensor,tao,190.44,-10.43073,loser,7,2026-11-15
-filecoin,Filecoin,fil,0.622879,-10.22427,loser,8,2026-11-15
-polkadot,Polkadot,dot,0.722723,-9.31773,loser,9,2026-11-15
-ethena,Ethena,ena,0.11842,-9.27288,loser,10,2026-11-15
+venice-token,Venice Token,vvv,19.77,9.17476,gainer,1,2026-11-15
+midnight-3,Midnight,night,0.050295,4.43617,gainer,2,2026-11-15
+pieverse,Pieverse,pieverse,1.87,3.88541,gainer,3,2026-11-15
+zcash,Zcash,zec,920.3,3.23647,gainer,4,2026-11-15
+jupiter-exchange-solana,Jupiter,jup,0.267335,2.59908,gainer,5,2026-11-15
+figure-heloc,Figure Heloc,figr_heloc,1.066,1.88186,gainer,6,2026-11-15
+beldex,Beldex,bdx,0.074737,1.56597,gainer,7,2026-11-15
+aave,Aave,aave,107.71,1.18596,gainer,8,2026-11-15
+xdce-crowd-sale,XDC Network,xdc,0.02849061,0.60621,gainer,9,2026-11-15
+open-usd,Open USD,ousd,0.99984,0.1313,gainer,10,2026-11-15
+aster-2,Aster,aster,0.530471,-16.8589,loser,1,2026-11-15
+injective-protocol,Injective,inj,7.11,-9.20739,loser,2,2026-11-15
+pump-fun,Pump.fun,pump,0.00294379,-8.88421,loser,3,2026-11-15
+avalanche-2,Avalanche,avax,7.3,-8.67989,loser,4,2026-11-15
+filecoin,Filecoin,fil,0.622549,-8.46882,loser,5,2026-11-15
+gatechain-token,Gate,gt,7.92,-7.05586,loser,6,2026-11-15
+morpho,Morpho,morpho,1.78,-6.3739,loser,7,2026-11-15
+pepe,Pepe,pepe,4.02e-06,-6.1835,loser,8,2026-11-15
+internet-computer,Internet Computer,icp,2.26,-5.5728,loser,9,2026-11-15
+mantle,Mantle,mnt,0.3763,-5.55101,loser,10,2026-11-15
