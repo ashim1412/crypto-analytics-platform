@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,1.82,7.6373,gainer,1,2026-11-14
-figure-heloc,Figure Heloc,figr_heloc,1.046,4.31159,gainer,2,2026-11-14
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.37662,gainer,3,2026-11-14
-midnight-3,Midnight,night,0.04671783,0.166,gainer,4,2026-11-14
-bfusd,BFUSD,bfusd,0.999148,0.03393,gainer,5,2026-11-14
-tether,Tether,usdt,0.999358,0.03001,gainer,6,2026-11-14
-ethena-usde,Ethena USDe,usde,0.999398,0.01914,gainer,7,2026-11-14
-usual-usd,Usual USD,usd0,0.998663,0.01814,gainer,8,2026-11-14
-ripple-usd,Ripple USD,rlusd,0.999856,0.01782,gainer,9,2026-11-14
-gho,GHO,gho,0.99841,0.01782,gainer,10,2026-11-14
-aster-2,Aster,aster,0.503245,-22.20882,loser,1,2026-11-14
-uniswap,Uniswap,uni,4.77,-16.38586,loser,2,2026-11-14
-pump-fun,Pump.fun,pump,0.00289644,-16.32117,loser,3,2026-11-14
-near,NEAR Protocol,near,2.97,-14.36335,loser,4,2026-11-14
-ethena,Ethena,ena,0.114587,-14.17412,loser,5,2026-11-14
-bittensor,Bittensor,tao,184.77,-13.95685,loser,6,2026-11-14
-worldcoin-wld,Worldcoin,wld,0.253342,-13.82149,loser,7,2026-11-14
-injective-protocol,Injective,inj,6.92,-13.75517,loser,8,2026-11-14
-avalanche-2,Avalanche,avax,7.17,-13.4907,loser,9,2026-11-14
-internet-computer,Internet Computer,icp,2.18,-13.34963,loser,10,2026-11-14
+pieverse,Pieverse,pieverse,1.89,13.69817,gainer,1,2026-11-15
+midnight-3,Midnight,night,0.0479375,4.3916,gainer,2,2026-11-15
+beldex,Beldex,bdx,0.075535,2.49311,gainer,3,2026-11-15
+figure-heloc,Figure Heloc,figr_heloc,1.066,1.86911,gainer,4,2026-11-15
+venice-token,Venice Token,vvv,18.95,0.92927,gainer,5,2026-11-15
+jupiter-exchange-solana,Jupiter,jup,0.259404,0.39501,gainer,6,2026-11-15
+gho,GHO,gho,0.998869,0.06178,gainer,7,2026-11-15
+ethena-usde,Ethena USDe,usde,0.999549,0.04034,gainer,8,2026-11-15
+tether,Tether,usdt,0.999505,0.02814,gainer,9,2026-11-15
+usual-usd,Usual USD,usd0,0.998758,0.01541,gainer,10,2026-11-15
+aster-2,Aster,aster,0.52736,-15.92845,loser,1,2026-11-15
+pump-fun,Pump.fun,pump,0.0029577,-13.65733,loser,2,2026-11-15
+injective-protocol,Injective,inj,6.91,-12.95935,loser,3,2026-11-15
+avalanche-2,Avalanche,avax,7.14,-12.00429,loser,4,2026-11-15
+ether-fi,Ether.fi,ethfi,0.498814,-11.11925,loser,5,2026-11-15
+uniswap,Uniswap,uni,5.02,-10.65433,loser,6,2026-11-15
+bittensor,Bittensor,tao,190.44,-10.43073,loser,7,2026-11-15
+filecoin,Filecoin,fil,0.622879,-10.22427,loser,8,2026-11-15
+polkadot,Polkadot,dot,0.722723,-9.31773,loser,9,2026-11-15
+ethena,Ethena,ena,0.11842,-9.27288,loser,10,2026-11-15
