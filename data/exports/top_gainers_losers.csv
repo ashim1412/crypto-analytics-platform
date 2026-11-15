@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,19.77,9.17476,gainer,1,2026-11-15
-midnight-3,Midnight,night,0.050295,4.43617,gainer,2,2026-11-15
-pieverse,Pieverse,pieverse,1.87,3.88541,gainer,3,2026-11-15
-zcash,Zcash,zec,920.3,3.23647,gainer,4,2026-11-15
-jupiter-exchange-solana,Jupiter,jup,0.267335,2.59908,gainer,5,2026-11-15
-figure-heloc,Figure Heloc,figr_heloc,1.066,1.88186,gainer,6,2026-11-15
-beldex,Beldex,bdx,0.074737,1.56597,gainer,7,2026-11-15
-aave,Aave,aave,107.71,1.18596,gainer,8,2026-11-15
-xdce-crowd-sale,XDC Network,xdc,0.02849061,0.60621,gainer,9,2026-11-15
-open-usd,Open USD,ousd,0.99984,0.1313,gainer,10,2026-11-15
-aster-2,Aster,aster,0.530471,-16.8589,loser,1,2026-11-15
-injective-protocol,Injective,inj,7.11,-9.20739,loser,2,2026-11-15
-pump-fun,Pump.fun,pump,0.00294379,-8.88421,loser,3,2026-11-15
-avalanche-2,Avalanche,avax,7.3,-8.67989,loser,4,2026-11-15
-filecoin,Filecoin,fil,0.622549,-8.46882,loser,5,2026-11-15
-gatechain-token,Gate,gt,7.92,-7.05586,loser,6,2026-11-15
-morpho,Morpho,morpho,1.78,-6.3739,loser,7,2026-11-15
-pepe,Pepe,pepe,4.02e-06,-6.1835,loser,8,2026-11-15
-internet-computer,Internet Computer,icp,2.26,-5.5728,loser,9,2026-11-15
-mantle,Mantle,mnt,0.3763,-5.55101,loser,10,2026-11-15
+venice-token,Venice Token,vvv,20.2,19.67551,gainer,1,2026-11-15
+pearl-2,Pearl,pearl,1.62,11.2958,gainer,2,2026-11-15
+aave,Aave,aave,109.09,11.05111,gainer,3,2026-11-15
+jupiter-exchange-solana,Jupiter,jup,0.266205,9.95582,gainer,4,2026-11-15
+uniswap,Uniswap,uni,5.17,9.80052,gainer,5,2026-11-15
+canton-network,Canton,cc,0.083418,9.69314,gainer,6,2026-11-15
+zcash,Zcash,zec,906.47,9.57537,gainer,7,2026-11-15
+quant-network,Quant,qnt,155.23,9.4983,gainer,8,2026-11-15
+hyperliquid,Hyperliquid,hype,67.81,9.09193,gainer,9,2026-11-15
+midnight-3,Midnight,night,0.050118,8.92634,gainer,10,2026-11-15
+bitway,Bitway,btw,0.531679,-26.84794,loser,1,2026-11-15
+rain,Rain,rain,0.00347501,-3.797,loser,2,2026-11-15
+beldex,Beldex,bdx,0.07252,-1.76893,loser,3,2026-11-15
+tron,TRON,trx,0.305044,-0.5817,loser,4,2026-11-15
+leo-token,LEO Token,leo,9.14,-0.14292,loser,5,2026-11-15
+usdgo,USDGO,usdgo,0.999795,-0.01397,loser,6,2026-11-15
+bfusd,BFUSD,bfusd,0.999191,-0.01073,loser,7,2026-11-15
+global-dollar,Global Dollar,usdg,0.999887,-0.00999,loser,8,2026-11-15
+blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,9,2026-11-15
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.056,0.0,loser,10,2026-11-15
