@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pearl-2,Pearl,pearl,1.62,6.72571,gainer,1,2026-11-16
-venice-token,Venice Token,vvv,20.07,5.79891,gainer,2,2026-11-16
-quant-network,Quant,qnt,156.88,5.49125,gainer,3,2026-11-16
-aave,Aave,aave,109.46,5.08239,gainer,4,2026-11-16
-canton-network,Canton,cc,0.084152,4.85402,gainer,5,2026-11-16
-aster-2,Aster,aster,0.548764,3.77807,gainer,6,2026-11-16
-uniswap,Uniswap,uni,5.21,3.60606,gainer,7,2026-11-16
-arbitrum,Arbitrum,arb,0.134996,2.71604,gainer,8,2026-11-16
-monero,Monero,xmr,500.02,2.55599,gainer,9,2026-11-16
-internet-computer,Internet Computer,icp,2.26,2.47783,gainer,10,2026-11-16
-bitway,Bitway,btw,0.477019,-33.35156,loser,1,2026-11-16
-lighter,Lighter,lit,2.79,-6.69594,loser,2,2026-11-16
-rain,Rain,rain,0.00346594,-4.47932,loser,3,2026-11-16
-layerzero,LayerZero,zro,1.4,-3.99376,loser,4,2026-11-16
-pieverse,Pieverse,pieverse,1.83,-3.78317,loser,5,2026-11-16
-beldex,Beldex,bdx,0.07295,-3.15854,loser,6,2026-11-16
-pepe,Pepe,pepe,3.84e-06,-2.76633,loser,7,2026-11-16
-filecoin,Filecoin,fil,0.609507,-2.25614,loser,8,2026-11-16
-crypto-com-chain,Cronos,cro,0.04315905,-2.22166,loser,9,2026-11-16
-pancakeswap-token,PancakeSwap,cake,1.58,-2.214,loser,10,2026-11-16
+rain,Rain,rain,0.00568056,55.08646,gainer,1,2026-11-16
+pearl-2,Pearl,pearl,1.62,8.60148,gainer,2,2026-11-16
+pieverse,Pieverse,pieverse,1.92,5.33592,gainer,3,2026-11-16
+aster-2,Aster,aster,0.553214,4.86259,gainer,4,2026-11-16
+internet-computer,Internet Computer,icp,2.3,3.67564,gainer,5,2026-11-16
+xdce-crowd-sale,XDC Network,xdc,0.02923741,2.99241,gainer,6,2026-11-16
+canton-network,Canton,cc,0.08334,2.71244,gainer,7,2026-11-16
+venice-token,Venice Token,vvv,19.92,2.13964,gainer,8,2026-11-16
+layerzero,LayerZero,zro,1.42,2.03269,gainer,9,2026-11-16
+cosmos,Cosmos Hub,atom,1.32,1.13223,gainer,10,2026-11-16
+bitway,Bitway,btw,0.408895,-31.27536,loser,1,2026-11-16
+lighter,Lighter,lit,2.57,-12.89775,loser,2,2026-11-16
+midnight-3,Midnight,night,0.0437888,-11.23946,loser,3,2026-11-16
+sky,Sky,sky,0.05053,-6.96627,loser,4,2026-11-16
+gatechain-token,Gate,gt,7.44,-6.34621,loser,5,2026-11-16
+injective-protocol,Injective,inj,6.69,-4.6057,loser,6,2026-11-16
+pepe,Pepe,pepe,3.81e-06,-4.05248,loser,7,2026-11-16
+zcash,Zcash,zec,861.07,-3.87886,loser,8,2026-11-16
+okb,OKB,okb,84.07,-3.82654,loser,9,2026-11-16
+kaspa,Kaspa,kas,0.02626027,-3.37046,loser,10,2026-11-16
