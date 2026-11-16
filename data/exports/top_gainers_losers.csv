@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-venice-token,Venice Token,vvv,20.2,19.67551,gainer,1,2026-11-15
-pearl-2,Pearl,pearl,1.62,11.2958,gainer,2,2026-11-15
-aave,Aave,aave,109.09,11.05111,gainer,3,2026-11-15
-jupiter-exchange-solana,Jupiter,jup,0.266205,9.95582,gainer,4,2026-11-15
-uniswap,Uniswap,uni,5.17,9.80052,gainer,5,2026-11-15
-canton-network,Canton,cc,0.083418,9.69314,gainer,6,2026-11-15
-zcash,Zcash,zec,906.47,9.57537,gainer,7,2026-11-15
-quant-network,Quant,qnt,155.23,9.4983,gainer,8,2026-11-15
-hyperliquid,Hyperliquid,hype,67.81,9.09193,gainer,9,2026-11-15
-midnight-3,Midnight,night,0.050118,8.92634,gainer,10,2026-11-15
-bitway,Bitway,btw,0.531679,-26.84794,loser,1,2026-11-15
-rain,Rain,rain,0.00347501,-3.797,loser,2,2026-11-15
-beldex,Beldex,bdx,0.07252,-1.76893,loser,3,2026-11-15
-tron,TRON,trx,0.305044,-0.5817,loser,4,2026-11-15
-leo-token,LEO Token,leo,9.14,-0.14292,loser,5,2026-11-15
-usdgo,USDGO,usdgo,0.999795,-0.01397,loser,6,2026-11-15
-bfusd,BFUSD,bfusd,0.999191,-0.01073,loser,7,2026-11-15
-global-dollar,Global Dollar,usdg,0.999887,-0.00999,loser,8,2026-11-15
-blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,buidl,1.0,0.0,loser,9,2026-11-15
-janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.056,0.0,loser,10,2026-11-15
+pearl-2,Pearl,pearl,1.62,6.72571,gainer,1,2026-11-16
+venice-token,Venice Token,vvv,20.07,5.79891,gainer,2,2026-11-16
+quant-network,Quant,qnt,156.88,5.49125,gainer,3,2026-11-16
+aave,Aave,aave,109.46,5.08239,gainer,4,2026-11-16
+canton-network,Canton,cc,0.084152,4.85402,gainer,5,2026-11-16
+aster-2,Aster,aster,0.548764,3.77807,gainer,6,2026-11-16
+uniswap,Uniswap,uni,5.21,3.60606,gainer,7,2026-11-16
+arbitrum,Arbitrum,arb,0.134996,2.71604,gainer,8,2026-11-16
+monero,Monero,xmr,500.02,2.55599,gainer,9,2026-11-16
+internet-computer,Internet Computer,icp,2.26,2.47783,gainer,10,2026-11-16
+bitway,Bitway,btw,0.477019,-33.35156,loser,1,2026-11-16
+lighter,Lighter,lit,2.79,-6.69594,loser,2,2026-11-16
+rain,Rain,rain,0.00346594,-4.47932,loser,3,2026-11-16
+layerzero,LayerZero,zro,1.4,-3.99376,loser,4,2026-11-16
+pieverse,Pieverse,pieverse,1.83,-3.78317,loser,5,2026-11-16
+beldex,Beldex,bdx,0.07295,-3.15854,loser,6,2026-11-16
+pepe,Pepe,pepe,3.84e-06,-2.76633,loser,7,2026-11-16
+filecoin,Filecoin,fil,0.609507,-2.25614,loser,8,2026-11-16
+crypto-com-chain,Cronos,cro,0.04315905,-2.22166,loser,9,2026-11-16
+pancakeswap-token,PancakeSwap,cake,1.58,-2.214,loser,10,2026-11-16
