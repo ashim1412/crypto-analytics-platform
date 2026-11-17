@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-rain,Rain,rain,0.00568056,55.08646,gainer,1,2026-11-16
-pearl-2,Pearl,pearl,1.62,8.60148,gainer,2,2026-11-16
-pieverse,Pieverse,pieverse,1.92,5.33592,gainer,3,2026-11-16
-aster-2,Aster,aster,0.553214,4.86259,gainer,4,2026-11-16
-internet-computer,Internet Computer,icp,2.3,3.67564,gainer,5,2026-11-16
-xdce-crowd-sale,XDC Network,xdc,0.02923741,2.99241,gainer,6,2026-11-16
-canton-network,Canton,cc,0.08334,2.71244,gainer,7,2026-11-16
-venice-token,Venice Token,vvv,19.92,2.13964,gainer,8,2026-11-16
-layerzero,LayerZero,zro,1.42,2.03269,gainer,9,2026-11-16
-cosmos,Cosmos Hub,atom,1.32,1.13223,gainer,10,2026-11-16
-bitway,Bitway,btw,0.408895,-31.27536,loser,1,2026-11-16
-lighter,Lighter,lit,2.57,-12.89775,loser,2,2026-11-16
-midnight-3,Midnight,night,0.0437888,-11.23946,loser,3,2026-11-16
-sky,Sky,sky,0.05053,-6.96627,loser,4,2026-11-16
-gatechain-token,Gate,gt,7.44,-6.34621,loser,5,2026-11-16
-injective-protocol,Injective,inj,6.69,-4.6057,loser,6,2026-11-16
-pepe,Pepe,pepe,3.81e-06,-4.05248,loser,7,2026-11-16
-zcash,Zcash,zec,861.07,-3.87886,loser,8,2026-11-16
-okb,OKB,okb,84.07,-3.82654,loser,9,2026-11-16
-kaspa,Kaspa,kas,0.02626027,-3.37046,loser,10,2026-11-16
+rain,Rain,rain,0.00611971,76.73364,gainer,1,2026-11-17
+aster-2,Aster,aster,0.577626,13.83944,gainer,2,2026-11-17
+internet-computer,Internet Computer,icp,2.48,12.10353,gainer,3,2026-11-17
+lighter,Lighter,lit,2.98,8.35355,gainer,4,2026-11-17
+layerzero,LayerZero,zro,1.47,7.83861,gainer,5,2026-11-17
+pieverse,Pieverse,pieverse,1.97,7.80767,gainer,6,2026-11-17
+hyperliquid,Hyperliquid,hype,68.91,3.33084,gainer,7,2026-11-17
+memecore,MemeCore,m,0.852651,3.30206,gainer,8,2026-11-17
+xdce-crowd-sale,XDC Network,xdc,0.02922875,2.77762,gainer,9,2026-11-17
+pepe,Pepe,pepe,3.91e-06,2.7252,gainer,10,2026-11-17
+bitway,Bitway,btw,0.357623,-30.67162,loser,1,2026-11-17
+pi-network,Pi Network,pi,0.05827,-9.01243,loser,2,2026-11-17
+jupiter-exchange-solana,Jupiter,jup,0.241807,-7.41997,loser,3,2026-11-17
+sky,Sky,sky,0.051181,-4.90531,loser,4,2026-11-17
+gatechain-token,Gate,gt,7.42,-4.63902,loser,5,2026-11-17
+pearl-2,Pearl,pearl,1.6,-4.52893,loser,6,2026-11-17
+pump-fun,Pump.fun,pump,0.00278007,-3.81479,loser,7,2026-11-17
+ethena,Ethena,ena,0.114133,-3.55677,loser,8,2026-11-17
+canton-network,Canton,cc,0.081857,-3.16323,loser,9,2026-11-17
+hedera-hashgraph,Hedera,hbar,0.056935,-3.12644,loser,10,2026-11-17
