@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.426106,15.31986,gainer,1,2026-11-18
-pearl-2,Pearl,pearl,1.8,12.654,gainer,2,2026-11-18
-jupiter-exchange-solana,Jupiter,jup,0.262757,9.49341,gainer,3,2026-11-18
-render-token,Render,render,1.48,7.90439,gainer,4,2026-11-18
-injective-protocol,Injective,inj,7.41,7.82407,gainer,5,2026-11-18
-pieverse,Pieverse,pieverse,2.11,7.60833,gainer,6,2026-11-18
-near,NEAR Protocol,near,3.38,7.37891,gainer,7,2026-11-18
-zcash,Zcash,zec,962.04,6.8708,gainer,8,2026-11-18
-blockstack,Stacks,stx,0.280246,6.86369,gainer,9,2026-11-18
-solana,Solana,sol,75.01,5.05657,gainer,10,2026-11-18
-rain,Rain,rain,0.00456905,-24.39199,loser,1,2026-11-18
-internet-computer,Internet Computer,icp,2.29,-7.46467,loser,2,2026-11-18
-midnight-3,Midnight,night,0.04457221,-5.21382,loser,3,2026-11-18
-figure-heloc,Figure Heloc,figr_heloc,1.009,-2.85797,loser,4,2026-11-18
-layerzero,LayerZero,zro,1.42,-2.7515,loser,5,2026-11-18
-lighter,Lighter,lit,2.89,-2.71039,loser,6,2026-11-18
-pepe,Pepe,pepe,3.81e-06,-1.98663,loser,7,2026-11-18
-pump-fun,Pump.fun,pump,0.00279743,-0.79189,loser,8,2026-11-18
-tether-gold,Tether Gold,xaut,3829.55,-0.38226,loser,9,2026-11-18
-pax-gold,PAX Gold,paxg,3833.71,-0.31897,loser,10,2026-11-18
+pieverse,Pieverse,pieverse,3.16,54.67838,gainer,1,2026-11-18
+pearl-2,Pearl,pearl,1.85,7.56018,gainer,2,2026-11-18
+bitway,Bitway,btw,0.486316,5.19938,gainer,3,2026-11-18
+render-token,Render,render,1.42,2.35429,gainer,4,2026-11-18
+just,JUST,jst,0.144842,1.48471,gainer,5,2026-11-18
+near,NEAR Protocol,near,3.3,1.41523,gainer,6,2026-11-18
+world-liberty-financial,World Liberty Financial,wlfi,0.04607366,1.32325,gainer,7,2026-11-18
+canton-network,Canton,cc,0.082817,1.22872,gainer,8,2026-11-18
+midnight-3,Midnight,night,0.04657244,1.08342,gainer,9,2026-11-18
+htx-dao,HTX DAO,htx,1.49e-06,0.75724,gainer,10,2026-11-18
+rain,Rain,rain,0.00490136,-10.97526,loser,1,2026-11-18
+layerzero,LayerZero,zro,1.36,-7.35366,loser,2,2026-11-18
+gatechain-token,Gate,gt,6.9,-6.72246,loser,3,2026-11-18
+pump-fun,Pump.fun,pump,0.00264773,-5.79518,loser,4,2026-11-18
+ethena,Ethena,ena,0.110396,-5.56549,loser,5,2026-11-18
+lighter,Lighter,lit,2.82,-5.35082,loser,6,2026-11-18
+uniswap,Uniswap,uni,5.15,-5.01714,loser,7,2026-11-18
+pi-network,Pi Network,pi,0.057224,-4.99055,loser,8,2026-11-18
+nexo,NEXO,nexo,0.652837,-4.74225,loser,9,2026-11-18
+aave,Aave,aave,109.07,-4.09664,loser,10,2026-11-18
