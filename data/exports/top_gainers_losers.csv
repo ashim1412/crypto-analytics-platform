@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,3.5,71.33488,gainer,1,2026-11-18
-pearl-2,Pearl,pearl,2.32,26.11568,gainer,2,2026-11-18
-bitway,Bitway,btw,0.481584,11.97189,gainer,3,2026-11-18
-mantle,Mantle,mnt,0.383593,2.71986,gainer,4,2026-11-18
-venice-token,Venice Token,vvv,21.67,2.47994,gainer,5,2026-11-18
-midnight-3,Midnight,night,0.04541054,1.12083,gainer,6,2026-11-18
-world-liberty-financial,World Liberty Financial,wlfi,0.04609274,1.06649,gainer,7,2026-11-18
-just,JUST,jst,0.145148,1.03486,gainer,8,2026-11-18
-tron,TRON,trx,0.309283,0.4473,gainer,9,2026-11-18
-figure-heloc,Figure Heloc,figr_heloc,1.012,0.28073,gainer,10,2026-11-18
-aster-2,Aster,aster,0.528184,-9.83754,loser,1,2026-11-18
-pump-fun,Pump.fun,pump,0.00257548,-8.76079,loser,2,2026-11-18
-pi-network,Pi Network,pi,0.056809,-7.09974,loser,3,2026-11-18
-lighter,Lighter,lit,2.71,-5.78402,loser,4,2026-11-18
-ethena,Ethena,ena,0.111528,-5.65551,loser,5,2026-11-18
-sky,Sky,sky,0.050435,-5.57251,loser,6,2026-11-18
-injective-protocol,Injective,inj,6.98,-5.53229,loser,7,2026-11-18
-gatechain-token,Gate,gt,7.08,-5.43845,loser,8,2026-11-18
-zcash,Zcash,zec,912.09,-5.3514,loser,9,2026-11-18
-the-open-network,Gram (prev. Toncoin),gram,1.019,-5.26274,loser,10,2026-11-18
+pieverse,Pieverse,pieverse,3.13,45.65583,gainer,1,2026-11-19
+pearl-2,Pearl,pearl,2.32,26.69079,gainer,2,2026-11-19
+bitway,Bitway,btw,0.566602,25.39809,gainer,3,2026-11-19
+ether-fi,Ether.fi,ethfi,0.520925,10.04795,gainer,4,2026-11-19
+venice-token,Venice Token,vvv,22.62,8.81476,gainer,5,2026-11-19
+layerzero,LayerZero,zro,1.41,3.95644,gainer,6,2026-11-19
+jupiter-exchange-solana,Jupiter,jup,0.268042,3.39955,gainer,7,2026-11-19
+mantle,Mantle,mnt,0.383788,2.93825,gainer,8,2026-11-19
+midnight-3,Midnight,night,0.04547412,2.24937,gainer,9,2026-11-19
+figure-heloc,Figure Heloc,figr_heloc,1.023,1.59265,gainer,10,2026-11-19
+pi-network,Pi Network,pi,0.057854,-6.00497,loser,1,2026-11-19
+sky,Sky,sky,0.04900991,-5.8284,loser,2,2026-11-19
+rain,Rain,rain,0.00455118,-4.62073,loser,3,2026-11-19
+the-open-network,Gram (prev. Toncoin),gram,1.029,-4.22617,loser,4,2026-11-19
+injective-protocol,Injective,inj,6.97,-3.93291,loser,5,2026-11-19
+aster-2,Aster,aster,0.530802,-3.76732,loser,6,2026-11-19
+xdce-crowd-sale,XDC Network,xdc,0.02986083,-3.59823,loser,7,2026-11-19
+lighter,Lighter,lit,2.76,-3.00744,loser,8,2026-11-19
+beldex,Beldex,bdx,0.069908,-2.72184,loser,9,2026-11-19
+gatechain-token,Gate,gt,7.19,-2.61615,loser,10,2026-11-19
