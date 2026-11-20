@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.649498,16.46157,gainer,1,2026-11-20
-sky,Sky,sky,0.04401442,1.32095,gainer,2,2026-11-20
-mantle,Mantle,mnt,0.394702,0.45405,gainer,3,2026-11-20
-just,JUST,jst,0.146174,0.35356,gainer,4,2026-11-20
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.09882,gainer,5,2026-11-20
-hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,6,2026-11-20
-united-stables,United Stables,u,0.999461,0.03477,gainer,7,2026-11-20
-open-usd,Open USD,ousd,0.999647,0.01457,gainer,8,2026-11-20
-ripple-usd,Ripple USD,rlusd,1.0,0.01192,gainer,9,2026-11-20
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.29,0.01026,gainer,10,2026-11-20
-pearl-2,Pearl,pearl,1.92,-17.33302,loser,1,2026-11-20
-rain,Rain,rain,0.0035975,-16.81707,loser,2,2026-11-20
-pieverse,Pieverse,pieverse,2.58,-13.4179,loser,3,2026-11-20
-lighter,Lighter,lit,2.57,-13.38818,loser,4,2026-11-20
-injective-protocol,Injective,inj,6.3,-13.19891,loser,5,2026-11-20
-zcash,Zcash,zec,819.81,-13.0592,loser,6,2026-11-20
-layerzero,LayerZero,zro,1.25,-12.98601,loser,7,2026-11-20
-jupiter-exchange-solana,Jupiter,jup,0.234424,-11.60575,loser,8,2026-11-20
-near,NEAR Protocol,near,3.0,-11.22034,loser,9,2026-11-20
-venice-token,Venice Token,vvv,20.9,-10.27273,loser,10,2026-11-20
+bitway,Bitway,btw,0.659754,11.2467,gainer,1,2026-11-20
+beldex,Beldex,bdx,0.073001,7.08888,gainer,2,2026-11-20
+memecore,MemeCore,m,0.861431,3.61876,gainer,3,2026-11-20
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.09262,gainer,4,2026-11-20
+spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.12,0.05076,gainer,5,2026-11-20
+eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.17,0.04846,gainer,6,2026-11-20
+hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,7,2026-11-20
+usds,USDS,usds,1.0,0.02974,gainer,8,2026-11-20
+usdgo,USDGO,usdgo,1.0,0.02752,gainer,9,2026-11-20
+dai,Dai,dai,1.0,0.02052,gainer,10,2026-11-20
+zcash,Zcash,zec,757.82,-14.88691,loser,1,2026-11-20
+rain,Rain,rain,0.00371905,-14.84421,loser,2,2026-11-20
+pearl-2,Pearl,pearl,1.88,-14.36014,loser,3,2026-11-20
+lighter,Lighter,lit,2.37,-14.05428,loser,4,2026-11-20
+layerzero,LayerZero,zro,1.16,-11.45405,loser,5,2026-11-20
+gatechain-token,Gate,gt,6.15,-10.96454,loser,6,2026-11-20
+near,NEAR Protocol,near,2.87,-10.2314,loser,7,2026-11-20
+injective-protocol,Injective,inj,6.4,-9.41455,loser,8,2026-11-20
+uniswap,Uniswap,uni,4.47,-9.21774,loser,9,2026-11-20
+worldcoin-wld,Worldcoin,wld,0.231373,-8.46654,loser,10,2026-11-20
