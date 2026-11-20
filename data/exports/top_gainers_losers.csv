@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,2.95,13.99567,gainer,1,2026-11-20
-bitway,Bitway,btw,0.617501,9.73634,gainer,2,2026-11-20
-just,JUST,jst,0.147194,2.29161,gainer,3,2026-11-20
-mantle,Mantle,mnt,0.394165,2.20788,gainer,4,2026-11-20
-bitget-token,Bitget Token,bgb,1.59,0.34985,gainer,5,2026-11-20
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.12,0.14801,gainer,6,2026-11-20
-euro-coin,EURC,eurc,1.097,0.10327,gainer,7,2026-11-20
-open-usd,Open USD,ousd,0.999868,0.0578,gainer,8,2026-11-20
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.03724,gainer,9,2026-11-20
-united-stables,United Stables,u,0.999266,0.02884,gainer,10,2026-11-20
-pearl-2,Pearl,pearl,1.91,-18.68743,loser,1,2026-11-20
-jupiter-exchange-solana,Jupiter,jup,0.229888,-13.49084,loser,2,2026-11-20
-near,NEAR Protocol,near,3.03,-10.91757,loser,3,2026-11-20
-layerzero,LayerZero,zro,1.28,-10.32824,loser,4,2026-11-20
-zcash,Zcash,zec,850.36,-9.26505,loser,5,2026-11-20
-pi-network,Pi Network,pi,0.052511,-8.5072,loser,6,2026-11-20
-sky,Sky,sky,0.0448758,-8.23722,loser,7,2026-11-20
-blockstack,Stacks,stx,0.254728,-8.10741,loser,8,2026-11-20
-ethena,Ethena,ena,0.102703,-8.07315,loser,9,2026-11-20
-uniswap,Uniswap,uni,4.77,-8.05829,loser,10,2026-11-20
+bitway,Bitway,btw,0.649498,16.46157,gainer,1,2026-11-20
+sky,Sky,sky,0.04401442,1.32095,gainer,2,2026-11-20
+mantle,Mantle,mnt,0.394702,0.45405,gainer,3,2026-11-20
+just,JUST,jst,0.146174,0.35356,gainer,4,2026-11-20
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.09882,gainer,5,2026-11-20
+hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,6,2026-11-20
+united-stables,United Stables,u,0.999461,0.03477,gainer,7,2026-11-20
+open-usd,Open USD,ousd,0.999647,0.01457,gainer,8,2026-11-20
+ripple-usd,Ripple USD,rlusd,1.0,0.01192,gainer,9,2026-11-20
+superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.29,0.01026,gainer,10,2026-11-20
+pearl-2,Pearl,pearl,1.92,-17.33302,loser,1,2026-11-20
+rain,Rain,rain,0.0035975,-16.81707,loser,2,2026-11-20
+pieverse,Pieverse,pieverse,2.58,-13.4179,loser,3,2026-11-20
+lighter,Lighter,lit,2.57,-13.38818,loser,4,2026-11-20
+injective-protocol,Injective,inj,6.3,-13.19891,loser,5,2026-11-20
+zcash,Zcash,zec,819.81,-13.0592,loser,6,2026-11-20
+layerzero,LayerZero,zro,1.25,-12.98601,loser,7,2026-11-20
+jupiter-exchange-solana,Jupiter,jup,0.234424,-11.60575,loser,8,2026-11-20
+near,NEAR Protocol,near,3.0,-11.22034,loser,9,2026-11-20
+venice-token,Venice Token,vvv,20.9,-10.27273,loser,10,2026-11-20
