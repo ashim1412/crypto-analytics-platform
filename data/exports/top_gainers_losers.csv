@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.659754,11.2467,gainer,1,2026-11-20
-beldex,Beldex,bdx,0.073001,7.08888,gainer,2,2026-11-20
-memecore,MemeCore,m,0.861431,3.61876,gainer,3,2026-11-20
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.09262,gainer,4,2026-11-20
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.12,0.05076,gainer,5,2026-11-20
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.17,0.04846,gainer,6,2026-11-20
-hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,7,2026-11-20
-usds,USDS,usds,1.0,0.02974,gainer,8,2026-11-20
-usdgo,USDGO,usdgo,1.0,0.02752,gainer,9,2026-11-20
-dai,Dai,dai,1.0,0.02052,gainer,10,2026-11-20
-zcash,Zcash,zec,757.82,-14.88691,loser,1,2026-11-20
-rain,Rain,rain,0.00371905,-14.84421,loser,2,2026-11-20
-pearl-2,Pearl,pearl,1.88,-14.36014,loser,3,2026-11-20
-lighter,Lighter,lit,2.37,-14.05428,loser,4,2026-11-20
-layerzero,LayerZero,zro,1.16,-11.45405,loser,5,2026-11-20
-gatechain-token,Gate,gt,6.15,-10.96454,loser,6,2026-11-20
-near,NEAR Protocol,near,2.87,-10.2314,loser,7,2026-11-20
-injective-protocol,Injective,inj,6.4,-9.41455,loser,8,2026-11-20
-uniswap,Uniswap,uni,4.47,-9.21774,loser,9,2026-11-20
-worldcoin-wld,Worldcoin,wld,0.231373,-8.46654,loser,10,2026-11-20
+bitway,Bitway,btw,0.650661,8.19309,gainer,1,2026-11-21
+beldex,Beldex,bdx,0.069638,1.10108,gainer,2,2026-11-21
+figure-heloc,Figure Heloc,figr_heloc,1.026,0.91528,gainer,3,2026-11-21
+usual-usd,Usual USD,usd0,0.998736,0.05618,gainer,4,2026-11-21
+hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,5,2026-11-21
+usds,USDS,usds,1.0,0.02571,gainer,6,2026-11-21
+paypal-usd,PayPal USD,pyusd,0.999938,0.01622,gainer,7,2026-11-21
+open-usd,Open USD,ousd,0.999386,0.0149,gainer,8,2026-11-21
+usdgo,USDGO,usdgo,1.0,0.01475,gainer,9,2026-11-21
+janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.057,0.01296,gainer,10,2026-11-21
+zcash,Zcash,zec,694.97,-18.33726,loser,1,2026-11-21
+lighter,Lighter,lit,2.17,-16.90775,loser,2,2026-11-21
+pearl-2,Pearl,pearl,1.64,-15.82471,loser,3,2026-11-21
+rain,Rain,rain,0.00367134,-15.76704,loser,4,2026-11-21
+layerzero,LayerZero,zro,1.07,-14.46546,loser,5,2026-11-21
+hyperliquid,Hyperliquid,hype,56.01,-14.06443,loser,6,2026-11-21
+monero,Monero,xmr,424.81,-13.60321,loser,7,2026-11-21
+sui,Sui,sui,0.600185,-13.43062,loser,8,2026-11-21
+worldcoin-wld,Worldcoin,wld,0.212779,-13.14172,loser,9,2026-11-21
+near,NEAR Protocol,near,2.63,-13.05562,loser,10,2026-11-21
