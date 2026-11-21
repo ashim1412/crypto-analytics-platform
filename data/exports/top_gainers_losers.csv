@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.650661,8.19309,gainer,1,2026-11-21
-beldex,Beldex,bdx,0.069638,1.10108,gainer,2,2026-11-21
-figure-heloc,Figure Heloc,figr_heloc,1.026,0.91528,gainer,3,2026-11-21
-usual-usd,Usual USD,usd0,0.998736,0.05618,gainer,4,2026-11-21
-hashnote-usyc,Circle USYC,usyc,1.14,0.04711,gainer,5,2026-11-21
-usds,USDS,usds,1.0,0.02571,gainer,6,2026-11-21
-paypal-usd,PayPal USD,pyusd,0.999938,0.01622,gainer,7,2026-11-21
-open-usd,Open USD,ousd,0.999386,0.0149,gainer,8,2026-11-21
-usdgo,USDGO,usdgo,1.0,0.01475,gainer,9,2026-11-21
-janus-henderson-anemoy-aaa-clo-fund,Janus Henderson Anemoy AAA CLO Fund,jaaa,1.057,0.01296,gainer,10,2026-11-21
-zcash,Zcash,zec,694.97,-18.33726,loser,1,2026-11-21
-lighter,Lighter,lit,2.17,-16.90775,loser,2,2026-11-21
-pearl-2,Pearl,pearl,1.64,-15.82471,loser,3,2026-11-21
-rain,Rain,rain,0.00367134,-15.76704,loser,4,2026-11-21
-layerzero,LayerZero,zro,1.07,-14.46546,loser,5,2026-11-21
-hyperliquid,Hyperliquid,hype,56.01,-14.06443,loser,6,2026-11-21
-monero,Monero,xmr,424.81,-13.60321,loser,7,2026-11-21
-sui,Sui,sui,0.600185,-13.43062,loser,8,2026-11-21
-worldcoin-wld,Worldcoin,wld,0.212779,-13.14172,loser,9,2026-11-21
-near,NEAR Protocol,near,2.63,-13.05562,loser,10,2026-11-21
+bitway,Bitway,btw,0.721694,17.05512,gainer,1,2026-11-21
+pieverse,Pieverse,pieverse,3.0,13.17147,gainer,2,2026-11-21
+venice-token,Venice Token,vvv,23.22,13.09558,gainer,3,2026-11-21
+beldex,Beldex,bdx,0.070475,3.86067,gainer,4,2026-11-21
+pi-network,Pi Network,pi,0.05255,2.8041,gainer,5,2026-11-21
+monero,Monero,xmr,474.78,2.58794,gainer,6,2026-11-21
+sky,Sky,sky,0.04453716,1.78404,gainer,7,2026-11-21
+bittensor,Bittensor,tao,187.39,1.75149,gainer,8,2026-11-21
+figure-heloc,Figure Heloc,figr_heloc,1.033,1.69909,gainer,9,2026-11-21
+morpho,Morpho,morpho,1.59,1.63902,gainer,10,2026-11-21
+pearl-2,Pearl,pearl,1.74,-9.71218,loser,1,2026-11-21
+memecore,MemeCore,m,0.784821,-8.88855,loser,2,2026-11-21
+lighter,Lighter,lit,2.37,-6.41614,loser,3,2026-11-21
+gatechain-token,Gate,gt,6.35,-5.45116,loser,4,2026-11-21
+the-open-network,Gram (prev. Toncoin),gram,0.957327,-5.38834,loser,5,2026-11-21
+jupiter-exchange-solana,Jupiter,jup,0.218782,-4.95114,loser,6,2026-11-21
+pancakeswap-token,PancakeSwap,cake,1.48,-4.93781,loser,7,2026-11-21
+xdce-crowd-sale,XDC Network,xdc,0.02657753,-4.80954,loser,8,2026-11-21
+cosmos,Cosmos Hub,atom,1.19,-4.75191,loser,9,2026-11-21
+mantle,Mantle,mnt,0.373936,-4.66282,loser,10,2026-11-21
