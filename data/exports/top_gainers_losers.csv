@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-a7a5,A7A5,a7a5,0.01193626,190.75624,gainer,1,2026-11-22
-venice-token,Venice Token,vvv,24.73,22.73858,gainer,2,2026-11-22
-pieverse,Pieverse,pieverse,3.39,19.09014,gainer,3,2026-11-22
-pearl-2,Pearl,pearl,1.95,12.82,gainer,4,2026-11-22
-ether-fi,Ether.fi,ethfi,0.479209,12.56272,gainer,5,2026-11-22
-monero,Monero,xmr,483.56,12.04273,gainer,6,2026-11-22
-zcash,Zcash,zec,762.95,11.00271,gainer,7,2026-11-22
-uniswap,Uniswap,uni,4.65,8.34249,gainer,8,2026-11-22
-bitway,Bitway,btw,0.714618,8.32701,gainer,9,2026-11-22
-bittensor,Bittensor,tao,183.18,7.90641,gainer,10,2026-11-22
-memecore,MemeCore,m,0.738301,-8.76764,loser,1,2026-11-22
-rain,Rain,rain,0.00343188,-4.06592,loser,2,2026-11-22
-injective-protocol,Injective,inj,5.86,-3.16566,loser,3,2026-11-22
-beldex,Beldex,bdx,0.068793,-2.25532,loser,4,2026-11-22
-internet-computer,Internet Computer,icp,1.87,-1.89267,loser,5,2026-11-22
-cosmos,Cosmos Hub,atom,1.15,-1.43002,loser,6,2026-11-22
-xdce-crowd-sale,XDC Network,xdc,0.02617797,-0.92327,loser,7,2026-11-22
-leo-token,LEO Token,leo,9.12,-0.44628,loser,8,2026-11-22
-bitget-token,Bitget Token,bgb,1.54,-0.18871,loser,9,2026-11-22
-true-usd,TrueUSD,tusd,0.997756,-0.05592,loser,10,2026-11-22
+midnight-3,Midnight,night,0.0483071,14.53725,gainer,1,2026-11-22
+pearl-2,Pearl,pearl,1.99,13.75398,gainer,2,2026-11-22
+venice-token,Venice Token,vvv,25.29,9.47627,gainer,3,2026-11-22
+gatechain-token,Gate,gt,6.86,8.40498,gainer,4,2026-11-22
+pieverse,Pieverse,pieverse,3.26,7.68696,gainer,5,2026-11-22
+ether-fi,Ether.fi,ethfi,0.495199,7.22301,gainer,6,2026-11-22
+mantle,Mantle,mnt,0.396887,6.23715,gainer,7,2026-11-22
+pump-fun,Pump.fun,pump,0.00250685,4.98175,gainer,8,2026-11-22
+near,NEAR Protocol,near,3.03,4.97692,gainer,9,2026-11-22
+blockstack,Stacks,stx,0.262905,4.908,gainer,10,2026-11-22
+rain,Rain,rain,0.00327181,-8.02575,loser,1,2026-11-22
+memecore,MemeCore,m,0.755157,-3.80231,loser,2,2026-11-22
+canton-network,Canton,cc,0.073695,-3.12831,loser,3,2026-11-22
+lighter,Lighter,lit,2.31,-2.49382,loser,4,2026-11-22
+aave,Aave,aave,98.65,-2.18794,loser,5,2026-11-22
+pepe,Pepe,pepe,3.4e-06,-1.8918,loser,6,2026-11-22
+a7a5,A7A5,a7a5,0.01212282,-1.72262,loser,7,2026-11-22
+xdce-crowd-sale,XDC Network,xdc,0.02616213,-1.48971,loser,8,2026-11-22
+sky,Sky,sky,0.04391387,-1.45447,loser,9,2026-11-22
+polygon-ecosystem-token,POL (ex-MATIC),pol,0.075377,-1.32637,loser,10,2026-11-22
