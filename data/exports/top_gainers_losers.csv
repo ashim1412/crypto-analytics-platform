@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-midnight-3,Midnight,night,0.04924244,9.91216,gainer,1,2026-11-22
-pump-fun,Pump.fun,pump,0.00256323,9.82548,gainer,2,2026-11-22
-bitway,Bitway,btw,0.743014,9.48,gainer,3,2026-11-22
-pieverse,Pieverse,pieverse,3.68,8.22675,gainer,4,2026-11-22
-ether-fi,Ether.fi,ethfi,0.496822,5.8135,gainer,5,2026-11-22
-venice-token,Venice Token,vvv,26.06,5.67733,gainer,6,2026-11-22
-pi-network,Pi Network,pi,0.054232,4.739,gainer,7,2026-11-22
-injective-protocol,Injective,inj,6.19,4.30489,gainer,8,2026-11-22
-mantle,Mantle,mnt,0.385992,4.10168,gainer,9,2026-11-22
-worldcoin-wld,Worldcoin,wld,0.236341,3.99766,gainer,10,2026-11-22
-rain,Rain,rain,0.00323932,-12.46743,loser,1,2026-11-22
-sky,Sky,sky,0.04182675,-5.35706,loser,2,2026-11-22
-canton-network,Canton,cc,0.072395,-4.8596,loser,3,2026-11-22
-xdce-crowd-sale,XDC Network,xdc,0.02606137,-1.906,loser,4,2026-11-22
-memecore,MemeCore,m,0.750816,-1.62804,loser,5,2026-11-22
-crypto-com-chain,Cronos,cro,0.04052211,-1.45194,loser,6,2026-11-22
-stellar,Stellar,xlm,0.126907,-1.31344,loser,7,2026-11-22
-pepe,Pepe,pepe,3.38e-06,-0.96508,loser,8,2026-11-22
-quant-network,Quant,qnt,142.07,-0.88805,loser,9,2026-11-22
-uniswap,Uniswap,uni,4.66,-0.87269,loser,10,2026-11-22
+midnight-3,Midnight,night,0.0494227,11.23756,gainer,1,2026-11-23
+pump-fun,Pump.fun,pump,0.00253875,8.82238,gainer,2,2026-11-23
+venice-token,Venice Token,vvv,26.88,8.01527,gainer,3,2026-11-23
+gatechain-token,Gate,gt,6.77,7.55353,gainer,4,2026-11-23
+pieverse,Pieverse,pieverse,3.64,6.79229,gainer,5,2026-11-23
+ethereum-classic,Ethereum Classic,etc,5.81,6.78651,gainer,6,2026-11-23
+jupiter-exchange-solana,Jupiter,jup,0.23176,6.59876,gainer,7,2026-11-23
+internet-computer,Internet Computer,icp,2.0,6.14265,gainer,8,2026-11-23
+pi-network,Pi Network,pi,0.055725,6.13554,gainer,9,2026-11-23
+ether-fi,Ether.fi,ethfi,0.506935,6.0943,gainer,10,2026-11-23
+sky,Sky,sky,0.04098245,-6.71877,loser,1,2026-11-23
+rain,Rain,rain,0.00325524,-2.84922,loser,2,2026-11-23
+xdce-crowd-sale,XDC Network,xdc,0.02586483,-1.24219,loser,3,2026-11-23
+figure-heloc,Figure Heloc,figr_heloc,1.056,-1.12393,loser,4,2026-11-23
+leo-token,LEO Token,leo,9.05,-0.72826,loser,5,2026-11-23
+world-liberty-financial,World Liberty Financial,wlfi,0.04360389,-0.62004,loser,6,2026-11-23
+just,JUST,jst,0.145734,-0.2792,loser,7,2026-11-23
+paypal-usd,PayPal USD,pyusd,0.999674,-0.06202,loser,8,2026-11-23
+open-usd,Open USD,ousd,0.999447,-0.05407,loser,9,2026-11-23
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,-0.03585,loser,10,2026-11-23
