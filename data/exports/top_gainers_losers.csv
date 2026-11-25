@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,0.819307,13.61244,gainer,1,2026-11-25
-monero,Monero,xmr,505.68,3.55455,gainer,2,2026-11-25
-sky,Sky,sky,0.04136825,2.98037,gainer,3,2026-11-25
-just,JUST,jst,0.146914,1.16734,gainer,4,2026-11-25
-spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),eursafo,1.12,0.38527,gainer,5,2026-11-25
-eutbl,Spiko EU T-Bills Money Market Fund,eutbl,1.17,0.38296,gainer,6,2026-11-25
-euro-coin,EURC,eurc,1.095,0.36235,gainer,7,2026-11-25
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,0.06967,gainer,8,2026-11-25
-figure-heloc,Figure Heloc,figr_heloc,1.042,0.04944,gainer,9,2026-11-25
-superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,ustb,11.29,0.0308,gainer,10,2026-11-25
-pieverse,Pieverse,pieverse,2.94,-15.25187,loser,1,2026-11-25
-rain,Rain,rain,0.00282758,-10.25338,loser,2,2026-11-25
-mantle,Mantle,mnt,0.355776,-9.34767,loser,3,2026-11-25
-hyperliquid,Hyperliquid,hype,59.04,-8.22494,loser,4,2026-11-25
-injective-protocol,Injective,inj,5.8,-8.06137,loser,5,2026-11-25
-jupiter-exchange-solana,Jupiter,jup,0.220664,-7.21832,loser,6,2026-11-25
-quant-network,Quant,qnt,145.16,-7.0384,loser,7,2026-11-25
-canton-network,Canton,cc,0.074359,-6.95114,loser,8,2026-11-25
-zcash,Zcash,zec,731.32,-6.90495,loser,9,2026-11-25
-pi-network,Pi Network,pi,0.054332,-6.80037,loser,10,2026-11-25
+bitway,Bitway,btw,0.888701,24.12663,gainer,1,2026-11-25
+pieverse,Pieverse,pieverse,3.33,11.87916,gainer,2,2026-11-25
+sky,Sky,sky,0.0396192,4.83563,gainer,3,2026-11-25
+world-liberty-financial,World Liberty Financial,wlfi,0.04131105,2.54919,gainer,4,2026-11-25
+monero,Monero,xmr,503.63,2.48667,gainer,5,2026-11-25
+venice-token,Venice Token,vvv,25.01,1.74144,gainer,6,2026-11-25
+just,JUST,jst,0.147357,1.06207,gainer,7,2026-11-25
+gatechain-token,Gate,gt,6.47,0.30255,gainer,8,2026-11-25
+litecoin,Litecoin,ltc,40.23,0.25507,gainer,9,2026-11-25
+falcon-finance,Falcon USD,usdf,0.994722,0.10775,gainer,10,2026-11-25
+rain,Rain,rain,0.00267023,-11.61811,loser,1,2026-11-25
+mantle,Mantle,mnt,0.350032,-7.25848,loser,2,2026-11-25
+pearl-2,Pearl,pearl,1.9,-6.03973,loser,3,2026-11-25
+hyperliquid,Hyperliquid,hype,57.08,-5.53353,loser,4,2026-11-25
+ethena,Ethena,ena,0.09243,-4.87805,loser,5,2026-11-25
+jupiter-exchange-solana,Jupiter,jup,0.213021,-4.4992,loser,6,2026-11-25
+bittensor,Bittensor,tao,172.16,-4.4039,loser,7,2026-11-25
+lighter,Lighter,lit,2.25,-4.34294,loser,8,2026-11-25
+filecoin,Filecoin,fil,0.510569,-4.3409,loser,9,2026-11-25
+render-token,Render,render,1.22,-4.15036,loser,10,2026-11-25
