@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,3.76,26.11919,gainer,1,2026-11-26
-venice-token,Venice Token,vvv,30.15,22.13007,gainer,2,2026-11-26
-memecore,MemeCore,m,0.845812,10.25289,gainer,3,2026-11-26
-bitway,Bitway,btw,0.898685,10.22924,gainer,4,2026-11-26
-near,NEAR Protocol,near,3.1,8.80686,gainer,5,2026-11-26
-pump-fun,Pump.fun,pump,0.00261439,7.22429,gainer,6,2026-11-26
-world-liberty-financial,World Liberty Financial,wlfi,0.04288673,7.0158,gainer,7,2026-11-26
-mantle,Mantle,mnt,0.380745,6.69404,gainer,8,2026-11-26
-litecoin,Litecoin,ltc,43.03,5.86501,gainer,9,2026-11-26
-hedera-hashgraph,Hedera,hbar,0.052929,5.69224,gainer,10,2026-11-26
-pearl-2,Pearl,pearl,2.02,-7.71375,loser,1,2026-11-26
-rain,Rain,rain,0.00275412,-2.98349,loser,2,2026-11-26
-tron,TRON,trx,0.303332,-1.38605,loser,3,2026-11-26
-cosmos,Cosmos Hub,atom,1.23,-0.83359,loser,4,2026-11-26
-quant-network,Quant,qnt,144.84,-0.80447,loser,5,2026-11-26
-beldex,Beldex,bdx,0.067335,-0.75417,loser,6,2026-11-26
-htx-dao,HTX DAO,htx,1.45e-06,-0.61044,loser,7,2026-11-26
-leo-token,LEO Token,leo,9.02,-0.51584,loser,8,2026-11-26
-midnight-3,Midnight,night,0.04883216,-0.22907,loser,9,2026-11-26
-algorand,Algorand,algo,0.078499,-0.09051,loser,10,2026-11-26
+pieverse,Pieverse,pieverse,4.05,19.7718,gainer,1,2026-11-26
+sky,Sky,sky,0.04551685,13.49318,gainer,2,2026-11-26
+memecore,MemeCore,m,0.855243,12.51916,gainer,3,2026-11-26
+pump-fun,Pump.fun,pump,0.00257403,10.74972,gainer,4,2026-11-26
+near,NEAR Protocol,near,3.05,10.55464,gainer,5,2026-11-26
+whitebit,WhiteBIT Coin,wbt,61.01,9.8828,gainer,6,2026-11-26
+jupiter-exchange-solana,Jupiter,jup,0.234311,9.34897,gainer,7,2026-11-26
+lighter,Lighter,lit,2.43,8.67359,gainer,8,2026-11-26
+bitway,Bitway,btw,0.96449,8.65754,gainer,9,2026-11-26
+hedera-hashgraph,Hedera,hbar,0.053636,8.19272,gainer,10,2026-11-26
+monero,Monero,xmr,451.75,-9.62501,loser,1,2026-11-26
+rain,Rain,rain,0.00251924,-6.33208,loser,2,2026-11-26
+cosmos,Cosmos Hub,atom,1.18,-2.68594,loser,3,2026-11-26
+just,JUST,jst,0.14403,-2.08175,loser,4,2026-11-26
+beldex,Beldex,bdx,0.06753,-1.14785,loser,5,2026-11-26
+tron,TRON,trx,0.301704,-0.77812,loser,6,2026-11-26
+bitget-token,Bitget Token,bgb,1.51,-0.60874,loser,7,2026-11-26
+leo-token,LEO Token,leo,8.98,-0.3025,loser,8,2026-11-26
+ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,-0.09601,loser,9,2026-11-26
+open-usd,Open USD,ousd,0.999124,-0.07916,loser,10,2026-11-26
