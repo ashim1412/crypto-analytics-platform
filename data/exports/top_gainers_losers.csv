@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-pieverse,Pieverse,pieverse,4.05,19.7718,gainer,1,2026-11-26
-sky,Sky,sky,0.04551685,13.49318,gainer,2,2026-11-26
-memecore,MemeCore,m,0.855243,12.51916,gainer,3,2026-11-26
-pump-fun,Pump.fun,pump,0.00257403,10.74972,gainer,4,2026-11-26
-near,NEAR Protocol,near,3.05,10.55464,gainer,5,2026-11-26
-whitebit,WhiteBIT Coin,wbt,61.01,9.8828,gainer,6,2026-11-26
-jupiter-exchange-solana,Jupiter,jup,0.234311,9.34897,gainer,7,2026-11-26
-lighter,Lighter,lit,2.43,8.67359,gainer,8,2026-11-26
-bitway,Bitway,btw,0.96449,8.65754,gainer,9,2026-11-26
-hedera-hashgraph,Hedera,hbar,0.053636,8.19272,gainer,10,2026-11-26
-monero,Monero,xmr,451.75,-9.62501,loser,1,2026-11-26
-rain,Rain,rain,0.00251924,-6.33208,loser,2,2026-11-26
-cosmos,Cosmos Hub,atom,1.18,-2.68594,loser,3,2026-11-26
-just,JUST,jst,0.14403,-2.08175,loser,4,2026-11-26
-beldex,Beldex,bdx,0.06753,-1.14785,loser,5,2026-11-26
-tron,TRON,trx,0.301704,-0.77812,loser,6,2026-11-26
-bitget-token,Bitget Token,bgb,1.51,-0.60874,loser,7,2026-11-26
-leo-token,LEO Token,leo,8.98,-0.3025,loser,8,2026-11-26
-ondo-us-dollar-yield,Ondo US Dollar Yield,usdy,1.15,-0.09601,loser,9,2026-11-26
-open-usd,Open USD,ousd,0.999124,-0.07916,loser,10,2026-11-26
+bitway,Bitway,btw,0.997494,10.78454,gainer,1,2026-11-27
+sky,Sky,sky,0.04670681,10.27136,gainer,2,2026-11-27
+whitebit,WhiteBIT Coin,wbt,61.29,4.36808,gainer,3,2026-11-27
+algorand,Algorand,algo,0.081832,4.17226,gainer,4,2026-11-27
+jupiter-exchange-solana,Jupiter,jup,0.239666,4.03637,gainer,5,2026-11-27
+pieverse,Pieverse,pieverse,3.9,3.98359,gainer,6,2026-11-27
+injective-protocol,Injective,inj,6.24,3.24087,gainer,7,2026-11-27
+litecoin,Litecoin,ltc,44.28,2.92989,gainer,8,2026-11-27
+chainlink,Chainlink,link,9.36,2.79097,gainer,9,2026-11-27
+quant-network,Quant,qnt,148.58,2.58776,gainer,10,2026-11-27
+venice-token,Venice Token,vvv,26.43,-12.56453,loser,1,2026-11-27
+rain,Rain,rain,0.00248803,-9.65665,loser,2,2026-11-27
+monero,Monero,xmr,469.31,-8.87739,loser,3,2026-11-27
+pearl-2,Pearl,pearl,1.84,-8.73176,loser,4,2026-11-27
+zcash,Zcash,zec,703.88,-8.39359,loser,5,2026-11-27
+canton-network,Canton,cc,0.074605,-4.3565,loser,6,2026-11-27
+memecore,MemeCore,m,0.823737,-2.73316,loser,7,2026-11-27
+pi-network,Pi Network,pi,0.053698,-2.68334,loser,8,2026-11-27
+just,JUST,jst,0.144333,-2.48846,loser,9,2026-11-27
+bitget-token,Bitget Token,bgb,1.51,-1.91258,loser,10,2026-11-27
