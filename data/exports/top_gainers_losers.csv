@@ -1,21 +1,21 @@
 coin_id,coin_name,coin_symbol,price_usd,price_change_pct_24h,category,rank_position,snapshot_date
-bitway,Bitway,btw,1.089,13.18222,gainer,1,2026-11-27
-lighter,Lighter,lit,2.62,7.85125,gainer,2,2026-11-27
-stable-2,​​Stable,stable,0.02609277,7.39856,gainer,3,2026-11-27
-zcash,Zcash,zec,741.71,7.24528,gainer,4,2026-11-27
-hyperliquid,Hyperliquid,hype,64.55,7.16248,gainer,5,2026-11-27
-render-token,Render,render,1.38,5.81066,gainer,6,2026-11-27
-jupiter-exchange-solana,Jupiter,jup,0.246401,5.50791,gainer,7,2026-11-27
-midnight-3,Midnight,night,0.04898618,3.87261,gainer,8,2026-11-27
-injective-protocol,Injective,inj,6.34,3.83765,gainer,9,2026-11-27
-uniswap,Uniswap,uni,4.77,3.60413,gainer,10,2026-11-27
-world-liberty-financial,World Liberty Financial,wlfi,0.0386792,-8.26217,loser,1,2026-11-27
-pearl-2,Pearl,pearl,1.78,-7.97861,loser,2,2026-11-27
-beldex,Beldex,bdx,0.062445,-7.13127,loser,3,2026-11-27
-monero,Monero,xmr,415.61,-6.95504,loser,4,2026-11-27
-rain,Rain,rain,0.00235567,-6.49194,loser,5,2026-11-27
-pieverse,Pieverse,pieverse,3.8,-6.32582,loser,6,2026-11-27
-pi-network,Pi Network,pi,0.051595,-4.58938,loser,7,2026-11-27
-blockstack,Stacks,stx,0.253619,-3.77228,loser,8,2026-11-27
-canton-network,Canton,cc,0.073797,-2.95154,loser,9,2026-11-27
-mantle,Mantle,mnt,0.368699,-2.41952,loser,10,2026-11-27
+bitway,Bitway,btw,1.19,19.5905,gainer,1,2026-11-28
+sky,Sky,sky,0.052431,12.36016,gainer,2,2026-11-28
+lighter,Lighter,lit,2.68,7.49774,gainer,3,2026-11-28
+zcash,Zcash,zec,736.33,6.11478,gainer,4,2026-11-28
+render-token,Render,render,1.39,4.42822,gainer,5,2026-11-28
+uniswap,Uniswap,uni,4.85,4.04008,gainer,6,2026-11-28
+jupiter-exchange-solana,Jupiter,jup,0.248673,3.93207,gainer,7,2026-11-28
+blockstack,Stacks,stx,0.268388,3.6458,gainer,8,2026-11-28
+midnight-3,Midnight,night,0.050152,2.95745,gainer,9,2026-11-28
+ethena,Ethena,ena,0.103962,2.77813,gainer,10,2026-11-28
+world-liberty-financial,World Liberty Financial,wlfi,0.03498899,-17.2824,loser,1,2026-11-28
+monero,Monero,xmr,406.94,-12.15967,loser,2,2026-11-28
+pearl-2,Pearl,pearl,1.68,-8.51476,loser,3,2026-11-28
+rain,Rain,rain,0.00230515,-7.2897,loser,4,2026-11-28
+beldex,Beldex,bdx,0.062759,-7.03319,loser,5,2026-11-28
+figure-heloc,Figure Heloc,figr_heloc,1.005,-5.65199,loser,6,2026-11-28
+mantle,Mantle,mnt,0.368611,-3.57979,loser,7,2026-11-28
+pi-network,Pi Network,pi,0.051772,-3.09112,loser,8,2026-11-28
+venice-token,Venice Token,vvv,25.74,-2.58053,loser,9,2026-11-28
+xdce-crowd-sale,XDC Network,xdc,0.02557186,-1.85944,loser,10,2026-11-28
